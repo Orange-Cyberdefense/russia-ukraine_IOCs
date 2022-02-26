@@ -7,3 +7,8 @@ Additional information and filtering capabilities are directly available on our 
 ### Collections available
 
 - [OCD-Datalake-russia-ukraine_IOCs-ALL.csv](./OCD-Datalake-russia-ukraine_IOCs-ALL.csv): all IOCs related to Russia-Ukraine 2022 conflict
+
+#### MISP format and potential false-positives
+
+- Raw export in MISP JSON format of the [OCD-Datalake-russia-ukraine_IOCs-ALL](./misp/iocs-misp-format.json)
+- [Potential false-positives](./misp/potential-false-positives.json) from the OCD-Datalake-russia-ukraine_IOCs-ALL list in MISP JSON attribute format with matching [MISP warning-list](https://github.com/MISP/misp-warninglists/).
