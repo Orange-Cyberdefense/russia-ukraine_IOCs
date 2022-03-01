@@ -7,3 +7,12 @@ Additional information and filtering capabilities are directly available on our 
 ### Collections available
 
 - [OCD-Datalake-russia-ukraine_IOCs-ALL.csv](./OCD-Datalake-russia-ukraine_IOCs-ALL.csv): all IOCs related to Russia-Ukraine 2022 conflict
+
+### Fields description
+- atom_type: IOC type (file/hash, IP, FQDN, Domain, URL)
+- atom_value: IOC value
+- first_seen: first observation or event tied to the IOC
+- last_updated: last time IOC was observed or updated
+- subcategories: threats entities associated with the IOC
+- threat_scores: list of reputation scores for each threat_type tied to the IOC (between 0 and 100 - 0 benign / 100 malicious)
+- threat_types: list of threat types associated with the IOC
