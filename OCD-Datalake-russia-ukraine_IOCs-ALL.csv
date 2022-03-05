@@ -2189,7 +2189,7 @@ ip,47.88.79.10,2022-02-26T00:00:00Z,2022-03-04T23:57:43Z,[],[72],['hack']
 ip,47.88.91.101,2022-02-26T00:00:00Z,2022-03-04T23:57:45Z,[],[40],['hack']
 ip,47.89.194.131,2022-02-26T00:00:00Z,2022-03-04T23:57:45Z,[],[42],['hack']
 ip,47.89.210.41,2022-02-26T00:00:00Z,2022-03-04T23:57:43Z,[],[76],['hack']
-ip,47.89.244.59,2022-02-26T00:00:00Z,2022-03-04T23:57:43Z,[],"[83, 23, 0, 13]","['hack', 'scan', 'phishing', 'malware']"
+ip,47.89.244.59,2022-02-26T00:00:00Z,2022-03-05T03:21:18Z,[],"[0, 13, 83, 16]","['phishing', 'malware', 'hack', 'scan']"
 ip,5.182.211.5,2022-02-11T11:04:01Z,2022-03-04T14:39:18Z,"['Malware:Mirai (ELF)', 'Malware:Gafgyt', 'Malware:Mirai', 'Malware:QakBot - S0650', 'Malware:Tsunami (ELF)', 'Malware:WhisperGate']","[67, 8, 10, 24]","['malware', 'scan', 'hack', 'phishing']"
 ip,5.190.94.115,2018-12-25T00:00:00Z,2022-03-04T23:57:44Z,[],[72],['hack']
 ip,5.199.133.149,2016-08-20T14:50:50Z,2022-03-03T06:07:08Z,"['Intrusion Set:MuddyWater - G0069', 'Malware:PowGoop', 'Malware:LaZagne', 'Tool:Mimikatz - S0002', 'Tool:LaZagne - S0349', 'Malware:Mori Backdoor', 'Malware:POWERSTATS - S0223', 'Malware:MimiKatz']","[34, 10, 4, 1]","['malware', 'hack', 'phishing', 'scan']"
