@@ -428,7 +428,7 @@ domain,goatfish.ru,2021-02-16T05:42:23Z,2022-02-25T16:11:30Z,['Intrusion Set:Gam
 domain,goatfish.site,2020-10-11T00:00:00Z,2022-02-25T16:11:30Z,['Intrusion Set:Gamaredon Group - G0047'],"[0, 0, 0, 19, 20, 0, 0, 0, 0]","['hack', 'ddos', 'fraud', 'malware', 'phishing', 'scam', 'spam', 'leak', 'scan']"
 domain,golintras.site,2020-12-12T00:00:00Z,2022-02-25T16:11:30Z,['Intrusion Set:Gamaredon Group - G0047'],"[0, 19, 0, 0, 17, 0, 0, 0, 0]","['scan', 'malware', 'spam', 'ddos', 'phishing', 'leak', 'fraud', 'hack', 'scam']"
 domain,golitrap.ru,2022-02-04T04:22:22Z,2022-03-05T16:11:30Z,"['Malware:Pteranodon - S0147', 'Intrusion Set:Gamaredon Group - G0047']","[19, 18]","['malware', 'phishing']"
-domain,golitus.ru,2022-02-16T10:42:59Z,2022-03-07T09:16:15Z,['Intrusion Set:Gamaredon Group - G0047'],"[30, 10, 38, 26]","['ddos', 'hack', 'malware', 'phishing']"
+domain,golitus.ru,2022-02-16T10:42:59Z,2022-03-10T09:16:15Z,['Intrusion Set:Gamaredon Group - G0047'],"[23, 10, 30, 34]","['phishing', 'hack', 'ddos', 'malware']"
 domain,golofir.ru,2022-01-04T14:23:47Z,2022-03-09T03:50:49Z,"['Malware:Pteranodon - S0147', 'Malware:August Stealer', 'Malware:WhisperGate', 'Malware:WildFire', 'Intrusion Set:Gamaredon Group - G0047']","[34, 19]","['malware', 'phishing']"
 domain,golorta.ru,2022-01-02T14:52:55Z,2022-03-10T03:50:22Z,"['Malware:Pteranodon - S0147', 'Malware:August Stealer', 'Malware:WhisperGate', 'Malware:WildFire', 'Intrusion Set:Gamaredon Group - G0047']","[22, 7]","['malware', 'phishing']"
 domain,goloser.ru,2022-02-04T10:35:32Z,2022-03-06T03:50:14Z,"['Malware:Pteranodon - S0147', 'Malware:August Stealer', 'Malware:WhisperGate', 'Malware:WildFire', 'Intrusion Set:Gamaredon Group - G0047']","[12, 31]","['phishing', 'malware']"
@@ -441,7 +441,7 @@ domain,gorigan.ru,2021-09-23T11:34:32Z,2022-03-04T13:18:50Z,"['Malware:Pteranodo
 domain,gorimana.site,2020-12-12T00:00:00Z,2022-02-25T16:11:30Z,['Intrusion Set:Gamaredon Group - G0047'],"[0, 0, 0, 0, 18, 16, 0, 0, 0]","['scan', 'scam', 'fraud', 'hack', 'malware', 'phishing', 'spam', 'leak', 'ddos']"
 domain,gorrita.ru,2021-06-24T04:02:16Z,2022-02-21T16:11:30Z,"['Malware:Pteranodon - S0147', 'Intrusion Set:Gamaredon Group - G0047']","[18, 3, 18]","['phishing', 'hack', 'malware']"
 domain,gortisir.ru,2021-09-01T08:16:17Z,2022-03-08T15:51:03Z,"['Malware:Pteranodon - S0147', 'Malware:August Stealer', 'Malware:WhisperGate', 'Malware:WildFire', 'Intrusion Set:Gamaredon Group - G0047']","[35, 4]","['malware', 'phishing']"
-domain,gortomalo.ru,2022-01-21T09:53:44Z,2022-03-07T09:15:55Z,"['Malware:Pteranodon - S0147', 'Malware:August Stealer', 'Malware:WhisperGate', 'Malware:WildFire', 'Intrusion Set:Gamaredon Group - G0047']","[10, 31, 30]","['hack', 'malware', 'phishing']"
+domain,gortomalo.ru,2022-01-21T09:53:44Z,2022-03-10T09:15:55Z,"['Malware:Pteranodon - S0147', 'Malware:August Stealer', 'Malware:WhisperGate', 'Malware:WildFire', 'Intrusion Set:Gamaredon Group - G0047']","[10, 27, 28]","['hack', 'phishing', 'malware']"
 domain,gortova.ru,2022-01-04T14:23:51Z,2022-03-09T03:50:50Z,"['Malware:Pteranodon - S0147', 'Malware:August Stealer', 'Malware:WhisperGate', 'Malware:WildFire', 'Intrusion Set:Gamaredon Group - G0047']","[19, 34]","['phishing', 'malware']"
 domain,goruda.ru,2022-02-03T23:45:49Z,2022-03-05T16:11:30Z,"['Malware:Pteranodon - S0147', 'Intrusion Set:Gamaredon Group - G0047']","[19, 10]","['malware', 'phishing']"
 domain,gosacc.ru,2021-05-19T16:15:14Z,2022-02-25T16:11:30Z,"['Malware:Pteranodon - S0147', 'Intrusion Set:Gamaredon Group - G0047']","[18, 17]","['phishing', 'malware']"
@@ -1857,7 +1857,7 @@ ip,178.234.164.25,2022-02-25T08:03:54Z,2022-03-06T23:01:16Z,[],"[12, 9, 4]","['h
 ip,178.234.185.46,2022-02-06T23:32:53Z,2022-03-08T14:23:40Z,[],"[13, 4, 2]","['hack', 'malware', 'phishing']"
 ip,178.234.56.202,2022-02-25T08:03:54Z,2022-03-07T20:33:47Z,[],"[12, 8, 4]","['hack', 'malware', 'phishing']"
 ip,178.234.67.107,2022-02-25T08:03:54Z,2022-03-07T20:33:48Z,[],"[12, 9, 4]","['hack', 'malware', 'phishing']"
-ip,178.46.110.189,2022-03-03T00:00:00Z,2022-03-09T22:17:46Z,[],[46],['hack']
+ip,178.46.110.189,2022-03-03T00:00:00Z,2022-03-10T10:17:46Z,[],[37],['hack']
 ip,178.46.94.132,2022-03-01T00:00:00Z,2022-03-10T00:17:33Z,[],"[12, 20, 20]","['hack', 'malware', 'scan']"
 ip,178.69.117.29,2022-02-28T00:00:00Z,2022-03-07T23:57:45Z,[],[13],['hack']
 ip,178.76.229.77,2017-03-02T17:26:03Z,2022-03-04T17:57:44Z,[],"[1, 11, 1, 0, 1]","['ddos', 'hack', 'malware', 'phishing', 'scan']"
@@ -2537,7 +2537,7 @@ ip,92.242.62.254,2022-02-04T04:22:22Z,2022-02-21T16:11:30Z,"['Malware:Pteranodon
 ip,92.242.62.45,2018-12-13T06:52:16Z,2022-03-05T10:00:12Z,"['Malware:Pteranodon - S0147', 'Intrusion Set:Gamaredon Group - G0047']","[12, 1, 1, 16]","['phishing', 'hack', 'scan', 'malware']"
 ip,92.242.62.96,2018-07-06T14:08:01Z,2022-02-28T13:18:50Z,"['Malware:Pteranodon - S0147', 'Malware:August Stealer', 'Malware:WhisperGate', 'Malware:WildFire', 'Intrusion Set:Gamaredon Group - G0047']","[3, 1, 20, 1]","['phishing', 'hack', 'malware', 'scan']"
 ip,92.247.219.88,2022-02-27T00:00:00Z,2022-03-06T17:05:35Z,[],[20],['hack']
-ip,92.248.188.194,2022-03-06T00:00:00Z,2022-03-09T22:25:02Z,[],[59],['hack']
+ip,92.248.188.194,2022-03-06T00:00:00Z,2022-03-10T10:25:02Z,[],[47],['hack']
 ip,92.248.188.202,2022-02-20T12:30:35Z,2022-03-04T17:57:43Z,[],[13],['hack']
 ip,92.248.188.30,2022-02-12T07:50:57Z,2022-03-04T17:57:44Z,[],[13],['hack']
 ip,92.253.239.225,2022-02-27T00:00:00Z,2022-03-08T23:57:43Z,[],[12],['hack']
