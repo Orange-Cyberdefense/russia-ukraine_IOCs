@@ -658,7 +658,7 @@ domain,lortova.ru,2022-01-04T14:23:42Z,2022-03-05T16:11:30Z,"['Malware:Pteranodo
 domain,lotari.xyz,2021-01-24T15:28:24Z,2022-02-21T16:11:30Z,['Intrusion Set:Gamaredon Group - G0047'],"[3, 10, 13]","['hack', 'malware', 'phishing']"
 domain,lotorda.ru,2022-01-04T14:23:50Z,2022-03-15T03:50:50Z,"['Intrusion Set:Gamaredon Group - G0047', 'Malware:Pteranodon - S0147', 'Malware:WildFire', 'Malware:WhisperGate', 'Malware:August Stealer']","[8, 19]","['phishing', 'malware']"
 domain,lotorgas.ru,2022-01-22T18:57:31Z,2022-03-17T16:06:40Z,"['Intrusion Set:Gamaredon Group - G0047', 'Malware:Pteranodon - S0147', 'Malware:WildFire', 'Malware:WhisperGate', 'Malware:August Stealer']","[20, 24, 37]","['phishing', 'malware', 'hack']"
-domain,lotorsas.ru,2022-02-16T10:42:59Z,2022-03-11T10:00:11Z,[],"[18, 30, 24]","['phishing', 'ddos', 'malware']"
+domain,lotorsas.ru,2022-02-16T10:42:59Z,2022-03-19T10:00:11Z,[],"[14, 18, 30]","['malware', 'phishing', 'ddos']"
 domain,lovarinda.site,2020-12-12T00:00:00Z,2022-03-11T16:11:30Z,['Intrusion Set:Gamaredon Group - G0047'],"[0, 0, 0, 0, 12, 1, 0, 0, 0]","['ddos', 'fraud', 'hack', 'leak', 'malware', 'phishing', 'scam', 'scan', 'spam']"
 domain,lovelat.ru,2021-07-26T21:50:28Z,2022-03-13T20:06:59Z,"['Malware:Pteranodon - S0147', 'Intrusion Set:Gamaredon Group - G0047']","[15, 19]","['phishing', 'malware']"
 domain,luminta.ru,2022-01-04T14:23:41Z,2022-03-15T03:51:19Z,"['Malware:Pteranodon - S0147', 'Intrusion Set:Gamaredon Group - G0047']","[3, 30, 15]","['phishing', 'hack', 'malware']"
@@ -2785,7 +2785,7 @@ ip,91.225.140.144,2022-01-31T00:00:00Z,2022-03-04T17:57:44Z,[],[12],['hack']
 ip,91.225.140.238,2022-02-28T00:00:00Z,2022-03-08T23:57:42Z,[],[12],['hack']
 ip,91.225.142.34,2022-02-25T00:00:00Z,2022-03-08T23:57:43Z,[],[12],['hack']
 ip,91.240.118.137,2022-02-25T08:03:54Z,2022-03-04T17:57:44Z,[],[12],['hack']
-ip,91.240.118.63,2020-07-09T18:24:25Z,2022-03-19T05:04:00Z,"['Malware:Cobalt Strike - S0154', 'OCD - Threat pattern:Command and Control [C2]']","[34, 48, 1, 1]","['hack', 'malware', 'phishing', 'scan']"
+ip,91.240.118.63,2020-07-09T18:24:25Z,2022-03-19T08:15:18Z,"['Malware:Cobalt Strike - S0154', 'OCD - Threat pattern:Command and Control [C2]']","[34, 68, 8, 1]","['hack', 'malware', 'phishing', 'scan']"
 ip,91.243.17.191,2022-03-01T00:00:00Z,2022-03-08T23:57:42Z,[],[12],['hack']
 ip,91.245.255.76,2022-03-06T00:00:00Z,2022-03-13T00:00:00Z,[],[12],['hack']
 ip,91.52.27.10,2022-03-01T00:00:00Z,2022-03-08T17:57:38Z,[],[13],['hack']
