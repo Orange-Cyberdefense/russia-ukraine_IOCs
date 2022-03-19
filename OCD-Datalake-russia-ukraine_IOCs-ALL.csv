@@ -1213,7 +1213,7 @@ file,40183c41395eccd076a6baf0c16a6c6e7e44f6f6d6366ef885228144f631a9a6,2022-01-31
 file,412a761d6040f097390e4f04b619908856cebc79c76231b5838a96a3b6570b76,2022-01-31T16:59:34Z,2022-02-23T13:18:50Z,"['Malware:Pteranodon - S0147', 'Malware:WhisperGate', 'Malware:August Stealer', 'Intrusion Set:Gamaredon Group - G0047', 'Malware:WildFire']",[100],['malware']
 file,4139524d2b3a350913e96a778cdcc41dfaa08542f59bef8ecc12b66a726c549c,2022-01-31T16:59:34Z,2022-02-23T13:18:50Z,"['Malware:Pteranodon - S0147', 'Malware:WhisperGate', 'Malware:August Stealer', 'Intrusion Set:Gamaredon Group - G0047', 'Malware:WildFire']",[100],['malware']
 file,4237d7bf3fcfe99a4ef192fb19dedb5f,2021-12-17T16:46:26Z,2022-03-18T16:11:30Z,"['Malware:Pteranodon - S0147', 'Intrusion Set:Gamaredon Group - G0047']","[88, 68]","['malware', 'phishing']"
-file,42e52b8daf63e6e26c3aa91e7e971492,2022-03-14T00:00:00Z,2022-03-17T19:11:51Z,"['Malware:Wiper - S0041', 'Malware:Razy', 'Attack Pattern:Bootkit - T1067']","[19, 97, 50]","['hack', 'malware', 'phishing']"
+file,42e52b8daf63e6e26c3aa91e7e971492,2022-03-14T00:00:00Z,2022-03-19T05:17:39Z,"['Malware:Wiper - S0041', 'Malware:Razy', 'Attack Pattern:Bootkit - T1067']","[49, 94, 63]","['hack', 'malware', 'phishing']"
 file,42f8223ba588d510e2f2a00ca6500ba1b71684509f10695a156069876600ccdc,2022-02-04T04:22:22Z,2022-03-06T11:56:04Z,"['Malware:Pteranodon - S0147', 'Intrusion Set:Gamaredon Group - G0047']",[90],['malware']
 file,43d4d4eeac6ced784911ac4d6b24768d7875347a7d018850d8ee79aaef664286,2022-01-31T16:59:34Z,2022-02-23T13:18:50Z,"['Malware:Pteranodon - S0147', 'Malware:WhisperGate', 'Malware:August Stealer', 'Intrusion Set:Gamaredon Group - G0047', 'Malware:WildFire']",[100],['malware']
 file,44ef2dde18f13cd5f25f7489c72610eedd56e3f4aa3ba1030f549892f43871e0,2022-01-31T16:59:34Z,2022-02-23T13:18:50Z,"['Malware:Pteranodon - S0147', 'Malware:WhisperGate', 'Malware:August Stealer', 'Intrusion Set:Gamaredon Group - G0047', 'Malware:WildFire']",[100],['malware']
@@ -2779,7 +2779,7 @@ ip,91.225.140.144,2022-01-31T00:00:00Z,2022-03-04T17:57:44Z,[],[12],['hack']
 ip,91.225.140.238,2022-02-28T00:00:00Z,2022-03-08T23:57:42Z,[],[12],['hack']
 ip,91.225.142.34,2022-02-25T00:00:00Z,2022-03-08T23:57:43Z,[],[12],['hack']
 ip,91.240.118.137,2022-02-25T08:03:54Z,2022-03-04T17:57:44Z,[],[12],['hack']
-ip,91.240.118.63,2020-07-09T18:24:25Z,2022-03-18T22:55:53Z,['Malware:Cobalt Strike - S0154'],"[17, 37, 1, 4]","['hack', 'malware', 'phishing', 'scan']"
+ip,91.240.118.63,2020-07-09T18:24:25Z,2022-03-19T05:04:00Z,"['Malware:Cobalt Strike - S0154', 'OCD - Threat pattern:Command and Control [C2]']","[34, 48, 1, 1]","['hack', 'malware', 'phishing', 'scan']"
 ip,91.243.17.191,2022-03-01T00:00:00Z,2022-03-08T23:57:42Z,[],[12],['hack']
 ip,91.245.255.76,2022-03-06T00:00:00Z,2022-03-13T00:00:00Z,[],[12],['hack']
 ip,91.52.27.10,2022-03-01T00:00:00Z,2022-03-08T17:57:38Z,[],[13],['hack']
