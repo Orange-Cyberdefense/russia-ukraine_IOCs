@@ -1,6 +1,6 @@
 atom_type,atom_value,first_seen,last_updated,subcategories,threat_scores,threat_types
 domain,3237.site,2021-08-12T00:00:00Z,2022-04-06T00:11:44Z,[],"[0, 0, 15, 0, 9, 0, 0, 0, 0]","['ddos', 'fraud', 'hack', 'leak', 'malware', 'phishing', 'scam', 'scan', 'spam']"
-domain,abodhakujena.com,2021-09-16T00:00:00Z,2022-04-09T20:24:04Z,"['Attack Pattern:Phishing - T1566', 'Malware:Xloader', 'Malware:Formbook']","[0, 0, 0, 0, 21, 14, 0, 0, 0]","['ddos', 'fraud', 'hack', 'leak', 'malware', 'phishing', 'scam', 'scan', 'spam']"
+domain,abodhakujena.com,2021-09-16T00:00:00Z,2022-04-12T20:24:04Z,"['Attack Pattern:Phishing - T1566', 'Malware:Xloader', 'Malware:Formbook']","[0, 0, 0, 0, 14, 0, 0, 19, 0]","['scam', 'ddos', 'scan', 'hack', 'phishing', 'spam', 'fraud', 'malware', 'leak']"
 domain,abrumpere.online,2020-11-23T20:43:55Z,2022-02-26T16:11:30Z,['Intrusion Set:Gamaredon Group - G0047'],"[3, 7, 6]","['hack', 'malware', 'phishing']"
 domain,abrusa.xyz,2020-08-29T11:31:09Z,2022-03-21T16:11:30Z,['Intrusion Set:Gamaredon Group - G0047'],"[6, 1]","['malware', 'phishing']"
 domain,absinthiuma.xyz,2020-09-02T19:30:18Z,2022-02-23T16:11:30Z,['Intrusion Set:Gamaredon Group - G0047'],"[13, 15, 3]","['malware', 'phishing', 'hack']"
@@ -611,7 +611,7 @@ domain,karamono.ru,2022-02-03T23:45:52Z,2022-04-07T00:00:00Z,"['Intrusion Set:Ga
 domain,karrid.ru,2021-06-04T03:56:40Z,2022-02-25T16:11:30Z,"['Intrusion Set:Gamaredon Group - G0047', 'Malware:Pteranodon - S0147']","[17, 20]","['malware', 'phishing']"
 domain,kassanfo.ru,2022-02-16T10:42:59Z,2022-03-30T10:42:59Z,['Intrusion Set:Gamaredon Group - G0047'],"[3, 3, 13, 1]","['ddos', 'hack', 'malware', 'phishing']"
 domain,keiwakaw.ru,2022-02-04T04:22:22Z,2022-04-06T00:00:00Z,"['Intrusion Set:Gamaredon Group - G0047', 'OCD - Threat pattern:Command and Control [C2]', 'Malware:Pteranodon - S0147']","[3, 7, 1]","['hack', 'malware', 'phishing']"
-domain,khjs.online,2021-02-13T00:00:00Z,2022-03-27T02:20:10Z,[],"[0, 0, 0, 0, 13, 1, 0, 0, 0]","['ddos', 'fraud', 'hack', 'leak', 'malware', 'phishing', 'scam', 'scan', 'spam']"
+domain,khjs.online,2021-02-13T00:00:00Z,2022-04-06T02:20:10Z,[],"[0, 0, 0, 0, 6, 1, 0, 0, 0]","['ddos', 'fraud', 'hack', 'leak', 'malware', 'phishing', 'scam', 'scan', 'spam']"
 domain,khjs.ru,2021-04-05T15:54:06Z,2022-03-18T20:07:43Z,"['Intrusion Set:Gamaredon Group - G0047', 'Malware:Pteranodon - S0147']","[19, 2]","['malware', 'phishing']"
 domain,khpf.online,2021-02-13T00:00:00Z,2022-02-23T16:11:30Z,['Intrusion Set:Gamaredon Group - G0047'],"[0, 14, 16, 0, 0, 0, 0, 0, 3]","['scan', 'malware', 'phishing', 'spam', 'fraud', 'ddos', 'scam', 'leak', 'hack']"
 domain,khpf.ru,2021-02-17T15:53:56Z,2022-03-15T03:50:49Z,"['Intrusion Set:Gamaredon Group - G0047', 'Malware:Pteranodon - S0147']","[18, 4]","['malware', 'phishing']"
