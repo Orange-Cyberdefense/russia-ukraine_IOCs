@@ -465,7 +465,7 @@ domain,graeca.online,2020-09-04T20:22:10Z,2022-02-21T16:11:30Z,['Intrusion Set:G
 domain,grafitto.ru,2021-06-25T09:56:56Z,2022-04-01T03:50:45Z,"['Intrusion Set:Gamaredon Group - G0047', 'Malware:Pteranodon - S0147']","[13, 1]","['malware', 'phishing']"
 domain,gramine.ru,2021-03-15T15:57:31Z,2022-03-05T16:11:30Z,"['Intrusion Set:Gamaredon Group - G0047', 'Malware:Pteranodon - S0147']","[16, 14]","['phishing', 'malware']"
 domain,graphiuma.online,2021-01-23T00:00:00Z,2022-02-19T16:11:30Z,"['Intrusion Set:Gamaredon Group - G0047', 'Malware:Pteranodon - S0147']","[0, 0, 2, 18, 0, 1, 0, 0, 14]","['ddos', 'fraud', 'hack', 'malware', 'scan', 'scam', 'spam', 'leak', 'phishing']"
-domain,graphiuma.ru,2021-02-04T15:53:18Z,2022-02-25T16:11:30Z,"['Intrusion Set:Gamaredon Group - G0047', 'Malware:Pteranodon - S0147']","[19, 16]","['phishing', 'malware']"
+domain,graphiuma.ru,2021-02-04T15:53:18Z,2022-03-30T16:11:30Z,"['Intrusion Set:Gamaredon Group - G0047', 'Malware:Pteranodon - S0147']","[1, 1]","['malware', 'phishing']"
 domain,graphosoma.online,2021-01-25T00:00:00Z,2022-03-02T16:11:30Z,"['Intrusion Set:Gamaredon Group - G0047', 'Malware:Pteranodon - S0147']","[0, 0, 0, 0, 19, 3, 0, 0, 0]","['ddos', 'fraud', 'hack', 'leak', 'malware', 'phishing', 'scam', 'scan', 'spam']"
 domain,graphosoma.ru,2021-01-31T03:53:12Z,2022-03-30T16:11:30Z,"['Intrusion Set:Gamaredon Group - G0047', 'Malware:Pteranodon - S0147']","[3, 1, 1]","['hack', 'malware', 'phishing']"
 domain,greenvilletaxfirm.com,2021-09-16T00:00:00Z,2022-04-02T08:50:26Z,"['Malware:Formbook', 'Malware:Xloader', 'Attack Pattern:Phishing - T1566']","[0, 0, 0, 13, 0, 0, 0, 0, 0]","['phishing', 'spam', 'ddos', 'malware', 'hack', 'scan', 'leak', 'fraud', 'scam']"
@@ -2400,7 +2400,7 @@ ip,27.154.110.253,2022-03-01T23:57:43Z,2022-03-08T23:57:43Z,[],[12],['hack']
 ip,3.208.89.235,2022-03-25T00:00:00Z,2022-04-01T00:00:00Z,[],[12],['hack']
 ip,3.210.202.61,2022-03-03T00:00:00Z,2022-03-10T11:57:44Z,[],[12],['hack']
 ip,3.215.175.112,2022-03-19T00:00:00Z,2022-03-26T00:00:00Z,[],[12],['hack']
-ip,3.215.175.118,2022-03-02T00:00:00Z,2022-03-09T11:57:39Z,[],[12],['hack']
+ip,3.215.175.118,2022-03-02T00:00:00Z,2022-03-26T11:25:24Z,[],"[2, 0, 0]","['hack', 'malware', 'phishing']"
 ip,3.215.77.144,2022-03-07T00:00:00Z,2022-03-14T00:00:00Z,[],[12],['hack']
 ip,3.219.215.164,2022-03-01T00:00:00Z,2022-03-08T05:57:44Z,[],[12],['hack']
 ip,3.219.234.172,2022-03-03T00:00:00Z,2022-03-10T00:00:00Z,[],[12],['hack']
