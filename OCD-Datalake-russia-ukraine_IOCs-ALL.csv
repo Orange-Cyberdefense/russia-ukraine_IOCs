@@ -377,7 +377,7 @@ domain,felineus.online,2020-11-28T00:00:00Z,2022-04-08T00:23:24Z,['Intrusion Set
 domain,ferrox.xyz,2020-09-02T19:30:22Z,2022-03-30T16:11:30Z,['Intrusion Set:Gamaredon Group - G0047'],"[0, 0, 0, 0, 1, 1, 0, 0, 0]","['ddos', 'fraud', 'hack', 'leak', 'malware', 'phishing', 'scam', 'scan', 'spam']"
 domain,ferruminatio.online,2021-03-01T00:00:00Z,2022-02-25T16:11:30Z,['Intrusion Set:Gamaredon Group - G0047'],"[0, 0, 0, 17, 0, 0, 17, 0, 0]","['scan', 'ddos', 'hack', 'phishing', 'spam', 'leak', 'malware', 'fraud', 'scam']"
 domain,ferruminatio.ru,2021-06-11T15:56:49Z,2022-02-25T16:11:30Z,['Intrusion Set:Gamaredon Group - G0047'],"[20, 18]","['phishing', 'malware']"
-domain,fikasterwer.top,2022-03-13T04:05:10Z,2022-04-16T10:21:46Z,['Malware:IcedID - S0483'],"[40, 0]","['malware', 'phishing']"
+domain,fikasterwer.top,2022-03-13T04:05:10Z,2022-04-16T14:10:05Z,['Malware:IcedID - S0483'],"[53, 0]","['malware', 'phishing']"
 domain,file-check.site,2021-09-10T19:53:23Z,2022-02-25T16:11:30Z,[],"[0, 18, 0, 0, 0, 0, 0, 20, 0]","['leak', 'malware', 'hack', 'spam', 'fraud', 'scam', 'ddos', 'phishing', 'scan']"
 domain,filikato.ru,2022-02-16T10:42:59Z,2022-04-14T08:29:12Z,['Intrusion Set:Gamaredon Group - G0047'],"[3, 15, 37, 13]","['ddos', 'hack', 'malware', 'phishing']"
 domain,filopar.ru,2022-02-11T00:36:14Z,2022-03-21T20:06:48Z,['Intrusion Set:Gamaredon Group - G0047'],"[13, 21]","['malware', 'phishing']"
@@ -2348,7 +2348,7 @@ ip,195.138.249.13,2015-11-09T20:40:42Z,2020-11-12T00:00:00Z,[],"[2, 0, 0]","['ha
 ip,195.138.249.5,2016-06-23T00:56:52Z,2022-01-28T02:13:26Z,[],"[2, 1, 0, 1]","['hack', 'malware', 'phishing', 'scan']"
 ip,195.138.249.9,2016-04-26T17:01:42Z,2017-12-03T00:00:00Z,[],"[2, 0, 0]","['hack', 'malware', 'phishing']"
 ip,195.140.146.128,2021-12-04T00:00:00Z,2022-03-04T16:11:30Z,"['Malware:Pteranodon - S0147', 'Intrusion Set:Gamaredon Group - G0047', 'OCD - Threat pattern:Command and Control [C2]']","[3, 8, 1, 1]","['hack', 'malware', 'phishing', 'scan']"
-ip,195.230.23.19,2022-04-12T00:00:00Z,2022-04-16T02:08:37Z,"['OCD - Threat pattern:Command and Control [C2]', 'Intrusion Set:Sandworm Team - G0034']","[84, 54, 20]","['hack', 'malware', 'scan']"
+ip,195.230.23.19,2022-04-12T00:00:00Z,2022-04-16T14:08:37Z,"['OCD - Threat pattern:Command and Control [C2]', 'Intrusion Set:Sandworm Team - G0034']","[68, 54, 20]","['hack', 'malware', 'scan']"
 ip,195.54.32.233,2022-02-01T23:08:33Z,2022-03-17T23:01:20Z,[],"[2, 2, 0]","['hack', 'malware', 'phishing']"
 ip,195.62.53.63,2019-06-10T09:22:37Z,2022-03-27T03:51:04Z,"['Malware:Pteranodon - S0147', 'Intrusion Set:Gamaredon Group - G0047']","[16, 0, 0, 0, 0]","['malware', 'scan', 'ddos', 'hack', 'phishing']"
 ip,195.72.146.167,2022-02-27T00:00:00Z,2022-03-07T23:57:45Z,[],[13],['hack']
@@ -3423,7 +3423,7 @@ ip,91.105.92.214,2022-03-30T00:00:00Z,2022-04-06T00:00:00Z,[],[12],['hack']
 ip,91.126.71.65,2022-02-05T00:00:00Z,2022-04-13T06:27:42Z,[],"[5, 4, 10, 13]","['ddos', 'hack', 'malware', 'scan']"
 ip,91.148.30.223,2022-02-25T08:03:54Z,2022-03-04T17:57:43Z,[],[12],['hack']
 ip,91.204.115.109,2022-03-09T00:00:00Z,2022-03-16T05:13:22Z,[],[20],['hack']
-ip,91.207.27.135,2021-02-01T00:00:00Z,2022-04-16T02:03:53Z,[],"[21, 20, 17]","['scan', 'malware', 'hack']"
+ip,91.207.27.135,2021-02-01T00:00:00Z,2022-04-16T14:03:53Z,[],"[20, 17, 17]","['malware', 'hack', 'scan']"
 ip,91.207.57.51,2019-06-10T10:46:24Z,2022-04-03T15:58:41Z,['Malware:Ave Maria'],"[0, 0, 0, 1, 0, 0]","['ddos', 'fraud', 'hack', 'malware', 'phishing', 'scan']"
 ip,91.210.24.222,2022-03-19T00:00:00Z,2022-04-14T22:28:27Z,[],[22],['hack']
 ip,91.215.232.225,2020-08-05T04:34:37Z,2021-07-27T00:00:00Z,[],"[2, 1, 1]","['hack', 'malware', 'scan']"
@@ -3440,7 +3440,7 @@ ip,91.240.118.137,2022-02-25T08:03:54Z,2022-04-07T00:43:15Z,[],[18],['hack']
 ip,91.240.118.63,2020-07-09T18:24:25Z,2022-04-14T18:50:19Z,"['Malware:Cobalt Strike - S0154', 'OCD - Threat pattern:Command and Control [C2]']","[2, 19, 0, 0]","['hack', 'malware', 'scan', 'phishing']"
 ip,91.240.86.200,2020-07-01T16:07:47Z,2022-04-12T16:12:40Z,[],[15],['malware']
 ip,91.243.17.191,2022-03-01T00:00:00Z,2022-03-08T23:57:42Z,[],[12],['hack']
-ip,91.245.255.243,2022-04-12T00:00:00Z,2022-04-16T02:03:54Z,"['OCD - Threat pattern:Command and Control [C2]', 'Intrusion Set:Sandworm Team - G0034']","[54, 84, 20]","['malware', 'hack', 'scan']"
+ip,91.245.255.243,2022-04-12T00:00:00Z,2022-04-16T14:03:54Z,"['OCD - Threat pattern:Command and Control [C2]', 'Intrusion Set:Sandworm Team - G0034']","[68, 54, 20]","['hack', 'malware', 'scan']"
 ip,91.245.255.76,2022-03-06T00:00:00Z,2022-03-13T00:00:00Z,[],[12],['hack']
 ip,91.52.27.10,2022-03-01T00:00:00Z,2022-03-08T17:57:38Z,[],[13],['hack']
 ip,91.58.17.90,2022-03-02T00:00:00Z,2022-03-09T17:57:42Z,[],[12],['hack']
