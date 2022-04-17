@@ -1494,7 +1494,7 @@ file,9f33887a8e76c246753e71b896a904b3,2022-04-13T12:39:38Z,2022-04-15T08:27:00Z,
 file,a01e12988448a5b26d1d1adecc2dda539b5842f6a7044f8803a52c8bb714cdb0,2022-02-04T04:22:22Z,2022-03-25T13:18:50Z,"['Malware:WildFire', 'Malware:WhisperGate', 'Malware:August Stealer', 'Intrusion Set:Gamaredon Group - G0047', 'Malware:Pteranodon - S0147']","[90, 45]","['malware', 'phishing']"
 file,a078871d89d3f8d22ed77dc331000529a0598f27cf56c6eda32943a9ee8a952c,2022-01-31T16:59:34Z,2022-03-25T13:18:50Z,"['Malware:WildFire', 'Malware:WhisperGate', 'Malware:August Stealer', 'Intrusion Set:Gamaredon Group - G0047', 'Malware:Pteranodon - S0147']",[90],['malware']
 file,a123c8bc9bb6a7254764aa69928d2fec6784493eb5904683636b369507124710,2022-02-04T04:22:22Z,2022-04-05T11:56:04Z,"['Intrusion Set:Gamaredon Group - G0047', 'Malware:Pteranodon - S0147']",[81],['malware']
-file,a196c6b8ffcb97ffb276d04f354696e2391311db3841ae16c8c9f56f36a38e92,2022-01-16T04:34:07Z,2022-04-16T21:18:09Z,"['Malware:WhisperGate', 'Attack Pattern:Data Destruction - T1485']","[29, 29, 41]","['phishing', 'hack', 'malware']"
+file,a196c6b8ffcb97ffb276d04f354696e2391311db3841ae16c8c9f56f36a38e92,2022-01-16T04:34:07Z,2022-04-17T10:54:22Z,"['Malware:WhisperGate', 'Attack Pattern:Data Destruction - T1485']","[29, 36, 29]","['hack', 'malware', 'phishing']"
 file,a2075d2c8e274f0976e3541c80809dd602eb9fcc9159a86dca85fd411d79bc7c,2022-01-31T16:59:34Z,2022-03-25T13:18:50Z,"['Malware:WildFire', 'Malware:WhisperGate', 'Malware:August Stealer', 'Intrusion Set:Gamaredon Group - G0047', 'Malware:Pteranodon - S0147']",[90],['malware']
 file,a20e38bacc979a5aa18f1954df1a2c0558ba23cdc1503af0ad1021c330f1e455,2022-01-31T16:59:34Z,2022-03-25T13:18:50Z,"['Malware:WildFire', 'Malware:WhisperGate', 'Malware:August Stealer', 'Intrusion Set:Gamaredon Group - G0047', 'Malware:Pteranodon - S0147']",[90],['malware']
 file,a21ed6591dcd2a38d3e9f26b8cf36197704a5507da3dd14fee95fbf247bc9eba,2022-01-31T16:59:34Z,2022-03-25T13:18:50Z,"['Malware:WildFire', 'Malware:WhisperGate', 'Malware:August Stealer', 'Intrusion Set:Gamaredon Group - G0047', 'Malware:Pteranodon - S0147']",[90],['malware']
@@ -1614,7 +1614,7 @@ file,da305627acf63792acb02afaf83d94d1,2022-03-29T16:05:13Z,2022-04-07T10:29:34Z,
 file,db3a6f57c76cbc0ca5bd8c1602ca99a311da76e816ad30a15eab22b65b3590bb,2022-01-31T16:59:34Z,2022-03-25T13:18:50Z,"['Malware:WildFire', 'Malware:WhisperGate', 'Malware:August Stealer', 'Intrusion Set:Gamaredon Group - G0047', 'Malware:Pteranodon - S0147']",[90],['malware']
 file,db49fe96714ebd9707e5cd31e7f366016e45926ff577cce9c34a73ee1b6efcf9,2022-01-31T16:59:34Z,2022-03-25T13:18:50Z,"['Malware:WildFire', 'Malware:WhisperGate', 'Malware:August Stealer', 'Intrusion Set:Gamaredon Group - G0047', 'Malware:Pteranodon - S0147']",[90],['malware']
 file,db8cc8adc726c3567b639c84ecf41aa5,2022-02-19T13:48:24Z,2022-03-30T16:09:41Z,"['Malware:Mirai', 'Malware:WhisperGate']","[52, 90, 63]","['hack', 'malware', 'phishing']"
-file,dcbbae5a1c61dbbbb7dcd6dc5dd1eb1169f5329958d38b58c3fd9384081c9b78,2022-01-16T04:34:07Z,2022-04-16T21:18:09Z,"['Malware:WhisperGate', 'Attack Pattern:Data Destruction - T1485']","[29, 41, 29]","['hack', 'malware', 'phishing']"
+file,dcbbae5a1c61dbbbb7dcd6dc5dd1eb1169f5329958d38b58c3fd9384081c9b78,2022-01-16T04:34:07Z,2022-04-17T10:55:19Z,"['Malware:WhisperGate', 'Attack Pattern:Data Destruction - T1485']","[36, 29, 29]","['malware', 'phishing', 'hack']"
 file,dddd77f42bfb365f36762ad4db4a741e,2022-02-05T11:56:02Z,2022-03-30T03:30:54Z,"['Malware:WildFire', 'Malware:WhisperGate', 'Malware:August Stealer', 'Intrusion Set:Gamaredon Group - G0047', 'Malware:Pteranodon - S0147']","[45, 63, 90]","['phishing', 'hack', 'malware']"
 file,ddeab2d94128abbf9b4bf8ade4f9919e,2022-04-15T13:16:36Z,2022-04-15T13:16:36Z,[],[100],['malware']
 file,de5a53a3b75e3e730755af09e3cacb7e6d171fc9b1853a7200e5dfb9044ab20a,2022-01-31T16:59:34Z,2022-03-25T13:18:50Z,"['Malware:WildFire', 'Malware:WhisperGate', 'Malware:August Stealer', 'Intrusion Set:Gamaredon Group - G0047', 'Malware:Pteranodon - S0147']",[90],['malware']
@@ -1977,7 +1977,7 @@ ip,139.177.184.133,2022-02-27T00:00:00Z,2022-03-07T23:57:45Z,[],[12],['hack']
 ip,139.206.55.242,2022-02-25T08:03:54Z,2022-03-16T20:33:10Z,[],"[2, 2, 2]","['hack', 'malware', 'phishing']"
 ip,139.59.116.232,2021-02-09T08:23:00Z,2022-03-07T23:57:46Z,['Location:Japan'],"[13, 3]","['hack', 'malware']"
 ip,139.59.229.58,2022-02-28T00:00:00Z,2022-03-07T23:57:45Z,[],[13],['hack']
-ip,139.99.208.206,2020-09-29T01:39:33Z,2022-04-17T06:08:59Z,[],"[5, 0, 17, 19, 60]","['ddos', 'phishing', 'hack', 'malware', 'scan']"
+ip,139.99.208.206,2020-09-29T01:39:33Z,2022-04-17T11:40:49Z,[],"[5, 10, 22, 19, 0, 70]","['ddos', 'fraud', 'hack', 'malware', 'phishing', 'scan']"
 ip,14.120.121.52,2020-09-03T08:48:53Z,2022-03-08T23:57:43Z,[],"[12, 0]","['hack', 'spam']"
 ip,14.17.76.222,2021-01-24T01:13:22Z,2022-03-17T23:01:17Z,[],"[2, 2, 0, 1]","['hack', 'malware', 'phishing', 'scan']"
 ip,14.191.48.194,2022-02-28T00:00:00Z,2022-03-08T23:57:42Z,[],[12],['hack']
@@ -3529,8 +3529,8 @@ url,http://103.167.92.57/xx_cloudprotect/vbc.exe,2022-03-09T10:06:03Z,2022-04-02
 url,http://168.100.8.42/micro.exe,2022-04-13T16:26:07Z,2022-04-14T16:07:01Z,[],"[65, 64]","['malware', 'phishing']"
 url,http://168.100.8.42/spisok.exe,2022-04-14T11:18:33Z,2022-04-15T12:37:08Z,[],[60],['malware']
 url,http://194.31.98.124:443/i,2022-03-29T16:13:43Z,2022-04-15T07:49:34Z,['Attack Pattern:Phishing - T1566'],"[16, 48]","['phishing', 'malware']"
-url,http://194.31.98.124:443/m,2022-03-29T16:13:44Z,2022-04-10T11:09:49Z,[],"[50, 15]","['malware', 'phishing']"
-url,http://194.31.98.124:443/p,2022-03-29T16:13:45Z,2022-04-10T11:09:49Z,[],"[15, 50]","['phishing', 'malware']"
+url,http://194.31.98.124:443/m,2022-03-29T16:13:44Z,2022-04-17T11:09:49Z,[],"[30, 15]","['malware', 'phishing']"
+url,http://194.31.98.124:443/p,2022-03-29T16:13:45Z,2022-04-17T11:09:49Z,[],"[15, 30]","['phishing', 'malware']"
 url,http://45.84.0.116:443/i,2022-03-11T08:01:00Z,2022-03-28T08:01:00Z,[],"[15, 15]","['malware', 'phishing']"
 url,http://45.84.0.116:443/m,2022-03-12T11:54:59Z,2022-03-29T11:54:59Z,[],"[15, 15]","['malware', 'phishing']"
 url,http://45.84.0.116:443/p,2022-03-12T11:54:59Z,2022-03-29T11:54:59Z,[],"[15, 15]","['phishing', 'malware']"
