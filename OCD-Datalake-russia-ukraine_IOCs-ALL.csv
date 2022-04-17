@@ -1340,7 +1340,7 @@ file,4de8d004ce3d223a67b89cfa45e837a9f90ce13408215e9c98d5b04820c64088,2022-01-31
 file,4e9c8ef5e6391a9b4a705803dc8f2daaa72e3a448abd00fad36d34fe36f53887,2022-02-04T04:22:22Z,2022-04-05T11:56:04Z,"['Intrusion Set:Gamaredon Group - G0047', 'Malware:Pteranodon - S0147']",[81],['malware']
 file,4f11abdb96be36e3806bada5b8b2b8f8,2022-03-16T07:56:25Z,2022-04-04T00:00:00Z,[],[100],['malware']
 file,4fb630f9c5422271bdd4deb94a1e74f4,2022-03-23T10:08:58Z,2022-03-23T10:08:58Z,['Intrusion Set:Ice Fog'],[100],['malware']
-file,4fc25c15ec17895569bcd9808efc8fa6,2022-01-16T15:12:39Z,2022-03-27T17:37:36Z,"['Malware:AsyncRAT', 'Malware:WhisperGate']","[77, 47, 32]","['malware', 'hack', 'phishing']"
+file,4fc25c15ec17895569bcd9808efc8fa6,2022-01-16T15:12:39Z,2022-04-17T09:02:12Z,"['Malware:AsyncRAT', 'Malware:WhisperGate']","[77, 29, 47]","['malware', 'phishing', 'hack']"
 file,50e9f2472966d469807c36b3d464e6bf2cf99b98b00cc62e4edda7180bac061b,2022-01-31T16:59:34Z,2022-03-25T13:18:50Z,"['Malware:August Stealer', 'Intrusion Set:Gamaredon Group - G0047', 'Malware:WhisperGate', 'Malware:WildFire', 'Malware:Pteranodon - S0147']",[90],['malware']
 file,517d2b385b846d6ea13b75b8adceb061,2022-03-09T15:01:04Z,2022-04-13T11:18:34Z,['Malware:Wiper - S0041'],"[100, 36, 36]","['malware', 'phishing', 'hack']"
 file,518370ed9b1a507a0e86e82e2bf8a267251691bce822d4b1419f93563937ebad,2022-01-31T16:59:34Z,2022-03-25T13:18:50Z,"['Malware:August Stealer', 'Intrusion Set:Gamaredon Group - G0047', 'Malware:WhisperGate', 'Malware:WildFire', 'Malware:Pteranodon - S0147']",[90],['malware']
@@ -3000,7 +3000,7 @@ ip,45.87.154.82,2022-03-26T00:00:00Z,2022-04-02T00:00:00Z,[],[12],['hack']
 ip,45.87.154.95,2022-03-24T00:00:00Z,2022-03-29T14:01:46Z,[],[20],['hack']
 ip,45.89.69.228,2021-12-31T00:00:00Z,2022-01-16T00:00:00Z,[],[2],['hack']
 ip,45.95.11.34,2021-09-11T19:02:40Z,2022-04-05T19:23:47Z,"['Intrusion Set:InvisiMole', 'Malware:InvisiMole - S0260']","[10, 20, 15, 12]","['malware', 'scan', 'phishing', 'hack']"
-ip,45.95.147.24,2019-07-30T23:08:03Z,2022-04-16T21:06:50Z,"['Malware:QakBot - S0650', 'Malware:Gafgyt', 'Malware:Mirai']","[2, 0, 0, 1, 1, 0, 0, 33]","['scan', 'fraud', 'ddos', 'malware', 'phishing', 'scam', 'spam', 'hack']"
+ip,45.95.147.24,2019-07-30T23:08:03Z,2022-04-17T09:06:50Z,"['Malware:QakBot - S0650', 'Malware:Gafgyt', 'Malware:Mirai']","[0, 0, 1, 2, 26, 0, 1, 0]","['fraud', 'spam', 'malware', 'scan', 'hack', 'ddos', 'phishing', 'scam']"
 ip,46.101.175.132,2022-03-26T00:00:00Z,2022-04-02T00:00:00Z,[],[12],['hack']
 ip,46.105.97.11,2022-02-23T00:00:00Z,2022-04-16T19:11:58Z,[],"[1, 10, 76, 10, 1, 27]","['ddos', 'fraud', 'hack', 'leak', 'malware', 'scan']"
 ip,46.139.233.68,2022-02-25T08:03:54Z,2022-03-04T17:57:44Z,[],"[12, 13, 13]","['hack', 'phishing', 'malware']"
