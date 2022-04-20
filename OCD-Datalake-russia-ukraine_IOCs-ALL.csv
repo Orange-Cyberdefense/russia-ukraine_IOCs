@@ -908,7 +908,7 @@ domain,peaakyt.ru,2022-01-15T03:51:35Z,2022-03-21T16:11:30Z,"['Intrusion Set:Gam
 domain,penicil.ru,2021-04-19T15:56:25Z,2022-02-25T16:11:30Z,"['Intrusion Set:Gamaredon Group - G0047', 'Malware:Pteranodon - S0147']","[17, 18]","['malware', 'phishing']"
 domain,perchi.site,2020-10-17T00:00:00Z,2022-02-25T16:11:30Z,['Intrusion Set:Gamaredon Group - G0047'],"[0, 0, 20, 0, 0, 0, 0, 16, 0]","['ddos', 'leak', 'phishing', 'hack', 'spam', 'scan', 'scam', 'malware', 'fraud']"
 domain,perfrin.ru,2021-02-26T15:53:01Z,2022-03-05T16:11:30Z,"['Intrusion Set:Gamaredon Group - G0047', 'Malware:Pteranodon - S0147']","[5, 13]","['phishing', 'malware']"
-domain,pertolka.ru,2022-01-31T17:28:02Z,2022-03-28T13:18:50Z,"['Malware:WildFire', 'Malware:WhisperGate', 'Malware:August Stealer', 'Intrusion Set:Gamaredon Group - G0047', 'Malware:Pteranodon - S0147']","[9, 1]","['malware', 'phishing']"
+domain,pertolka.ru,2022-01-31T17:28:02Z,2022-04-06T13:18:50Z,"['Malware:WildFire', 'Malware:WhisperGate', 'Malware:August Stealer', 'Intrusion Set:Gamaredon Group - G0047', 'Malware:Pteranodon - S0147']","[2, 1]","['malware', 'phishing']"
 domain,petulans.online,2020-11-23T20:43:56Z,2022-02-26T16:11:30Z,['Intrusion Set:Gamaredon Group - G0047'],"[8, 6]","['malware', 'phishing']"
 domain,pfkj.online,2021-02-13T00:00:00Z,2022-02-25T16:11:30Z,[],"[0, 0, 0, 17, 0, 0, 0, 17, 0]","['fraud', 'ddos', 'scan', 'malware', 'scam', 'leak', 'spam', 'phishing', 'hack']"
 domain,phrynocephalus.xyz,2021-01-26T15:57:42Z,2022-02-23T16:11:30Z,['Intrusion Set:Gamaredon Group - G0047'],"[11, 9, 3]","['phishing', 'malware', 'hack']"
@@ -1933,7 +1933,7 @@ ip,116.113.81.38,2016-04-16T19:04:16Z,2022-04-12T18:14:24Z,[],"[18, 0, 20, 16]",
 ip,116.209.131.134,2022-02-28T00:00:00Z,2022-03-08T23:57:42Z,[],[12],['hack']
 ip,116.48.6.22,2022-02-25T08:03:54Z,2022-03-04T17:57:44Z,[],[12],['hack']
 ip,116.53.131.2,2022-02-25T08:03:54Z,2022-03-04T17:57:44Z,[],[12],['hack']
-ip,117.132.42.131,2022-04-15T00:00:00Z,2022-04-20T00:00:00Z,[],[24],['hack']
+ip,117.132.42.131,2022-04-15T00:00:00Z,2022-04-20T07:36:37Z,[],"[24, 0, 0]","['hack', 'malware', 'phishing']"
 ip,117.179.77.109,2022-02-25T08:03:54Z,2022-03-04T17:57:43Z,[],[12],['hack']
 ip,117.91.50.44,2022-02-25T08:03:54Z,2022-03-04T17:57:43Z,[],[12],['hack']
 ip,118.122.103.212,2022-02-25T08:03:54Z,2022-03-15T16:14:05Z,[],"[15, 12]","['scan', 'hack']"
