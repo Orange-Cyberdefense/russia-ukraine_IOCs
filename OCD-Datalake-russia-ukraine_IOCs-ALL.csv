@@ -983,7 +983,7 @@ domain,riontos.ru,2022-02-03T23:45:50Z,2022-04-19T03:52:09Z,"['Intrusion Set:Gam
 domain,ritionalvalueon.top,2022-03-25T15:09:38Z,2022-04-18T16:36:21Z,['Malware:IcedID - S0483'],"[34, 0]","['malware', 'phishing']"
 domain,riumo.ru,2021-03-11T16:09:14Z,2022-03-05T16:11:30Z,"['Intrusion Set:Gamaredon Group - G0047', 'Malware:Pteranodon - S0147']","[5, 13]","['phishing', 'malware']"
 domain,riumos.ru,2021-05-05T16:13:26Z,2022-03-05T16:11:30Z,"['Intrusion Set:Gamaredon Group - G0047', 'Malware:Pteranodon - S0147']","[13, 5]","['malware', 'phishing']"
-domain,rivertimad.com,2022-03-13T00:00:00Z,2022-04-18T13:34:33Z,['Malware:IcedID - S0483'],"[0, 0, 12, 0, 30, 7, 0, 0, 0]","['ddos', 'fraud', 'hack', 'leak', 'malware', 'phishing', 'scam', 'scan', 'spam']"
+domain,rivertimad.com,2022-03-13T00:00:00Z,2022-04-20T01:27:20Z,['Malware:IcedID - S0483'],"[0, 0, 12, 0, 30, 7, 0, 0, 0]","['ddos', 'fraud', 'hack', 'leak', 'malware', 'phishing', 'scam', 'scan', 'spam']"
 domain,robact.ru,2021-03-04T03:56:09Z,2022-02-25T16:11:30Z,"['Intrusion Set:Gamaredon Group - G0047', 'Malware:Pteranodon - S0147']","[17, 18]","['malware', 'phishing']"
 domain,robostetics.com,2021-09-16T00:00:00Z,2022-04-02T08:50:26Z,"['Malware:Formbook', 'Attack Pattern:Phishing - T1566', 'Malware:Xloader']","[0, 0, 0, 13, 0, 0, 0, 0, 0]","['leak', 'phishing', 'scan', 'malware', 'hack', 'scam', 'ddos', 'fraud', 'spam']"
 domain,roleplayhr.com,2021-09-16T00:00:00Z,2022-04-09T20:24:04Z,"['Malware:Formbook', 'Attack Pattern:Phishing - T1566', 'Malware:Xloader']","[0, 0, 0, 0, 19, 14, 0, 0, 0]","['ddos', 'fraud', 'hack', 'leak', 'malware', 'phishing', 'scam', 'scan', 'spam']"
@@ -1861,7 +1861,7 @@ ip,102.53.24.35,2022-02-26T00:00:00Z,2022-03-08T23:57:43Z,[],[12],['hack']
 ip,103.105.153.149,2022-03-24T00:00:00Z,2022-03-31T00:00:00Z,[],"[12, 8, 8]","['hack', 'malware', 'phishing']"
 ip,103.12.163.93,2020-07-02T05:06:48Z,2022-03-21T00:00:00Z,['Malware:TrickBot - S0266'],"[12, 5, 0]","['hack', 'malware', 'phishing']"
 ip,103.131.164.17,2020-01-03T00:00:00Z,2022-04-03T06:12:19Z,[],"[15, 12, 20]","['scan', 'hack', 'malware']"
-ip,103.167.92.57,2021-11-21T15:33:06Z,2022-04-20T10:05:55Z,"['Attack Pattern:File and Directory Discovery - T1083', 'Attack Pattern:Indicator Removal from Tools - T1027.005', 'Malware:MoqHao', 'Malware:Xloader', 'Malware:Formbook', 'Attack Pattern:Application Window Discovery - T1010', 'Attack Pattern:Obfuscated Files or Information - T1027', 'Attack Pattern:Shared Modules - T1129']","[27, 2, 2, 3]","['malware', 'hack', 'phishing', 'scan']"
+ip,103.167.92.57,2021-11-21T15:33:06Z,2022-04-20T15:47:13Z,"['Attack Pattern:File and Directory Discovery - T1083', 'Attack Pattern:Indicator Removal from Tools - T1027.005', 'Malware:MoqHao', 'Malware:Xloader', 'Malware:Formbook', 'Attack Pattern:Application Window Discovery - T1010', 'Attack Pattern:Obfuscated Files or Information - T1027', 'Attack Pattern:Shared Modules - T1129']","[2, 29, 2, 3]","['hack', 'malware', 'phishing', 'scan']"
 ip,103.17.198.111,2020-01-03T00:00:00Z,2020-01-19T00:00:00Z,[],[2],['hack']
 ip,103.17.198.83,2020-01-03T00:00:00Z,2020-01-19T00:00:00Z,[],[2],['hack']
 ip,103.176.129.147,2022-02-25T00:00:00Z,2022-03-08T23:57:43Z,[],[12],['hack']
