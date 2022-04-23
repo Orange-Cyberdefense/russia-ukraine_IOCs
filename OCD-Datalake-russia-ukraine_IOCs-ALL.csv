@@ -28,7 +28,7 @@ domain,adblocked.space,2019-05-09T14:53:36Z,2022-03-30T16:11:30Z,['Intrusion Set
 domain,adjd.info,2021-09-16T00:00:00Z,2022-04-02T08:50:26Z,"['Malware:Xloader', 'Attack Pattern:Phishing - T1566', 'Malware:Formbook']","[13, 0, 0, 0, 0, 0, 0, 0, 0]","['malware', 'hack', 'leak', 'scan', 'ddos', 'fraud', 'scam', 'spam', 'phishing']"
 domain,adleer.ru,2022-02-02T22:08:50Z,2022-04-14T00:00:00Z,"['Malware:Pteranodon - S0147', 'OCD - Threat pattern:Command and Control [C2]', 'Intrusion Set:Gamaredon Group - G0047']","[30, 11, 1]","['hack', 'malware', 'phishing']"
 domain,admin-gmail.online,2020-09-25T10:22:37Z,2022-02-21T16:11:30Z,['Intrusion Set:Gamaredon Group - G0047'],"[3, 9, 16]","['hack', 'malware', 'phishing']"
-domain,admis.club,2022-04-19T09:19:51Z,2022-04-20T07:50:09Z,[],"[57, 4]","['malware', 'phishing']"
+domain,admis.club,2022-04-19T09:19:51Z,2022-04-23T07:50:09Z,[],"[4, 51]","['phishing', 'malware']"
 domain,admru.top,2022-04-19T09:19:51Z,2022-04-22T09:19:51Z,[],[54],['malware']
 domain,admukr.club,2021-08-21T00:00:00Z,2022-04-22T09:19:51Z,[],"[55, 0, 0, 0, 0, 0, 0, 0, 0]","['malware', 'fraud', 'phishing', 'scam', 'leak', 'scan', 'ddos', 'spam', 'hack']"
 domain,admukr.top,2022-04-19T09:19:51Z,2022-04-22T09:19:51Z,[],[54],['malware']
@@ -354,7 +354,7 @@ domain,dogiraftig.com,2022-03-16T00:00:00Z,2022-04-22T07:40:11Z,['Malware:IcedID
 domain,dokkade.ru,2021-09-17T03:49:20Z,2022-04-21T03:50:54Z,"['Malware:WildFire', 'Intrusion Set:Gamaredon Group - G0047', 'Malware:Pteranodon - S0147', 'Malware:WhisperGate', 'Malware:August Stealer']","[16, 19]","['phishing', 'malware']"
 domain,domasq.ru,2022-02-03T23:45:49Z,2022-04-22T16:30:06Z,"['Malware:Pteranodon - S0147', 'Intrusion Set:Gamaredon Group - G0047']","[8, 7]","['malware', 'phishing']"
 domain,domonas.ru,2022-01-04T14:23:51Z,2022-04-17T03:50:50Z,"['Malware:Pteranodon - S0147', 'Intrusion Set:Gamaredon Group - G0047']","[1, 1]","['malware', 'phishing']"
-domain,domthr.xyz,2021-10-14T00:00:00Z,2022-04-20T07:50:46Z,[],"[0, 0, 0, 0, 59, 4, 0, 0, 0]","['ddos', 'fraud', 'hack', 'leak', 'malware', 'phishing', 'scam', 'scan', 'spam']"
+domain,domthr.xyz,2021-10-14T00:00:00Z,2022-04-23T07:50:46Z,[],"[0, 0, 52, 0, 4, 0, 0, 0, 0]","['spam', 'fraud', 'malware', 'ddos', 'phishing', 'scan', 'hack', 'scam', 'leak']"
 domain,dophil.ru,2021-04-05T15:54:06Z,2022-03-05T16:11:30Z,"['Malware:Pteranodon - S0147', 'Intrusion Set:Gamaredon Group - G0047']","[13, 5]","['malware', 'phishing']"
 domain,doriga.ru,2022-02-02T22:08:51Z,2022-03-30T20:53:55Z,"['Malware:Pteranodon - S0147', 'Intrusion Set:Gamaredon Group - G0047']","[10, 10]","['malware', 'phishing']"
 domain,dortisto.ru,2022-01-16T17:31:31Z,2022-03-12T13:18:50Z,"['Malware:WildFire', 'Intrusion Set:Gamaredon Group - G0047', 'Malware:Pteranodon - S0147', 'Malware:WhisperGate', 'Malware:August Stealer']","[17, 11]","['malware', 'phishing']"
@@ -2978,7 +2978,7 @@ ip,31.41.57.187,2019-08-29T00:00:00Z,2022-03-07T23:57:46Z,[],[12],['hack']
 ip,31.41.57.188,2019-06-24T00:00:00Z,2022-04-13T07:05:50Z,[],"[16, 2, 2]","['hack', 'malware', 'phishing']"
 ip,31.41.57.2,2022-03-18T00:00:00Z,2022-03-23T08:20:44Z,[],[19],['hack']
 ip,31.41.58.17,2022-04-06T00:00:00Z,2022-04-11T03:27:25Z,[],[20],['hack']
-ip,31.41.58.2,2022-04-18T00:00:00Z,2022-04-22T07:18:40Z,[],[25],['hack']
+ip,31.41.58.2,2022-04-18T00:00:00Z,2022-04-23T07:18:40Z,[],[15],['hack']
 ip,31.41.58.227,2019-01-05T00:00:00Z,2022-03-31T08:15:13Z,[],[20],['hack']
 ip,31.41.59.116,2022-04-11T00:00:00Z,2022-04-16T05:25:38Z,[],[16],['hack']
 ip,31.41.59.153,2019-06-19T00:00:00Z,2022-03-19T05:47:55Z,[],[19],['hack']
@@ -3894,7 +3894,7 @@ url,http://89.108.98.88/credit/cranny.au,2022-04-20T11:45:06Z,2022-04-21T10:06:1
 url,http://94.158.244.100/jersey.icb,2022-04-20T11:45:05Z,2022-04-21T10:06:12Z,['Intrusion Set:Gamaredon Group - G0047'],"[75, 54]","['malware', 'phishing']"
 url,http://94.158.244.64/barren.cbt09.12.2021%209:50:19,2022-04-20T11:45:06Z,2022-04-21T10:06:12Z,['Intrusion Set:Gamaredon Group - G0047'],"[75, 54]","['malware', 'phishing']"
 url,http://94.158.245.165/fruitless.ive15.12.2021%2017:23:29,2022-04-20T11:45:06Z,2022-04-21T10:06:12Z,['Intrusion Set:Gamaredon Group - G0047'],"[75, 54]","['malware', 'phishing']"
-url,http://admis.club/pay2/api.php,2022-04-19T09:19:51Z,2022-04-20T07:50:09Z,[],"[94, 20]","['malware', 'phishing']"
+url,http://admis.club/pay2/api.php,2022-04-19T09:19:51Z,2022-04-23T07:50:09Z,[],"[84, 20]","['malware', 'phishing']"
 url,http://ao3.hmgo.pw/tags/Akihabara@TODEEP/works,2022-03-24T10:10:32Z,2022-04-10T10:35:20Z,['Malware:Cobalt Strike - S0154'],[30],['malware']
 url,http://ao3.hmgo.pw/tags/Akihabara@TODEEP/works/update,2022-03-24T10:10:33Z,2022-04-10T10:35:20Z,['Malware:Cobalt Strike - S0154'],[30],['malware']
 url,http://bike27.mirtopa.ru/lenovog570/prickly25/ambition/perceive.cfg,2022-03-18T07:51:36Z,2022-03-18T11:58:04Z,['Intrusion Set:Gamaredon Group - G0047'],"[100, 100]","['malware', 'phishing']"
