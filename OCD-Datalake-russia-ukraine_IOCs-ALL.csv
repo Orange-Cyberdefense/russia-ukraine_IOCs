@@ -916,7 +916,7 @@ domain,nymphalidaes.ru,2021-04-05T15:54:06Z,2022-03-30T16:11:30Z,"['Malware:Pter
 domain,obacter.ru,2021-04-05T15:54:06Z,2022-02-26T16:11:30Z,"['Malware:Pteranodon - S0147', 'Intrusion Set:Gamaredon Group - G0047']","[17, 7]","['malware', 'phishing']"
 domain,obstetricans.xyz,2021-01-24T16:05:46Z,2022-02-21T16:11:30Z,['Intrusion Set:Gamaredon Group - G0047'],"[3, 10, 13]","['hack', 'malware', 'phishing']"
 domain,occidentale.xyz,2020-10-23T06:16:41Z,2022-02-21T16:11:30Z,['Intrusion Set:Gamaredon Group - G0047'],"[20, 3, 16]","['phishing', 'hack', 'malware']"
-domain,oceriesfornot.top,2021-11-25T00:00:00Z,2022-04-21T19:13:15Z,['Malware:IcedID - S0483'],"[0, 0, 12, 0, 20, 1, 0, 0, 0]","['ddos', 'fraud', 'hack', 'leak', 'malware', 'phishing', 'scam', 'scan', 'spam']"
+domain,oceriesfornot.top,2021-11-25T00:00:00Z,2022-04-25T01:37:26Z,['Malware:IcedID - S0483'],"[0, 0, 38, 0, 25, 34, 0, 0, 0]","['ddos', 'fraud', 'hack', 'leak', 'malware', 'phishing', 'scam', 'scan', 'spam']"
 domain,oderas.ru,2021-05-17T03:55:18Z,2022-02-21T16:11:30Z,"['Malware:Pteranodon - S0147', 'Intrusion Set:Gamaredon Group - G0047']","[20, 20]","['malware', 'phishing']"
 domain,office360-expert.online,2021-01-15T12:17:58Z,2022-03-30T16:11:30Z,['Intrusion Set:Gamaredon Group - G0047'],"[0, 0, 1, 0, 1, 0, 0, 0, 0]","['ddos', 'fraud', 'hack', 'leak', 'malware', 'phishing', 'scam', 'scan', 'spam']"
 domain,oidium.ru,2017-02-15T09:33:11Z,2022-03-20T03:50:45Z,"['Malware:Pteranodon - S0147', 'Intrusion Set:Gamaredon Group - G0047']","[17, 1]","['malware', 'phishing']"
@@ -1841,7 +1841,7 @@ file,e731e2f1a70b2dd13a4995f9c0106dc4,2022-04-15T13:04:43Z,2022-04-21T16:39:30Z,
 file,e78a4ac2af9e94e7ae2c8e8d7099c6449562dc78cd3ce325e7d70da58773740c,2022-01-31T16:59:34Z,2022-04-24T13:18:50Z,"['Malware:Pteranodon - S0147', 'Intrusion Set:Gamaredon Group - G0047', 'Malware:WildFire', 'Malware:WhisperGate', 'Malware:August Stealer']",[81],['malware']
 file,e7c2db5122a8ac7629c958d1f0d8a4df32c51e5da3be434ba0035c679aac7bce,2022-01-31T16:59:34Z,2022-04-24T13:18:50Z,"['Malware:Pteranodon - S0147', 'Intrusion Set:Gamaredon Group - G0047', 'Malware:WildFire', 'Malware:WhisperGate', 'Malware:August Stealer']",[81],['malware']
 file,e7cbf619792f4a6c7822119c0b40ea3e1c943567018f9ac237ae30675620697b,2022-04-21T07:41:38Z,2022-04-21T10:06:12Z,['Intrusion Set:Gamaredon Group - G0047'],[100],['malware']
-file,e9ad8fae2dd8f9d12e709af20d9aefad,2022-03-10T16:36:11Z,2022-04-21T16:39:30Z,['Malware:IcedID - S0483'],[94],['malware']
+file,e9ad8fae2dd8f9d12e709af20d9aefad,2022-03-10T16:36:11Z,2022-04-25T01:37:26Z,['Malware:IcedID - S0483'],"[40, 94, 40]","['hack', 'malware', 'phishing']"
 file,e9b96e9b86fad28d950ca428879168e0894d854f,2022-03-02T07:47:44Z,2022-04-22T00:19:55Z,"['Malware:Wiper - S0041', 'Malware:RemCom', 'Malware:RCS', 'Malware:First', 'Tool:Impacket - S0357', 'Malware:Crisis']",[100],['malware']
 file,e9b97d421e01a808bf62e8eb4534c1fc91c7158e1faac57dd7450f285a31041c,2022-01-31T16:59:34Z,2022-04-24T13:18:50Z,"['Malware:Pteranodon - S0147', 'Intrusion Set:Gamaredon Group - G0047', 'Malware:WildFire', 'Malware:WhisperGate', 'Malware:August Stealer']",[81],['malware']
 file,ea22414a4a9bed4bcaf8917a25ac853deb150feb693acc78b1ed8ae07cc2ac27,2022-01-31T16:59:34Z,2022-04-24T13:18:50Z,"['Malware:Pteranodon - S0147', 'Intrusion Set:Gamaredon Group - G0047', 'Malware:WildFire', 'Malware:WhisperGate', 'Malware:August Stealer']",[81],['malware']
@@ -2082,7 +2082,7 @@ ip,103.131.164.17,2020-01-03T00:00:00Z,2022-04-03T06:12:19Z,[],"[15, 12, 20]","[
 ip,103.167.92.57,2021-11-21T15:33:06Z,2022-04-22T10:05:55Z,"['Malware:Xloader', 'Attack Pattern:Shared Modules - T1129', 'Attack Pattern:Application Window Discovery - T1010', 'Malware:MoqHao', 'Attack Pattern:Indicator Removal from Tools - T1027.005', 'Malware:Formbook', 'Attack Pattern:Obfuscated Files or Information - T1027', 'Attack Pattern:File and Directory Discovery - T1083']","[20, 3, 2, 2]","['malware', 'scan', 'phishing', 'hack']"
 ip,103.17.198.111,2020-01-03T00:00:00Z,2020-01-19T00:00:00Z,[],[2],['hack']
 ip,103.17.198.83,2020-01-03T00:00:00Z,2020-01-19T00:00:00Z,[],[2],['hack']
-ip,103.170.118.143,2022-04-22T00:00:00Z,2022-04-24T19:01:20Z,[],"[30, 51, 33]","['ddos', 'hack', 'scan']"
+ip,103.170.118.143,2022-04-22T00:00:00Z,2022-04-25T02:04:59Z,[],"[30, 85, 20, 29]","['ddos', 'hack', 'malware', 'scan']"
 ip,103.176.129.147,2022-02-25T00:00:00Z,2022-03-08T23:57:43Z,[],[12],['hack']
 ip,103.207.37.3,2020-01-04T00:00:00Z,2022-04-22T02:04:16Z,['Malware:Mirai'],"[17, 5, 15, 20]","['malware', 'ddos', 'scan', 'hack']"
 ip,103.75.117.53,2022-04-04T00:00:00Z,2022-04-11T00:00:00Z,[],[12],['hack']
@@ -2203,7 +2203,7 @@ ip,139.59.116.232,2021-02-09T08:23:00Z,2022-03-07T23:57:46Z,['Location:Japan'],"
 ip,139.59.229.58,2022-02-28T00:00:00Z,2022-03-07T23:57:45Z,[],[13],['hack']
 ip,139.60.160.17,2022-03-23T07:14:37Z,2022-04-22T14:25:19Z,"['Malware:TrickBot - S0266', 'Malware:Cobalt Strike - S0154', 'OCD - Threat pattern:Command and Control [C2]']","[18, 33, 1, 20]","['hack', 'malware', 'phishing', 'scan']"
 ip,139.60.160.51,2022-03-04T00:20:23Z,2022-04-22T14:25:19Z,"['Malware:TrickBot - S0266', 'Malware:Cobalt Strike - S0154', 'OCD - Threat pattern:Command and Control [C2]']","[15, 24, 0, 20]","['hack', 'malware', 'phishing', 'scan']"
-ip,139.60.160.8,2020-10-12T09:27:16Z,2022-04-24T14:08:07Z,"['Malware:TrickBot - S0266', 'Malware:Cobalt Strike - S0154', 'OCD - Threat pattern:Command and Control [C2]']","[20, 55, 51, 0, 1]","['scan', 'hack', 'malware', 'spam', 'phishing']"
+ip,139.60.160.8,2020-10-12T09:27:16Z,2022-04-25T02:08:07Z,"['Malware:TrickBot - S0266', 'Malware:Cobalt Strike - S0154', 'OCD - Threat pattern:Command and Control [C2]']","[20, 51, 38, 0, 1]","['scan', 'malware', 'hack', 'spam', 'phishing']"
 ip,139.60.161.163,2017-12-03T13:01:12Z,2022-04-22T14:25:19Z,"['Malware:TrickBot - S0266', 'Malware:Cobalt Strike - S0154', 'OCD - Threat pattern:Command and Control [C2]']","[18, 33, 1, 20]","['hack', 'malware', 'phishing', 'scan']"
 ip,139.60.161.209,2018-02-24T02:01:18Z,2022-04-22T14:25:19Z,"['Malware:IcedID - S0483', 'Malware:Cobalt Strike - S0154', 'OCD - Threat pattern:Command and Control [C2]', 'Malware:TrickBot - S0266']","[0, 0, 15, 0, 23, 0, 0, 17, 0]","['ddos', 'fraud', 'hack', 'leak', 'malware', 'phishing', 'scam', 'scan', 'spam']"
 ip,139.60.161.216,2019-07-05T17:42:03Z,2022-04-22T14:25:19Z,"['Malware:TrickBot - S0266', 'Malware:Cobalt Strike - S0154', 'OCD - Threat pattern:Command and Control [C2]']","[18, 33, 1, 20]","['hack', 'malware', 'phishing', 'scan']"
@@ -2216,7 +2216,7 @@ ip,139.60.161.57,2020-06-03T15:21:46Z,2022-04-22T14:25:19Z,"['Malware:TrickBot -
 ip,139.60.161.60,2017-05-25T17:00:56Z,2022-04-22T14:25:19Z,"['Malware:TrickBot - S0266', 'Malware:Cobalt Strike - S0154', 'OCD - Threat pattern:Command and Control [C2]', 'Malware:IcedID - S0483']","[0, 0, 0, 27, 0, 0, 0, 0]","['ddos', 'fraud', 'hack', 'malware', 'phishing', 'scam', 'scan', 'spam']"
 ip,139.60.161.62,2017-05-25T17:03:16Z,2022-04-22T14:25:19Z,"['Malware:TrickBot - S0266', 'Malware:Cobalt Strike - S0154', 'OCD - Threat pattern:Command and Control [C2]']","[2, 23, 1, 1]","['hack', 'malware', 'phishing', 'scan']"
 ip,139.60.161.74,2017-05-30T16:01:11Z,2022-04-22T14:25:19Z,"['Malware:TrickBot - S0266', 'Malware:Cobalt Strike - S0154', 'OCD - Threat pattern:Command and Control [C2]', 'Malware:Bazar - S0534']","[15, 25, 0, 20]","['hack', 'malware', 'phishing', 'scan']"
-ip,139.60.161.75,2019-10-07T00:58:55Z,2022-04-24T14:08:07Z,"['Malware:TrickBot - S0266', 'Malware:Cobalt Strike - S0154', 'OCD - Threat pattern:Command and Control [C2]', 'Location:India']","[39, 0, 19, 33]","['hack', 'phishing', 'scan', 'malware']"
+ip,139.60.161.75,2019-10-07T00:58:55Z,2022-04-25T02:08:07Z,"['Malware:TrickBot - S0266', 'Malware:Cobalt Strike - S0154', 'OCD - Threat pattern:Command and Control [C2]', 'Location:India']","[33, 27, 0, 19]","['malware', 'hack', 'phishing', 'scan']"
 ip,139.60.161.85,2017-05-30T16:02:13Z,2022-04-22T14:25:19Z,"['Malware:TrickBot - S0266', 'Malware:Cobalt Strike - S0154', 'OCD - Threat pattern:Command and Control [C2]']","[4, 44, 0, 3]","['hack', 'malware', 'phishing', 'scan']"
 ip,139.60.161.89,2017-12-02T12:00:25Z,2022-04-22T14:25:19Z,"['Malware:TrickBot - S0266', 'Malware:Cobalt Strike - S0154', 'OCD - Threat pattern:Command and Control [C2]', 'Malware:IcedID - S0483']","[0, 0, 0, 12, 0, 0, 0, 0]","['ddos', 'fraud', 'hack', 'malware', 'phishing', 'scam', 'scan', 'spam']"
 ip,139.60.161.99,2020-12-16T07:48:02Z,2022-04-22T14:25:19Z,"['Malware:Cobalt Strike - S0154', 'OCD - Threat pattern:Command and Control [C2]', 'Malware:Pay2Key - S0556', 'Malware:TrickBot - S0266', 'Intrusion Set:Cobalt Group - G0080']","[1, 23, 0, 1]","['hack', 'malware', 'phishing', 'scan']"
@@ -2513,7 +2513,7 @@ ip,188.162.64.213,2019-11-06T00:00:00Z,2022-03-11T13:46:53Z,[],[18],['hack']
 ip,188.163.121.209,2022-03-20T00:00:00Z,2022-04-13T02:23:00Z,[],[17],['hack']
 ip,188.163.83.199,2019-05-10T00:00:00Z,2019-05-26T00:00:00Z,[],[2],['hack']
 ip,188.164.189.200,2022-03-24T00:00:00Z,2022-03-31T00:00:00Z,[],[12],['hack']
-ip,188.166.154.118,2022-03-21T21:18:56Z,2022-04-22T16:05:21Z,"['Malware:IcedID - S0483', 'OCD - Threat pattern:Command and Control [C2]']","[1, 15, 1, 0]","['scan', 'malware', 'hack', 'phishing']"
+ip,188.166.154.118,2022-03-21T21:18:56Z,2022-04-25T01:37:26Z,"['Malware:IcedID - S0483', 'OCD - Threat pattern:Command and Control [C2]']","[8, 18, 8, 1]","['hack', 'malware', 'phishing', 'scan']"
 ip,188.166.42.66,2022-03-09T00:00:00Z,2022-03-28T13:08:23Z,[],"[20, 20, 18]","['malware', 'scan', 'hack']"
 ip,188.166.45.136,2020-10-19T12:48:47Z,2022-04-23T23:03:22Z,[],"[15, 0, 0]","['hack', 'malware', 'phishing']"
 ip,188.212.125.188,2022-03-22T00:00:00Z,2022-03-29T00:00:00Z,[],[12],['hack']
@@ -3589,7 +3589,7 @@ ip,79.146.189.175,2022-04-02T00:00:00Z,2022-04-07T22:23:44Z,[],[20],['hack']
 ip,79.165.151.139,2022-03-13T00:00:00Z,2022-03-29T00:00:00Z,[],[2],['hack']
 ip,79.171.118.241,2022-02-28T00:00:00Z,2022-03-09T05:57:43Z,[],[12],['hack']
 ip,8.210.150.125,2022-03-02T00:00:00Z,2022-03-07T10:34:24Z,[],[20],['hack']
-ip,8.210.212.20,2022-04-15T00:00:00Z,2022-04-23T02:01:00Z,[],"[20, 26, 15, 19]","['malware', 'hack', 'ddos', 'scan']"
+ip,8.210.212.20,2022-04-15T00:00:00Z,2022-04-25T02:01:00Z,[],"[13, 15, 20, 20]","['hack', 'ddos', 'malware', 'scan']"
 ip,80.216.78.155,2022-02-26T00:00:00Z,2022-03-05T17:57:46Z,[],[12],['hack']
 ip,80.255.7.105,2020-03-13T05:48:02Z,2022-03-07T23:57:46Z,[],[11],['hack']
 ip,80.66.88.134,2021-12-06T00:00:00Z,2022-04-12T07:01:22Z,[],"[17, 2]","['scan', 'hack']"
@@ -3712,7 +3712,7 @@ ip,91.225.140.238,2022-02-28T00:00:00Z,2022-03-08T23:57:42Z,[],[12],['hack']
 ip,91.225.142.34,2022-02-25T00:00:00Z,2022-03-08T23:57:43Z,[],[12],['hack']
 ip,91.233.117.117,2022-04-13T00:00:00Z,2022-04-20T00:00:00Z,[],[12],['hack']
 ip,91.236.253.97,2016-05-06T13:26:04Z,2022-04-16T02:31:29Z,[],"[0, 0, 0, 0, 14]","['malware', 'scan', 'ddos', 'phishing', 'hack']"
-ip,91.240.118.137,2022-02-25T08:03:54Z,2022-04-07T00:43:15Z,[],[18],['hack']
+ip,91.240.118.137,2022-02-25T08:03:54Z,2022-04-25T02:05:16Z,[],"[2, 20]","['hack', 'scan']"
 ip,91.240.118.63,2020-07-09T18:24:25Z,2022-04-14T18:50:19Z,"['Malware:Cobalt Strike - S0154', 'OCD - Threat pattern:Command and Control [C2]']","[2, 19, 0, 0]","['hack', 'malware', 'scan', 'phishing']"
 ip,91.240.86.200,2020-07-01T16:07:47Z,2022-04-12T16:12:40Z,[],[15],['malware']
 ip,91.243.17.191,2022-03-01T00:00:00Z,2022-03-08T23:57:42Z,[],[12],['hack']
