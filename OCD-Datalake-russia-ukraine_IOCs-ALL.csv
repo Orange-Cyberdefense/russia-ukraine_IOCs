@@ -3274,7 +3274,7 @@ ip,45.87.154.82,2022-03-26T00:00:00Z,2022-04-02T00:00:00Z,[],[12],['hack']
 ip,45.87.154.95,2022-03-24T00:00:00Z,2022-03-29T14:01:46Z,[],[20],['hack']
 ip,45.89.69.228,2021-12-31T00:00:00Z,2022-01-16T00:00:00Z,[],[2],['hack']
 ip,45.95.11.34,2021-09-11T19:02:40Z,2022-04-05T19:23:47Z,"['Malware:InvisiMole - S0260', 'Intrusion Set:InvisiMole']","[10, 20, 15, 12]","['malware', 'scan', 'phishing', 'hack']"
-ip,45.95.147.24,2019-07-30T23:08:03Z,2022-04-27T06:17:07Z,"['Malware:Mirai', 'Malware:Gafgyt', 'Malware:QakBot - S0650']","[30, 0, 55, 34, 1, 0, 61, 0]","['ddos', 'fraud', 'hack', 'malware', 'phishing', 'scam', 'scan', 'spam']"
+ip,45.95.147.24,2019-07-30T23:08:03Z,2022-04-27T10:06:45Z,"['Malware:Mirai', 'Malware:Gafgyt', 'Malware:QakBot - S0650']","[30, 0, 55, 34, 1, 0, 57, 0]","['ddos', 'fraud', 'hack', 'malware', 'phishing', 'scam', 'scan', 'spam']"
 ip,46.101.175.132,2022-03-26T00:00:00Z,2022-04-02T00:00:00Z,[],[12],['hack']
 ip,46.101.254.238,2022-04-21T08:48:55Z,2022-04-26T08:48:55Z,[],[72],['malware']
 ip,46.105.97.11,2022-02-23T00:00:00Z,2022-04-26T19:11:34Z,[],"[1, 10, 76, 10, 1, 27]","['ddos', 'fraud', 'hack', 'leak', 'malware', 'scan']"
@@ -3945,5 +3945,5 @@ url,https://github.com/sukaut,2022-04-15T13:18:40Z,2022-04-24T13:18:40Z,[],[50],
 url,https://mail.nais-gov.org/2021-07-30-08-55-07.xlsm,2022-03-29T16:13:46Z,2022-04-15T16:13:46Z,[],[30],['malware']
 url,https://nirsoft.me/nEDFzTtoCbUfp9BtSZlaq6ql8v6yYb/avp/amznussraps,2022-03-29T16:13:45Z,2022-04-15T16:13:45Z,[],[30],['malware']
 url,https://nirsoft.me/s/2MYmbwpSJLZRAtXRgNTAUjJSH6SSoicLPIrQl/field-keywords,2022-03-08T19:30:14Z,2022-03-25T19:30:14Z,[],"[20, 20]","['phishing', 'malware']"
-url,https://product2020.mrbasic.com:8080,2022-03-23T10:08:58Z,2022-04-11T10:28:29Z,"['OCD - Threat pattern:Command and Control [C2]', 'Intrusion Set:Ice Fog']",[30],['malware']
+url,https://product2020.mrbasic.com:8080,2022-03-23T10:08:58Z,2022-04-27T10:28:29Z,"['OCD - Threat pattern:Command and Control [C2]', 'Intrusion Set:Ice Fog']",[15],['malware']
 url,https://tinyurl.com/2p8kpb9v,2022-03-29T16:13:46Z,2022-04-15T16:13:46Z,[],[30],['malware']
