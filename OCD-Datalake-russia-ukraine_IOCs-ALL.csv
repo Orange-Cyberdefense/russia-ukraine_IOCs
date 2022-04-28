@@ -1951,7 +1951,7 @@ fqdn,holposta.ru,2022-02-04T10:43:11Z,2022-03-09T10:43:11Z,['Intrusion Set:Gamar
 fqdn,hostarama.ru,2022-02-04T10:43:10Z,2022-03-09T10:43:10Z,['Intrusion Set:Gamaredon Group - G0047'],[15],['malware']
 fqdn,hotornas.ru,2022-02-04T10:43:03Z,2022-03-09T10:43:03Z,['Intrusion Set:Gamaredon Group - G0047'],[15],['malware']
 fqdn,hustorta.ru,2022-02-04T10:43:02Z,2022-03-09T10:43:02Z,['Intrusion Set:Gamaredon Group - G0047'],[15],['malware']
-fqdn,i.ua-passport.space,2022-02-25T13:58:32Z,2022-04-25T21:05:26Z,"['Attack Pattern:Data Destruction - T1485', 'Attack Pattern:Disk Structure Wipe - T1561.002', 'Attack Pattern:Group Policy Modification - T1484.001', 'Attack Pattern:Inhibit System Recovery - T1490', 'Attack Pattern:Signed Binary Proxy Execution - T1218']","[25, 3]","['malware', 'phishing']"
+fqdn,i.ua-passport.space,2022-02-25T13:58:32Z,2022-04-28T21:05:26Z,"['Attack Pattern:Data Destruction - T1485', 'Attack Pattern:Disk Structure Wipe - T1561.002', 'Attack Pattern:Group Policy Modification - T1484.001', 'Attack Pattern:Inhibit System Recovery - T1490', 'Attack Pattern:Signed Binary Proxy Execution - T1218']","[3, 22]","['phishing', 'malware']"
 fqdn,ibigao.ru,2022-02-04T10:43:12Z,2022-03-09T10:43:12Z,['Intrusion Set:Gamaredon Group - G0047'],[15],['malware']
 fqdn,idaite.ru,2022-02-04T10:43:15Z,2022-03-09T10:43:15Z,['Intrusion Set:Gamaredon Group - G0047'],[15],['malware']
 fqdn,ienaike.ru,2022-02-04T10:43:15Z,2022-03-09T10:43:15Z,['Intrusion Set:Gamaredon Group - G0047'],[15],['malware']
@@ -3257,7 +3257,7 @@ ip,44.203.23.135,2022-03-14T00:00:00Z,2022-03-21T00:00:00Z,[],[12],['hack']
 ip,44.203.29.65,2022-03-17T00:00:00Z,2022-03-24T00:00:00Z,[],"[0, 12, 0]","['malware', 'hack', 'phishing']"
 ip,44.203.47.12,2022-03-12T00:00:00Z,2022-03-19T00:00:00Z,[],"[8, 8, 12]","['phishing', 'malware', 'hack']"
 ip,44.203.60.130,2022-03-19T00:00:00Z,2022-03-26T00:00:00Z,[],[12],['hack']
-ip,45.10.245.177,2022-04-24T00:00:00Z,2022-04-28T08:56:21Z,[],[41],['hack']
+ip,45.10.245.177,2022-04-24T00:00:00Z,2022-04-28T20:56:21Z,[],[29],['hack']
 ip,45.10.245.93,2022-03-11T00:00:00Z,2022-03-16T12:21:59Z,[],"[8, 20, 8]","['malware', 'hack', 'phishing']"
 ip,45.128.133.198,2022-02-23T00:00:00Z,2022-03-08T17:57:39Z,[],[12],['hack']
 ip,45.135.167.208,2022-02-23T00:00:00Z,2022-03-08T17:57:39Z,[],[12],['hack']
