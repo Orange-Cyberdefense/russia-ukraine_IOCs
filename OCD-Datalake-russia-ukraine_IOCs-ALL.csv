@@ -391,7 +391,7 @@ domain,ericsoni.ru,2022-02-02T22:08:52Z,2022-03-30T16:11:30Z,"['Malware:Pteranod
 domain,erlanda.ru,2021-07-29T00:00:00Z,2022-03-30T16:11:30Z,"['Malware:Pteranodon - S0147', 'Intrusion Set:Gamaredon Group - G0047']","[3, 1, 1]","['hack', 'malware', 'phishing']"
 domain,ermasa.ru,2016-10-07T16:44:09Z,2022-03-30T16:11:30Z,"['Malware:Pteranodon - S0147', 'Intrusion Set:Gamaredon Group - G0047']","[2, 1]","['malware', 'phishing']"
 domain,erobact.ru,2021-04-05T15:54:06Z,2022-03-15T03:50:51Z,"['Malware:Pteranodon - S0147', 'Intrusion Set:Gamaredon Group - G0047']","[18, 4]","['malware', 'phishing']"
-domain,erostipa.ru,2022-01-05T23:50:38Z,2022-03-05T16:11:30Z,"['Malware:Pteranodon - S0147', 'Intrusion Set:Gamaredon Group - G0047']","[13, 5]","['malware', 'phishing']"
+domain,erostipa.ru,2022-01-05T23:50:38Z,2022-04-15T15:10:11Z,"['Malware:Pteranodon - S0147', 'Intrusion Set:Gamaredon Group - G0047']","[1, 0]","['malware', 'phishing']"
 domain,ertimadifa.com,2022-03-13T00:00:00Z,2022-04-27T20:00:06Z,['Malware:IcedID - S0483'],"[0, 0, 78, 0, 48, 2, 0, 0, 0]","['ddos', 'fraud', 'hack', 'leak', 'malware', 'phishing', 'scam', 'scan', 'spam']"
 domain,erunanikan.ru,2022-01-10T18:19:20Z,2022-03-30T16:11:30Z,"['Malware:Pteranodon - S0147', 'Intrusion Set:Gamaredon Group - G0047']","[2, 1]","['malware', 'phishing']"
 domain,erwina.ru,2021-02-28T15:53:02Z,2022-02-25T16:11:30Z,"['Malware:Pteranodon - S0147', 'Intrusion Set:Gamaredon Group - G0047']","[17, 19]","['phishing', 'malware']"
@@ -2192,7 +2192,7 @@ ip,13.68.197.17,2022-03-04T00:00:00Z,2022-03-11T00:00:00Z,[],[12],['hack']
 ip,131.255.5.193,2022-03-01T00:00:00Z,2022-03-08T00:00:00Z,[],[12],['hack']
 ip,134.0.112.117,2020-07-02T20:48:43Z,2022-02-21T16:11:30Z,"['Malware:Pteranodon - S0147', 'Intrusion Set:Gamaredon Group - G0047']","[3, 19, 3, 18, 0]","['hack', 'malware', 'scan', 'phishing', 'spam']"
 ip,134.122.19.226,2021-10-10T00:00:00Z,2022-03-07T23:57:46Z,[],"[10, 13, 10]","['phishing', 'hack', 'malware']"
-ip,134.209.144.87,2022-04-14T06:37:54Z,2022-04-26T21:57:46Z,['Malware:IcedID - S0483'],"[34, 6, 1, 6]","['malware', 'hack', 'phishing', 'scan']"
+ip,134.209.144.87,2022-04-14T06:37:54Z,2022-04-28T21:57:46Z,['Malware:IcedID - S0483'],"[6, 1, 6, 24]","['hack', 'phishing', 'scan', 'malware']"
 ip,134.249.112.209,2020-07-26T12:07:01Z,2021-03-12T00:00:00Z,[],"[2, 0]","['hack', 'scan']"
 ip,134.249.153.57,2022-02-27T00:00:00Z,2022-03-08T23:57:43Z,[],[12],['hack']
 ip,134.255.218.212,2021-03-26T23:41:27Z,2022-04-15T05:19:22Z,[],[16],['hack']
