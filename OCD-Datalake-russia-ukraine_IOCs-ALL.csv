@@ -1661,7 +1661,7 @@ file,a3534cc24a76fa81ce38676027de9533,2022-04-19T09:23:29Z,2022-04-19T09:23:29Z,
 file,a565bbe49387304170c776dcaa50897842ffcd7ce677241613e41a0dd1657405,2022-04-21T07:41:38Z,2022-04-21T10:06:12Z,['Intrusion Set:Gamaredon Group - G0047'],[100],['malware']
 file,a570510c0fa4782cf735509a367ab108f757f6d50f8a7178e8a660153691beca,2022-04-21T07:41:38Z,2022-04-21T10:06:12Z,['Intrusion Set:Gamaredon Group - G0047'],[100],['malware']
 file,a60df90504735f4e424ec0842e328181d7e93ac9ecd8193e892584871643bec7,2022-02-04T04:22:22Z,2022-04-05T11:56:04Z,"['Malware:Pteranodon - S0147', 'Intrusion Set:Gamaredon Group - G0047']",[81],['malware']
-file,a64c3e0522fad787b95bfb6a30c3aed1b5786e69e88e023c062ec7e5cebf4d3e,2022-02-24T13:57:52Z,2022-03-30T18:21:06Z,"['Attack Pattern:Inhibit System Recovery - T1490', 'Malware:Wiper - S0041', 'Attack Pattern:Group Policy Modification - T1484.001', 'Attack Pattern:Disk Structure Wipe - T1561.002', 'Attack Pattern:Data Destruction - T1485', 'Malware:WhisperGate', 'Attack Pattern:Signed Binary Proxy Execution - T1218']","[68, 100]","['phishing', 'malware']"
+file,a64c3e0522fad787b95bfb6a30c3aed1b5786e69e88e023c062ec7e5cebf4d3e,2022-02-24T13:57:52Z,2022-04-29T18:21:06Z,"['Attack Pattern:Inhibit System Recovery - T1490', 'Malware:Wiper - S0041', 'Attack Pattern:Group Policy Modification - T1484.001', 'Attack Pattern:Disk Structure Wipe - T1561.002', 'Attack Pattern:Data Destruction - T1485', 'Malware:WhisperGate', 'Attack Pattern:Signed Binary Proxy Execution - T1218']","[100, 61]","['malware', 'phishing']"
 file,a67e5d562e754426e061c74b04af19d8f59a9bfe5134d5bb6ed4d429d022840a,2022-02-04T04:22:22Z,2022-04-05T11:56:04Z,"['Malware:Pteranodon - S0147', 'Intrusion Set:Gamaredon Group - G0047']",[81],['malware']
 file,a6867e9086a8f713a962238204a3266185de2cc3c662fba8d79f0e9b22ce8dd6,2022-02-04T04:22:22Z,2022-04-24T13:18:50Z,"['Malware:Pteranodon - S0147', 'Malware:August Stealer', 'Malware:WhisperGate', 'Malware:WildFire', 'Intrusion Set:Gamaredon Group - G0047']","[81, 41]","['malware', 'phishing']"
 file,a707e779e5b228f670ed09777ccacfb75af8a36c34323af7790290d70bca0083,2022-01-31T16:59:34Z,2022-04-24T13:18:50Z,"['Malware:Pteranodon - S0147', 'Malware:August Stealer', 'Malware:WhisperGate', 'Malware:WildFire', 'Intrusion Set:Gamaredon Group - G0047']",[81],['malware']
@@ -3560,7 +3560,7 @@ ip,60.161.189.14,2022-02-25T08:03:54Z,2022-03-04T17:57:44Z,[],"[12, 12, 12]","['
 ip,61.28.235.31,2021-06-12T00:00:00Z,2022-03-13T17:57:44Z,[],"[1, 2, 1, 0, 1]","['ddos', 'hack', 'malware', 'phishing', 'scan']"
 ip,61.81.17.97,2022-01-05T00:00:00Z,2022-04-16T10:49:57Z,[],"[0, 0, 2, 0]","['ddos', 'fraud', 'hack', 'scan']"
 ip,62.117.94.146,2022-02-27T00:00:00Z,2022-03-08T23:57:43Z,[],[12],['hack']
-ip,62.133.47.12,2021-06-17T04:56:36Z,2022-04-29T06:06:37Z,[],"[0, 1, 28, 20, 0, 26]","['spam', 'ddos', 'malware', 'hack', 'phishing', 'scan']"
+ip,62.133.47.12,2021-06-17T04:56:36Z,2022-04-29T18:06:37Z,[],"[1, 0, 28, 21, 20, 0]","['ddos', 'spam', 'malware', 'scan', 'hack', 'phishing']"
 ip,62.149.14.187,2022-03-19T00:00:00Z,2022-03-24T23:09:45Z,[],[18],['hack']
 ip,62.80.164.89,2022-02-07T00:00:00Z,2022-03-08T17:57:39Z,[],[12],['hack']
 ip,65.108.53.205,2019-03-30T19:57:41Z,2022-03-13T17:57:43Z,[],"[2, 0, 0]","['hack', 'malware', 'phishing']"
@@ -3826,7 +3826,7 @@ ip,95.79.96.236,2022-04-24T00:00:00Z,2022-04-29T00:00:00Z,[],[24],['hack']
 ip,96.227.133.55,2022-02-27T00:00:00Z,2022-03-08T23:57:43Z,[],[12],['hack']
 ip,96.43.128.122,2022-02-13T00:10:45Z,2022-03-04T17:57:44Z,[],"[1, 11, 17, 9]","['scan', 'hack', 'malware', 'phishing']"
 ip,97.115.253.180,2022-02-25T08:03:54Z,2022-03-04T17:57:44Z,[],[12],['hack']
-ip,98.159.226.64,2022-03-08T07:26:24Z,2022-04-29T06:08:51Z,[],"[36, 25, 29]","['malware', 'hack', 'scan']"
+ip,98.159.226.64,2022-03-08T07:26:24Z,2022-04-29T18:08:51Z,[],"[18, 20, 36]","['hack', 'scan', 'malware']"
 ip,98.159.226.70,2022-01-31T02:39:42Z,2022-03-24T00:00:00Z,[],"[1, 1, 13]","['malware', 'scan', 'hack']"
 url,http://103.167.92.57/xx_cloudprotect/vbc.exe,2022-03-09T10:06:03Z,2022-04-18T08:50:26Z,"['Attack Pattern:Phishing - T1566', 'Malware:Formbook', 'Malware:Xloader']","[13, 20, 13]","['phishing', 'hack', 'malware']"
 url,http://107.191.57.249/jersey.icb,2022-04-21T07:41:38Z,2022-04-26T10:06:12Z,['Intrusion Set:Gamaredon Group - G0047'],"[20, 72]","['phishing', 'malware']"
