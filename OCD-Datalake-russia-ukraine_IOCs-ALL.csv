@@ -2276,7 +2276,7 @@ ip,159.65.175.249,2022-03-23T00:00:00Z,2022-03-30T00:00:00Z,[],[12],['hack']
 ip,159.65.201.249,2021-02-17T00:00:00Z,2022-03-07T23:57:46Z,[],"[13, 8, 8]","['hack', 'malware', 'phishing']"
 ip,159.69.16.41,2022-03-14T00:00:00Z,2022-03-19T11:06:42Z,[],[19],['hack']
 ip,159.89.166.23,2020-09-09T00:00:00Z,2022-03-07T23:57:46Z,[],[13],['hack']
-ip,160.20.147.63,2022-02-25T00:00:00Z,2022-04-22T18:02:13Z,[],"[10, 2]","['malware', 'hack']"
+ip,160.20.147.63,2022-02-25T00:00:00Z,2022-04-22T18:02:13Z,[],"[2, 10, 0]","['hack', 'malware', 'phishing']"
 ip,161.35.60.104,2020-07-06T05:30:52Z,2022-03-05T23:57:46Z,[],"[19, 1, 1]","['hack', 'scan', 'ddos']"
 ip,163.172.108.235,2022-03-01T00:00:00Z,2022-03-07T22:48:11Z,[],[20],['hack']
 ip,163.197.34.50,2022-03-02T00:00:00Z,2022-03-09T11:57:39Z,[],[12],['hack']
@@ -3268,7 +3268,7 @@ ip,45.141.152.202,2021-10-29T10:15:31Z,2022-03-24T00:00:00Z,[],"[13, 0, 0]","['h
 ip,45.142.122.175,2022-01-17T06:49:03Z,2022-03-02T17:57:44Z,[],"[0, 0, 1, 20, 1]","['ddos', 'fraud', 'malware', 'hack', 'scan']"
 ip,45.142.213.17,2021-11-22T18:05:53Z,2022-04-02T18:32:16Z,"['Malware:MimiKatz', 'Malware:LaZagne', 'Malware:PowGoop', 'Tool:Mimikatz - S0002', 'OCD - Threat pattern:Command and Control [C2]', 'Tool:LaZagne - S0349', 'Malware:POWERSTATS - S0223', 'Malware:Mori Backdoor', 'Intrusion Set:MuddyWater - G0069']","[1, 1, 17, 1]","['phishing', 'scan', 'malware', 'hack']"
 ip,45.146.12.66,2021-12-12T00:00:00Z,2022-04-20T12:12:52Z,[],"[20, 19, 20]","['scan', 'hack', 'malware']"
-ip,45.153.231.104,2021-11-06T00:00:00Z,2022-04-27T22:18:02Z,"['Malware:MimiKatz', 'Malware:LaZagne', 'Malware:PowGoop', 'Tool:Mimikatz - S0002', 'OCD - Threat pattern:Command and Control [C2]', 'Tool:LaZagne - S0349', 'Malware:POWERSTATS - S0223', 'Malware:Mori Backdoor', 'Malware:metasploit', 'Intrusion Set:MuddyWater - G0069']","[24, 33, 1, 1]","['hack', 'malware', 'phishing', 'scan']"
+ip,45.153.231.104,2021-11-06T00:00:00Z,2022-04-30T22:18:02Z,"['Malware:MimiKatz', 'Malware:LaZagne', 'Malware:PowGoop', 'Tool:Mimikatz - S0002', 'OCD - Threat pattern:Command and Control [C2]', 'Tool:LaZagne - S0349', 'Malware:POWERSTATS - S0223', 'Malware:Mori Backdoor', 'Malware:metasploit', 'Intrusion Set:MuddyWater - G0069']","[30, 1, 1, 21]","['malware', 'scan', 'phishing', 'hack']"
 ip,45.159.208.72,2022-01-28T23:12:14Z,2022-03-04T17:57:44Z,[],"[12, 13, 12]","['phishing', 'hack', 'malware']"
 ip,45.161.5.37,2022-02-20T14:02:14Z,2022-03-08T23:01:18Z,[],"[10, 7, 2, 2]","['hack', 'malware', 'phishing', 'scan']"
 ip,45.162.38.219,2022-03-25T00:00:00Z,2022-04-01T14:39:53Z,[],[20],['hack']
