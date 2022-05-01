@@ -680,7 +680,7 @@ domain,klotrast.ru,2021-12-26T03:49:43Z,2022-03-12T13:18:50Z,"['Malware:Pteranod
 domain,knolmail.xyz,2021-09-16T00:00:00Z,2022-04-02T08:50:26Z,"['Malware:Formbook', 'Malware:Xloader', 'Attack Pattern:Phishing - T1566']","[0, 0, 0, 0, 0, 12, 0, 0, 2]","['hack', 'spam', 'ddos', 'scam', 'scan', 'malware', 'leak', 'fraud', 'phishing']"
 domain,koete.ru,2022-02-03T23:45:52Z,2022-04-02T00:00:00Z,"['Malware:Pteranodon - S0147', 'Intrusion Set:Gamaredon Group - G0047', 'OCD - Threat pattern:Command and Control [C2]']","[15, 5, 1]","['hack', 'malware', 'phishing']"
 domain,kofukaku.ru,2022-02-03T23:45:52Z,2022-04-21T03:52:09Z,"['Malware:Pteranodon - S0147', 'Intrusion Set:Gamaredon Group - G0047']","[6, 1]","['malware', 'phishing']"
-domain,kolopart.ru,2022-02-16T10:42:59Z,2022-03-25T10:00:11Z,['Intrusion Set:Gamaredon Group - G0047'],"[8, 0, 15]","['malware', 'phishing', 'ddos']"
+domain,kolopart.ru,2022-02-16T10:42:59Z,2022-04-25T20:30:16Z,['Intrusion Set:Gamaredon Group - G0047'],"[3, 0, 0]","['ddos', 'malware', 'phishing']"
 domain,koloparto.ru,2022-02-16T10:42:59Z,2022-03-26T15:50:09Z,['Intrusion Set:Gamaredon Group - G0047'],"[1, 15, 11]","['phishing', 'ddos', 'malware']"
 domain,kolorato.ru,2021-11-11T23:50:40Z,2022-03-23T00:00:00Z,"['Malware:Pteranodon - S0147', 'Malware:WhisperGate', 'Malware:WildFire', 'Intrusion Set:Gamaredon Group - G0047', 'Malware:August Stealer']","[15, 19, 4]","['hack', 'malware', 'phishing']"
 domain,koloratos.ru,2022-01-31T17:28:02Z,2022-03-05T16:11:30Z,"['Malware:Pteranodon - S0147', 'Intrusion Set:Gamaredon Group - G0047']","[19, 10]","['malware', 'phishing']"
@@ -1077,7 +1077,7 @@ domain,settings-ukr.net,2019-12-11T00:00:00Z,2022-02-21T16:11:30Z,['Intrusion Se
 domain,severodoneck.site,2021-10-04T00:00:00Z,2022-02-25T16:11:30Z,[],"[0, 0, 16, 0, 0, 0, 19, 0, 0]","['scam', 'hack', 'phishing', 'fraud', 'scan', 'spam', 'malware', 'leak', 'ddos']"
 domain,shaparto.ru,2022-02-11T09:05:41Z,2022-03-05T16:11:30Z,['Intrusion Set:Gamaredon Group - G0047'],"[19, 15]","['malware', 'phishing']"
 domain,shaperi.online,2021-03-18T02:24:57Z,2022-03-30T16:11:30Z,[],"[2, 1]","['malware', 'phishing']"
-domain,shermana.ru,2021-04-05T15:54:06Z,2022-02-25T16:11:30Z,"['Malware:Pteranodon - S0147', 'Intrusion Set:Gamaredon Group - G0047']","[17, 18]","['phishing', 'malware']"
+domain,shermana.ru,2021-04-05T15:54:06Z,2022-03-30T16:11:30Z,"['Malware:Pteranodon - S0147', 'Intrusion Set:Gamaredon Group - G0047']","[1, 1]","['malware', 'phishing']"
 domain,shermano.ru,2021-05-02T20:11:44Z,2022-02-21T16:11:30Z,"['Malware:Pteranodon - S0147', 'Intrusion Set:Gamaredon Group - G0047']","[19, 20]","['phishing', 'malware']"
 domain,shikjil.com,2022-03-22T10:51:28Z,2022-04-29T11:00:05Z,"['Malware:Cobalt Strike - S0154', 'Malware:TrickBot - S0266', 'OCD - Threat pattern:Command and Control [C2]']","[0, 0, 57, 0, 47, 2, 0, 0, 0]","['ddos', 'fraud', 'hack', 'leak', 'malware', 'phishing', 'scam', 'scan', 'spam']"
 domain,shormanz.com,2022-03-21T22:55:02Z,2022-04-30T09:49:15Z,"['Malware:Cobalt Strike - S0154', 'Malware:TrickBot - S0266', 'OCD - Threat pattern:Command and Control [C2]']","[31, 1, 0, 1, 0, 11, 1, 1, 0]","['malware', 'leak', 'fraud', 'phishing', 'spam', 'hack', 'ddos', 'scan', 'scam']"
@@ -2652,7 +2652,7 @@ ip,20.187.83.212,2022-03-04T00:00:00Z,2022-03-11T00:00:00Z,[],[12],['hack']
 ip,20.52.0.106,2022-01-04T06:32:44Z,2022-04-17T18:11:18Z,[],"[20, 0, 19, 15]","['scan', 'phishing', 'malware', 'hack']"
 ip,20.79.40.222,2022-02-05T00:00:00Z,2022-03-11T12:13:43Z,[],"[20, 20, 18]","['malware', 'scan', 'hack']"
 ip,200.109.180.253,2019-12-12T00:00:00Z,2022-03-08T23:57:44Z,[],[12],['hack']
-ip,201.131.240.38,2022-04-21T00:00:00Z,2022-05-01T06:11:45Z,[],"[45, 58, 10, 90]","['malware', 'scan', 'spam', 'hack']"
+ip,201.131.240.38,2022-04-21T00:00:00Z,2022-05-01T20:37:57Z,[],"[81, 10, 52, 45]","['hack', 'spam', 'scan', 'malware']"
 ip,201.142.211.141,2022-04-05T00:00:00Z,2022-04-15T12:12:43Z,[],"[20, 20, 11]","['scan', 'malware', 'hack']"
 ip,201.219.103.184,2022-02-25T08:03:54Z,2022-03-04T17:57:44Z,[],[12],['hack']
 ip,203.217.120.41,2018-12-27T00:00:00Z,2019-01-12T00:00:00Z,[],[2],['hack']
