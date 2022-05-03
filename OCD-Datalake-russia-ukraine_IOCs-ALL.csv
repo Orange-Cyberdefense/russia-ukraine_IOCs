@@ -425,7 +425,7 @@ domain,filopar.ru,2022-02-11T00:36:14Z,2022-03-21T20:06:48Z,['Intrusion Set:Gama
 domain,filorta.ru,2021-11-22T00:00:00Z,2022-04-22T03:50:27Z,"['Malware:Pteranodon - S0147', 'Malware:WhisperGate', 'Malware:WildFire', 'Intrusion Set:Gamaredon Group - G0047', 'Malware:August Stealer']","[1, 20]","['phishing', 'malware']"
 domain,fionar.xyz,2020-07-13T11:28:55Z,2022-02-25T16:11:30Z,['Intrusion Set:Gamaredon Group - G0047'],"[19, 19]","['malware', 'phishing']"
 domain,fiordan.ru,2021-11-11T03:52:42Z,2022-03-27T07:53:54Z,"['Malware:Pteranodon - S0147', 'Malware:WhisperGate', 'Malware:WildFire', 'Intrusion Set:Gamaredon Group - G0047', 'Malware:August Stealer']","[11, 11, 1]","['hack', 'malware', 'phishing']"
-domain,firasto.ru,2021-06-04T03:56:40Z,2022-03-12T13:18:50Z,"['Malware:Pteranodon - S0147', 'Malware:WhisperGate', 'Malware:WildFire', 'Intrusion Set:Gamaredon Group - G0047', 'Malware:August Stealer']","[4, 14]","['phishing', 'malware']"
+domain,firasto.ru,2021-06-04T03:56:40Z,2022-04-06T13:18:50Z,"['Malware:Pteranodon - S0147', 'Malware:WhisperGate', 'Malware:WildFire', 'Intrusion Set:Gamaredon Group - G0047', 'Malware:August Stealer']","[1, 1]","['malware', 'phishing']"
 domain,firatoska.ru,2022-02-11T09:05:36Z,2022-04-06T20:08:31Z,['Intrusion Set:Gamaredon Group - G0047'],"[4, 1]","['malware', 'phishing']"
 domain,fishara.ru,2014-05-25T19:02:16Z,2022-03-30T16:11:30Z,"['Malware:Pteranodon - S0147', 'Intrusion Set:Gamaredon Group - G0047']","[2, 1]","['malware', 'phishing']"
 domain,fishardo.ru,2021-07-29T00:00:00Z,2022-04-19T03:52:09Z,"['Malware:Pteranodon - S0147', 'Intrusion Set:Gamaredon Group - G0047']","[11, 1, 19]","['hack', 'phishing', 'malware']"
@@ -3286,7 +3286,7 @@ ip,45.87.154.82,2022-03-26T00:00:00Z,2022-04-02T00:00:00Z,[],[12],['hack']
 ip,45.87.154.95,2022-03-24T00:00:00Z,2022-03-29T14:01:46Z,[],[20],['hack']
 ip,45.89.69.228,2021-12-31T00:00:00Z,2022-01-16T00:00:00Z,[],[2],['hack']
 ip,45.95.11.34,2021-09-11T19:02:40Z,2022-04-05T19:23:47Z,"['Malware:InvisiMole - S0260', 'Intrusion Set:InvisiMole']","[10, 20, 15, 12]","['malware', 'scan', 'phishing', 'hack']"
-ip,45.95.147.24,2019-07-30T23:08:03Z,2022-04-30T09:07:03Z,"['Malware:QakBot - S0650', 'Malware:Mirai', 'Malware:Gafgyt']","[9, 0, 62, 42, 1, 0, 60, 0]","['ddos', 'fraud', 'hack', 'malware', 'phishing', 'scam', 'scan', 'spam']"
+ip,45.95.147.24,2019-07-30T23:08:03Z,2022-05-03T09:32:05Z,"['Malware:QakBot - S0650', 'Malware:Mirai', 'Malware:Gafgyt']","[5, 0, 56, 37, 1, 0, 54, 0]","['ddos', 'fraud', 'hack', 'malware', 'phishing', 'scam', 'scan', 'spam']"
 ip,46.101.175.132,2022-03-26T00:00:00Z,2022-04-02T00:00:00Z,[],[12],['hack']
 ip,46.101.254.238,2022-04-21T08:48:55Z,2022-05-01T08:48:55Z,[],[30],['malware']
 ip,46.105.97.11,2022-02-23T00:00:00Z,2022-05-02T19:12:18Z,[],"[1, 10, 76, 10, 1, 27]","['ddos', 'fraud', 'hack', 'leak', 'malware', 'scan']"
