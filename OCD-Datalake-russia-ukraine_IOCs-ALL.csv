@@ -572,7 +572,7 @@ domain,holorotop.ru,2022-02-04T04:22:22Z,2022-03-21T16:11:30Z,"['Malware:Pterano
 domain,holorta.ru,2022-01-04T14:23:41Z,2022-04-17T03:50:50Z,"['Malware:Pteranodon - S0147', 'Malware:WhisperGate', 'Malware:WildFire', 'Intrusion Set:Gamaredon Group - G0047', 'Malware:August Stealer']","[1, 1]","['malware', 'phishing']"
 domain,holotran.ru,2021-11-24T23:19:09Z,2022-03-12T13:18:50Z,"['Malware:Pteranodon - S0147', 'Malware:WhisperGate', 'Malware:WildFire', 'Intrusion Set:Gamaredon Group - G0047', 'Malware:August Stealer']","[14, 1]","['malware', 'phishing']"
 domain,holotras.ru,2022-02-11T09:05:41Z,2022-03-22T03:50:23Z,['Intrusion Set:Gamaredon Group - G0047'],"[1, 16]","['phishing', 'malware']"
-domain,holpantra.ru,2022-02-04T04:22:22Z,2022-03-05T16:11:30Z,"['Malware:Pteranodon - S0147', 'Intrusion Set:Gamaredon Group - G0047']","[18, 19]","['phishing', 'malware']"
+domain,holpantra.ru,2022-01-31T17:28:03Z,2022-03-30T16:11:30Z,"['Malware:Pteranodon - S0147', 'Intrusion Set:Gamaredon Group - G0047']","[2, 1]","['malware', 'phishing']"
 domain,holposta.ru,2021-12-27T09:19:49Z,2022-03-30T16:11:30Z,"['Malware:Pteranodon - S0147', 'Intrusion Set:Gamaredon Group - G0047']","[2, 1]","['malware', 'phishing']"
 domain,homephotomarketing.com,2021-09-16T00:00:00Z,2022-03-25T08:50:26Z,"['Malware:Formbook', 'Malware:Xloader', 'Attack Pattern:Phishing - T1566']","[0, 0, 18, 0, 0, 0, 0, 0, 0]","['hack', 'leak', 'malware', 'scan', 'ddos', 'fraud', 'phishing', 'scam', 'spam']"
 domain,homoptera.online,2021-01-25T00:00:00Z,2022-03-30T16:11:30Z,"['Malware:Pteranodon - S0147', 'Intrusion Set:Gamaredon Group - G0047']","[0, 0, 0, 0, 1, 1, 0, 0, 0]","['ddos', 'fraud', 'hack', 'leak', 'malware', 'phishing', 'scam', 'scan', 'spam']"
@@ -3285,7 +3285,7 @@ ip,45.87.154.82,2022-03-26T00:00:00Z,2022-04-02T00:00:00Z,[],[12],['hack']
 ip,45.87.154.95,2022-03-24T00:00:00Z,2022-03-29T14:01:46Z,[],[20],['hack']
 ip,45.89.69.228,2021-12-31T00:00:00Z,2022-01-16T00:00:00Z,[],[2],['hack']
 ip,45.95.11.34,2021-09-11T19:02:40Z,2022-04-05T19:23:47Z,"['Malware:InvisiMole - S0260', 'Intrusion Set:InvisiMole']","[10, 20, 15, 12]","['malware', 'scan', 'phishing', 'hack']"
-ip,45.95.147.24,2019-07-30T23:08:03Z,2022-05-04T09:07:03Z,"['Malware:QakBot - S0650', 'Malware:Mirai', 'Malware:Gafgyt']","[0, 31, 37, 0, 1, 54, 0, 5]","['spam', 'hack', 'malware', 'fraud', 'phishing', 'scan', 'scam', 'ddos']"
+ip,45.95.147.24,2019-07-30T23:08:03Z,2022-05-04T13:06:51Z,"['Malware:QakBot - S0650', 'Malware:Mirai', 'Malware:Gafgyt']","[5, 0, 34, 38, 1, 0, 56, 0]","['ddos', 'fraud', 'hack', 'malware', 'phishing', 'scam', 'scan', 'spam']"
 ip,46.101.175.132,2022-03-26T00:00:00Z,2022-04-02T00:00:00Z,[],[12],['hack']
 ip,46.101.254.238,2022-04-21T08:48:55Z,2022-05-01T08:48:55Z,[],[30],['malware']
 ip,46.105.97.11,2022-02-23T00:00:00Z,2022-05-02T19:12:18Z,[],"[1, 10, 76, 10, 1, 27]","['ddos', 'fraud', 'hack', 'leak', 'malware', 'scan']"
