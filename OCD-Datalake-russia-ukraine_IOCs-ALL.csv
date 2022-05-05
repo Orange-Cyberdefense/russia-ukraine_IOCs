@@ -1195,7 +1195,7 @@ domain,vernalisa.xyz,2020-08-15T12:00:02Z,2022-03-30T16:11:30Z,['Intrusion Set:G
 domain,verofes.com,2022-03-21T00:00:00Z,2022-05-03T07:30:54Z,"['Malware:TrickBot - S0266', 'OCD - Threat pattern:Command and Control [C2]', 'Tool:Cobalt Strike - S0154']","[0, 0, 16, 0, 38, 8, 0, 0, 0]","['ddos', 'fraud', 'hack', 'leak', 'malware', 'phishing', 'scam', 'scan', 'spam']"
 domain,verusa.ru,2022-02-04T04:22:22Z,2022-03-05T16:11:30Z,"['Malware:Pteranodon - S0147', 'Intrusion Set:Gamaredon Group - G0047']","[19, 17]","['malware', 'phishing']"
 domain,vibrida.ru,2021-05-19T16:15:14Z,2022-02-25T16:11:30Z,"['Malware:Pteranodon - S0147', 'Intrusion Set:Gamaredon Group - G0047']","[17, 19]","['phishing', 'malware']"
-domain,vidarri.ru,2022-02-03T23:45:51Z,2022-03-30T16:11:30Z,"['Malware:Pteranodon - S0147', 'Intrusion Set:Gamaredon Group - G0047']","[2, 1]","['malware', 'phishing']"
+domain,vidarri.ru,2022-02-03T23:45:51Z,2022-05-05T02:07:55Z,"['Malware:Pteranodon - S0147', 'Intrusion Set:Gamaredon Group - G0047']","[6, 13]","['malware', 'phishing']"
 domain,videotri.ru,2022-02-16T10:42:59Z,2022-05-03T14:40:15Z,['Intrusion Set:Gamaredon Group - G0047'],"[3, 21, 1]","['ddos', 'malware', 'phishing']"
 domain,vincula.online,2020-12-03T17:06:00Z,2022-02-25T16:11:30Z,"['Attack Pattern:Phishing - T1566', 'Intrusion Set:Gamaredon Group - G0047']","[12, 13]","['malware', 'phishing']"
 domain,viraglo.site,2020-12-12T00:00:00Z,2022-02-25T16:11:30Z,['Intrusion Set:Gamaredon Group - G0047'],"[0, 0, 0, 0, 20, 0, 0, 16, 0]","['spam', 'fraud', 'ddos', 'scam', 'malware', 'leak', 'hack', 'phishing', 'scan']"
@@ -2547,7 +2547,7 @@ ip,188.32.6.34,2022-03-12T00:00:00Z,2022-03-19T00:00:00Z,[],[12],['hack']
 ip,188.93.210.54,2019-11-06T02:21:22Z,2022-03-11T16:11:30Z,"['Malware:Pteranodon - S0147', 'Intrusion Set:Gamaredon Group - G0047']","[1, 1, 1, 1]","['hack', 'malware', 'phishing', 'scan']"
 ip,189.206.22.187,2022-02-25T08:03:54Z,2022-03-19T04:06:33Z,[],[17],['hack']
 ip,189.245.78.26,2022-02-25T08:03:54Z,2022-03-04T17:57:43Z,[],[12],['hack']
-ip,190.2.153.227,2022-04-17T00:00:00Z,2022-04-24T00:00:00Z,[],[12],['hack']
+ip,190.2.153.227,2022-04-17T00:00:00Z,2022-05-05T03:39:04Z,[],"[55, 80]","['hack', 'scan']"
 ip,190.201.12.145,2020-04-03T00:00:00Z,2022-03-08T23:57:43Z,[],[12],['hack']
 ip,190.206.191.41,2017-04-08T20:45:30Z,2022-03-04T17:57:44Z,[],"[12, 0, 0]","['hack', 'malware', 'phishing']"
 ip,190.206.244.70,2022-02-25T08:03:54Z,2022-03-07T20:34:23Z,[],"[12, 9, 4]","['hack', 'malware', 'phishing']"
