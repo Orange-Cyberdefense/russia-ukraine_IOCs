@@ -1221,7 +1221,7 @@ domain,xantoma.ru,2022-02-03T23:45:51Z,2022-03-30T16:11:30Z,"['Intrusion Set:Gam
 domain,xbeta.online,2020-10-22T00:00:00Z,2022-04-08T23:10:16Z,[],"[0, 0, 15, 0, 100, 1, 0, 0, 0]","['ddos', 'fraud', 'hack', 'leak', 'malware', 'phishing', 'scam', 'scan', 'spam']"
 domain,xiphosura.online,2021-01-19T00:00:00Z,2022-03-30T16:11:30Z,['Intrusion Set:Gamaredon Group - G0047'],"[0, 0, 0, 0, 0, 1, 1, 0, 0]","['ddos', 'fraud', 'hack', 'leak', 'malware', 'phishing', 'scam', 'scan', 'spam']"
 domain,xn--ltda-epa.com,2021-09-16T00:00:00Z,2022-04-02T08:50:26Z,"['Malware:Formbook', 'Attack Pattern:Phishing - T1566', 'Malware:Xloader']","[0, 0, 0, 13, 0, 0, 0, 0, 0]","['fraud', 'phishing', 'scan', 'malware', 'leak', 'ddos', 'hack', 'scam', 'spam']"
-domain,xyyvivo.com,2019-06-13T20:34:55Z,2022-04-27T15:37:42Z,"['Attack Pattern:Phishing - T1566', 'Malware:Formbook', 'Malware:Xloader']","[0, 0, 0, 0, 1, 0, 0, 0, 0]","['ddos', 'fraud', 'hack', 'leak', 'malware', 'phishing', 'scam', 'scan', 'spam']"
+domain,xyyvivo.com,2019-06-13T20:34:55Z,2022-04-27T15:37:42Z,"['Attack Pattern:Phishing - T1566', 'Malware:Formbook', 'Malware:Xloader']","[0, 0, 0, 1, 0, 0, 0, 0, 0]","['fraud', 'hack', 'leak', 'malware', 'phishing', 'scam', 'scan', 'spam', 'ddos']"
 domain,yellowumbrellamarketing.com,2021-09-16T00:00:00Z,2022-03-25T08:50:26Z,"['Malware:Formbook', 'Attack Pattern:Phishing - T1566', 'Malware:Xloader']","[0, 0, 0, 0, 0, 20, 0, 0, 0]","['ddos', 'fraud', 'leak', 'scan', 'hack', 'malware', 'phishing', 'scam', 'spam']"
 domain,yhomggsmtdynchb.store,2021-09-16T00:00:00Z,2022-04-02T08:50:26Z,"['Malware:Formbook', 'Attack Pattern:Phishing - T1566', 'Malware:Xloader']","[0, 2, 0, 0, 0, 14, 0, 0, 0]","['ddos', 'phishing', 'scam', 'spam', 'fraud', 'malware', 'scan', 'leak', 'hack']"
 domain,yubikiri.ru,2021-10-18T17:58:23Z,2022-02-25T16:11:30Z,"['Intrusion Set:Gamaredon Group - G0047', 'Malware:Pteranodon - S0147']","[20, 19]","['phishing', 'malware']"
@@ -2487,7 +2487,7 @@ ip,185.232.52.57,2021-06-19T22:08:26Z,2022-03-04T17:57:44Z,[],"[11, 1, 12, 11, 1
 ip,185.232.52.58,2022-02-04T07:53:36Z,2022-03-04T17:57:44Z,[],[13],['hack']
 ip,185.232.52.60,2022-02-04T07:43:58Z,2022-03-04T17:57:44Z,[],"[13, 12, 12]","['hack', 'malware', 'phishing']"
 ip,185.232.52.61,2022-02-04T07:43:51Z,2022-03-04T17:57:44Z,[],[13],['hack']
-ip,185.238.171.67,2022-04-21T08:48:56Z,2022-05-01T08:48:56Z,[],[30],['malware']
+ip,185.238.171.67,2022-04-21T08:48:56Z,2022-05-05T08:48:56Z,[],[15],['malware']
 ip,185.243.112.89,2022-03-19T00:00:00Z,2022-03-29T03:11:02Z,[],"[20, 11, 20]","['malware', 'hack', 'scan']"
 ip,185.244.180.13,2022-02-25T15:14:58Z,2022-03-22T15:52:12Z,"['OCD - Threat pattern:Command and Control [C2]', 'Intrusion Set:Ghostwriter']","[13, 9, 0, 1]","['hack', 'malware', 'phishing', 'scan']"
 ip,185.246.208.132,2019-04-26T00:00:00Z,2022-03-18T05:27:43Z,[],"[2, 2, 2, 1, 0]","['hack', 'malware', 'phishing', 'scan', 'spam']"
@@ -3288,7 +3288,7 @@ ip,45.89.69.228,2021-12-31T00:00:00Z,2022-01-16T00:00:00Z,[],[2],['hack']
 ip,45.95.11.34,2021-09-11T19:02:40Z,2022-04-05T19:23:47Z,"['Malware:InvisiMole - S0260', 'Intrusion Set:InvisiMole']","[10, 20, 15, 12]","['malware', 'scan', 'phishing', 'hack']"
 ip,45.95.147.24,2019-07-30T23:08:03Z,2022-05-05T00:10:08Z,"['Malware:QakBot - S0650', 'Malware:Gafgyt', 'Malware:Mirai']","[5, 0, 39, 39, 1, 0, 56, 0]","['ddos', 'fraud', 'hack', 'malware', 'phishing', 'scam', 'scan', 'spam']"
 ip,46.101.175.132,2022-03-26T00:00:00Z,2022-04-02T00:00:00Z,[],[12],['hack']
-ip,46.101.254.238,2022-04-21T08:48:55Z,2022-05-01T08:48:55Z,[],[30],['malware']
+ip,46.101.254.238,2022-04-21T08:48:55Z,2022-05-05T08:48:55Z,[],[15],['malware']
 ip,46.105.97.11,2022-02-23T00:00:00Z,2022-05-05T01:11:36Z,[],"[1, 10, 76, 10, 1, 28]","['ddos', 'fraud', 'hack', 'leak', 'malware', 'scan']"
 ip,46.139.233.68,2022-02-25T08:03:54Z,2022-03-04T17:57:44Z,[],"[12, 13, 13]","['hack', 'phishing', 'malware']"
 ip,46.147.101.76,2022-03-29T00:00:00Z,2022-04-03T11:51:15Z,[],[19],['hack']
@@ -3829,7 +3829,7 @@ ip,95.181.16.81,2022-02-25T11:17:55Z,2022-03-12T08:49:43Z,[],"[10, 16, 13, 16]",
 ip,95.181.161.50,2022-01-03T00:00:00Z,2022-04-02T18:32:16Z,"['Tool:LaZagne - S0349', 'Tool:Mimikatz - S0002', 'Malware:POWERSTATS - S0223', 'Malware:Mori Backdoor', 'Malware:LaZagne', 'Malware:PowGoop', 'OCD - Threat pattern:Command and Control [C2]', 'Intrusion Set:MuddyWater - G0069', 'Malware:MimiKatz']","[1, 1, 1, 17]","['phishing', 'hack', 'scan', 'malware']"
 ip,95.181.237.44,2022-04-18T00:00:00Z,2022-04-25T00:00:00Z,[],"[0, 12, 0]","['phishing', 'hack', 'malware']"
 ip,95.211.175.153,2022-02-25T08:03:54Z,2022-03-04T17:57:43Z,[],[12],['hack']
-ip,95.216.200.37,2022-04-21T08:48:56Z,2022-05-01T08:48:56Z,[],[30],['malware']
+ip,95.216.200.37,2022-04-21T08:48:56Z,2022-05-05T08:48:56Z,[],[15],['malware']
 ip,95.27.182.245,2022-03-02T00:00:00Z,2022-03-10T11:57:44Z,[],[12],['hack']
 ip,95.52.109.121,2019-11-30T15:11:41Z,2022-03-20T00:00:00Z,[],"[12, 8, 0, 8]","['hack', 'malware', 'spam', 'phishing']"
 ip,95.55.165.34,2022-02-27T00:00:00Z,2022-03-08T23:57:43Z,[],[13],['hack']
@@ -3855,7 +3855,7 @@ url,http://138.68.229.0/pe.dll,2022-04-18T14:00:01Z,2022-05-03T07:30:54Z,"['Tool
 url,http://139.180.180.120/credit/cranny.au,2022-04-20T11:44:55Z,2022-05-01T07:48:41Z,['Intrusion Set:Gamaredon Group - G0047'],"[18, 39]","['phishing', 'malware']"
 url,http://144.202.91.27/baseball.dbc,2022-04-20T11:45:05Z,2022-05-01T07:48:42Z,['Intrusion Set:Gamaredon Group - G0047'],"[16, 38]","['phishing', 'malware']"
 url,http://149.248.60.74/jam.j2k,2022-04-20T11:45:05Z,2022-05-05T07:48:42Z,['Intrusion Set:Gamaredon Group - G0047'],"[43, 11]","['malware', 'phishing']"
-url,http://151.248.112.232/custom/crept.nds,2022-04-21T07:41:38Z,2022-05-01T08:23:53Z,['Intrusion Set:Gamaredon Group - G0047'],"[21, 42]","['phishing', 'malware']"
+url,http://151.248.112.232/custom/crept.nds,2022-04-21T07:41:38Z,2022-05-05T08:23:53Z,['Intrusion Set:Gamaredon Group - G0047'],"[42, 10]","['malware', 'phishing']"
 url,http://151.248.116.181/deserter.mdl?id=4266,2022-04-20T11:44:55Z,2022-05-01T08:23:53Z,['Intrusion Set:Gamaredon Group - G0047'],"[19, 42]","['phishing', 'malware']"
 url,http://151.248.125.115/correction/crude.mdm,2022-04-20T11:44:56Z,2022-05-05T07:48:42Z,['Intrusion Set:Gamaredon Group - G0047'],"[42, 10]","['malware', 'phishing']"
 url,http://151.248.125.115/custom/crept.nds,2022-04-20T11:45:06Z,2022-05-01T08:23:53Z,['Intrusion Set:Gamaredon Group - G0047'],"[18, 41]","['phishing', 'malware']"
@@ -3868,7 +3868,7 @@ url,http://185.189.69.162/jersey.icb,2022-04-21T07:41:38Z,2022-04-30T10:06:12Z,[
 url,http://185.189.69.173/baseball.dbc,2022-04-20T11:45:06Z,2022-05-01T07:49:20Z,['Intrusion Set:Gamaredon Group - G0047'],"[42, 20]","['malware', 'phishing']"
 url,http://185.189.69.174/absorb.flv,2022-04-20T11:45:05Z,2022-05-01T07:49:20Z,['Intrusion Set:Gamaredon Group - G0047'],"[16, 38]","['phishing', 'malware']"
 url,http://185.189.69.174/baseball.dbc,2022-04-21T07:41:38Z,2022-04-30T10:06:12Z,['Intrusion Set:Gamaredon Group - G0047'],"[20, 50]","['phishing', 'malware']"
-url,http://185.189.69.224/deserter.mdl?id=4266,2022-04-20T11:45:05Z,2022-05-01T08:23:53Z,['Intrusion Set:Gamaredon Group - G0047'],"[44, 21]","['malware', 'phishing']"
+url,http://185.189.69.224/deserter.mdl?id=4266,2022-04-20T11:45:05Z,2022-05-05T08:23:53Z,['Intrusion Set:Gamaredon Group - G0047'],"[44, 10]","['malware', 'phishing']"
 url,http://185.189.69.23/absorb.wm10.12.2021%2012:25:28,2022-04-20T11:45:05Z,2022-05-01T07:49:20Z,['Intrusion Set:Gamaredon Group - G0047'],"[38, 16]","['malware', 'phishing']"
 url,http://185.20.227.235/frustration.3gpp2,2022-04-20T11:45:05Z,2022-05-01T08:23:53Z,['Intrusion Set:Gamaredon Group - G0047'],"[18, 41]","['phishing', 'malware']"
 url,http://185.46.10.25/credit/cranny.au,2022-04-20T11:44:55Z,2022-05-01T08:23:54Z,['Intrusion Set:Gamaredon Group - G0047'],"[43, 20]","['malware', 'phishing']"
@@ -3937,10 +3937,10 @@ url,http://89.108.64.198/put.php,2022-04-20T11:44:57Z,2022-05-01T08:23:53Z,['Int
 url,http://89.108.70.90/correct/copyright/court.tmp,2022-04-20T11:45:05Z,2022-05-01T07:50:55Z,['Intrusion Set:Gamaredon Group - G0047'],"[38, 16]","['malware', 'phishing']"
 url,http://89.108.70.90/credit/cranny.au,2022-04-20T11:44:56Z,2022-05-01T07:50:55Z,['Intrusion Set:Gamaredon Group - G0047'],"[16, 38]","['phishing', 'malware']"
 url,http://89.108.70.90/deserter.mdl?id=4266,2022-04-20T11:45:05Z,2022-05-01T07:50:55Z,['Intrusion Set:Gamaredon Group - G0047'],"[16, 38]","['phishing', 'malware']"
-url,http://89.108.76.215/deserter.mdl?id=4266,2022-04-20T11:44:56Z,2022-05-01T08:23:53Z,['Intrusion Set:Gamaredon Group - G0047'],"[21, 44]","['phishing', 'malware']"
+url,http://89.108.76.215/deserter.mdl?id=4266,2022-04-20T11:44:56Z,2022-05-05T08:23:53Z,['Intrusion Set:Gamaredon Group - G0047'],"[44, 10]","['malware', 'phishing']"
 url,http://89.108.78.229/custom/crept.nds,2022-04-20T11:44:56Z,2022-05-05T07:50:55Z,['Intrusion Set:Gamaredon Group - G0047'],"[10, 42]","['phishing', 'malware']"
 url,http://89.108.78.90/credit/cranny.au,2022-04-20T11:45:06Z,2022-05-05T07:50:55Z,['Intrusion Set:Gamaredon Group - G0047'],"[12, 44]","['phishing', 'malware']"
-url,http://89.108.79.146/correction/crude.mdm,2022-04-21T07:41:38Z,2022-05-01T08:23:53Z,['Intrusion Set:Gamaredon Group - G0047'],"[21, 42]","['phishing', 'malware']"
+url,http://89.108.79.146/correction/crude.mdm,2022-04-21T07:41:38Z,2022-05-05T08:23:53Z,['Intrusion Set:Gamaredon Group - G0047'],"[10, 42]","['phishing', 'malware']"
 url,http://89.108.81.181/crimson/crystal.bnk,2022-04-20T11:45:04Z,2022-05-01T07:50:55Z,['Intrusion Set:Gamaredon Group - G0047'],"[38, 16]","['malware', 'phishing']"
 url,http://89.108.81.75/credit/cranny.au,2022-04-20T11:45:04Z,2022-05-05T07:50:55Z,['Intrusion Set:Gamaredon Group - G0047'],"[10, 42]","['phishing', 'malware']"
 url,http://89.108.98.79/crimson/crystal.bnk,2022-04-20T11:45:05Z,2022-05-01T07:50:55Z,['Intrusion Set:Gamaredon Group - G0047'],"[16, 38]","['phishing', 'malware']"
