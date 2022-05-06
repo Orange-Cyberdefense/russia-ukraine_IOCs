@@ -93,7 +93,7 @@ domain,apoxipodes.online,2021-01-19T00:00:00Z,2022-02-25T16:11:30Z,['Intrusion S
 domain,apps-opros.top,2022-04-21T08:46:34Z,2022-04-30T08:46:34Z,[],[50],['malware']
 domain,apusa.xyz,2017-05-29T09:44:46Z,2022-02-21T16:11:30Z,['Intrusion Set:Gamaredon Group - G0047'],"[3, 8, 16]","['hack', 'malware', 'phishing']"
 domain,apusi.xyz,2020-09-02T19:30:19Z,2022-02-25T16:11:30Z,['Intrusion Set:Gamaredon Group - G0047'],"[20, 20]","['phishing', 'malware']"
-domain,arachnidas.online,2021-01-19T00:00:00Z,2022-03-30T16:11:30Z,"['Malware:Pteranodon - S0147', 'Intrusion Set:Gamaredon Group - G0047']","[0, 0, 0, 0, 1, 1, 0, 0, 0]","['ddos', 'fraud', 'hack', 'leak', 'malware', 'phishing', 'scam', 'scan', 'spam']"
+domain,arachnidas.online,2021-01-19T00:00:00Z,2022-03-30T16:11:30Z,"['Malware:Pteranodon - S0147', 'Intrusion Set:Gamaredon Group - G0047']","[0, 0, 0, 0, 2, 1, 0, 0, 0]","['ddos', 'fraud', 'hack', 'leak', 'malware', 'phishing', 'scam', 'scan', 'spam']"
 domain,arachnidas.ru,2021-01-22T16:20:17Z,2022-03-30T16:11:30Z,"['Malware:Pteranodon - S0147', 'Intrusion Set:Gamaredon Group - G0047']","[1, 1, 1]","['malware', 'phishing', 'scam']"
 domain,aradewa.ru,2022-01-15T03:52:39Z,2022-04-25T03:52:09Z,"['Malware:Pteranodon - S0147', 'Intrusion Set:Gamaredon Group - G0047']","[15, 1]","['malware', 'phishing']"
 domain,archaicus.online,2021-01-26T15:57:42Z,2022-02-21T16:11:30Z,['Intrusion Set:Gamaredon Group - G0047'],"[19, 20]","['malware', 'phishing']"
@@ -613,7 +613,7 @@ domain,iersin.ru,2021-04-05T15:54:06Z,2022-03-30T16:11:30Z,"['Malware:Pteranodon
 domain,igneus.xyz,2021-01-24T14:52:09Z,2022-02-25T16:11:30Z,['Intrusion Set:Gamaredon Group - G0047'],"[19, 20]","['malware', 'phishing']"
 domain,ikademo.ru,2022-01-10T18:19:18Z,2022-03-30T16:11:30Z,"['Malware:Pteranodon - S0147', 'Intrusion Set:Gamaredon Group - G0047']","[1, 1]","['malware', 'phishing']"
 domain,ikaramo.ru,2022-01-10T18:50:25Z,2022-04-30T00:00:00Z,"['Malware:Pteranodon - S0147', 'Intrusion Set:Gamaredon Group - G0047', 'OCD - Threat pattern:Command and Control [C2]']","[50, 16, 1]","['hack', 'malware', 'phishing']"
-domain,ikaraur.ru,2022-01-22T15:55:13Z,2022-05-04T00:00:00Z,"['Malware:WildFire', 'Malware:Pteranodon - S0147', 'OCD - Threat pattern:Command and Control [C2]', 'Malware:WhisperGate', 'Intrusion Set:Gamaredon Group - G0047', 'Malware:August Stealer']","[30, 14, 16]","['hack', 'malware', 'phishing']"
+domain,ikaraur.ru,2022-01-22T15:55:13Z,2022-05-04T00:00:00Z,"['Malware:WildFire', 'Malware:Pteranodon - S0147', 'OCD - Threat pattern:Command and Control [C2]', 'Malware:WhisperGate', 'Intrusion Set:Gamaredon Group - G0047', 'Malware:August Stealer']","[30, 14, 3]","['hack', 'malware', 'phishing']"
 domain,ilyapershin.com,2021-09-16T00:00:00Z,2022-04-02T08:50:26Z,"['Malware:Xloader', 'Attack Pattern:Phishing - T1566', 'Malware:Formbook']","[0, 0, 0, 0, 0, 0, 13, 0, 0]","['hack', 'spam', 'fraud', 'scan', 'phishing', 'ddos', 'malware', 'leak', 'scam']"
 domain,inachis.online,2021-01-25T00:00:00Z,2022-03-30T16:11:30Z,"['Malware:Pteranodon - S0147', 'Intrusion Set:Gamaredon Group - G0047']","[0, 0, 0, 0, 1, 1, 0, 0, 0]","['ddos', 'fraud', 'hack', 'leak', 'malware', 'phishing', 'scam', 'scan', 'spam']"
 domain,inachis.ru,2021-11-19T03:49:36Z,2022-02-25T16:11:30Z,"['Malware:Pteranodon - S0147', 'Intrusion Set:Gamaredon Group - G0047']","[18, 17]","['phishing', 'malware']"
@@ -2314,7 +2314,7 @@ ip,176.118.164.124,2021-10-06T11:35:51Z,2022-03-11T16:11:30Z,"['Malware:Pteranod
 ip,176.118.164.159,2021-12-04T00:00:00Z,2022-02-21T16:11:30Z,"['Malware:Pteranodon - S0147', 'Intrusion Set:Gamaredon Group - G0047']","[3, 3, 17, 18]","['hack', 'scan', 'malware', 'phishing']"
 ip,176.118.164.187,2021-10-24T16:26:39Z,2022-02-22T01:59:51Z,"['Malware:Pteranodon - S0147', 'Intrusion Set:Gamaredon Group - G0047']","[18, 3, 18, 20, 19]","['phishing', 'hack', 'ddos', 'malware', 'scan']"
 ip,176.118.165.76,2021-10-12T07:24:20Z,2022-03-02T13:18:50Z,"['Malware:WildFire', 'Malware:Pteranodon - S0147', 'Malware:WhisperGate', 'Intrusion Set:Gamaredon Group - G0047', 'Malware:August Stealer']","[1, 15, 3, 1]","['scan', 'malware', 'phishing', 'hack']"
-ip,176.119.84.250,2022-05-03T00:00:00Z,2022-05-06T10:24:42Z,[],[58],['hack']
+ip,176.119.84.250,2022-05-03T00:00:00Z,2022-05-06T22:24:42Z,[],[46],['hack']
 ip,176.120.107.50,2022-03-04T00:00:00Z,2022-03-11T00:00:00Z,[],[12],['hack']
 ip,176.125.104.232,2022-03-05T00:00:00Z,2022-03-13T13:16:44Z,[],[15],['hack']
 ip,176.194.127.203,2022-03-19T00:00:00Z,2022-03-24T09:39:15Z,[],[19],['hack']
