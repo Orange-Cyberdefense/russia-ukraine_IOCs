@@ -1142,7 +1142,7 @@ domain,testudos.online,2021-01-26T15:57:42Z,2022-03-30T16:11:30Z,['Intrusion Set
 domain,thermop.ru,2021-02-26T15:53:01Z,2022-02-26T16:11:30Z,"['Malware:Pteranodon - S0147', 'Intrusion Set:Gamaredon Group - G0047']","[17, 7]","['malware', 'phishing']"
 domain,tilapian.online,2020-11-05T00:00:00Z,2022-02-26T16:11:30Z,['Intrusion Set:Gamaredon Group - G0047'],"[0, 0, 0, 0, 13, 5, 0, 0, 0]","['ddos', 'fraud', 'hack', 'leak', 'malware', 'phishing', 'scam', 'scan', 'spam']"
 domain,timanar.ru,2021-07-27T15:11:40Z,2022-05-01T10:30:10Z,"['Malware:Pteranodon - S0147', 'Intrusion Set:Gamaredon Group - G0047']","[1, 2, 0]","['hack', 'malware', 'phishing']"
-domain,timerto.ru,2021-07-23T23:50:38Z,2022-05-04T05:06:44Z,"['Malware:Pteranodon - S0147', 'Intrusion Set:Gamaredon Group - G0047']","[13, 26]","['phishing', 'malware']"
+domain,timerto.ru,2021-07-23T23:50:38Z,2022-05-06T05:06:44Z,"['Malware:Pteranodon - S0147', 'Intrusion Set:Gamaredon Group - G0047']","[13, 21]","['phishing', 'malware']"
 domain,tirotar.ru,2022-02-16T10:42:59Z,2022-04-06T20:30:14Z,['Intrusion Set:Gamaredon Group - G0047'],"[3, 8, 1]","['ddos', 'malware', 'phishing']"
 domain,titolora.ru,2022-02-03T23:45:51Z,2022-03-30T16:11:30Z,"['Malware:Pteranodon - S0147', 'Intrusion Set:Gamaredon Group - G0047']","[2, 1]","['malware', 'phishing']"
 domain,tnoi.online,2021-02-13T00:00:00Z,2022-03-30T16:11:30Z,['Intrusion Set:Gamaredon Group - G0047'],"[0, 0, 3, 0, 1, 1, 0, 0, 0]","['ddos', 'fraud', 'hack', 'leak', 'malware', 'phishing', 'scam', 'scan', 'spam']"
@@ -2527,7 +2527,7 @@ ip,188.162.64.213,2019-11-06T00:00:00Z,2022-03-11T13:46:53Z,[],[18],['hack']
 ip,188.163.121.209,2022-03-20T00:00:00Z,2022-04-13T02:23:00Z,[],[17],['hack']
 ip,188.163.83.199,2019-05-10T00:00:00Z,2019-05-26T00:00:00Z,[],[2],['hack']
 ip,188.164.189.200,2022-03-24T00:00:00Z,2022-03-31T00:00:00Z,[],[12],['hack']
-ip,188.166.154.118,2022-03-21T21:18:56Z,2022-05-04T04:10:27Z,"['Tool:PsExec - S0029', 'Malware:IcedID - S0483', 'OCD - Threat pattern:Command and Control [C2]', 'Tool:Cobalt Strike - S0154', 'Malware:PsExec']","[3, 37, 17, 1]","['phishing', 'malware', 'hack', 'scan']"
+ip,188.166.154.118,2022-03-21T21:18:56Z,2022-05-06T05:39:12Z,"['Tool:PsExec - S0029', 'Malware:IcedID - S0483', 'OCD - Threat pattern:Command and Control [C2]', 'Tool:Cobalt Strike - S0154', 'Malware:PsExec']","[1, 33, 17, 3]","['scan', 'malware', 'hack', 'phishing']"
 ip,188.166.42.66,2022-03-09T00:00:00Z,2022-03-28T13:08:23Z,[],"[20, 20, 18]","['malware', 'scan', 'hack']"
 ip,188.166.45.136,2020-10-19T12:48:47Z,2022-04-23T23:03:22Z,[],"[15, 0, 0]","['hack', 'malware', 'phishing']"
 ip,188.212.125.188,2022-03-22T00:00:00Z,2022-03-29T00:00:00Z,[],[12],['hack']
