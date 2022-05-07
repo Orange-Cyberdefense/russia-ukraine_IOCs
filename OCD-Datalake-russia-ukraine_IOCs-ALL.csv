@@ -1380,7 +1380,7 @@ file,3627b13d36e2ce765e53b41473ea608136beec5e9469e23b38945f3d4e56e369,2022-04-21
 file,367117e3acf6317b4cec64e514d461f9e761146aca0cb6eed9ef5a1fb35b63cc,2022-02-04T04:22:22Z,2022-05-05T11:56:04Z,"['Malware:Pteranodon - S0147', 'Intrusion Set:Gamaredon Group - G0047']",[73],['malware']
 file,36dc2a5bab2665c88ce407d270954d04,2022-03-22T12:16:02Z,2022-04-22T16:51:38Z,"['Malware:WhisperGate', 'Malware:Wiper - S0041']","[27, 100, 50]","['hack', 'malware', 'phishing']"
 file,36f5344dbca7962a9c7d17040bc7aa90,2021-12-20T07:42:04Z,2022-04-17T16:11:30Z,"['Malware:Pteranodon - S0147', 'Intrusion Set:Gamaredon Group - G0047']","[65, 78]","['phishing', 'malware']"
-file,36ff9ec87c458d6d76b2afbd5120dfae,2022-01-05T00:00:00Z,2022-05-05T22:09:51Z,['Attack Pattern:Phishing - T1566'],"[71, 100, 45]","['hack', 'malware', 'phishing']"
+file,36ff9ec87c458d6d76b2afbd5120dfae,2022-01-05T00:00:00Z,2022-05-07T10:29:34Z,['Attack Pattern:Phishing - T1566'],"[90, 45, 71]","['malware', 'phishing', 'hack']"
 file,3766524348d9971882b61ab3523968d297ba1d4bdab86fbd29fc0791c58d83e1,2022-04-21T07:41:38Z,2022-04-21T10:06:12Z,['Intrusion Set:Gamaredon Group - G0047'],[100],['malware']
 file,38db59ec01e0defb14773af0d6a4437f,2021-12-12T01:36:09Z,2022-04-17T16:11:30Z,"['Malware:Pteranodon - S0147', 'Intrusion Set:Gamaredon Group - G0047']","[41, 75]","['phishing', 'malware']"
 file,3974f0b347dd42c5bd9d695a965f2fdd5a03b232702cb1162aad11307b68b6d7,2022-02-04T04:22:22Z,2022-05-05T11:56:04Z,"['Malware:Pteranodon - S0147', 'Intrusion Set:Gamaredon Group - G0047']",[73],['malware']
@@ -1513,7 +1513,7 @@ file,6986b3200ac970ee0bd0884c471eaf9c9afbfcc8e94685ff48c1b8dd492632cb,2022-04-21
 file,6a64a8e2202db7f3a77d32b4852b71acf620f96580ca015e8bff8f5a09622032,2022-01-31T16:59:34Z,2022-04-24T13:18:50Z,"['Malware:WildFire', 'Malware:Pteranodon - S0147', 'Malware:WhisperGate', 'Intrusion Set:Gamaredon Group - G0047', 'Malware:August Stealer']",[81],['malware']
 file,6a9fc79e1b1afb091acf3c6c7797061e64f9ee3d5c3bae8c369f77b5f1caa38d,2022-01-31T16:59:34Z,2022-04-24T13:18:50Z,"['Malware:WildFire', 'Malware:Pteranodon - S0147', 'Malware:WhisperGate', 'Intrusion Set:Gamaredon Group - G0047', 'Malware:August Stealer']",[81],['malware']
 file,6aaec1520d036cb403592f937d1ce1f57b09baca440def7cbe9740a874252030,2022-01-31T16:59:34Z,2022-04-24T13:18:50Z,"['Malware:WildFire', 'Malware:Pteranodon - S0147', 'Malware:WhisperGate', 'Intrusion Set:Gamaredon Group - G0047', 'Malware:August Stealer']",[81],['malware']
-file,6b413beb61e46241481f556bb5cdb69c,2022-03-29T16:11:23Z,2022-05-05T22:09:51Z,['Attack Pattern:Phishing - T1566'],"[100, 27]","['malware', 'hack']"
+file,6b413beb61e46241481f556bb5cdb69c,2022-03-29T16:11:23Z,2022-05-07T10:29:34Z,['Attack Pattern:Phishing - T1566'],"[27, 90]","['hack', 'malware']"
 file,6c249c97421f30d4b96f5e4ff0a7ae1b1336dc0fe5ad07cd95133bb4848565a7,2022-04-21T07:41:38Z,2022-04-21T10:06:12Z,['Intrusion Set:Gamaredon Group - G0047'],[100],['malware']
 file,6c56934636df97a8b804329ce96926fa,2022-02-26T10:43:51Z,2022-05-04T00:00:00Z,"['Attack Pattern:Phishing - T1566', 'Intrusion Set:Ghostwriter', 'Attack Pattern:Command and Scripting Interpreter - T1059', 'Malware:STOP Ransomware', 'Malware:Demo']","[80, 41]","['malware', 'phishing']"
 file,6cd7b58ae6036ccbb8a3f9d28239b26da30d60bbcd710c9ffbec4c88a6b602d4,2022-01-31T16:59:34Z,2022-04-24T13:18:50Z,"['Malware:WildFire', 'Malware:Pteranodon - S0147', 'Malware:WhisperGate', 'Intrusion Set:Gamaredon Group - G0047', 'Malware:August Stealer']",[81],['malware']
@@ -1794,7 +1794,7 @@ file,d93551a9fa3ad9bdbb0f10dd447046e03a29bbb36245ac4245b80d982a78a930,2022-02-04
 file,d93f7fb038abdb8481e6de0008eaf501508c33c7aca8f40fdd384a7b309b31df,2022-01-31T16:59:34Z,2022-04-24T13:18:50Z,"['Malware:WildFire', 'Malware:Pteranodon - S0147', 'Malware:WhisperGate', 'Intrusion Set:Gamaredon Group - G0047', 'Malware:August Stealer']",[81],['malware']
 file,d9b7644923d2250ba6ea374a05f1d7054cc5704a61f196420670412eb79d1d4e,2022-01-31T16:59:34Z,2022-04-24T13:18:50Z,"['Malware:WildFire', 'Malware:Pteranodon - S0147', 'Malware:WhisperGate', 'Intrusion Set:Gamaredon Group - G0047', 'Malware:August Stealer']",[81],['malware']
 file,d9ca10667cbffcbf1caa8b9020a93cfd,2022-02-05T11:56:33Z,2022-04-24T13:18:50Z,"['Malware:WildFire', 'Malware:Pteranodon - S0147', 'Malware:WhisperGate', 'Intrusion Set:Gamaredon Group - G0047', 'Malware:August Stealer']",[81],['malware']
-file,da305627acf63792acb02afaf83d94d1,2022-01-05T00:00:00Z,2022-05-05T22:09:51Z,['Attack Pattern:Phishing - T1566'],"[58, 100, 78]","['phishing', 'malware', 'hack']"
+file,da305627acf63792acb02afaf83d94d1,2022-01-05T00:00:00Z,2022-05-07T10:29:34Z,['Attack Pattern:Phishing - T1566'],"[78, 59, 90]","['hack', 'phishing', 'malware']"
 file,da70759983fdd8cb0528f00210daa236bf64de225925642938e2c7e9646830a9,2022-04-21T07:41:38Z,2022-04-21T10:06:12Z,['Intrusion Set:Gamaredon Group - G0047'],[100],['malware']
 file,db3a6f57c76cbc0ca5bd8c1602ca99a311da76e816ad30a15eab22b65b3590bb,2022-01-31T16:59:34Z,2022-04-24T13:18:50Z,"['Malware:WildFire', 'Malware:Pteranodon - S0147', 'Malware:WhisperGate', 'Intrusion Set:Gamaredon Group - G0047', 'Malware:August Stealer']",[81],['malware']
 file,db49fe96714ebd9707e5cd31e7f366016e45926ff577cce9c34a73ee1b6efcf9,2022-01-31T16:59:34Z,2022-04-24T13:18:50Z,"['Malware:WildFire', 'Malware:Pteranodon - S0147', 'Malware:WhisperGate', 'Intrusion Set:Gamaredon Group - G0047', 'Malware:August Stealer']",[81],['malware']
@@ -2073,7 +2073,7 @@ ip,102.53.24.35,2022-02-26T00:00:00Z,2022-03-08T23:57:43Z,[],[12],['hack']
 ip,103.105.153.149,2022-03-24T00:00:00Z,2022-05-05T15:05:06Z,[],"[0, 15, 2, 0]","['phishing', 'scan', 'hack', 'malware']"
 ip,103.12.163.93,2020-07-02T05:06:48Z,2022-03-21T00:00:00Z,['Malware:TrickBot - S0266'],"[12, 5, 0]","['hack', 'malware', 'phishing']"
 ip,103.131.164.17,2020-01-03T00:00:00Z,2022-04-03T06:12:19Z,[],"[15, 12, 20]","['scan', 'hack', 'malware']"
-ip,103.167.92.57,2021-11-21T15:33:06Z,2022-05-07T04:50:10Z,"['Malware:MoqHao', 'Attack Pattern:Obfuscated Files or Information - T1027', 'Malware:Formbook', 'Attack Pattern:System Owner/User Discovery - T1033', 'Attack Pattern:Command and Scripting Interpreter - T1059', 'Malware:Xloader', 'Attack Pattern:Account Discovery - T1087', 'Attack Pattern:Query Registry - T1012', 'Attack Pattern:Application Window Discovery - T1010', 'Attack Pattern:Modify Registry - T1112', 'Attack Pattern:Indicator Removal from Tools - T1027.005', 'Attack Pattern:Shared Modules - T1129', 'Attack Pattern:File and Directory Discovery - T1083', 'Attack Pattern:Deobfuscate/Decode Files or Information - T1140']","[2, 32, 19, 3]","['hack', 'malware', 'phishing', 'scan']"
+ip,103.167.92.57,2021-11-21T15:33:06Z,2022-05-07T09:27:19Z,"['Malware:MoqHao', 'Attack Pattern:Obfuscated Files or Information - T1027', 'Malware:Formbook', 'Attack Pattern:System Owner/User Discovery - T1033', 'Attack Pattern:Command and Scripting Interpreter - T1059', 'Malware:Xloader', 'Attack Pattern:Account Discovery - T1087', 'Attack Pattern:Query Registry - T1012', 'Attack Pattern:Application Window Discovery - T1010', 'Attack Pattern:Modify Registry - T1112', 'Attack Pattern:Indicator Removal from Tools - T1027.005', 'Attack Pattern:Shared Modules - T1129', 'Attack Pattern:File and Directory Discovery - T1083', 'Attack Pattern:Deobfuscate/Decode Files or Information - T1140']","[2, 35, 20, 3]","['hack', 'malware', 'phishing', 'scan']"
 ip,103.17.198.111,2020-01-03T00:00:00Z,2020-01-19T00:00:00Z,[],[2],['hack']
 ip,103.17.198.83,2020-01-03T00:00:00Z,2020-01-19T00:00:00Z,[],[2],['hack']
 ip,103.170.118.143,2022-04-22T00:00:00Z,2022-05-06T12:27:50Z,[],"[15, 10, 14, 5]","['scan', 'malware', 'hack', 'ddos']"
@@ -2291,7 +2291,7 @@ ip,167.71.38.82,2022-05-05T00:00:00Z,2022-05-05T00:00:00Z,[],[80],['hack']
 ip,167.71.67.207,2021-04-12T00:00:00Z,2022-03-07T23:57:46Z,[],"[0, 1, 13]","['scan', 'ddos', 'hack']"
 ip,167.71.78.68,2021-04-19T00:00:00Z,2022-03-07T23:57:46Z,[],[13],['hack']
 ip,168.100.10.129,2022-02-25T00:00:00Z,2022-03-08T23:57:43Z,[],[12],['hack']
-ip,168.100.8.42,2022-04-12T16:35:58Z,2022-05-02T16:51:38Z,[],"[3, 3, 13, 7]","['hack', 'scan', 'malware', 'phishing']"
+ip,168.100.8.42,2022-04-12T16:35:58Z,2022-05-06T16:51:38Z,[],"[1, 6, 7, 1]","['hack', 'malware', 'phishing', 'scan']"
 ip,169.197.141.79,2022-02-28T00:00:00Z,2022-03-08T23:57:42Z,[],[13],['hack']
 ip,171.22.76.50,2021-08-21T19:16:37Z,2022-03-13T00:07:46Z,[],"[14, 17, 1, 14, 1]","['malware', 'scan', 'ddos', 'hack', 'spam']"
 ip,171.237.152.152,2022-02-25T08:03:54Z,2022-03-14T14:20:13Z,[],"[2, 2, 0]","['hack', 'malware', 'phishing']"
@@ -2316,7 +2316,7 @@ ip,176.118.164.124,2021-10-06T11:35:51Z,2022-03-11T16:11:30Z,"['Malware:Pteranod
 ip,176.118.164.159,2021-12-04T00:00:00Z,2022-02-21T16:11:30Z,"['Malware:Pteranodon - S0147', 'Intrusion Set:Gamaredon Group - G0047']","[3, 3, 17, 18]","['hack', 'scan', 'malware', 'phishing']"
 ip,176.118.164.187,2021-10-24T16:26:39Z,2022-02-22T01:59:51Z,"['Malware:Pteranodon - S0147', 'Intrusion Set:Gamaredon Group - G0047']","[18, 3, 18, 20, 19]","['phishing', 'hack', 'ddos', 'malware', 'scan']"
 ip,176.118.165.76,2021-10-12T07:24:20Z,2022-03-02T13:18:50Z,"['Malware:WildFire', 'Malware:Pteranodon - S0147', 'Malware:WhisperGate', 'Intrusion Set:Gamaredon Group - G0047', 'Malware:August Stealer']","[1, 15, 3, 1]","['scan', 'malware', 'phishing', 'hack']"
-ip,176.119.84.250,2022-05-03T00:00:00Z,2022-05-06T22:24:42Z,[],[46],['hack']
+ip,176.119.84.250,2022-05-03T00:00:00Z,2022-05-07T10:24:42Z,[],[32],['hack']
 ip,176.120.107.50,2022-03-04T00:00:00Z,2022-03-11T00:00:00Z,[],[12],['hack']
 ip,176.125.104.232,2022-03-05T00:00:00Z,2022-03-13T13:16:44Z,[],[15],['hack']
 ip,176.194.127.203,2022-03-19T00:00:00Z,2022-03-24T09:39:15Z,[],[19],['hack']
@@ -3964,31 +3964,31 @@ url,http://94.158.244.100/jersey.icb,2022-04-20T11:45:05Z,2022-05-01T07:50:56Z,[
 url,http://94.158.244.64/barren.cbt09.12.2021%209:50:19,2022-04-20T11:45:06Z,2022-05-01T08:23:53Z,['Intrusion Set:Gamaredon Group - G0047'],"[12, 37]","['phishing', 'malware']"
 url,http://94.158.245.165/fruitless.ive15.12.2021%2017:23:29,2022-04-20T11:45:06Z,2022-05-01T07:50:56Z,['Intrusion Set:Gamaredon Group - G0047'],"[16, 38]","['phishing', 'malware']"
 url,http://admis.club/pay2/api.php,2022-04-19T09:19:51Z,2022-05-07T07:50:09Z,[],"[29, 20]","['malware', 'phishing']"
-url,http://anniversarygiftsforcouples.com,2022-05-02T10:08:32Z,2022-05-05T10:08:32Z,['Malware:BrownFlood'],[90],['ddos']
+url,http://anniversarygiftsforcouples.com,2022-05-02T10:08:32Z,2022-05-07T10:08:32Z,['Malware:BrownFlood'],[72],['ddos']
 url,http://ao3.hmgo.pw/tags/Akihabara@TODEEP/works,2022-03-24T10:10:32Z,2022-04-26T10:35:20Z,['Tool:Cobalt Strike - S0154'],[15],['malware']
 url,http://ao3.hmgo.pw/tags/Akihabara@TODEEP/works/update,2022-03-24T10:10:33Z,2022-04-26T10:35:20Z,['Tool:Cobalt Strike - S0154'],[15],['malware']
 url,http://bike27.mirtopa.ru/lenovog570/prickly25/ambition/perceive.cfg,2022-03-18T07:51:36Z,2022-03-18T11:58:04Z,['Intrusion Set:Gamaredon Group - G0047'],"[100, 100]","['malware', 'phishing']"
-url,http://blog.gocon.in,2022-05-02T10:08:36Z,2022-05-05T10:08:36Z,['Malware:BrownFlood'],[90],['ddos']
-url,http://economiquity.org,2022-05-02T10:08:36Z,2022-05-05T10:08:36Z,['Malware:BrownFlood'],[90],['ddos']
-url,http://enlamentedeunasesor.com,2022-05-02T10:08:33Z,2022-05-05T10:08:33Z,['Malware:BrownFlood'],[90],['ddos']
+url,http://blog.gocon.in,2022-05-02T10:08:36Z,2022-05-07T10:08:36Z,['Malware:BrownFlood'],[72],['ddos']
+url,http://economiquity.org,2022-05-02T10:08:36Z,2022-05-07T10:08:36Z,['Malware:BrownFlood'],[72],['ddos']
+url,http://enlamentedeunasesor.com,2022-05-02T10:08:33Z,2022-05-07T10:08:33Z,['Malware:BrownFlood'],[72],['ddos']
 url,http://fan-guy.com,2016-01-06T16:55:11Z,2016-02-17T16:55:11Z,['Malware:BrownFlood'],"[1, 1]","['malware', 'phishing']"
-url,http://garagemusicschool.it,2017-04-05T11:52:35Z,2022-05-05T10:08:34Z,['Malware:BrownFlood'],"[90, 1, 1]","['ddos', 'malware', 'phishing']"
-url,http://granitecsinks.ca,2022-05-02T10:08:29Z,2022-05-05T10:08:29Z,['Malware:BrownFlood'],[90],['ddos']
-url,http://inter-webservices.com,2022-05-02T10:08:31Z,2022-05-05T10:08:31Z,['Malware:BrownFlood'],[90],['ddos']
-url,http://karunadana.org,2022-05-02T10:08:35Z,2022-05-05T10:08:35Z,['Malware:BrownFlood'],[90],['ddos']
-url,http://kesp.cl,2022-05-02T10:08:32Z,2022-05-05T10:08:32Z,['Malware:BrownFlood'],[90],['ddos']
-url,http://ludepa.ec,2016-01-19T18:02:18Z,2022-05-05T10:08:30Z,['Malware:BrownFlood'],"[1, 1, 90]","['malware', 'phishing', 'ddos']"
-url,http://mitraseo.hol.es,2022-05-02T10:08:34Z,2022-05-05T10:08:34Z,['Malware:BrownFlood'],[90],['ddos']
-url,http://moskeet.com,2022-05-02T10:08:35Z,2022-05-05T10:08:35Z,['Malware:BrownFlood'],[90],['ddos']
-url,http://nejsemlama.cz,2018-01-21T10:51:00Z,2022-05-05T10:08:29Z,['Malware:BrownFlood'],"[90, 1, 1]","['ddos', 'phishing', 'malware']"
+url,http://garagemusicschool.it,2017-04-05T11:52:35Z,2022-05-07T10:08:34Z,['Malware:BrownFlood'],"[72, 1, 1]","['ddos', 'malware', 'phishing']"
+url,http://granitecsinks.ca,2022-05-02T10:08:29Z,2022-05-07T10:08:29Z,['Malware:BrownFlood'],[72],['ddos']
+url,http://inter-webservices.com,2022-05-02T10:08:31Z,2022-05-07T10:08:31Z,['Malware:BrownFlood'],[72],['ddos']
+url,http://karunadana.org,2022-05-02T10:08:35Z,2022-05-07T10:08:35Z,['Malware:BrownFlood'],[72],['ddos']
+url,http://kesp.cl,2022-05-02T10:08:32Z,2022-05-07T10:08:32Z,['Malware:BrownFlood'],[72],['ddos']
+url,http://ludepa.ec,2016-01-19T18:02:18Z,2022-05-07T10:08:30Z,['Malware:BrownFlood'],"[1, 72, 1]","['malware', 'ddos', 'phishing']"
+url,http://mitraseo.hol.es,2022-05-02T10:08:34Z,2022-05-07T10:08:34Z,['Malware:BrownFlood'],[72],['ddos']
+url,http://moskeet.com,2022-05-02T10:08:35Z,2022-05-07T10:08:35Z,['Malware:BrownFlood'],[72],['ddos']
+url,http://nejsemlama.cz,2018-01-21T10:51:00Z,2022-05-07T10:08:29Z,['Malware:BrownFlood'],"[72, 1, 1]","['ddos', 'phishing', 'malware']"
 url,http://panelunregistertle-348.frge.io,2022-03-09T12:56:06Z,2022-04-11T17:00:05Z,[],"[12, 12]","['malware', 'phishing']"
 url,http://pius-studio.at,2014-07-01T08:55:03Z,2014-08-12T08:55:03Z,['Malware:BrownFlood'],"[1, 1]","['malware', 'phishing']"
-url,http://programasparapc.net,2022-05-02T10:08:31Z,2022-05-05T10:08:31Z,['Malware:BrownFlood'],[90],['ddos']
+url,http://programasparapc.net,2022-05-02T10:08:31Z,2022-05-07T10:08:31Z,['Malware:BrownFlood'],[72],['ddos']
 url,http://rivertimad.com,2022-03-22T22:00:12Z,2022-05-01T16:51:38Z,[],"[23, 1, 18]","['malware', 'hack', 'phishing']"
-url,http://staystrongjewels.com,2022-05-02T10:08:31Z,2022-05-05T10:08:31Z,['Malware:BrownFlood'],[90],['ddos']
+url,http://staystrongjewels.com,2022-05-02T10:08:31Z,2022-05-07T10:08:31Z,['Malware:BrownFlood'],[72],['ddos']
 url,http://stun.site/pet1.exe,2022-02-24T17:02:03Z,2022-02-24T17:02:03Z,[],[51],['malware']
 url,http://texlidia.com,2017-02-19T22:16:50Z,2017-04-02T22:16:50Z,['Malware:BrownFlood'],"[1, 1]","['malware', 'phishing']"
-url,http://winchconstruction.com,2022-05-02T10:08:36Z,2022-05-05T10:08:36Z,['Malware:BrownFlood'],[90],['ddos']
+url,http://winchconstruction.com,2022-05-02T10:08:36Z,2022-05-07T10:08:36Z,['Malware:BrownFlood'],[72],['ddos']
 url,https://aspe.ro,2014-01-31T01:01:34Z,2022-05-05T15:16:39Z,['Malware:BrownFlood'],"[45, 45]","['malware', 'phishing']"
 url,https://cdn.discordapp.com/attachments/947916997713358890/949948174636830761/one.exe,2022-03-11T13:30:15Z,2022-04-18T01:28:26Z,[],"[18, 16]","['malware', 'phishing']"
 url,https://cdn.discordapp.com/attachments/947916997713358890/949948174838165524/dropper.exe,2022-03-11T13:31:50Z,2022-04-30T01:28:27Z,[],"[13, 12]","['malware', 'phishing']"
@@ -4001,7 +4001,7 @@ url,https://eo9p1d2bfmioiot.m.pipedream.net?usr=,2022-03-29T16:13:44Z,2022-05-01
 url,https://eoiw8lhjwuc3sh2.m.pipedream.net,2022-03-29T16:13:45Z,2022-05-01T16:13:45Z,[],[15],['malware']
 url,https://eoy7zvsvn6xfcmy.m.pipedream.net,2022-03-29T16:13:47Z,2022-05-01T16:13:47Z,[],[15],['malware']
 url,https://euro24dopomoga0.yolasite.com,2022-04-21T08:49:26Z,2022-04-30T08:49:26Z,[],[50],['malware']
-url,https://floorfix.com.au/wp-content/themes/evolve/library/media/js/parallax/parallax.js?ver=5.1.13,2022-05-02T10:08:28Z,2022-05-05T10:08:28Z,['Malware:BrownFlood'],[90],['ddos']
+url,https://floorfix.com.au/wp-content/themes/evolve/library/media/js/parallax/parallax.js?ver=5.1.13,2022-05-02T10:08:28Z,2022-05-07T10:08:28Z,['Malware:BrownFlood'],[72],['ddos']
 url,https://forkscenter.fr/BitdefenderWindowsUpdatePackage.exe,2022-03-11T13:26:56Z,2022-04-13T13:29:50Z,[],"[11, 11]","['phishing', 'malware']"
 url,https://forkscenter.fr/Sdghrt_umrj6/wisw.exe,2022-03-12T11:54:59Z,2022-04-14T11:54:59Z,[],"[11, 11]","['malware', 'phishing']"
 url,https://github.com/sukaut,2022-04-15T13:18:40Z,2022-05-02T13:18:40Z,[],[30],['malware']
@@ -4009,8 +4009,8 @@ url,https://iforma.es,2015-11-25T09:30:42Z,2022-04-14T18:57:44Z,['Malware:BrownF
 url,https://mail.nais-gov.org/2021-07-30-08-55-07.xlsm,2022-03-29T16:13:46Z,2022-05-01T16:13:46Z,[],[15],['malware']
 url,https://nirsoft.me/nEDFzTtoCbUfp9BtSZlaq6ql8v6yYb/avp/amznussraps,2022-03-29T16:13:45Z,2022-05-01T16:13:45Z,[],[15],['malware']
 url,https://nirsoft.me/s/2MYmbwpSJLZRAtXRgNTAUjJSH6SSoicLPIrQl/field-keywords,2022-03-08T19:30:14Z,2022-03-25T19:30:14Z,[],"[20, 20]","['phishing', 'malware']"
-url,https://olei.ro/wp-content/plugins/translatepress-multilingual/assets/js/trp-frontend-compatibility.js,2022-05-02T10:08:37Z,2022-05-05T10:08:37Z,['Malware:BrownFlood'],[90],['ddos']
+url,https://olei.ro/wp-content/plugins/translatepress-multilingual/assets/js/trp-frontend-compatibility.js,2022-05-02T10:08:37Z,2022-05-07T10:08:37Z,['Malware:BrownFlood'],[72],['ddos']
 url,https://product2020.mrbasic.com:8080,2022-03-23T10:08:58Z,2022-04-27T10:28:29Z,"['OCD - Threat pattern:Command and Control [C2]', 'Intrusion Set:Ice Fog']",[15],['malware']
 url,https://timeandbright.com,2015-12-12T19:30:28Z,2019-06-27T02:28:26Z,['Malware:BrownFlood'],"[1, 1]","['malware', 'phishing']"
 url,https://tinyurl.com/2p8kpb9v,2022-03-29T16:13:46Z,2022-05-01T16:13:46Z,[],[15],['malware']
-url,https://xcasinobonuses.net/wp-content/themes/xcasinobonuses/js/bootstrap.min.js,2022-05-02T10:08:30Z,2022-05-05T10:08:30Z,['Malware:BrownFlood'],[90],['ddos']
+url,https://xcasinobonuses.net/wp-content/themes/xcasinobonuses/js/bootstrap.min.js,2022-05-02T10:08:30Z,2022-05-07T10:08:30Z,['Malware:BrownFlood'],[72],['ddos']
