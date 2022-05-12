@@ -780,7 +780,7 @@ domain,mapifa.ru,2021-11-19T03:49:36Z,2022-05-10T08:25:06Z,"['Malware:Pteranodon
 domain,maratis.ru,2021-07-07T23:50:38Z,2022-05-10T08:25:06Z,"['Malware:Pteranodon - S0147', 'Intrusion Set:Gamaredon Group - G0047']","[0, 1, 1]","['hack', 'malware', 'phishing']"
 domain,marginto.ru,2021-07-29T00:00:00Z,2022-05-10T08:25:06Z,"['Malware:Pteranodon - S0147', 'Intrusion Set:Gamaredon Group - G0047']","[2, 25, 1]","['hack', 'malware', 'phishing']"
 domain,marinos.ru,2016-04-12T04:13:45Z,2022-05-10T08:25:06Z,"['Malware:Pteranodon - S0147', 'Intrusion Set:Gamaredon Group - G0047']","[1, 16, 1]","['hack', 'malware', 'phishing']"
-domain,marisut.ru,2022-02-03T23:45:49Z,2022-05-10T08:25:06Z,"['Malware:Pteranodon - S0147', 'Intrusion Set:Gamaredon Group - G0047']","[8, 2, 1]","['hack', 'malware', 'phishing']"
+domain,marisut.ru,2022-02-03T23:45:49Z,2022-05-10T08:25:06Z,"['Malware:Pteranodon - S0147', 'Intrusion Set:Gamaredon Group - G0047']","[8, 6, 1]","['hack', 'malware', 'phishing']"
 domain,marsupiata.xyz,2020-08-29T04:47:56Z,2022-02-21T16:11:30Z,['Intrusion Set:Gamaredon Group - G0047'],"[3, 10, 13]","['hack', 'malware', 'phishing']"
 domain,martusi.ru,2022-01-04T14:23:47Z,2022-05-10T08:25:06Z,"['Malware:WildFire', 'Malware:Pteranodon - S0147', 'Malware:WhisperGate', 'Intrusion Set:Gamaredon Group - G0047', 'Malware:August Stealer']","[8, 1, 0]","['hack', 'malware', 'phishing']"
 domain,marygracerenella.com,2021-09-16T00:00:00Z,2022-04-02T15:37:40Z,"['Malware:Xloader', 'Attack Pattern:Phishing - T1566', 'Malware:Formbook']","[11, 0, 0, 0, 0, 0, 14, 0, 0]","['phishing', 'spam', 'hack', 'scan', 'leak', 'fraud', 'malware', 'scam', 'ddos']"
@@ -1163,7 +1163,7 @@ domain,tridiuma.ru,2021-02-19T10:19:40Z,2022-03-05T16:11:30Z,"['Malware:Pteranod
 domain,triturus.xyz,2017-06-03T17:21:21Z,2022-02-21T16:11:30Z,['Intrusion Set:Gamaredon Group - G0047'],"[3, 8, 13]","['hack', 'malware', 'phishing']"
 domain,trivargo.ru,2016-02-28T11:14:26Z,2022-05-10T08:25:06Z,"['Malware:Pteranodon - S0147', 'Intrusion Set:Gamaredon Group - G0047']","[8, 5, 0]","['hack', 'malware', 'phishing']"
 domain,trobona.ru,2021-08-25T23:50:32Z,2022-05-10T08:25:06Z,"['Malware:Pteranodon - S0147', 'Intrusion Set:Gamaredon Group - G0047']","[8, 1, 1]","['hack', 'malware', 'phishing']"
-domain,trolato.ru,2021-12-26T03:49:43Z,2022-05-10T08:25:06Z,"['Malware:Pteranodon - S0147', 'Intrusion Set:Gamaredon Group - G0047']","[8, 18, 1]","['hack', 'malware', 'phishing']"
+domain,trolato.ru,2021-12-26T03:49:43Z,2022-05-10T08:25:06Z,"['Malware:Pteranodon - S0147', 'Intrusion Set:Gamaredon Group - G0047']","[8, 22, 0]","['hack', 'malware', 'phishing']"
 domain,tropisti.ru,2021-02-26T15:53:01Z,2022-02-25T16:11:30Z,"['Malware:Pteranodon - S0147', 'Intrusion Set:Gamaredon Group - G0047']","[17, 18]","['malware', 'phishing']"
 domain,trouta.site,2020-10-17T00:00:00Z,2022-03-30T16:11:30Z,['Intrusion Set:Gamaredon Group - G0047'],"[0, 0, 0, 0, 1, 1, 0, 0, 0]","['ddos', 'fraud', 'hack', 'leak', 'malware', 'phishing', 'scam', 'scan', 'spam']"
 domain,trueadm.top,2022-04-19T09:19:51Z,2022-05-06T09:19:51Z,[],[18],['malware']
@@ -2286,7 +2286,7 @@ ip,159.48.53.225,2022-03-09T00:00:00Z,2022-03-16T00:00:00Z,[],[12],['hack']
 ip,159.48.53.83,2022-03-11T00:00:00Z,2022-03-18T00:00:00Z,[],[12],['hack']
 ip,159.65.155.195,2022-02-18T00:00:00Z,2022-03-17T09:08:04Z,[],"[2, 1, 0, 1, 1]","['hack', 'malware', 'phishing', 'scan', 'spam']"
 ip,159.65.175.249,2022-03-23T00:00:00Z,2022-03-30T00:00:00Z,[],[12],['hack']
-ip,159.65.197.62,2021-03-04T13:22:05Z,2022-05-11T00:17:40Z,['Malware:Mirai'],"[0, 0, 44, 26, 23, 1]","['spam', 'fraud', 'hack', 'malware', 'scan', 'ddos']"
+ip,159.65.197.62,2021-03-04T13:22:05Z,2022-05-12T03:29:58Z,['Malware:Mirai'],"[26, 0, 39, 1, 21, 0]","['malware', 'fraud', 'hack', 'ddos', 'scan', 'spam']"
 ip,159.65.201.249,2021-02-17T00:00:00Z,2022-05-09T01:00:28Z,[],"[2, 10, 10]","['hack', 'malware', 'phishing']"
 ip,159.69.16.41,2022-03-14T00:00:00Z,2022-03-19T11:06:42Z,[],[19],['hack']
 ip,159.89.166.23,2020-09-09T00:00:00Z,2022-03-07T23:57:46Z,[],[13],['hack']
@@ -2571,7 +2571,7 @@ ip,188.32.6.34,2022-03-12T00:00:00Z,2022-03-19T00:00:00Z,[],[12],['hack']
 ip,188.93.210.54,2019-11-06T02:21:22Z,2022-03-11T16:11:30Z,"['Malware:Pteranodon - S0147', 'Intrusion Set:Gamaredon Group - G0047']","[1, 1, 1, 1]","['hack', 'malware', 'phishing', 'scan']"
 ip,189.206.22.187,2022-02-25T08:03:54Z,2022-03-19T04:06:33Z,[],[17],['hack']
 ip,189.245.78.26,2022-02-25T08:03:54Z,2022-03-04T17:57:43Z,[],[12],['hack']
-ip,190.2.153.227,2022-04-17T00:00:00Z,2022-05-10T03:39:04Z,[],"[17, 24]","['hack', 'scan']"
+ip,190.2.153.227,2022-04-17T00:00:00Z,2022-05-12T03:39:04Z,[],"[12, 17]","['scan', 'hack']"
 ip,190.201.12.145,2020-04-03T00:00:00Z,2022-03-08T23:57:43Z,[],[12],['hack']
 ip,190.206.191.41,2017-04-08T20:45:30Z,2022-03-04T17:57:44Z,[],"[12, 0, 0]","['hack', 'malware', 'phishing']"
 ip,190.206.244.70,2022-02-25T08:03:54Z,2022-03-07T20:34:23Z,[],"[12, 9, 4]","['hack', 'malware', 'phishing']"
@@ -4043,4 +4043,4 @@ url,https://olei.ro/wp-content/plugins/translatepress-multilingual/assets/js/trp
 url,https://product2020.mrbasic.com:8080,2022-03-23T10:08:58Z,2022-04-27T10:28:29Z,"['OCD - Threat pattern:Command and Control [C2]', 'Intrusion Set:Ice Fog']",[15],['malware']
 url,https://timeandbright.com,2015-12-12T19:30:28Z,2019-06-27T02:28:26Z,['Malware:BrownFlood'],"[1, 1]","['malware', 'phishing']"
 url,https://tinyurl.com/2p8kpb9v,2022-03-29T16:13:46Z,2022-05-01T16:13:46Z,[],[15],['malware']
-url,https://xcasinobonuses.net/wp-content/themes/xcasinobonuses/js/bootstrap.min.js,2022-05-02T03:43:46Z,2022-05-11T03:43:46Z,['Malware:BrownFlood'],"[24, 50, 24]","['phishing', 'ddos', 'malware']"
+url,https://xcasinobonuses.net/wp-content/themes/xcasinobonuses/js/bootstrap.min.js,2022-05-02T03:43:46Z,2022-05-12T03:43:46Z,['Malware:BrownFlood'],"[24, 14, 50]","['malware', 'phishing', 'ddos']"
