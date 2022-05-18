@@ -367,7 +367,7 @@ domain,dushnilo.ru,2022-02-03T23:45:49Z,2022-05-10T08:25:06Z,"['Malware:WhisperG
 domain,earium.ru,2021-03-20T04:12:28Z,2022-03-02T16:11:30Z,"['Intrusion Set:Gamaredon Group - G0047', 'Malware:Pteranodon - S0147']","[18, 3]","['malware', 'phishing']"
 domain,edoboku.ru,2021-11-19T03:49:36Z,2022-05-15T08:25:06Z,"['Intrusion Set:Gamaredon Group - G0047', 'Malware:Pteranodon - S0147']","[5, 7, 0]","['hack', 'malware', 'phishing']"
 domain,eidoloni.ru,2022-02-02T22:08:52Z,2022-05-10T08:25:06Z,"['Intrusion Set:Gamaredon Group - G0047', 'Malware:Pteranodon - S0147']","[8, 2, 1]","['hack', 'malware', 'phishing']"
-domain,elitoras.ru,2021-07-28T10:16:20Z,2022-05-15T09:17:41Z,"['Intrusion Set:Gamaredon Group - G0047', 'Malware:Pteranodon - S0147']","[5, 6, 9]","['hack', 'malware', 'phishing']"
+domain,elitoras.ru,2021-07-28T10:16:20Z,2022-05-18T17:43:02Z,"['Intrusion Set:Gamaredon Group - G0047', 'Malware:Pteranodon - S0147']","[5, 7, 12]","['hack', 'malware', 'phishing']"
 domain,elmqvist.ru,2021-05-20T15:55:55Z,2022-05-10T08:25:06Z,"['Intrusion Set:Gamaredon Group - G0047', 'Malware:Pteranodon - S0147']","[8, 1, 1]","['hack', 'malware', 'phishing']"
 domain,eluteria.xyz,2017-05-29T11:22:37Z,2022-02-25T16:11:30Z,['Intrusion Set:Gamaredon Group - G0047'],"[0, 0, 0, 18, 0, 0, 0, 18, 0]","['leak', 'spam', 'fraud', 'phishing', 'scan', 'scam', 'hack', 'malware', 'ddos']"
 domain,elvisar.ru,2021-06-24T04:02:16Z,2022-05-10T08:25:06Z,"['Intrusion Set:Gamaredon Group - G0047', 'Malware:Pteranodon - S0147']","[8, 10, 1]","['hack', 'malware', 'phishing']"
@@ -3351,7 +3351,7 @@ ip,45.95.11.34,2021-09-11T19:02:40Z,2022-04-05T19:23:47Z,"['Malware:InvisiMole -
 ip,45.95.147.24,2019-07-30T23:08:03Z,2022-05-16T10:27:23Z,"['Malware:Mirai', 'Malware:QakBot - S0650', 'Malware:Gafgyt']","[1, 0, 6, 12, 1, 0, 24, 0]","['ddos', 'fraud', 'hack', 'malware', 'phishing', 'scam', 'scan', 'spam']"
 ip,46.101.175.132,2022-03-26T00:00:00Z,2022-04-02T00:00:00Z,[],[12],['hack']
 ip,46.101.254.238,2022-04-21T08:48:55Z,2022-05-05T08:48:55Z,[],[15],['malware']
-ip,46.105.97.11,2022-02-23T00:00:00Z,2022-05-18T01:12:50Z,[],"[1, 10, 73, 10, 1, 28]","['ddos', 'fraud', 'hack', 'leak', 'malware', 'scan']"
+ip,46.105.97.11,2022-02-23T00:00:00Z,2022-05-18T19:11:27Z,[],"[1, 10, 73, 10, 1, 28]","['ddos', 'fraud', 'hack', 'leak', 'malware', 'scan']"
 ip,46.139.233.68,2022-02-25T08:03:54Z,2022-03-04T17:57:44Z,[],"[12, 13, 13]","['hack', 'phishing', 'malware']"
 ip,46.147.101.76,2022-03-29T00:00:00Z,2022-04-03T11:51:15Z,[],[19],['hack']
 ip,46.150.77.66,2021-05-16T05:43:54Z,2022-03-04T17:57:44Z,[],"[1, 12, 11, 1, 11]","['scan', 'phishing', 'hack', 'spam', 'malware']"
