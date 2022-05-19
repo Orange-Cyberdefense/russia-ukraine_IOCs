@@ -873,7 +873,7 @@ domain,naffalno.site,2021-08-28T00:00:00Z,2022-05-15T12:07:18Z,"['Attack Pattern
 domain,nagaimo.ru,2021-10-13T11:58:18Z,2022-05-10T08:25:06Z,"['Intrusion Set:Gamaredon Group - G0047', 'Malware:Pteranodon - S0147']","[8, 5, 0]","['hack', 'malware', 'phishing']"
 domain,nakona.ru,2022-02-04T04:22:22Z,2022-05-10T08:25:06Z,"['Intrusion Set:Gamaredon Group - G0047', 'Malware:Pteranodon - S0147']","[8, 20, 1]","['hack', 'malware', 'phishing']"
 domain,nakushita.ru,2021-10-04T10:00:08Z,2022-05-10T08:25:06Z,"['Malware:WhisperGate', 'Malware:August Stealer', 'Malware:Pteranodon - S0147', 'Malware:WildFire', 'Intrusion Set:Gamaredon Group - G0047']","[8, 1, 0]","['hack', 'malware', 'phishing']"
-domain,naletovo.ru,2022-01-07T15:49:45Z,2022-05-10T08:25:06Z,"['Malware:WhisperGate', 'Malware:August Stealer', 'Malware:Pteranodon - S0147', 'Malware:WildFire', 'Intrusion Set:Gamaredon Group - G0047']","[8, 17, 1]","['hack', 'malware', 'phishing']"
+domain,naletovo.ru,2022-01-07T15:49:45Z,2022-05-15T08:25:06Z,"['Malware:WhisperGate', 'Malware:August Stealer', 'Malware:Pteranodon - S0147', 'Malware:WildFire', 'Intrusion Set:Gamaredon Group - G0047']","[5, 15, 1]","['hack', 'malware', 'phishing']"
 domain,nalitoras.ru,2022-02-04T04:22:22Z,2022-05-10T08:25:06Z,"['Intrusion Set:Gamaredon Group - G0047', 'Malware:Pteranodon - S0147']","[8, 19, 1]","['hack', 'malware', 'phishing']"
 domain,naniga.ru,2022-01-28T10:02:22Z,2022-03-12T13:18:50Z,"['Malware:WhisperGate', 'Malware:August Stealer', 'Malware:Pteranodon - S0147', 'Malware:WildFire', 'Intrusion Set:Gamaredon Group - G0047']","[12, 15]","['phishing', 'malware']"
 domain,nastorlam.ru,2022-02-04T18:29:16Z,2022-04-17T03:51:26Z,"['Malware:WhisperGate', 'Malware:August Stealer', 'Malware:Pteranodon - S0147', 'Malware:WildFire', 'Intrusion Set:Gamaredon Group - G0047']","[1, 0]","['malware', 'phishing']"
@@ -4084,4 +4084,4 @@ url,https://olei.ro/wp-content/plugins/translatepress-multilingual/assets/js/trp
 url,https://product2020.mrbasic.com:8080,2022-03-23T10:08:58Z,2022-04-27T10:28:29Z,"['OCD - Threat pattern:Command and Control [C2]', 'Intrusion Set:Ice Fog']",[15],['malware']
 url,https://timeandbright.com,2015-12-12T19:30:28Z,2019-06-27T02:28:26Z,['Malware:BrownFlood'],"[1, 1]","['malware', 'phishing']"
 url,https://tinyurl.com/2p8kpb9v,2022-03-29T16:13:46Z,2022-05-01T16:13:46Z,[],[15],['malware']
-url,https://xcasinobonuses.net/wp-content/themes/xcasinobonuses/js/bootstrap.min.js,2022-05-02T03:43:46Z,2022-05-16T10:08:30Z,['Malware:BrownFlood'],"[15, 24, 14]","['ddos', 'malware', 'phishing']"
+url,https://xcasinobonuses.net/wp-content/themes/xcasinobonuses/js/bootstrap.min.js,2022-05-02T03:43:46Z,2022-05-19T03:43:46Z,['Malware:BrownFlood'],"[14, 14, 15]","['malware', 'phishing', 'ddos']"
