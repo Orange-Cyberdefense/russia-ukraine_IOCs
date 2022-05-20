@@ -1314,8 +1314,8 @@ file,19888c043afde1f63f25a807192170bc65377e6c89f693ad7af70c0a03a349ed,2022-02-16
 file,19e471cd9e5ec3b896bf57215974e463dfe6c15cdb2ef8fde61b21a045cb8fe0,2022-01-31T16:59:34Z,2022-04-24T13:18:50Z,"['Malware:Pteranodon - S0147', 'Malware:WhisperGate', 'Malware:WildFire', 'Malware:August Stealer', 'Intrusion Set:Gamaredon Group - G0047']",[81],['malware']
 file,19fedcb9ad791b9971965bbde59e791b3fe3a706e437af749a47ff2907a5c8df,2022-04-21T07:41:38Z,2022-04-21T10:06:12Z,['Intrusion Set:Gamaredon Group - G0047'],[100],['malware']
 file,1a002b11ed20f4408023187c16140ee542431219540cc1b1d8686e270d99f534,2022-04-21T07:41:38Z,2022-04-21T10:06:12Z,['Intrusion Set:Gamaredon Group - G0047'],[100],['malware']
-file,1aba36f72685c12e60fb0922b606417c,2022-03-21T12:42:49Z,2022-04-24T16:29:32Z,"['Malware:Scarabey', 'Intrusion Set:Ice Fog', 'OCD - Threat pattern:Command and Control [C2]']","[77, 90, 63]","['hack', 'malware', 'phishing']"
-file,1af894a5f23713b557c23078809ed01c,2022-03-21T12:42:49Z,2022-05-20T13:21:50Z,"['Malware:Scarabey', 'Intrusion Set:Ice Fog', 'OCD - Threat pattern:Command and Control [C2]']","[90, 70, 62]","['malware', 'hack', 'phishing']"
+file,1aba36f72685c12e60fb0922b606417c,2022-03-21T12:42:49Z,2022-05-20T19:42:49Z,"['Malware:Scarabey', 'Intrusion Set:Ice Fog', 'OCD - Threat pattern:Command and Control [C2]']","[56, 90, 78]","['phishing', 'malware', 'hack']"
+file,1af894a5f23713b557c23078809ed01c,2022-03-21T12:42:49Z,2022-05-20T19:42:49Z,"['Malware:Scarabey', 'Intrusion Set:Ice Fog', 'OCD - Threat pattern:Command and Control [C2]']","[90, 56, 70]","['malware', 'phishing', 'hack']"
 file,1b5f0425dd76496e715bfa1aa76d306c,2022-03-29T16:11:30Z,2022-04-28T16:11:30Z,[],[90],['malware']
 file,1c0110a4f862b54196676c4a77250ea5a5e1ec5be48071f794227769bd25e8de,2022-01-31T16:59:34Z,2022-04-24T13:18:50Z,"['Malware:Pteranodon - S0147', 'Malware:WhisperGate', 'Malware:WildFire', 'Malware:August Stealer', 'Intrusion Set:Gamaredon Group - G0047']",[81],['malware']
 file,1c0b1b9547d976b2abdb021db90725c560b74d5c553c31265aa34ec6a03a6c89,2022-04-21T07:41:38Z,2022-04-21T10:06:12Z,['Intrusion Set:Gamaredon Group - G0047'],[100],['malware']
@@ -3844,7 +3844,7 @@ ip,91.225.142.34,2022-02-25T00:00:00Z,2022-03-08T23:57:43Z,[],[12],['hack']
 ip,91.233.117.117,2022-04-13T00:00:00Z,2022-04-20T00:00:00Z,[],[12],['hack']
 ip,91.236.253.97,2016-05-06T13:26:04Z,2022-04-16T02:31:29Z,[],"[0, 0, 0, 0, 14]","['malware', 'scan', 'ddos', 'phishing', 'hack']"
 ip,91.240.118.137,2022-02-25T08:03:54Z,2022-04-25T02:05:16Z,[],"[2, 20]","['hack', 'scan']"
-ip,91.240.118.63,2020-07-09T18:24:25Z,2022-05-15T11:00:03Z,"['Tool:Cobalt Strike - S0154', 'OCD - Threat pattern:Command and Control [C2]']","[17, 16, 0, 0]","['hack', 'malware', 'phishing', 'scan']"
+ip,91.240.118.63,2020-07-09T18:24:25Z,2022-05-18T11:00:03Z,"['Tool:Cobalt Strike - S0154', 'OCD - Threat pattern:Command and Control [C2]']","[4, 11, 0, 0]","['hack', 'malware', 'phishing', 'scan']"
 ip,91.240.86.200,2020-07-01T16:07:47Z,2022-04-12T16:12:40Z,[],[15],['malware']
 ip,91.243.17.191,2022-03-01T00:00:00Z,2022-03-08T23:57:42Z,[],[12],['hack']
 ip,91.245.255.243,2022-04-11T18:12:05Z,2022-04-26T15:51:01Z,"['Malware:CaddyWiper', 'Intrusion Set:Sandworm Team - G0034', 'OCD - Threat pattern:Command and Control [C2]']","[2, 18, 3, 14]","['phishing', 'malware', 'scan', 'hack']"
