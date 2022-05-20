@@ -2630,7 +2630,7 @@ ip,194.126.182.104,2022-03-03T00:00:00Z,2022-03-10T00:00:00Z,[],[12],['hack']
 ip,194.143.151.161,2022-04-24T00:00:00Z,2022-05-01T00:00:00Z,[],[12],['hack']
 ip,194.147.75.77,2022-05-13T00:00:00Z,2022-05-20T00:00:00Z,[],[12],['hack']
 ip,194.180.174.46,2021-11-11T14:35:43Z,2022-03-05T13:18:50Z,"['Malware:Pteranodon - S0147', 'Malware:WhisperGate', 'Malware:WildFire', 'Malware:August Stealer', 'Intrusion Set:Gamaredon Group - G0047']","[1, 9, 1, 1]","['hack', 'malware', 'phishing', 'scan']"
-ip,194.31.98.124,2022-01-05T00:00:00Z,2022-05-20T12:05:03Z,"['Tool:Cobalt Strike - S0154', 'Attack Pattern:Phishing - T1566', 'OCD - Threat pattern:Command and Control [C2]']","[1, 0, 67, 27, 1, 83, 1]","['ddos', 'fraud', 'hack', 'malware', 'phishing', 'scan', 'spam']"
+ip,194.31.98.124,2022-01-05T00:00:00Z,2022-05-20T18:05:05Z,"['Tool:Cobalt Strike - S0154', 'Attack Pattern:Phishing - T1566', 'OCD - Threat pattern:Command and Control [C2]']","[1, 0, 67, 27, 1, 83, 1]","['ddos', 'fraud', 'hack', 'malware', 'phishing', 'scan', 'spam']"
 ip,194.31.98.163,2022-02-28T00:00:00Z,2022-03-08T23:57:42Z,[],"[18, 20, 20, 13]","['spam', 'malware', 'scan', 'hack']"
 ip,194.33.40.81,2022-02-23T00:00:00Z,2022-03-07T20:34:28Z,[],"[12, 9, 4]","['hack', 'malware', 'phishing']"
 ip,194.44.83.243,2022-03-30T00:00:00Z,2022-04-07T00:15:56Z,[],"[20, 12, 20]","['scan', 'hack', 'malware']"
@@ -4046,7 +4046,7 @@ url,http://89.108.98.88/credit/cranny.au,2022-04-20T11:45:06Z,2022-05-08T10:06:1
 url,http://94.158.244.100/jersey.icb,2022-04-20T11:45:05Z,2022-05-08T10:06:12Z,['Intrusion Set:Gamaredon Group - G0047'],"[23, 16]","['malware', 'phishing']"
 url,http://94.158.244.64/barren.cbt09.12.2021%209:50:19,2022-04-20T11:45:06Z,2022-05-08T10:06:12Z,['Intrusion Set:Gamaredon Group - G0047'],"[22, 12]","['malware', 'phishing']"
 url,http://94.158.245.165/fruitless.ive15.12.2021%2017:23:29,2022-04-20T11:45:06Z,2022-05-08T10:06:12Z,['Intrusion Set:Gamaredon Group - G0047'],"[23, 8]","['malware', 'phishing']"
-url,http://a0667987.xsph.ru/preparations/rejection.xml,2022-05-10T18:07:57Z,2022-05-18T13:06:10Z,[],"[46, 23]","['malware', 'phishing']"
+url,http://a0667987.xsph.ru/preparations/rejection.xml,2022-05-10T18:07:57Z,2022-05-20T18:07:57Z,[],"[14, 46]","['phishing', 'malware']"
 url,http://a0667987.xsph.ru/zsu/faicon.ico,2022-05-16T12:13:53Z,2022-05-19T12:13:53Z,[],[90],['malware']
 url,http://a0671524.xsph.ru/bandage/precarious.xml,2022-05-16T12:13:53Z,2022-05-19T12:13:53Z,[],[90],['malware']
 url,http://a0671524.xsph.ru/mo/faicon.ico,2022-05-16T12:13:52Z,2022-05-19T12:13:52Z,[],[90],['malware']
