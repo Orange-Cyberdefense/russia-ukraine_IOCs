@@ -655,7 +655,7 @@ domain,kallima.ru,2016-04-27T13:07:55Z,2022-03-30T16:11:30Z,"['Malware:Pteranodo
 domain,karamono.ru,2022-02-03T23:45:52Z,2022-05-19T08:25:06Z,"['Malware:Pteranodon - S0147', 'Intrusion Set:Gamaredon Group - G0047', 'OCD - Threat pattern:Command and Control [C2]']","[8, 4, 0]","['hack', 'malware', 'phishing']"
 domain,karrid.ru,2021-06-04T03:56:40Z,2022-05-10T08:25:06Z,"['Malware:Pteranodon - S0147', 'Intrusion Set:Gamaredon Group - G0047', 'OCD - Threat pattern:Command and Control [C2]']","[3, 1, 1]","['hack', 'malware', 'phishing']"
 domain,kassanfo.ru,2022-02-16T10:42:59Z,2022-04-18T09:16:10Z,['Intrusion Set:Gamaredon Group - G0047'],"[3, 0, 1, 1]","['ddos', 'hack', 'malware', 'phishing']"
-domain,keiwakaw.ru,2022-02-03T23:45:52Z,2022-05-10T08:25:06Z,"['Malware:Pteranodon - S0147', 'Intrusion Set:Gamaredon Group - G0047', 'OCD - Threat pattern:Command and Control [C2]']","[3, 1, 1]","['hack', 'malware', 'phishing']"
+domain,keiwakaw.ru,2022-02-03T23:45:52Z,2022-05-19T08:25:06Z,"['Malware:Pteranodon - S0147', 'Intrusion Set:Gamaredon Group - G0047', 'OCD - Threat pattern:Command and Control [C2]']","[1, 2, 1]","['hack', 'malware', 'phishing']"
 domain,khjs.online,2021-02-13T00:00:00Z,2022-04-15T02:20:10Z,[],"[0, 0, 0, 0, 1, 1, 0, 0, 0]","['ddos', 'fraud', 'hack', 'leak', 'malware', 'phishing', 'scam', 'scan', 'spam']"
 domain,khjs.ru,2021-04-05T15:54:06Z,2022-04-17T03:50:50Z,"['Malware:Pteranodon - S0147', 'Intrusion Set:Gamaredon Group - G0047']","[1, 0]","['malware', 'phishing']"
 domain,khpf.online,2021-02-13T00:00:00Z,2022-02-23T16:11:30Z,['Intrusion Set:Gamaredon Group - G0047'],"[0, 14, 16, 0, 0, 0, 0, 0, 3]","['scan', 'malware', 'phishing', 'spam', 'fraud', 'ddos', 'scam', 'leak', 'hack']"
@@ -2602,7 +2602,7 @@ ip,190.2.153.227,2022-04-17T00:00:00Z,2022-05-12T03:39:04Z,[],"[12, 17]","['scan
 ip,190.201.12.145,2020-04-03T00:00:00Z,2022-03-08T23:57:43Z,[],[12],['hack']
 ip,190.206.191.41,2017-04-08T20:45:30Z,2022-03-04T17:57:44Z,[],"[12, 0, 0]","['hack', 'malware', 'phishing']"
 ip,190.206.244.70,2022-02-25T08:03:54Z,2022-03-07T20:34:23Z,[],"[12, 9, 4]","['hack', 'malware', 'phishing']"
-ip,190.211.254.78,2022-05-04T00:00:00Z,2022-05-21T06:30:51Z,[],"[53, 20, 40]","['hack', 'malware', 'scan']"
+ip,190.211.254.78,2022-05-04T00:00:00Z,2022-05-21T07:56:32Z,[],"[51, 20, 35]","['hack', 'malware', 'scan']"
 ip,190.73.98.70,2022-03-01T23:57:43Z,2022-03-08T23:57:43Z,[],[12],['hack']
 ip,190.75.193.217,2022-03-01T23:57:43Z,2022-03-08T23:57:43Z,[],[12],['hack']
 ip,190.78.180.120,2022-02-25T08:03:54Z,2022-03-07T20:34:24Z,[],"[12, 9, 4]","['hack', 'malware', 'phishing']"
@@ -3420,7 +3420,7 @@ ip,5.182.211.5,2022-02-11T11:04:01Z,2022-03-24T20:29:39Z,"['Malware:Tsunami (ELF
 ip,5.190.94.115,2018-12-25T00:00:00Z,2022-03-08T23:57:44Z,[],[12],['hack']
 ip,5.199.133.149,2016-08-20T14:50:50Z,2022-05-16T17:35:57Z,"['Malware:PowGoop', 'Malware:LaZagne', 'Tool:Mimikatz - S0002', 'Malware:Mori Backdoor', 'Tool:LaZagne - S0349', 'OCD - Threat pattern:Command and Control [C2]', 'Malware:MimiKatz', 'Intrusion Set:MuddyWater - G0069', 'Malware:POWERSTATS - S0223']","[0, 19, 1, 1]","['phishing', 'malware', 'hack', 'scan']"
 ip,5.251.5.138,2022-03-22T00:00:00Z,2022-03-29T00:00:00Z,[],[12],['hack']
-ip,5.34.204.178,2020-12-17T00:00:00Z,2022-05-20T00:44:26Z,[],"[47, 3, 1, 27]","['hack', 'malware', 'scan', 'spam']"
+ip,5.34.204.178,2020-12-17T00:00:00Z,2022-05-21T07:53:00Z,[],"[47, 24, 1, 3]","['hack', 'spam', 'scan', 'malware']"
 ip,5.35.77.114,2022-03-09T00:00:00Z,2022-03-25T09:12:03Z,[],[18],['hack']
 ip,5.39.222.152,2022-04-13T00:00:00Z,2022-04-24T23:36:56Z,[],"[19, 13, 20]","['scan', 'hack', 'malware']"
 ip,5.44.170.106,2018-09-09T00:00:00Z,2018-09-25T00:00:00Z,[],[2],['hack']
