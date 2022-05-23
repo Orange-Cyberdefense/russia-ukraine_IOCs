@@ -2317,7 +2317,7 @@ ip,161.35.60.104,2020-07-06T05:30:52Z,2022-03-05T23:57:46Z,[],"[19, 1, 1]","['ha
 ip,163.172.108.235,2022-03-01T00:00:00Z,2022-03-07T22:48:11Z,[],[20],['hack']
 ip,163.172.115.108,2021-08-05T00:00:00Z,2022-05-10T05:01:33Z,[],"[2, 14, 0]","['scan', 'hack', 'spam']"
 ip,163.197.34.50,2022-03-02T00:00:00Z,2022-03-09T11:57:39Z,[],[12],['hack']
-ip,164.52.24.174,2018-05-25T00:00:00Z,2022-05-22T11:31:20Z,"['Malware:Mirai', 'OCD - Threat pattern:Command and Control [C2]']","[0, 0, 33, 1, 1, 0, 7, 0]","['ddos', 'fraud', 'hack', 'malware', 'phishing', 'scam', 'scan', 'spam']"
+ip,164.52.24.174,2018-05-25T00:00:00Z,2022-05-23T11:44:16Z,"['Malware:Mirai', 'OCD - Threat pattern:Command and Control [C2]']","[0, 0, 34, 1, 1, 0, 7, 0]","['ddos', 'fraud', 'hack', 'malware', 'phishing', 'scam', 'scan', 'spam']"
 ip,164.52.6.196,2022-03-28T00:00:00Z,2022-04-09T02:09:24Z,[],"[10, 12, 15, 18, 17]","['spam', 'hack', 'ddos', 'scan', 'malware']"
 ip,167.172.23.141,2021-08-28T00:00:00Z,2022-05-15T16:18:43Z,[],[19],['hack']
 ip,167.172.37.203,2022-02-28T00:00:00Z,2022-03-07T23:57:45Z,[],[13],['hack']
@@ -2633,7 +2633,7 @@ ip,194.126.182.104,2022-03-03T00:00:00Z,2022-03-10T00:00:00Z,[],[12],['hack']
 ip,194.143.151.161,2022-04-24T00:00:00Z,2022-05-01T00:00:00Z,[],[12],['hack']
 ip,194.147.75.77,2022-05-13T00:00:00Z,2022-05-20T00:00:00Z,[],[12],['hack']
 ip,194.180.174.46,2021-11-11T14:35:43Z,2022-03-05T13:18:50Z,"['Malware:August Stealer', 'Malware:WhisperGate', 'Intrusion Set:Gamaredon Group - G0047', 'Malware:WildFire', 'Malware:Pteranodon - S0147']","[1, 9, 1, 1]","['hack', 'malware', 'phishing', 'scan']"
-ip,194.31.98.124,2022-01-05T00:00:00Z,2022-05-23T06:04:51Z,"['Tool:Cobalt Strike - S0154', 'OCD - Threat pattern:Command and Control [C2]', 'Attack Pattern:Phishing - T1566']","[1, 0, 68, 28, 1, 83, 1]","['ddos', 'fraud', 'hack', 'malware', 'phishing', 'scan', 'spam']"
+ip,194.31.98.124,2022-01-05T00:00:00Z,2022-05-23T08:40:58Z,"['Tool:Cobalt Strike - S0154', 'OCD - Threat pattern:Command and Control [C2]', 'Attack Pattern:Phishing - T1566']","[1, 0, 74, 32, 1, 86, 1]","['ddos', 'fraud', 'hack', 'malware', 'phishing', 'scan', 'spam']"
 ip,194.31.98.163,2022-02-28T00:00:00Z,2022-03-08T23:57:42Z,[],"[18, 20, 20, 13]","['spam', 'malware', 'scan', 'hack']"
 ip,194.33.40.81,2022-02-23T00:00:00Z,2022-03-07T20:34:28Z,[],"[12, 9, 4]","['hack', 'malware', 'phishing']"
 ip,194.44.83.243,2022-03-30T00:00:00Z,2022-04-07T00:15:56Z,[],"[20, 12, 20]","['scan', 'hack', 'malware']"
