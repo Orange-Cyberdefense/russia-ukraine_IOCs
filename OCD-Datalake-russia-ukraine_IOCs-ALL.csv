@@ -297,7 +297,7 @@ domain,comprando.ru,2022-01-02T16:50:28Z,2022-05-10T08:25:06Z,"['Malware:Pterano
 domain,conscindere.online,2020-11-23T20:43:50Z,2022-02-21T16:11:30Z,['Intrusion Set:Gamaredon Group - G0047'],"[19, 20]","['malware', 'phishing']"
 domain,coriandrum.xyz,2020-07-15T22:32:37Z,2022-03-23T00:54:45Z,"['Attack Pattern:Phishing - T1566', 'Intrusion Set:Gamaredon Group - G0047']","[2, 2, 2, 15, 2, 2, 2, 17, 2]","['leak', 'scam', 'fraud', 'phishing', 'hack', 'scan', 'ddos', 'malware', 'spam']"
 domain,corintar.ru,2022-02-16T10:42:59Z,2022-04-04T15:50:09Z,['Intrusion Set:Gamaredon Group - G0047'],"[3, 2, 0]","['ddos', 'malware', 'phishing']"
-domain,corolain.ru,2021-10-18T14:52:36Z,2022-05-24T11:00:40Z,"['Intrusion Set:Gamaredon Group - G0047', 'Malware:WhisperGate', 'Malware:Pteranodon - S0147', 'Malware:August Stealer', 'Malware:WildFire']","[0, 19]","['phishing', 'malware']"
+domain,corolain.ru,2021-10-18T14:52:36Z,2022-05-24T11:00:40Z,"['Intrusion Set:Gamaredon Group - G0047', 'Malware:WhisperGate', 'Malware:Pteranodon - S0147', 'Malware:August Stealer', 'Malware:WildFire']","[19, 0]","['malware', 'phishing']"
 domain,corvusi.online,2020-09-10T10:52:38Z,2022-03-21T10:42:57Z,[],"[17, 15, 25]","['phishing', 'ddos', 'malware']"
 domain,cotular.xyz,2020-09-02T19:30:21Z,2022-03-30T16:11:30Z,['Intrusion Set:Gamaredon Group - G0047'],"[2, 1]","['malware', 'phishing']"
 domain,creditals-email.space,2022-01-04T00:00:00Z,2022-05-01T16:51:38Z,[],"[0, 0, 2, 0, 0, 0, 0, 17, 9]","['leak', 'spam', 'hack', 'ddos', 'fraud', 'scan', 'scam', 'malware', 'phishing']"
@@ -2601,7 +2601,7 @@ ip,190.2.153.227,2022-04-17T00:00:00Z,2022-05-12T03:39:04Z,[],"[12, 17]","['scan
 ip,190.201.12.145,2020-04-03T00:00:00Z,2022-03-08T23:57:43Z,[],[12],['hack']
 ip,190.206.191.41,2017-04-08T20:45:30Z,2022-03-04T17:57:44Z,[],"[12, 0, 0]","['hack', 'malware', 'phishing']"
 ip,190.206.244.70,2022-02-25T08:03:54Z,2022-03-07T20:34:23Z,[],"[12, 9, 4]","['hack', 'malware', 'phishing']"
-ip,190.211.254.78,2022-05-04T00:00:00Z,2022-05-24T07:56:32Z,[],"[45, 31, 20]","['hack', 'scan', 'malware']"
+ip,190.211.254.78,2022-05-04T00:00:00Z,2022-05-24T19:56:32Z,[],"[25, 20, 36]","['scan', 'malware', 'hack']"
 ip,190.73.98.70,2022-03-01T23:57:43Z,2022-03-08T23:57:43Z,[],[12],['hack']
 ip,190.75.193.217,2022-03-01T23:57:43Z,2022-03-08T23:57:43Z,[],[12],['hack']
 ip,190.78.180.120,2022-02-25T08:03:54Z,2022-03-07T20:34:24Z,[],"[12, 9, 4]","['hack', 'malware', 'phishing']"
@@ -3746,7 +3746,7 @@ ip,84.17.55.5,2020-05-18T05:21:46Z,2022-04-10T12:11:20Z,[],"[16, 0, 19, 20]","['
 ip,84.17.55.8,2016-12-12T23:18:03Z,2021-11-06T00:00:00Z,[],"[2, 1, 1, 1, 1]","['hack', 'malware', 'phishing', 'scan', 'spam']"
 ip,84.32.188.141,2022-01-31T17:02:36Z,2022-03-17T14:51:28Z,['OCD - Threat pattern:Command and Control [C2]'],"[6, 17, 14, 11]","['scan', 'hack', 'malware', 'phishing']"
 ip,84.32.188.29,2022-03-22T15:40:37Z,2022-05-17T00:00:00Z,"['Tool:Cobalt Strike - S0154', 'Malware:TrickBot - S0266', 'OCD - Threat pattern:Command and Control [C2]']","[5, 10, 0, 1]","['hack', 'malware', 'phishing', 'scan']"
-ip,84.32.188.96,2022-01-04T00:00:00Z,2022-05-23T22:13:09Z,"['Attack Pattern:Phishing - T1566', 'Malware:STOP Ransomware', 'Intrusion Set:Ghostwriter', 'Malware:Demo', 'Malware:IcedID - S0483', 'Malware:IcedID Downloader', 'Attack Pattern:Command and Scripting Interpreter - T1059', 'OCD - Threat pattern:Command and Control [C2]']","[5, 50, 1, 6]","['hack', 'malware', 'phishing', 'scan']"
+ip,84.32.188.96,2022-01-04T00:00:00Z,2022-05-24T19:40:04Z,"['Attack Pattern:Phishing - T1566', 'Malware:STOP Ransomware', 'Intrusion Set:Ghostwriter', 'Malware:Demo', 'Malware:IcedID - S0483', 'Malware:IcedID Downloader', 'Attack Pattern:Command and Scripting Interpreter - T1059', 'OCD - Threat pattern:Command and Control [C2]']","[5, 50, 1, 6]","['hack', 'malware', 'phishing', 'scan']"
 ip,85.12.215.197,2021-06-08T00:00:00Z,2021-07-03T02:02:12Z,[],"[1, 2, 1, 1]","['ddos', 'hack', 'malware', 'scan']"
 ip,85.192.188.124,2017-11-18T00:00:00Z,2022-03-21T07:13:02Z,[],[19],['hack']
 ip,85.203.44.233,2020-11-20T23:27:04Z,2022-03-05T23:57:46Z,[],"[1, 1, 19, 1]","['phishing', 'scan', 'hack', 'malware']"
