@@ -677,7 +677,7 @@ domain,klotrast.ru,2021-12-21T08:58:15Z,2022-05-19T08:25:06Z,"['Malware:August S
 domain,knolmail.xyz,2021-09-16T00:00:00Z,2022-04-02T08:50:26Z,"['Malware:Xloader', 'Malware:Formbook', 'Attack Pattern:Phishing - T1566']","[0, 0, 0, 0, 0, 12, 0, 0, 2]","['hack', 'spam', 'ddos', 'scam', 'scan', 'malware', 'leak', 'fraud', 'phishing']"
 domain,koete.ru,2022-02-03T23:45:52Z,2022-05-19T08:25:06Z,"['OCD - Threat pattern:Command and Control [C2]', 'Malware:Pteranodon - S0147', 'Intrusion Set:Gamaredon Group - G0047']","[8, 3, 1]","['hack', 'malware', 'phishing']"
 domain,kofukaku.ru,2022-02-03T23:45:52Z,2022-05-19T08:25:06Z,"['Malware:Pteranodon - S0147', 'Intrusion Set:Gamaredon Group - G0047']","[4, 5, 0]","['hack', 'malware', 'phishing']"
-domain,kolopart.ru,2022-02-16T10:42:59Z,2022-05-22T21:10:12Z,['Intrusion Set:Gamaredon Group - G0047'],"[3, 4, 4]","['ddos', 'malware', 'phishing']"
+domain,kolopart.ru,2022-02-16T10:42:59Z,2022-05-27T11:52:42Z,['Intrusion Set:Gamaredon Group - G0047'],"[3, 4, 2]","['ddos', 'malware', 'phishing']"
 domain,koloparto.ru,2022-02-16T10:42:59Z,2022-03-26T15:50:09Z,['Intrusion Set:Gamaredon Group - G0047'],"[1, 15, 11]","['phishing', 'ddos', 'malware']"
 domain,kolorato.ru,2021-11-11T23:50:40Z,2022-05-10T08:25:06Z,"['Malware:August Stealer', 'Malware:WhisperGate', 'Malware:WildFire', 'Malware:Pteranodon - S0147', 'Intrusion Set:Gamaredon Group - G0047']","[15, 19, 1]","['hack', 'malware', 'phishing']"
 domain,koloratos.ru,2022-01-31T17:28:02Z,2022-05-10T08:25:06Z,"['Malware:Pteranodon - S0147', 'Intrusion Set:Gamaredon Group - G0047']","[8, 20, 1]","['hack', 'malware', 'phishing']"
@@ -2784,7 +2784,7 @@ ip,223.74.98.96,2022-02-25T08:03:54Z,2022-03-04T17:57:44Z,[],[12],['hack']
 ip,23.20.195.118,2022-03-13T00:00:00Z,2022-03-20T00:00:00Z,[],[12],['hack']
 ip,23.20.62.149,2022-03-13T00:00:00Z,2022-03-20T00:00:00Z,[],[12],['hack']
 ip,23.81.246.240,2022-04-01T00:00:00Z,2022-04-08T00:00:00Z,[],[12],['hack']
-ip,23.98.154.225,2020-03-11T00:00:00Z,2022-05-28T09:54:34Z,[],[42],['hack']
+ip,23.98.154.225,2020-03-11T00:00:00Z,2022-05-28T21:54:34Z,[],[29],['hack']
 ip,27.123.136.155,2020-02-02T16:38:37Z,2022-03-08T23:57:43Z,[],"[0, 12]","['spam', 'hack']"
 ip,27.123.137.149,2022-02-25T00:00:00Z,2022-03-04T23:57:44Z,[],[12],['hack']
 ip,27.123.138.44,2022-02-28T00:00:00Z,2022-03-07T23:57:45Z,[],"[8, 12, 8]","['phishing', 'hack', 'malware']"
