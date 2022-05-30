@@ -1916,7 +1916,7 @@ file,fd9a9dd9c73088d1ffdea85540ee671d8abb6b5ab37d66a760b2350951c784d0,2022-01-31
 file,fd9c17c35a68fc505235e20c6e50c622aed8dea0,2022-04-12T12:35:54Z,2022-05-15T13:16:38Z,"['Malware:CaddyWiper', 'Malware:Bad Rabbit - S0606', 'Malware:NotPetya - S0368', 'Malware:Industroyer - S0604', 'Intrusion Set:Sandworm Team - G0034', 'Malware:Wiper - S0041', 'Attack Pattern:Scheduled Task/Job - T1053']",[90],['malware']
 file,ff3e78c8994d3cc1b5c7545ebd5e1dcbab430167f1c3333f4ddad509d06176ed,2022-01-31T16:59:34Z,2022-05-24T13:18:50Z,"['Intrusion Set:Gamaredon Group - G0047', 'Malware:WhisperGate', 'Malware:Pteranodon - S0147', 'Malware:August Stealer', 'Malware:WildFire']",[73],['malware']
 file,ff4a152f8f220b89a3a424bd2dc32d82fd113c648305dd661c642be6d48b4b2a,2022-04-21T07:41:38Z,2022-05-21T10:06:12Z,['Intrusion Set:Gamaredon Group - G0047'],[90],['malware']
-fqdn,a0667987.xsph.ru,2022-05-10T18:07:57Z,2022-05-22T13:06:10Z,['Intrusion Set:Gamaredon Group - G0047'],"[17, 32]","['phishing', 'malware']"
+fqdn,a0667987.xsph.ru,2022-05-10T18:07:57Z,2022-05-30T13:06:10Z,['Intrusion Set:Gamaredon Group - G0047'],"[17, 19]","['phishing', 'malware']"
 fqdn,a0671524.xsph.ru,2022-05-13T03:50:58Z,2022-05-30T03:50:58Z,['Intrusion Set:Gamaredon Group - G0047'],[15],['malware']
 fqdn,accordan.ru,2022-02-04T10:42:40Z,2022-03-09T10:42:40Z,['Intrusion Set:Gamaredon Group - G0047'],[15],['malware']
 fqdn,adleer.ru,2022-02-04T10:42:38Z,2022-03-09T10:42:38Z,['Intrusion Set:Gamaredon Group - G0047'],[15],['malware']
@@ -4080,7 +4080,7 @@ url,http://89.108.98.88/credit/cranny.au,2022-04-20T11:45:06Z,2022-05-24T10:06:1
 url,http://94.158.244.100/jersey.icb,2022-04-20T11:45:05Z,2022-05-24T10:06:12Z,['Intrusion Set:Gamaredon Group - G0047'],"[16, 11]","['phishing', 'malware']"
 url,http://94.158.244.64/barren.cbt09.12.2021%209:50:19,2022-04-20T11:45:06Z,2022-05-24T10:06:12Z,['Intrusion Set:Gamaredon Group - G0047'],"[12, 11]","['phishing', 'malware']"
 url,http://94.158.245.165/fruitless.ive15.12.2021%2017:23:29,2022-04-20T11:45:06Z,2022-05-24T10:06:12Z,['Intrusion Set:Gamaredon Group - G0047'],"[8, 11]","['phishing', 'malware']"
-url,http://a0667987.xsph.ru/preparations/rejection.xml,2022-05-10T18:07:57Z,2022-05-22T13:06:10Z,[],"[14, 32]","['phishing', 'malware']"
+url,http://a0667987.xsph.ru/preparations/rejection.xml,2022-05-10T18:07:57Z,2022-05-30T13:06:10Z,[],"[14, 19]","['phishing', 'malware']"
 url,http://a0667987.xsph.ru/zsu/faicon.ico,2022-05-16T12:13:53Z,2022-05-25T12:13:53Z,[],[50],['malware']
 url,http://a0671524.xsph.ru/bandage/precarious.xml,2022-05-16T12:13:53Z,2022-05-25T12:13:53Z,[],[50],['malware']
 url,http://a0671524.xsph.ru/mo/faicon.ico,2022-05-16T12:13:52Z,2022-05-25T12:13:52Z,[],[50],['malware']
