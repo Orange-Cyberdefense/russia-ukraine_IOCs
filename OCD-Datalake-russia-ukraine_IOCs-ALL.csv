@@ -37,7 +37,7 @@ domain,adonisi.xyz,2021-01-24T12:38:26Z,2022-02-25T16:11:30Z,['Intrusion Set:Gam
 domain,adonisis.xyz,2020-09-02T19:30:18Z,2022-02-21T16:11:30Z,['Intrusion Set:Gamaredon Group - G0047'],"[18, 19]","['phishing', 'malware']"
 domain,aerogenosa.ru,2021-04-16T22:00:11Z,2022-03-30T16:11:30Z,"['Malware:Pteranodon - S0147', 'Intrusion Set:Gamaredon Group - G0047']","[1, 1]","['malware', 'phishing']"
 domain,aethusas.xyz,2020-09-02T19:30:18Z,2022-03-30T16:11:30Z,['Intrusion Set:Gamaredon Group - G0047'],"[2, 1]","['malware', 'phishing']"
-domain,aff-opros.top,2022-04-14T16:25:16Z,2022-05-22T09:19:51Z,[],"[9, 0]","['malware', 'phishing']"
+domain,aff-opros.top,2022-04-14T16:25:16Z,2022-05-31T09:19:51Z,[],"[2, 0]","['malware', 'phishing']"
 domain,afi-opros.top,2022-04-19T09:19:51Z,2022-05-06T09:19:51Z,[],[18],['malware']
 domain,agamat.xyz,2020-09-02T19:30:18Z,2022-02-23T16:11:30Z,['Intrusion Set:Gamaredon Group - G0047'],"[13, 3, 16]","['malware', 'hack', 'phishing']"
 domain,agaricusa.online,2021-01-13T00:00:00Z,2022-05-05T00:51:21Z,['Intrusion Set:Gamaredon Group - G0047'],"[0, 0, 0, 0, 3, 1, 0, 0, 0]","['ddos', 'fraud', 'hack', 'leak', 'malware', 'phishing', 'scam', 'scan', 'spam']"
@@ -68,7 +68,7 @@ domain,ambystoma.xyz,2016-07-18T23:18:45Z,2022-02-21T16:11:30Z,['Intrusion Set:G
 domain,amieteku.ru,2022-01-15T03:52:39Z,2022-05-27T08:25:06Z,"['Malware:Pteranodon - S0147', 'Intrusion Set:Gamaredon Group - G0047']","[2, 0, 1]","['hack', 'malware', 'phishing']"
 domain,ammoniacum.xyz,2020-09-02T19:30:18Z,2022-02-25T16:11:30Z,['Intrusion Set:Gamaredon Group - G0047'],"[19, 19]","['malware', 'phishing']"
 domain,amo-opros.top,2022-04-19T09:19:51Z,2022-05-06T09:19:51Z,[],[18],['malware']
-domain,an-gos.top,2022-04-14T16:25:17Z,2022-05-22T09:19:51Z,[],"[9, 0]","['malware', 'phishing']"
+domain,an-gos.top,2022-04-14T16:25:17Z,2022-05-31T09:19:51Z,[],"[2, 0]","['malware', 'phishing']"
 domain,an-ukr.top,2022-04-19T09:19:51Z,2022-05-06T09:19:51Z,[],[18],['malware']
 domain,anainat.ru,2021-10-08T23:24:31Z,2022-05-10T08:25:06Z,"['Malware:Pteranodon - S0147', 'Intrusion Set:Gamaredon Group - G0047']","[3, 4, 4]","['hack', 'malware', 'phishing']"
 domain,anamirtat.xyz,2020-09-02T19:30:18Z,2022-03-30T16:11:30Z,['Intrusion Set:Gamaredon Group - G0047'],"[2, 1]","['malware', 'phishing']"
@@ -2337,7 +2337,7 @@ ip,167.71.67.207,2021-04-12T00:00:00Z,2022-03-07T23:57:46Z,[],"[0, 1, 13]","['sc
 ip,167.71.78.68,2021-04-19T00:00:00Z,2022-03-07T23:57:46Z,[],[13],['hack']
 ip,168.100.10.129,2022-02-25T00:00:00Z,2022-03-08T23:57:43Z,[],[12],['hack']
 ip,168.100.8.42,2022-04-12T16:35:58Z,2022-05-17T12:07:18Z,['Attack Pattern:Phishing - T1566'],"[1, 10, 1, 1]","['hack', 'malware', 'phishing', 'scan']"
-ip,169.150.196.140,2022-05-12T00:00:00Z,2022-05-31T06:11:31Z,[],"[29, 37, 46]","['hack', 'scan', 'malware']"
+ip,169.150.196.140,2022-05-12T00:00:00Z,2022-05-31T12:26:45Z,[],"[29, 44, 8, 37]","['hack', 'malware', 'phishing', 'scan']"
 ip,169.197.141.79,2022-02-28T00:00:00Z,2022-03-08T23:57:42Z,[],[13],['hack']
 ip,171.22.76.50,2021-08-21T19:16:37Z,2022-03-13T00:07:46Z,[],"[14, 17, 1, 14, 1]","['malware', 'scan', 'ddos', 'hack', 'spam']"
 ip,171.237.152.152,2022-02-25T08:03:54Z,2022-03-14T14:20:13Z,[],"[2, 2, 0]","['hack', 'malware', 'phishing']"
