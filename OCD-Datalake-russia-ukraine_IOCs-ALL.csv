@@ -2646,7 +2646,7 @@ ip,194.143.151.161,2022-04-24T00:00:00Z,2022-05-01T00:00:00Z,[],[12],['hack']
 ip,194.147.75.77,2022-05-13T00:00:00Z,2022-05-20T00:00:00Z,[],[12],['hack']
 ip,194.180.174.46,2021-11-11T14:35:43Z,2022-03-05T13:18:50Z,"['Malware:Pteranodon - S0147', 'Malware:WildFire', 'Intrusion Set:Gamaredon Group - G0047', 'Malware:August Stealer', 'Malware:WhisperGate']","[1, 9, 1, 1]","['hack', 'malware', 'phishing', 'scan']"
 ip,194.31.98.12,2022-02-26T19:33:06Z,2022-06-01T04:57:57Z,[],"[3, 1, 1, 13]","['hack', 'malware', 'scan', 'spam']"
-ip,194.31.98.124,2022-01-05T00:00:00Z,2022-06-01T00:33:05Z,"['OCD - Threat pattern:Command and Control [C2]', 'Tool:Cobalt Strike - S0154', 'Attack Pattern:Phishing - T1566']","[31, 22, 0, 1, 0, 40, 1]","['hack', 'malware', 'phishing', 'spam', 'fraud', 'scan', 'ddos']"
+ip,194.31.98.124,2022-01-05T00:00:00Z,2022-06-01T00:33:05Z,"['Attack Pattern:Phishing - T1566', 'Tool:Cobalt Strike - S0154', 'OCD - Threat pattern:Command and Control [C2]']","[1, 0, 31, 22, 0, 40, 1]","['ddos', 'fraud', 'hack', 'malware', 'phishing', 'scan', 'spam']"
 ip,194.31.98.163,2022-02-28T00:00:00Z,2022-03-08T23:57:42Z,[],"[18, 20, 20, 13]","['spam', 'malware', 'scan', 'hack']"
 ip,194.33.40.81,2022-02-23T00:00:00Z,2022-03-07T20:34:28Z,[],"[12, 9, 4]","['hack', 'malware', 'phishing']"
 ip,194.44.83.243,2022-03-30T00:00:00Z,2022-04-07T00:15:56Z,[],"[20, 12, 20]","['scan', 'hack', 'malware']"
@@ -3791,7 +3791,7 @@ ip,87.249.49.103,2022-02-04T04:22:22Z,2022-03-10T01:00:12Z,"['Malware:Pteranodon
 ip,87.251.67.35,2020-12-20T08:20:44Z,2021-06-18T07:19:11Z,[],"[2, 1, 0, 0]","['hack', 'malware', 'phishing', 'scan']"
 ip,87.98.236.218,2022-03-24T00:00:00Z,2022-03-29T13:33:12Z,[],[20],['hack']
 ip,88.119.175.112,2019-06-05T07:08:03Z,2022-03-12T08:49:43Z,[],"[13, 10, 16, 16]","['phishing', 'scan', 'malware', 'hack']"
-ip,88.124.75.90,2020-01-17T00:00:00Z,2022-05-29T14:13:18Z,['OCD - Threat pattern:Command and Control [C2]'],"[0, 0, 57, 1, 1, 0, 0, 1]","['ddos', 'fraud', 'hack', 'malware', 'phishing', 'scam', 'scan', 'spam']"
+ip,88.124.75.90,2020-01-17T00:00:00Z,2022-06-01T14:13:18Z,['OCD - Threat pattern:Command and Control [C2]'],"[0, 0, 1, 0, 0, 50, 1, 1]","['fraud', 'scan', 'spam', 'ddos', 'scam', 'hack', 'phishing', 'malware']"
 ip,88.130.24.101,2022-04-03T00:00:00Z,2022-04-10T00:00:00Z,[],[12],['hack']
 ip,88.130.24.132,2022-05-02T00:00:00Z,2022-05-09T00:00:00Z,[],[12],['hack']
 ip,88.130.24.170,2022-05-07T00:00:00Z,2022-05-14T00:00:00Z,[],[12],['hack']
