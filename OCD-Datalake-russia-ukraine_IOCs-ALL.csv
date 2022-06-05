@@ -3998,7 +3998,7 @@ ip,96.227.133.55,2022-02-27T00:00:00Z,2022-03-08T23:57:43Z,[],[12],['hack']
 ip,96.43.128.122,2022-02-13T00:10:45Z,2022-03-04T17:57:44Z,[],"[1, 11, 17, 9]","['scan', 'hack', 'malware', 'phishing']"
 ip,97.115.253.180,2022-02-25T08:03:54Z,2022-03-04T17:57:44Z,[],[12],['hack']
 ip,98.159.226.64,2022-03-08T07:26:24Z,2022-05-02T18:08:51Z,[],"[20, 18, 20]","['malware', 'hack', 'scan']"
-ip,98.159.226.70,2022-01-31T02:39:42Z,2022-06-05T15:07:08Z,[],"[2, 1, 27]","['hack', 'malware', 'scan']"
+ip,98.159.226.70,2022-01-31T02:39:42Z,2022-06-05T19:01:09Z,[],"[30, 2, 1, 27]","['ddos', 'hack', 'malware', 'scan']"
 url,http://103.167.92.57/xx_cloudprotect/vbc.exe,2022-03-09T10:06:03Z,2022-04-18T08:50:26Z,"['Malware:Xloader', 'Malware:Formbook', 'Attack Pattern:Phishing - T1566']","[13, 20, 13]","['phishing', 'hack', 'malware']"
 url,http://107.191.57.249/jersey.icb,2022-04-20T11:45:05Z,2022-05-24T10:06:12Z,['Intrusion Set:Gamaredon Group - G0047'],"[10, 12]","['phishing', 'malware']"
 url,http://134.0.115.88/correction/crude.mdm,2022-04-20T11:45:06Z,2022-05-24T10:06:12Z,['Intrusion Set:Gamaredon Group - G0047'],"[9, 13]","['phishing', 'malware']"
