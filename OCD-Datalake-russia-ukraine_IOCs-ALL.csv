@@ -545,7 +545,7 @@ domain,heteroptera.ru,2017-02-08T15:35:15Z,2022-03-30T16:11:30Z,"['Malware:Ptera
 domain,heterotypus.online,2021-01-26T15:57:42Z,2022-03-30T16:11:30Z,['Intrusion Set:Gamaredon Group - G0047'],"[1, 1]","['malware', 'phishing']"
 domain,hewaniana.online,2020-11-18T00:00:00Z,2022-03-30T16:11:30Z,['Intrusion Set:Gamaredon Group - G0047'],"[0, 0, 0, 0, 2, 1, 0, 0, 0]","['ddos', 'fraud', 'hack', 'leak', 'malware', 'phishing', 'scam', 'scan', 'spam']"
 domain,hibigaru.ru,2021-09-15T17:13:54Z,2022-05-27T08:25:06Z,"['Malware:Pteranodon - S0147', 'Malware:WildFire', 'Intrusion Set:Gamaredon Group - G0047', 'Malware:August Stealer', 'Malware:WhisperGate']","[0, 2, 1]","['hack', 'malware', 'phishing']"
-domain,hiemalis.xyz,2020-07-29T00:00:00Z,2022-02-25T16:11:30Z,['Intrusion Set:Gamaredon Group - G0047'],"[0, 18, 0, 0, 0, 0, 0, 18, 0]","['fraud', 'phishing', 'spam', 'hack', 'scan', 'leak', 'ddos', 'malware', 'scam']"
+domain,hiemalis.xyz,2020-07-29T00:00:00Z,2022-03-30T16:11:30Z,['Intrusion Set:Gamaredon Group - G0047'],"[0, 0, 0, 0, 2, 1, 0, 0, 0]","['ddos', 'fraud', 'hack', 'leak', 'malware', 'phishing', 'scam', 'scan', 'spam']"
 domain,hierodula.online,2021-01-25T00:00:00Z,2022-03-30T16:11:30Z,"['Malware:Pteranodon - S0147', 'Intrusion Set:Gamaredon Group - G0047']","[0, 0, 0, 0, 1, 1, 0, 0, 0]","['ddos', 'fraud', 'hack', 'leak', 'malware', 'phishing', 'scam', 'scan', 'spam']"
 domain,hierodula.ru,2021-02-22T03:54:01Z,2022-03-30T16:11:30Z,"['Malware:Pteranodon - S0147', 'Intrusion Set:Gamaredon Group - G0047']","[1, 1]","['malware', 'phishing']"
 domain,hikorta.ru,2022-02-16T10:42:59Z,2022-04-08T03:50:14Z,['Intrusion Set:Gamaredon Group - G0047'],"[3, 2, 0]","['ddos', 'malware', 'phishing']"
@@ -1156,7 +1156,7 @@ domain,torohota.ru,2022-02-03T23:45:51Z,2022-05-27T08:25:06Z,"['Malware:Pteranod
 domain,tortunas.ru,2022-01-05T00:00:00Z,2022-05-20T03:50:58Z,"['Attack Pattern:Visual Basic - T1059.005', 'Intrusion Set:Gamaredon Group - G0047', 'Attack Pattern:Spearphishing Attachment - T1566.001']","[3, 1, 1]","['hack', 'malware', 'phishing']"
 domain,torvaldu.ru,2022-01-27T20:33:50Z,2022-05-27T11:48:37Z,"['Malware:Pteranodon - S0147', 'Intrusion Set:Gamaredon Group - G0047']","[2, 5, 0]","['hack', 'malware', 'phishing']"
 domain,trichopodus.xyz,2021-01-24T17:20:37Z,2022-02-21T16:11:30Z,['Intrusion Set:Gamaredon Group - G0047'],"[3, 10, 13]","['hack', 'malware', 'phishing']"
-domain,trichopterus.xyz,2021-01-24T17:20:37Z,2022-03-30T16:11:30Z,['Intrusion Set:Gamaredon Group - G0047'],"[3, 0, 1]","['hack', 'malware', 'phishing']"
+domain,trichopterus.xyz,2021-01-24T17:20:37Z,2022-03-30T16:11:30Z,['Intrusion Set:Gamaredon Group - G0047'],"[3, 1, 1]","['hack', 'malware', 'phishing']"
 domain,tridiuma.ru,2021-02-19T10:19:40Z,2022-03-05T16:11:30Z,"['Malware:Pteranodon - S0147', 'Intrusion Set:Gamaredon Group - G0047']","[3, 9, 4]","['hack', 'malware', 'phishing']"
 domain,triturus.xyz,2017-06-03T17:21:21Z,2022-02-21T16:11:30Z,['Intrusion Set:Gamaredon Group - G0047'],"[3, 8, 13]","['hack', 'malware', 'phishing']"
 domain,trivargo.ru,2016-02-28T11:14:26Z,2022-05-27T08:25:06Z,"['Malware:Pteranodon - S0147', 'Intrusion Set:Gamaredon Group - G0047']","[2, 2, 0]","['hack', 'malware', 'phishing']"
@@ -2806,7 +2806,7 @@ ip,220.172.206.2,2019-10-17T15:10:44Z,2022-03-04T17:57:43Z,[],"[0, 12]","['spam'
 ip,220.202.55.91,2022-03-27T00:00:00Z,2022-04-03T06:12:29Z,[],"[20, 11, 20]","['scan', 'hack', 'malware']"
 ip,221.124.53.55,2022-03-26T00:00:00Z,2022-04-02T00:00:00Z,[],[12],['hack']
 ip,221.132.35.28,2021-12-01T00:00:00Z,2022-04-13T18:11:23Z,[],"[20, 15, 19, 17, 10]","['hack', 'ddos', 'scan', 'malware', 'fraud']"
-ip,221.157.216.81,2022-05-09T00:00:00Z,2022-06-07T21:56:08Z,[],"[31, 20, 20]","['hack', 'malware', 'scan']"
+ip,221.157.216.81,2022-05-09T00:00:00Z,2022-06-08T09:56:08Z,[],"[20, 24, 20]","['scan', 'hack', 'malware']"
 ip,222.119.135.92,2022-03-03T11:57:44Z,2022-03-10T11:57:44Z,[],[12],['hack']
 ip,222.129.32.66,2021-02-20T21:33:03Z,2022-03-04T17:57:44Z,[],[13],['hack']
 ip,222.139.108.230,2022-02-25T08:03:54Z,2022-03-04T17:57:43Z,[],[12],['hack']
