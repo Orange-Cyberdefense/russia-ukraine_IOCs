@@ -3809,7 +3809,7 @@ ip,84.17.55.5,2020-05-18T05:21:46Z,2022-04-10T12:11:20Z,[],"[16, 0, 19, 20]","['
 ip,84.17.55.8,2016-12-12T23:18:03Z,2021-11-06T00:00:00Z,[],"[2, 1, 1, 1, 1]","['hack', 'malware', 'phishing', 'scan', 'spam']"
 ip,84.32.188.141,2022-01-31T17:02:36Z,2022-03-30T14:51:28Z,['OCD - Threat pattern:Command and Control [C2]'],"[2, 1, 2, 1]","['hack', 'malware', 'phishing', 'scan']"
 ip,84.32.188.29,2022-03-22T15:40:37Z,2022-05-26T00:00:00Z,"['OCD - Threat pattern:Command and Control [C2]', 'Malware:TrickBot - S0266', 'Tool:Cobalt Strike - S0154']","[2, 3, 0, 1]","['hack', 'malware', 'phishing', 'scan']"
-ip,84.32.188.96,2022-01-04T00:00:00Z,2022-06-06T04:12:13Z,"['Malware:STOP Ransomware', 'Malware:IcedID - S0483', 'Attack Pattern:Phishing - T1566', 'Intrusion Set:Ghostwriter', 'OCD - Threat pattern:Command and Control [C2]', 'Malware:Demo', 'Malware:IcedID Downloader', 'Attack Pattern:Command and Scripting Interpreter - T1059']","[1, 36, 19, 3]","['phishing', 'malware', 'hack', 'scan']"
+ip,84.32.188.96,2022-01-04T00:00:00Z,2022-06-09T04:12:13Z,"['Malware:STOP Ransomware', 'Malware:IcedID - S0483', 'Attack Pattern:Phishing - T1566', 'Intrusion Set:Ghostwriter', 'OCD - Threat pattern:Command and Control [C2]', 'Malware:Demo', 'Malware:IcedID Downloader', 'Attack Pattern:Command and Scripting Interpreter - T1059']","[19, 22, 3, 1]","['hack', 'malware', 'scan', 'phishing']"
 ip,85.12.215.197,2021-06-08T00:00:00Z,2022-06-06T21:04:07Z,[],"[1, 17, 1, 1]","['ddos', 'hack', 'malware', 'scan']"
 ip,85.192.188.124,2017-11-18T00:00:00Z,2022-03-21T07:13:02Z,[],[19],['hack']
 ip,85.203.44.233,2020-11-20T23:27:04Z,2022-03-05T23:57:46Z,[],"[1, 1, 19, 1]","['phishing', 'scan', 'hack', 'malware']"
