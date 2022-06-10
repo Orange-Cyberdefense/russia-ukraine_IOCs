@@ -72,7 +72,7 @@ domain,an-gos.top,2022-04-14T16:25:17Z,2022-06-08T10:20:10Z,[],"[4, 2]","['malwa
 domain,an-ukr.top,2022-04-19T09:19:51Z,2022-05-06T09:19:51Z,[],[18],['malware']
 domain,anainat.ru,2021-10-08T23:24:31Z,2022-05-27T08:25:06Z,"['Intrusion Set:Gamaredon Group - G0047', 'Malware:Pteranodon - S0147']","[1, 1, 0]","['hack', 'malware', 'phishing']"
 domain,anamirtat.xyz,2020-09-02T19:30:18Z,2022-03-30T16:11:30Z,['Intrusion Set:Gamaredon Group - G0047'],"[1, 1]","['malware', 'phishing']"
-domain,anaraq.ru,2022-01-15T03:52:39Z,2022-05-10T08:25:06Z,"['Intrusion Set:Gamaredon Group - G0047', 'Malware:Pteranodon - S0147']","[8, 3, 0]","['hack', 'malware', 'phishing']"
+domain,anaraq.ru,2022-01-15T03:52:39Z,2022-05-27T08:25:06Z,"['Intrusion Set:Gamaredon Group - G0047', 'Malware:Pteranodon - S0147']","[2, 1, 0]","['hack', 'malware', 'phishing']"
 domain,anatara.ru,2021-11-19T03:49:36Z,2022-05-27T08:25:06Z,"['Intrusion Set:Gamaredon Group - G0047', 'Malware:Pteranodon - S0147']","[2, 8, 1]","['hack', 'malware', 'phishing']"
 domain,anguisa.xyz,2020-09-02T19:30:18Z,2022-03-30T16:11:30Z,['Intrusion Set:Gamaredon Group - G0047'],"[2, 1]","['malware', 'phishing']"
 domain,anidoz.com,2018-02-24T10:45:31Z,2022-05-20T07:30:54Z,"['Malware:TrickBot - S0266', 'Tool:Cobalt Strike - S0154', 'OCD - Threat pattern:Command and Control [C2]']","[0, 0, 18, 0, 16, 1, 0, 0, 0]","['ddos', 'fraud', 'hack', 'leak', 'malware', 'phishing', 'scam', 'scan', 'spam']"
@@ -1178,7 +1178,7 @@ domain,uconos.ru,2021-04-05T15:54:06Z,2022-02-21T16:11:30Z,"['Intrusion Set:Gama
 domain,ugorado.online,2020-12-09T14:37:30Z,2022-03-30T16:11:30Z,['Intrusion Set:Gamaredon Group - G0047'],"[1, 1]","['malware', 'phishing']"
 domain,uharun.ru,2022-02-03T23:45:51Z,2022-05-27T08:25:06Z,"['Intrusion Set:Gamaredon Group - G0047', 'Malware:Pteranodon - S0147']","[2, 0, 0]","['hack', 'malware', 'phishing']"
 domain,uitzendstudent.online,2021-09-16T00:00:00Z,2022-04-02T08:50:26Z,"['Malware:Formbook', 'Attack Pattern:Phishing - T1566', 'Malware:Xloader']","[0, 0, 0, 0, 14, 0, 0, 2, 0]","['spam', 'hack', 'fraud', 'scam', 'malware', 'scan', 'leak', 'phishing', 'ddos']"
-domain,ukrnet.site,2017-03-21T09:32:53Z,2022-04-26T13:51:41Z,[],"[0, 0, 0, 0, 1, 1, 0, 0, 0]","['ddos', 'fraud', 'hack', 'leak', 'malware', 'phishing', 'scam', 'scan', 'spam']"
+domain,ukrnet.site,2017-03-21T09:32:53Z,2022-06-10T15:50:29Z,['Intrusion Set:Gamaredon Group - G0047'],"[0, 0, 0, 0, 17, 1, 0, 0, 0]","['ddos', 'fraud', 'hack', 'leak', 'malware', 'phishing', 'scam', 'scan', 'spam']"
 domain,ulasan-online.com,2021-09-16T00:00:00Z,2022-04-02T08:50:26Z,"['Malware:Formbook', 'Attack Pattern:Phishing - T1566', 'Malware:Xloader']","[0, 0, 0, 12, 0, 0, 0, 14, 0]","['scam', 'fraud', 'hack', 'phishing', 'leak', 'spam', 'scan', 'malware', 'ddos']"
 domain,unforgettableamour.com,2021-09-16T00:00:00Z,2022-04-02T15:37:29Z,"['Malware:Formbook', 'Attack Pattern:Phishing - T1566', 'Malware:Xloader']","[0, 15, 0, 0, 0, 0, 0, 0, 12]","['fraud', 'malware', 'spam', 'scam', 'scan', 'ddos', 'hack', 'leak', 'phishing']"
 domain,upcxi.xyz,2021-09-16T00:00:00Z,2022-04-02T08:50:26Z,"['Malware:Formbook', 'Attack Pattern:Phishing - T1566', 'Malware:Xloader']","[12, 0, 0, 0, 0, 0, 0, 0, 0]","['malware', 'phishing', 'scan', 'hack', 'spam', 'leak', 'fraud', 'scam', 'ddos']"
