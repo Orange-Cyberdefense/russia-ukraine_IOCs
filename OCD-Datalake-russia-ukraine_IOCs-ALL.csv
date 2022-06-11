@@ -2684,7 +2684,7 @@ ip,194.169.217.165,2022-04-17T06:43:01Z,2022-06-07T23:19:03Z,[],"[16, 1]","['hac
 ip,194.180.174.46,2021-11-11T14:35:43Z,2022-03-05T13:18:50Z,"['Malware:August Stealer', 'Malware:WhisperGate', 'Malware:Pteranodon - S0147', 'Malware:WildFire', 'Intrusion Set:Gamaredon Group - G0047']","[1, 9, 1, 1]","['hack', 'malware', 'phishing', 'scan']"
 ip,194.237.233.2,2022-06-03T00:00:00Z,2022-06-10T00:00:00Z,[],[12],['hack']
 ip,194.31.98.12,2022-02-26T19:33:06Z,2022-06-11T07:52:32Z,[],"[3, 1, 1, 27]","['hack', 'malware', 'scan', 'spam']"
-ip,194.31.98.124,2022-01-05T00:00:00Z,2022-06-09T01:20:40Z,"['OCD - Threat pattern:Command and Control [C2]', 'Tool:Cobalt Strike - S0154', 'Attack Pattern:Phishing - T1566']","[1, 0, 15, 8, 0, 12, 1]","['ddos', 'fraud', 'hack', 'malware', 'phishing', 'scan', 'spam']"
+ip,194.31.98.124,2022-01-05T00:00:00Z,2022-06-09T02:07:21Z,"['OCD - Threat pattern:Command and Control [C2]', 'Tool:Cobalt Strike - S0154', 'Attack Pattern:Phishing - T1566']","[1, 0, 15, 4, 0, 12, 1]","['ddos', 'fraud', 'hack', 'malware', 'phishing', 'scan', 'spam']"
 ip,194.31.98.163,2022-02-28T00:00:00Z,2022-03-08T23:57:42Z,[],"[18, 20, 20, 13]","['spam', 'malware', 'scan', 'hack']"
 ip,194.33.40.81,2022-02-23T00:00:00Z,2022-03-07T20:34:28Z,[],"[12, 9, 4]","['hack', 'malware', 'phishing']"
 ip,194.44.83.243,2022-03-30T00:00:00Z,2022-04-07T00:15:56Z,[],"[20, 12, 20]","['scan', 'hack', 'malware']"
@@ -4202,7 +4202,7 @@ url,http://qiwardos.ru/get.php,2022-04-27T09:43:53Z,2022-05-30T09:43:53Z,[],"[11
 url,http://qiwardos.ru/index.php,2022-05-16T12:13:53Z,2022-06-02T12:13:53Z,[],[30],['malware']
 url,http://rivertimad.com,2022-03-22T22:00:12Z,2022-05-09T16:51:38Z,[],"[14, 18, 1]","['malware', 'phishing', 'hack']"
 url,http://staystrongjewels.com,2022-05-02T10:08:31Z,2022-05-16T10:08:31Z,['Malware:BrownFlood'],[15],['ddos']
-url,http://stun.site/pet1.exe,2021-12-08T10:55:11Z,2022-06-03T17:02:03Z,[],"[26, 2]","['malware', 'phishing']"
+url,http://stun.site/pet1.exe,2021-12-08T10:55:11Z,2022-06-11T17:02:03Z,[],"[15, 2]","['malware', 'phishing']"
 url,http://texlidia.com,2017-02-19T22:16:50Z,2017-04-02T22:16:50Z,['Malware:BrownFlood'],"[1, 1]","['malware', 'phishing']"
 url,http://winchconstruction.com,2022-05-01T15:36:26Z,2022-05-25T10:08:36Z,['Malware:BrownFlood'],"[3, 19, 2]","['ddos', 'malware', 'phishing']"
 url,https://aspe.ro,2014-01-31T01:01:34Z,2022-05-22T15:16:39Z,['Malware:BrownFlood'],"[13, 13]","['malware', 'phishing']"
