@@ -489,7 +489,7 @@ domain,goloser.ru,2022-02-04T10:35:32Z,2022-05-24T11:00:40Z,"['Malware:WildFire'
 domain,gonepteryx.online,2021-01-23T00:00:00Z,2022-03-30T16:11:30Z,"['Malware:Pteranodon - S0147', 'Intrusion Set:Gamaredon Group - G0047']","[0, 0, 0, 0, 1, 1, 0, 0, 0]","['ddos', 'fraud', 'hack', 'leak', 'malware', 'phishing', 'scam', 'scan', 'spam']"
 domain,gonepteryx.ru,2021-02-23T16:35:16Z,2022-03-30T16:11:30Z,"['Malware:Pteranodon - S0147', 'Intrusion Set:Gamaredon Group - G0047']","[3, 1, 1]","['hack', 'malware', 'phishing']"
 domain,gongorat.ru,2022-02-03T23:45:50Z,2022-05-27T08:25:06Z,"['Malware:WildFire', 'Malware:August Stealer', 'Malware:WhisperGate', 'Malware:Pteranodon - S0147', 'Intrusion Set:Gamaredon Group - G0047']","[2, 2, 0]","['hack', 'malware', 'phishing']"
-domain,goolati.ru,2021-10-24T14:40:16Z,2022-05-27T08:25:06Z,"['Malware:Pteranodon - S0147', 'Intrusion Set:Gamaredon Group - G0047']","[5, 6, 0]","['hack', 'malware', 'phishing']"
+domain,goolati.ru,2021-10-24T14:40:16Z,2022-06-12T08:25:06Z,"['Malware:Pteranodon - S0147', 'Intrusion Set:Gamaredon Group - G0047']","[2, 3, 0]","['hack', 'malware', 'phishing']"
 domain,gordovat.ru,2021-12-27T22:14:41Z,2022-05-15T08:25:06Z,"['Malware:Pteranodon - S0147', 'Intrusion Set:Gamaredon Group - G0047']","[8, 17, 1]","['hack', 'malware', 'phishing']"
 domain,gorigan.ru,2021-09-23T11:34:32Z,2022-06-06T01:34:53Z,"['Malware:WildFire', 'Malware:August Stealer', 'Malware:WhisperGate', 'Malware:Pteranodon - S0147', 'Intrusion Set:Gamaredon Group - G0047']","[10, 1]","['malware', 'phishing']"
 domain,gorimana.site,2020-12-12T00:00:00Z,2022-06-05T11:00:40Z,['Intrusion Set:Gamaredon Group - G0047'],"[0, 0, 0, 0, 1, 0, 0, 0, 15]","['spam', 'leak', 'scan', 'scam', 'phishing', 'ddos', 'fraud', 'hack', 'malware']"
@@ -2268,7 +2268,7 @@ ip,139.60.161.89,2017-12-02T12:00:25Z,2022-06-10T02:11:25Z,"['Tool:Cobalt Strike
 ip,139.60.161.99,2020-12-16T07:48:02Z,2022-06-10T02:11:25Z,"['OCD - Threat pattern:Command and Control [C2]', 'Intrusion Set:Cobalt Group - G0080', 'Malware:TrickBot - S0266', 'Tool:Cobalt Strike - S0154', 'Malware:Pay2Key - S0556']","[6, 4, 5, 16]","['scan', 'phishing', 'hack', 'malware']"
 ip,139.99.208.206,2020-09-29T01:39:33Z,2022-04-24T11:40:49Z,[],"[19, 10, 10, 0, 19, 5]","['malware', 'scan', 'fraud', 'phishing', 'hack', 'ddos']"
 ip,14.120.121.52,2020-09-03T08:48:53Z,2022-03-25T15:10:01Z,[],"[2, 0, 0, 0]","['hack', 'malware', 'phishing', 'spam']"
-ip,14.126.211.63,2022-03-18T00:00:00Z,2022-06-13T12:09:57Z,[],"[22, 61, 45, 37]","['ddos', 'scan', 'malware', 'hack']"
+ip,14.126.211.63,2022-03-18T00:00:00Z,2022-06-13T18:59:38Z,[],"[15, 45, 61, 37]","['ddos', 'malware', 'scan', 'hack']"
 ip,14.126.29.63,2020-01-29T00:00:00Z,2022-06-02T03:05:10Z,[],"[2, 0, 0, 9]","['hack', 'malware', 'phishing', 'scan']"
 ip,14.17.76.222,2021-01-24T01:13:22Z,2022-03-17T23:01:17Z,[],"[2, 2, 0, 1]","['hack', 'malware', 'phishing', 'scan']"
 ip,14.191.48.194,2022-02-28T00:00:00Z,2022-03-08T23:57:42Z,[],[12],['hack']
@@ -3797,7 +3797,7 @@ ip,77.220.52.6,2022-03-31T00:00:00Z,2022-04-16T00:00:00Z,[],[2],['hack']
 ip,77.222.100.63,2017-10-31T00:00:00Z,2022-02-23T18:03:03Z,[],"[2, 1, 1]","['hack', 'malware', 'scan']"
 ip,77.222.110.140,2019-10-14T00:00:00Z,2022-01-16T02:05:08Z,[],"[2, 1, 1]","['hack', 'malware', 'scan']"
 ip,77.223.90.238,2022-02-27T00:00:00Z,2022-03-08T23:57:43Z,[],[12],['hack']
-ip,77.243.191.121,2019-06-30T00:00:00Z,2022-06-10T19:09:56Z,[],"[0, 30, 40, 37]","['fraud', 'hack', 'malware', 'scan']"
+ip,77.243.191.121,2019-06-30T00:00:00Z,2022-06-13T19:09:56Z,[],"[34, 0, 28, 36]","['scan', 'fraud', 'hack', 'malware']"
 ip,77.247.126.247,2022-02-24T00:00:00Z,2022-03-08T23:01:16Z,[],"[12, 7, 2]","['hack', 'malware', 'phishing']"
 ip,77.37.246.115,2020-07-31T13:28:01Z,2022-05-26T02:27:31Z,[],"[5, 2, 0, 0, 15]","['ddos', 'hack', 'malware', 'phishing', 'scan']"
 ip,77.50.107.86,2022-02-25T08:03:54Z,2022-03-04T17:57:44Z,[],[12],['hack']
