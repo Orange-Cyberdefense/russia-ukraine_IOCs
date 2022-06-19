@@ -1438,7 +1438,7 @@ file,4ebda4d26656e632afe313a0d068fb5cd81babe60a468672dc8463df94a895e3,2022-04-21
 file,4edfc0b238773f1c15d6b1d19b453e5239bbbc0996ed06e2040dfb0d19b2461c,2022-04-21T07:41:38Z,2022-05-21T10:06:12Z,['Intrusion Set:Gamaredon Group - G0047'],[90],['malware']
 file,4f11abdb96be36e3806bada5b8b2b8f8,2022-03-16T07:56:25Z,2022-05-25T11:54:53Z,['Tool:Cobalt Strike - S0154'],[90],['malware']
 file,4fb630f9c5422271bdd4deb94a1e74f4,2022-03-23T10:08:58Z,2022-05-22T10:08:58Z,['Intrusion Set:Ice Fog'],[81],['malware']
-file,4fc25c15ec17895569bcd9808efc8fa6,2022-01-16T15:12:39Z,2022-06-19T04:19:02Z,"['Malware:AsyncRAT', 'Malware:WhisperGate']","[38, 64, 24]","['hack', 'malware', 'phishing']"
+file,4fc25c15ec17895569bcd9808efc8fa6,2022-01-16T15:12:39Z,2022-06-19T22:09:51Z,"['Malware:AsyncRAT', 'Malware:WhisperGate']","[34, 64, 24]","['hack', 'malware', 'phishing']"
 file,50767e5ce14b84b6ee83f5d1ee5c87e61ef865ff3a5109888b90f4ae924f551c,2022-04-21T07:41:38Z,2022-05-21T10:06:12Z,['Intrusion Set:Gamaredon Group - G0047'],[90],['malware']
 file,50e9f2472966d469807c36b3d464e6bf2cf99b98b00cc62e4edda7180bac061b,2022-01-31T16:59:34Z,2022-05-24T13:18:50Z,"['Malware:WhisperGate', 'Malware:August Stealer', 'Malware:Pteranodon - S0147', 'Intrusion Set:Gamaredon Group - G0047', 'Malware:WildFire']",[73],['malware']
 file,51567add3fe9d9391db86105c987935c3e4a83c4e45b171e73e988ff337a3958,2022-04-21T07:41:38Z,2022-05-21T10:06:12Z,['Intrusion Set:Gamaredon Group - G0047'],[90],['malware']
@@ -2689,7 +2689,7 @@ ip,189.245.78.26,2022-02-25T08:03:54Z,2022-03-04T17:57:43Z,[],[12],['hack']
 ip,190.2.153.227,2022-04-17T00:00:00Z,2022-05-12T03:39:04Z,[],"[12, 17]","['scan', 'hack']"
 ip,190.200.242.52,2022-06-14T00:00:00Z,2022-06-19T00:00:00Z,[],[24],['hack']
 ip,190.201.12.145,2020-04-03T00:00:00Z,2022-03-08T23:57:43Z,[],[12],['hack']
-ip,190.203.46.83,2022-06-15T00:00:00Z,2022-06-19T12:26:26Z,[],"[40, 10]","['hack', 'scan']"
+ip,190.203.46.83,2022-06-15T00:00:00Z,2022-06-19T22:27:04Z,[],"[40, 0]","['hack', 'scan']"
 ip,190.206.191.41,2017-04-08T20:45:30Z,2022-03-04T17:57:44Z,[],"[12, 0, 0]","['hack', 'malware', 'phishing']"
 ip,190.206.244.70,2022-02-25T08:03:54Z,2022-03-07T20:34:23Z,[],"[12, 9, 4]","['hack', 'malware', 'phishing']"
 ip,190.211.254.78,2022-05-04T00:00:00Z,2022-05-26T07:56:32Z,[],"[18, 15, 20]","['scan', 'hack', 'malware']"
