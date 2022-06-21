@@ -1219,7 +1219,7 @@ domain,xantoma.ru,2022-02-03T23:45:51Z,2022-05-27T08:25:06Z,"['Intrusion Set:Gam
 domain,xbeta.online,2020-10-22T00:00:00Z,2022-06-15T08:11:00Z,[],"[50, 0, 15, 0, 0, 0, 0, 0, 1]","['malware', 'leak', 'hack', 'spam', 'fraud', 'scan', 'scam', 'ddos', 'phishing']"
 domain,xiphosura.online,2021-01-19T00:00:00Z,2022-03-30T16:11:30Z,['Intrusion Set:Gamaredon Group - G0047'],"[0, 0, 0, 0, 1, 1, 1, 0, 0]","['ddos', 'fraud', 'hack', 'leak', 'malware', 'phishing', 'scam', 'scan', 'spam']"
 domain,xn--ltda-epa.com,2021-09-16T00:00:00Z,2022-04-02T08:50:26Z,"['Attack Pattern:Phishing - T1566', 'Malware:Xloader', 'Malware:Formbook']","[0, 0, 0, 13, 0, 0, 0, 0, 0]","['fraud', 'phishing', 'scan', 'malware', 'leak', 'ddos', 'hack', 'scam', 'spam']"
-domain,xyyvivo.com,2019-06-13T20:34:55Z,2022-06-17T07:07:06Z,"['Attack Pattern:Phishing - T1566', 'Malware:Xloader', 'Malware:Formbook']","[0, 0, 0, 0, 8, 11, 0, 0, 0]","['ddos', 'fraud', 'hack', 'leak', 'malware', 'phishing', 'scam', 'scan', 'spam']"
+domain,xyyvivo.com,2019-06-13T20:34:55Z,2022-06-20T07:07:06Z,"['Attack Pattern:Phishing - T1566', 'Malware:Xloader', 'Malware:Formbook']","[0, 0, 0, 0, 7, 10, 0, 0, 0]","['ddos', 'fraud', 'hack', 'leak', 'malware', 'phishing', 'scam', 'scan', 'spam']"
 domain,yellowumbrellamarketing.com,2021-09-16T00:00:00Z,2022-03-25T08:50:26Z,"['Attack Pattern:Phishing - T1566', 'Malware:Xloader', 'Malware:Formbook']","[0, 0, 0, 0, 0, 20, 0, 0, 0]","['ddos', 'fraud', 'leak', 'scan', 'hack', 'malware', 'phishing', 'scam', 'spam']"
 domain,yhomggsmtdynchb.store,2021-09-16T00:00:00Z,2022-04-02T08:50:26Z,"['Attack Pattern:Phishing - T1566', 'Malware:Xloader', 'Malware:Formbook']","[0, 2, 0, 0, 0, 14, 0, 0, 0]","['ddos', 'phishing', 'scam', 'spam', 'fraud', 'malware', 'scan', 'leak', 'hack']"
 domain,yubikiri.ru,2021-10-18T17:58:23Z,2022-05-15T08:25:06Z,"['Intrusion Set:Gamaredon Group - G0047', 'Malware:Pteranodon - S0147']","[1, 8, 18]","['phishing', 'hack', 'malware']"
@@ -2734,7 +2734,7 @@ ip,193.187.79.78,2022-05-30T00:00:00Z,2022-06-07T13:49:03Z,[],[15],['hack']
 ip,193.189.100.130,2021-02-22T00:49:55Z,2022-05-27T02:08:15Z,[],"[1, 1, 1, 0, 0]","['ddos', 'hack', 'malware', 'phishing', 'scan']"
 ip,193.192.37.4,2022-03-03T00:00:00Z,2022-03-31T00:12:03Z,[],"[2, 1, 1]","['hack', 'malware', 'scan']"
 ip,193.194.107.70,2019-03-27T00:00:00Z,2022-03-13T05:38:36Z,[],"[19, 0]","['hack', 'scan']"
-ip,193.203.202.74,2022-06-17T00:00:00Z,2022-06-20T20:01:09Z,[],[45],['hack']
+ip,193.203.202.74,2022-06-17T00:00:00Z,2022-06-21T08:01:09Z,[],[31],['hack']
 ip,193.227.230.101,2022-05-17T00:13:32Z,2022-06-20T02:07:02Z,[],"[15, 24, 12]","['scan', 'malware', 'hack']"
 ip,193.233.185.114,2022-06-10T00:00:00Z,2022-06-15T16:05:37Z,[],[19],['hack']
 ip,193.233.191.82,2022-06-18T00:00:00Z,2022-06-21T07:52:27Z,[],"[70, 40, 40, 27]","['hack', 'malware', 'scan', 'spam']"
@@ -2753,7 +2753,7 @@ ip,194.169.217.165,2022-04-17T06:43:01Z,2022-06-07T23:19:03Z,[],"[16, 1]","['hac
 ip,194.169.217.187,2022-02-20T00:00:00Z,2022-06-19T23:01:47Z,[],"[1, 19]","['spam', 'hack']"
 ip,194.180.174.46,2021-11-11T14:35:43Z,2022-03-05T13:18:50Z,"['Malware:WhisperGate', 'Malware:August Stealer', 'Malware:Pteranodon - S0147', 'Intrusion Set:Gamaredon Group - G0047', 'Malware:WildFire']","[1, 9, 1, 1]","['hack', 'malware', 'phishing', 'scan']"
 ip,194.237.233.2,2022-06-03T00:00:00Z,2022-06-10T00:00:00Z,[],[12],['hack']
-ip,194.31.98.12,2022-02-26T19:33:06Z,2022-06-21T04:57:11Z,[],"[3, 1, 1, 14]","['hack', 'malware', 'scan', 'spam']"
+ip,194.31.98.12,2022-02-26T19:33:06Z,2022-06-21T07:52:26Z,[],"[3, 1, 1, 27]","['hack', 'malware', 'scan', 'spam']"
 ip,194.31.98.124,2022-01-05T00:00:00Z,2022-06-18T02:07:21Z,"['Tool:Cobalt Strike - S0154', 'OCD - Threat pattern:Command and Control [C2]', 'Attack Pattern:Phishing - T1566']","[1, 0, 2, 1, 0, 2, 1]","['ddos', 'fraud', 'hack', 'malware', 'phishing', 'scan', 'spam']"
 ip,194.31.98.163,2022-02-28T00:00:00Z,2022-03-08T23:57:42Z,[],"[18, 20, 20, 13]","['spam', 'malware', 'scan', 'hack']"
 ip,194.33.40.81,2022-02-23T00:00:00Z,2022-03-07T20:34:28Z,[],"[12, 9, 4]","['hack', 'malware', 'phishing']"
