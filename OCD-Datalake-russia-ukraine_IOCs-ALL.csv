@@ -405,7 +405,7 @@ domain,evpunk.com,2021-09-16T00:00:00Z,2022-04-09T15:46:40Z,"['Attack Pattern:Ph
 domain,extrado.online,2017-02-07T13:08:23Z,2022-02-19T16:11:30Z,['Intrusion Set:Gamaredon Group - G0047'],"[0, 0, 0, 0, 0, 20, 0, 18, 0]","['scan', 'hack', 'spam', 'scam', 'leak', 'malware', 'fraud', 'phishing', 'ddos']"
 domain,exundare.online,2021-01-26T15:57:42Z,2022-02-25T16:11:30Z,['Intrusion Set:Gamaredon Group - G0047'],"[19, 17]","['malware', 'phishing']"
 domain,eyeofra.online,2020-11-28T00:00:00Z,2022-02-19T16:11:30Z,['Intrusion Set:Gamaredon Group - G0047'],"[0, 10, 0, 3, 0, 0, 0, 19, 0]","['leak', 'malware', 'spam', 'hack', 'scam', 'scan', 'ddos', 'phishing', 'fraud']"
-domain,facetum.online,2020-12-09T14:37:30Z,2022-03-30T16:11:30Z,['Intrusion Set:Gamaredon Group - G0047'],"[1, 1]","['malware', 'phishing']"
+domain,facetum.online,2020-12-09T14:37:30Z,2022-03-30T16:11:30Z,['Intrusion Set:Gamaredon Group - G0047'],"[2, 1]","['malware', 'phishing']"
 domain,fanniidae.online,2021-01-23T00:00:00Z,2022-03-30T16:11:30Z,"['Intrusion Set:Gamaredon Group - G0047', 'Malware:Pteranodon - S0147']","[0, 0, 0, 0, 1, 1, 0, 0, 0]","['ddos', 'fraud', 'hack', 'leak', 'malware', 'phishing', 'scam', 'scan', 'spam']"
 domain,faroinh.ru,2022-02-03T23:45:50Z,2022-05-10T08:25:06Z,"['Intrusion Set:Gamaredon Group - G0047', 'Malware:Pteranodon - S0147']","[8, 0, 0]","['hack', 'malware', 'phishing']"
 domain,fartopart.ru,2021-12-26T03:49:44Z,2022-05-10T08:25:06Z,"['Malware:WhisperGate', 'Malware:August Stealer', 'Malware:Pteranodon - S0147', 'Intrusion Set:Gamaredon Group - G0047', 'Malware:WildFire']","[8, 19, 0]","['hack', 'malware', 'phishing']"
@@ -446,7 +446,7 @@ domain,fortitat.ru,2022-02-03T23:45:51Z,2022-05-19T08:25:06Z,"['Intrusion Set:Ga
 domain,fortuskan.ru,2022-02-16T10:42:59Z,2022-04-13T09:50:07Z,['Intrusion Set:Gamaredon Group - G0047'],"[3, 0, 0]","['ddos', 'malware', 'phishing']"
 domain,fossilis.xyz,2017-05-29T11:21:10Z,2022-02-25T16:11:30Z,['Intrusion Set:Gamaredon Group - G0047'],"[19, 19]","['phishing', 'malware']"
 domain,fossor.online,2021-01-26T15:57:42Z,2022-03-30T16:11:30Z,['Intrusion Set:Gamaredon Group - G0047'],"[2, 1]","['malware', 'phishing']"
-domain,frge.io,2021-06-25T00:00:00Z,2022-06-21T15:29:12Z,['Attack Pattern:Phishing - T1566'],"[17, 20, 12, 1, 0]","['hack', 'malware', 'phishing', 'scan', 'spam']"
+domain,frge.io,2021-06-25T00:00:00Z,2022-06-21T18:44:47Z,"['Attack Pattern:Phishing - T1566', 'Intrusion Set:APT28 - G0007']","[21, 35, 12, 1, 0]","['hack', 'malware', 'phishing', 'scan', 'spam']"
 domain,fromuktosa.com,2021-09-16T00:00:00Z,2022-04-02T08:50:26Z,"['Attack Pattern:Phishing - T1566', 'Malware:Xloader', 'Malware:Formbook']","[0, 0, 0, 13, 0, 0, 0, 2, 0]","['fraud', 'hack', 'leak', 'malware', 'spam', 'ddos', 'scan', 'phishing', 'scam']"
 domain,fukakumog.ru,2022-01-31T17:28:02Z,2022-06-12T08:25:06Z,"['Intrusion Set:Gamaredon Group - G0047', 'Malware:Pteranodon - S0147']","[1, 3, 0]","['hack', 'malware', 'phishing']"
 domain,fusari.ru,2021-03-12T14:51:27Z,2022-03-30T16:11:30Z,"['Intrusion Set:Gamaredon Group - G0047', 'Malware:Pteranodon - S0147']","[1, 1, 1]","['hack', 'malware', 'phishing']"
@@ -2655,7 +2655,7 @@ ip,185.85.160.73,2022-04-10T00:00:00Z,2022-04-15T12:54:25Z,[],[16],['hack']
 ip,185.85.160.86,2022-05-07T00:00:00Z,2022-05-12T23:24:06Z,[],[18],['hack']
 ip,186.105.242.220,2022-06-17T00:00:00Z,2022-06-22T00:00:00Z,[],[24],['hack']
 ip,186.124.148.17,2022-06-11T00:00:00Z,2022-06-18T00:00:00Z,[],[12],['hack']
-ip,186.20.201.195,2022-06-13T00:00:00Z,2022-06-20T13:54:44Z,[],"[24, 30]","['hack', 'scan']"
+ip,186.20.201.195,2022-06-13T00:00:00Z,2022-06-22T01:24:04Z,[],"[24, 27]","['hack', 'scan']"
 ip,186.216.216.162,2021-09-15T00:00:00Z,2021-10-01T00:00:00Z,[],[2],['hack']
 ip,186.91.202.113,2022-02-25T08:03:54Z,2022-03-07T20:34:19Z,[],"[12, 9, 4]","['hack', 'malware', 'phishing']"
 ip,187.142.117.16,2022-06-17T00:00:00Z,2022-06-21T07:08:30Z,[],"[86, 25, 8, 20, 20]","['hack', 'malware', 'phishing', 'scan', 'spam']"
