@@ -1012,7 +1012,7 @@ domain,reteredelete.top,2021-09-14T03:42:42Z,2022-05-27T12:07:18Z,"['Attack Patt
 domain,reticulatus.xyz,2021-01-26T15:58:04Z,2022-02-25T16:11:30Z,[],"[19, 16]","['malware', 'phishing']"
 domain,rhinoderma.xyz,2021-01-24T16:38:52Z,2022-03-30T16:11:30Z,['Intrusion Set:Gamaredon Group - G0047'],"[3, 1, 1]","['hack', 'malware', 'phishing']"
 domain,rhodeus.xyz,2021-01-24T16:38:52Z,2022-02-21T16:11:30Z,['Intrusion Set:Gamaredon Group - G0047'],"[3, 10, 13]","['hack', 'malware', 'phishing']"
-domain,ribicat.ru,2021-07-29T00:00:00Z,2022-06-12T08:25:06Z,"['Intrusion Set:Gamaredon Group - G0047', 'Malware:Pteranodon - S0147']","[0, 3, 1]","['hack', 'malware', 'phishing']"
+domain,ribicat.ru,2021-07-29T00:00:00Z,2022-06-21T08:25:06Z,"['Intrusion Set:Gamaredon Group - G0047', 'Malware:Pteranodon - S0147']","[0, 1, 1]","['hack', 'malware', 'phishing']"
 domain,richia.ru,2022-02-03T23:45:50Z,2022-03-30T16:11:30Z,"['Intrusion Set:Gamaredon Group - G0047', 'Malware:Pteranodon - S0147']","[2, 1]","['malware', 'phishing']"
 domain,ridibunda.xyz,2020-10-28T15:34:58Z,2022-03-30T16:11:30Z,['Intrusion Set:Gamaredon Group - G0047'],"[3, 1, 1]","['hack', 'malware', 'phishing']"
 domain,rificum.ru,2021-02-26T15:53:01Z,2022-02-21T16:11:30Z,"['Intrusion Set:Gamaredon Group - G0047', 'Malware:Pteranodon - S0147']","[20, 20]","['phishing', 'malware']"
@@ -2693,7 +2693,7 @@ ip,188.225.44.76,2022-02-04T04:22:22Z,2022-02-21T16:11:30Z,"['Intrusion Set:Gama
 ip,188.225.58.233,2021-06-18T06:40:46Z,2022-03-11T16:11:30Z,"['Intrusion Set:Gamaredon Group - G0047', 'Malware:Pteranodon - S0147']","[1, 1, 1, 1]","['hack', 'malware', 'phishing', 'scan']"
 ip,188.225.80.14,2021-12-29T06:07:20Z,2022-03-15T00:00:00Z,['Attack Pattern:Brute Force - T1110'],"[2, 1, 1]","['hack', 'malware', 'scan']"
 ip,188.225.87.166,2021-07-01T15:07:39Z,2022-02-23T16:11:30Z,"['Intrusion Set:Gamaredon Group - G0047', 'Malware:Pteranodon - S0147']","[3, 15, 3, 19]","['hack', 'malware', 'scan', 'phishing']"
-ip,188.240.57.100,2022-04-09T00:00:00Z,2022-06-20T03:07:06Z,[],"[25, 17, 12, 0]","['malware', 'scan', 'hack', 'fraud']"
+ip,188.240.57.100,2022-04-09T00:00:00Z,2022-06-23T03:07:06Z,[],"[0, 17, 12, 15]","['fraud', 'scan', 'hack', 'malware']"
 ip,188.241.156.24,2022-06-17T00:00:00Z,2022-06-22T00:00:00Z,[],[24],['hack']
 ip,188.242.15.185,2022-02-22T00:00:00Z,2022-03-17T03:48:18Z,[],[2],['hack']
 ip,188.247.194.81,2020-07-07T10:44:57Z,2022-05-04T00:00:00Z,['Malware:WannaCry - S0366'],"[1, 1, 13]","['ddos', 'spam', 'hack']"
@@ -3211,7 +3211,7 @@ ip,3.95.169.35,2022-02-26T00:00:00Z,2022-03-05T23:57:46Z,[],[12],['hack']
 ip,3.95.174.215,2022-03-17T00:00:00Z,2022-03-24T00:00:00Z,[],"[0, 0, 12]","['malware', 'phishing', 'hack']"
 ip,3.95.194.246,2022-03-12T00:00:00Z,2022-03-19T00:00:00Z,[],[12],['hack']
 ip,3.95.7.101,2022-03-22T00:00:00Z,2022-03-29T00:00:00Z,[],[12],['hack']
-ip,31.129.164.113,2021-07-03T00:00:00Z,2022-06-22T15:04:38Z,[],"[22, 2]","['scan', 'hack']"
+ip,31.129.164.113,2021-07-03T00:00:00Z,2022-06-23T03:04:38Z,[],"[15, 2]","['scan', 'hack']"
 ip,31.129.232.56,2022-03-12T00:00:00Z,2022-03-19T00:00:00Z,[],[12],['hack']
 ip,31.130.36.79,2022-06-06T00:00:00Z,2022-06-13T00:00:00Z,[],[12],['hack']
 ip,31.131.193.242,2022-03-03T00:00:00Z,2022-03-10T00:00:00Z,[],[12],['hack']
@@ -3863,7 +3863,7 @@ ip,60.161.189.14,2022-02-25T08:03:54Z,2022-03-04T17:57:44Z,[],"[12, 12, 12]","['
 ip,60.53.188.13,2020-07-28T00:00:00Z,2022-05-31T06:50:07Z,[],"[1, 0, 16, 1, 0, 1, 1]","['ddos', 'fraud', 'hack', 'malware', 'phishing', 'scan', 'spam']"
 ip,61.28.235.31,2021-06-12T00:00:00Z,2022-03-13T17:57:44Z,[],"[1, 2, 1, 0, 1]","['ddos', 'hack', 'malware', 'phishing', 'scan']"
 ip,61.81.17.97,2022-01-05T00:00:00Z,2022-04-16T10:49:57Z,[],"[0, 0, 2, 0]","['ddos', 'fraud', 'hack', 'scan']"
-ip,62.115.255.163,2020-03-21T00:00:00Z,2022-06-20T02:56:43Z,[],"[62, 0]","['hack', 'scan']"
+ip,62.115.255.163,2020-03-21T00:00:00Z,2022-06-23T02:56:43Z,[],"[0, 55]","['scan', 'hack']"
 ip,62.117.94.146,2022-02-27T00:00:00Z,2022-03-08T23:57:43Z,[],[12],['hack']
 ip,62.133.47.12,2021-06-17T04:56:36Z,2022-06-21T14:02:13Z,[],"[0, 20, 0, 1, 14, 29]","['spam', 'hack', 'phishing', 'ddos', 'malware', 'scan']"
 ip,62.149.14.187,2022-03-19T00:00:00Z,2022-03-24T23:09:45Z,[],[18],['hack']
