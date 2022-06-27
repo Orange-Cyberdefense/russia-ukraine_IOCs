@@ -438,7 +438,7 @@ domain,fortitat.ru,2022-02-03T23:45:51Z,2022-05-19T08:25:06Z,"['Malware:Pteranod
 domain,fortuskan.ru,2022-02-16T10:42:59Z,2022-04-13T09:50:07Z,['Threat Actor:Gamaredon Group - G0047'],"[3, 0, 0]","['ddos', 'malware', 'phishing']"
 domain,fossilis.xyz,2017-05-29T11:21:10Z,2022-02-25T16:11:30Z,['Threat Actor:Gamaredon Group - G0047'],"[19, 19]","['phishing', 'malware']"
 domain,fossor.online,2021-01-26T15:57:42Z,2022-03-30T16:11:30Z,['Threat Actor:Gamaredon Group - G0047'],"[2, 1]","['malware', 'phishing']"
-domain,frge.io,2021-06-25T00:00:00Z,2022-06-27T11:57:10Z,"['Threat Actor:APT28 - G0007', 'Attack Pattern:Phishing - T1566']","[14, 34, 13, 1, 0]","['hack', 'malware', 'phishing', 'scan', 'spam']"
+domain,frge.io,2021-06-25T00:00:00Z,2022-06-27T16:28:24Z,"['Threat Actor:APT28 - G0007', 'Attack Pattern:Phishing - T1566']","[14, 41, 13, 1, 0]","['hack', 'malware', 'phishing', 'scan', 'spam']"
 domain,fromuktosa.com,2021-09-16T00:00:00Z,2022-04-02T08:50:26Z,"['Malware:Formbook', 'Malware:Xloader', 'Attack Pattern:Phishing - T1566']","[0, 0, 0, 13, 0, 0, 0, 2, 0]","['fraud', 'hack', 'leak', 'malware', 'spam', 'ddos', 'scan', 'phishing', 'scam']"
 domain,fukakumog.ru,2022-01-31T17:28:02Z,2022-06-12T08:25:06Z,"['Malware:Pteranodon - S0147', 'Threat Actor:Gamaredon Group - G0047']","[1, 3, 0]","['hack', 'malware', 'phishing']"
 domain,fusari.ru,2021-03-12T14:51:27Z,2022-03-30T16:11:30Z,"['Malware:Pteranodon - S0147', 'Threat Actor:Gamaredon Group - G0047']","[1, 1, 1]","['hack', 'malware', 'phishing']"
@@ -1225,13 +1225,13 @@ domain,zvustro.ru,2022-01-02T16:52:57Z,2022-05-27T08:25:06Z,"['Threat Actor:Gama
 domain,zygost.ru,2022-02-03T23:45:52Z,2022-06-21T08:25:06Z,"['OCD - Threat pattern:Command and Control [C2]', 'Malware:Pteranodon - S0147', 'Threat Actor:Gamaredon Group - G0047']","[1, 1, 1]","['hack', 'malware', 'phishing']"
 file,002e1b63a76a7125772cbf2ffd69e80d4d6491d72376ff04dafeb8c3cdc43831,2022-02-04T04:22:22Z,2022-06-04T11:56:04Z,"['Malware:Pteranodon - S0147', 'Threat Actor:Gamaredon Group - G0047']",[66],['malware']
 file,0090cb4de31d2d3bca55fd4a36859921b5fc5dae,2022-04-12T12:35:54Z,2022-06-12T00:20:02Z,"['Attack Pattern:Scheduled Task/Job - T1053', 'Malware:Industroyer - S0604', 'Threat Actor:Sandworm Team - G0034', 'Malware:Bad Rabbit - S0606', 'Malware:CaddyWiper', 'Malware:NotPetya - S0368', 'Malware:Wiper - S0041']",[90],['malware']
-file,00a54a6496734d87dab6685aa90588f8,2022-03-29T16:11:24Z,2022-05-28T16:11:24Z,[],[81],['malware']
+file,00a54a6496734d87dab6685aa90588f8,2022-03-29T16:11:24Z,2022-06-27T16:11:24Z,[],[73],['malware']
 file,00aa1fa6e40954f9e2128bc2c2322ffbffc6c8ecfa169efe60285c6c379c6351,2022-01-31T16:59:34Z,2022-06-23T13:18:50Z,"['Threat Actor:Gamaredon Group - G0047', 'Malware:August Stealer', 'Malware:WhisperGate', 'Malware:WildFire', 'Malware:Pteranodon - S0147']",[66],['malware']
 file,015913ffc52b799c41b26b4e3c9567e08f88a961d1d1a4e7c247bab4c990d6b3,2022-04-21T07:41:38Z,2022-06-20T10:06:12Z,['Threat Actor:Gamaredon Group - G0047'],[81],['malware']
 file,029005b595c5b9f3c7ddb49883b325f8f0bf5d13b18010a38d04b15f227d2052,2022-02-04T04:22:22Z,2022-06-04T11:56:04Z,"['Malware:Pteranodon - S0147', 'Threat Actor:Gamaredon Group - G0047']",[66],['malware']
 file,02c41bddd087522ce60f9376e499dcee6259853dcb50ddad70cb3ef8dd77c200,2022-01-31T16:59:34Z,2022-06-23T13:18:50Z,"['Threat Actor:Gamaredon Group - G0047', 'Malware:August Stealer', 'Malware:WhisperGate', 'Malware:WildFire', 'Malware:Pteranodon - S0147']",[66],['malware']
 file,0336d521fce938c2ff9993cdfb181bcb,2021-07-06T17:41:14Z,2022-06-23T13:18:50Z,"['Threat Actor:Gamaredon Group - G0047', 'Malware:August Stealer', 'Malware:WhisperGate', 'Malware:WildFire', 'Malware:Pteranodon - S0147']","[59, 33]","['malware', 'phishing']"
-file,03f12262a2846ebbce989aca5cec74a7,2022-03-29T16:11:27Z,2022-05-28T16:11:27Z,[],[81],['malware']
+file,03f12262a2846ebbce989aca5cec74a7,2022-03-29T16:11:27Z,2022-06-27T16:11:27Z,[],[73],['malware']
 file,043d696c2199d61ee0a09be93e387498c6a53188c3e3ec20acfeccc9c9aeb251,2022-02-04T04:22:22Z,2022-06-16T16:11:30Z,"['Malware:Pteranodon - S0147', 'Threat Actor:Gamaredon Group - G0047']","[66, 33]","['malware', 'phishing']"
 file,04b4049d8084585e7b9313477a91bb5ce195d7403d6112fb321c2a1feb317dc9,2022-04-21T07:41:38Z,2022-06-20T10:06:12Z,['Threat Actor:Gamaredon Group - G0047'],[81],['malware']
 file,05f1560026ad88eeb6c038239c87057743d942dbc6b64b14526e13d0415768dc,2022-01-31T16:59:34Z,2022-06-23T13:18:50Z,"['Threat Actor:Gamaredon Group - G0047', 'Malware:August Stealer', 'Malware:WhisperGate', 'Malware:WildFire', 'Malware:Pteranodon - S0147']",[66],['malware']
@@ -1291,10 +1291,10 @@ file,19fedcb9ad791b9971965bbde59e791b3fe3a706e437af749a47ff2907a5c8df,2022-04-21
 file,1a002b11ed20f4408023187c16140ee542431219540cc1b1d8686e270d99f534,2022-04-21T07:41:38Z,2022-06-20T10:06:12Z,['Threat Actor:Gamaredon Group - G0047'],[81],['malware']
 file,1aba36f72685c12e60fb0922b606417c,2022-03-21T12:42:49Z,2022-06-22T16:09:53Z,"['OCD - Threat pattern:Command and Control [C2]', 'Malware:Scarabey', 'Threat Actor:Ice Fog']","[51, 83, 63]","['phishing', 'malware', 'hack']"
 file,1af894a5f23713b557c23078809ed01c,2022-03-21T12:42:49Z,2022-06-23T11:07:17Z,"['OCD - Threat pattern:Command and Control [C2]', 'Malware:Scarabey', 'Threat Actor:Ice Fog']","[51, 61, 73]","['phishing', 'hack', 'malware']"
-file,1b5f0425dd76496e715bfa1aa76d306c,2022-03-29T16:11:30Z,2022-05-28T16:11:30Z,[],[81],['malware']
+file,1b5f0425dd76496e715bfa1aa76d306c,2022-03-29T16:11:30Z,2022-06-27T16:11:30Z,[],[73],['malware']
 file,1c0110a4f862b54196676c4a77250ea5a5e1ec5be48071f794227769bd25e8de,2022-01-31T16:59:34Z,2022-06-23T13:18:50Z,"['Threat Actor:Gamaredon Group - G0047', 'Malware:August Stealer', 'Malware:WhisperGate', 'Malware:WildFire', 'Malware:Pteranodon - S0147']",[66],['malware']
 file,1c0b1b9547d976b2abdb021db90725c560b74d5c553c31265aa34ec6a03a6c89,2022-04-21T07:41:38Z,2022-06-20T10:06:12Z,['Threat Actor:Gamaredon Group - G0047'],[81],['malware']
-file,1c2c41a5a5f89eccafea6e34183d5db9,2022-03-29T16:11:26Z,2022-05-28T16:11:26Z,[],[81],['malware']
+file,1c2c41a5a5f89eccafea6e34183d5db9,2022-03-29T16:11:26Z,2022-06-27T16:11:26Z,[],[73],['malware']
 file,1cf3ff8141a065e2e9e312102a462804,2021-07-16T05:29:53Z,2022-06-23T13:18:50Z,"['Threat Actor:Gamaredon Group - G0047', 'Malware:August Stealer', 'Malware:WhisperGate', 'Malware:WildFire', 'Malware:Pteranodon - S0147']","[33, 55]","['phishing', 'malware']"
 file,1d81427b200e1aad825dbc7f33a97eeacff66456319175addace51ca3e093dee,2022-04-21T07:41:38Z,2022-06-20T10:06:12Z,['Threat Actor:Gamaredon Group - G0047'],[81],['malware']
 file,1d8a5b468c90eeb8d6787a2578e840c1f1ff275819fa2dd54d8072304b315178,2022-02-04T04:22:22Z,2022-06-04T11:56:04Z,"['Malware:Pteranodon - S0147', 'Threat Actor:Gamaredon Group - G0047']",[66],['malware']
@@ -1351,7 +1351,7 @@ file,31600c8891e3902a0fe2d2985d25ca34,2022-05-09T11:04:39Z,2022-06-18T11:00:43Z,
 file,31d765deae26fb5cb506635754c700c57f9bd0fc643a622dc0911c42bf93d18f,2022-02-28T08:29:34Z,2022-05-29T08:29:34Z,[],[73],['malware']
 file,3229e8c4150b5e43f836643ec9428865,2022-01-05T00:00:00Z,2022-06-12T04:57:39Z,"['Malware:CaddyWiper', 'Threat Actor:Sandworm Team - G0034']",[81],['malware']
 file,32342aaa486ca42b2b0ce0164767920c,2022-01-05T00:00:00Z,2022-06-21T01:18:57Z,['Threat Actor:Gamaredon Group - G0047'],[79],['malware']
-file,32343f2a6b8ac9b6587e2e07989362ab,2022-03-29T16:11:25Z,2022-05-28T16:11:25Z,[],[81],['malware']
+file,32343f2a6b8ac9b6587e2e07989362ab,2022-03-29T16:11:25Z,2022-06-27T16:11:25Z,[],[73],['malware']
 file,3293ba0e2eaefbe5a7c3d26d0752326e,2022-03-23T00:49:55Z,2022-06-22T16:09:53Z,"['OCD - Threat pattern:Command and Control [C2]', 'Malware:Scarabey', 'Threat Actor:Ice Fog']","[83, 22]","['malware', 'hack']"
 file,32d24fc67ab84789cd000c22ea377d8c80bcbc27784366a425da2d1874439d09,2022-01-31T16:59:34Z,2022-06-23T13:18:50Z,"['Threat Actor:Gamaredon Group - G0047', 'Malware:August Stealer', 'Malware:WhisperGate', 'Malware:WildFire', 'Malware:Pteranodon - S0147']",[66],['malware']
 file,32df8c49d6f89722c6aca8943883cfff3cdf34074e87ff48f7c96da5d732c02b,2022-02-04T04:22:22Z,2022-06-04T11:56:04Z,"['Malware:Pteranodon - S0147', 'Threat Actor:Gamaredon Group - G0047']",[66],['malware']
@@ -1380,7 +1380,7 @@ file,3cdbc19bc4f12d8d00b81380f7a2504d08074c15,2022-04-12T12:35:54Z,2022-06-14T13
 file,3d00076c999de471d8e966e6465d9474,2021-11-26T10:57:50Z,2022-06-16T16:11:30Z,"['Malware:Pteranodon - S0147', 'Threat Actor:Gamaredon Group - G0047']","[36, 57]","['phishing', 'malware']"
 file,3d80541e59b4bedac6bd275514c0941b1478d62d6ef8b8560720d05a83c0a910,2022-02-16T10:44:21Z,2022-06-16T16:11:30Z,[],"[66, 66, 33]","['malware', 'ddos', 'phishing']"
 file,3dca96ef38d4b8d1dbb4afed43a22ace93cc3a0a105120d4cf637e6dafe129e9,2022-02-04T04:22:22Z,2022-06-04T11:56:04Z,"['Malware:Pteranodon - S0147', 'Threat Actor:Gamaredon Group - G0047']",[66],['malware']
-file,3dcec8f6ba15e801b63b7c21a6b966fb,2022-03-29T16:11:31Z,2022-05-28T16:11:31Z,[],[81],['malware']
+file,3dcec8f6ba15e801b63b7c21a6b966fb,2022-03-29T16:11:31Z,2022-06-27T16:11:31Z,[],[73],['malware']
 file,3e1d17efe857c935869fc28ce94c3528f7f5232fcebd40442a7c3c388e3d69be,2022-02-04T04:22:22Z,2022-06-04T11:56:04Z,"['Malware:Pteranodon - S0147', 'Threat Actor:Gamaredon Group - G0047']",[66],['malware']
 file,3e273cec5fd77784c72f90018f11e0690387c9fde93defca16a971c8396f64df,2022-02-04T04:22:22Z,2022-06-04T11:56:04Z,"['Malware:Pteranodon - S0147', 'Threat Actor:Gamaredon Group - G0047']",[66],['malware']
 file,3e6977104f1b38b9f1319335550efa2fd0cffb02fbae120253cdde1945fff97b,2022-04-21T07:41:38Z,2022-06-20T10:06:12Z,['Threat Actor:Gamaredon Group - G0047'],[81],['malware']
@@ -1394,7 +1394,7 @@ file,41460cc43905011b81291500b6aa20dcf79805b3a6ff2387e8961deea4803cd2,2022-04-21
 file,418aaf17dde2601a9c05ffdea81fa67753442003597a723e86a0a513584de761,2022-04-21T07:41:38Z,2022-06-20T10:06:12Z,['Threat Actor:Gamaredon Group - G0047'],[81],['malware']
 file,41e73e24948908aa118d6534f4d8bf1074f5a36904f2206f67e6b2907656128b,2022-04-21T07:41:38Z,2022-06-20T10:06:12Z,['Threat Actor:Gamaredon Group - G0047'],[81],['malware']
 file,4237d7bf3fcfe99a4ef192fb19dedb5f,2021-12-17T16:46:26Z,2022-06-16T16:11:30Z,"['Malware:Pteranodon - S0147', 'Threat Actor:Gamaredon Group - G0047']","[64, 50]","['malware', 'phishing']"
-file,42397efeaf1d971896cdc91ca024974d,2022-03-29T16:11:32Z,2022-05-28T16:11:32Z,[],[81],['malware']
+file,42397efeaf1d971896cdc91ca024974d,2022-03-29T16:11:32Z,2022-06-27T16:11:32Z,[],[73],['malware']
 file,42e52b8daf63e6e26c3aa91e7e971492,2022-03-14T00:00:00Z,2022-06-17T05:17:39Z,"['Malware:CaddyWiper', 'Attack Pattern:Bootkit - T1067', 'Malware:Razy', 'Malware:Wiper - S0041']","[36, 86, 44]","['hack', 'malware', 'phishing']"
 file,42f8223ba588d510e2f2a00ca6500ba1b71684509f10695a156069876600ccdc,2022-02-04T04:22:22Z,2022-06-04T11:56:04Z,"['Malware:Pteranodon - S0147', 'Threat Actor:Gamaredon Group - G0047']",[66],['malware']
 file,439394f5eecb06ba2f6ad36d2aede19f72c2e60ec2eb84fe5c063ff4a5a52646,2022-04-21T07:41:38Z,2022-06-20T10:06:12Z,['Threat Actor:Gamaredon Group - G0047'],[81],['malware']
@@ -1439,7 +1439,7 @@ file,53be28a251260e4f6d818a0dcae30280b5db6f1791780bb9bac0633523bf3ac3,2022-01-31
 file,5440415c4a1702084a7c49b7024d0c75b9528b71d1faa4c744e95435dad6b533,2022-02-04T04:22:22Z,2022-06-04T11:56:04Z,"['Malware:Pteranodon - S0147', 'Threat Actor:Gamaredon Group - G0047']",[66],['malware']
 file,556151454abeec6ed615489b451d963075cb3ef0b3a17d36d6e0fa81816fe646,2022-01-31T16:59:34Z,2022-06-23T13:18:50Z,"['Threat Actor:Gamaredon Group - G0047', 'Malware:August Stealer', 'Malware:WhisperGate', 'Malware:WildFire', 'Malware:Pteranodon - S0147']",[66],['malware']
 file,557ec4e0314c9f84fa49f9a01287d22d5c3885648a2194fdf9cdbf42356e65a6,2022-01-31T16:59:34Z,2022-06-23T13:18:50Z,"['Threat Actor:Gamaredon Group - G0047', 'Malware:August Stealer', 'Malware:WhisperGate', 'Malware:WildFire', 'Malware:Pteranodon - S0147']",[66],['malware']
-file,55cafceba527c3e68852b1af071929c0,2022-03-29T16:11:29Z,2022-05-28T16:11:29Z,[],[81],['malware']
+file,55cafceba527c3e68852b1af071929c0,2022-03-29T16:11:29Z,2022-06-27T16:11:29Z,[],[73],['malware']
 file,55d8fd4e56523725ad11ccacfb618324360c658c5f44c4f157df6a569cb0277b,2022-01-31T16:59:34Z,2022-06-23T13:18:50Z,"['Threat Actor:Gamaredon Group - G0047', 'Malware:August Stealer', 'Malware:WhisperGate', 'Malware:WildFire', 'Malware:Pteranodon - S0147']",[66],['malware']
 file,56331bbea28b502cf83c93bb4cb51d0ba67a175d7faa6b5725526574e7040961,2022-01-31T16:59:34Z,2022-06-23T13:18:50Z,"['Threat Actor:Gamaredon Group - G0047', 'Malware:August Stealer', 'Malware:WhisperGate', 'Malware:WildFire', 'Malware:Pteranodon - S0147']",[66],['malware']
 file,56e8bb89f862fcc0b92f5d5645165eca41589f8adcd5ae01dc1f2f96ada6cbc4,2022-04-21T07:41:38Z,2022-06-20T10:06:12Z,['Threat Actor:Gamaredon Group - G0047'],[81],['malware']
@@ -1462,14 +1462,14 @@ file,5bf5532a1eef0e8b4e648cb0ce392e48d1a5af35c7a6ceedc4464821ff40278c,2022-01-31
 file,5c18878e6d36906f9349ea404f0e3fa0e4b4432e663b3d58a738510b3e3c08e2,2022-01-31T16:59:34Z,2022-06-23T13:18:50Z,"['Threat Actor:Gamaredon Group - G0047', 'Malware:August Stealer', 'Malware:WhisperGate', 'Malware:WildFire', 'Malware:Pteranodon - S0147']",[66],['malware']
 file,5c8e7b35e40fc6613a8ec304f36c9ea1986a51c65a0389445f90778e94fa15ed,2022-02-04T04:22:22Z,2022-06-04T11:56:04Z,"['Malware:Pteranodon - S0147', 'Threat Actor:Gamaredon Group - G0047']",[66],['malware']
 file,5cbbe352300f9452ba0258cbe8cbbce5064f7494a6c2491e083ecb2a9fde3960,2022-04-21T07:41:38Z,2022-06-20T10:06:12Z,['Threat Actor:Gamaredon Group - G0047'],[81],['malware']
-file,5d29da2285390164a0a7d80e6ed23da7,2022-03-29T16:11:27Z,2022-05-28T16:11:27Z,[],[81],['malware']
+file,5d29da2285390164a0a7d80e6ed23da7,2022-03-29T16:11:27Z,2022-06-27T16:11:27Z,[],[73],['malware']
 file,5d5c99a08a7d927346ca2dafa7973fc1,2022-01-02T00:00:00Z,2022-06-12T11:18:34Z,"['Malware:STOP', 'Malware:WhisperGate', 'Attack Pattern:Bootkit - T1067', 'Attack Pattern:Data Destruction - T1485', 'Malware:CaddyWiper', 'Malware:HermeticWiper', 'Malware:Wiper - S0041']","[40, 81, 62]","['hack', 'malware', 'phishing']"
-file,5db4313b8dbb9204f8f98f2c129fd734,2022-03-29T16:11:32Z,2022-05-28T16:11:32Z,[],[81],['malware']
+file,5db4313b8dbb9204f8f98f2c129fd734,2022-03-29T16:11:32Z,2022-06-27T16:11:32Z,[],[73],['malware']
 file,5df3890cecae91a62a4d69c7ee35b3962990ea1a0dbaadf718bcbd638e959b66,2022-04-21T07:41:38Z,2022-06-20T10:06:12Z,['Threat Actor:Gamaredon Group - G0047'],[81],['malware']
 file,5e3a6a48497a105b2c3535335a7c7ec4591c879e8486702c97bf207a53c0a239,2022-04-21T07:41:38Z,2022-06-20T10:06:12Z,['Threat Actor:Gamaredon Group - G0047'],[81],['malware']
 file,5e579ac1dae325b86ed964ea00926e902a6d32a7d37d8eed4b40db7caed303f6,2022-01-31T16:59:34Z,2022-06-23T13:18:50Z,"['Threat Actor:Gamaredon Group - G0047', 'Malware:August Stealer', 'Malware:WhisperGate', 'Malware:WildFire', 'Malware:Pteranodon - S0147']",[66],['malware']
 file,5f9bc1ff8ab3d0ced84262a7f8f70d12a5077761eed33540300f809427153f67,2022-01-31T16:59:34Z,2022-06-23T13:18:50Z,"['Threat Actor:Gamaredon Group - G0047', 'Malware:August Stealer', 'Malware:WhisperGate', 'Malware:WildFire', 'Malware:Pteranodon - S0147']",[66],['malware']
-file,5fb6202b8273a6a4cda73cee3f88ce1a,2022-03-29T16:11:25Z,2022-05-28T16:11:25Z,[],[81],['malware']
+file,5fb6202b8273a6a4cda73cee3f88ce1a,2022-03-29T16:11:25Z,2022-06-27T16:11:25Z,[],[73],['malware']
 file,6010fced6be720c000dd9b414ccdfa58,2022-01-05T00:00:00Z,2022-06-21T01:18:57Z,"['Malware:Tinba', 'Threat Actor:Gamaredon Group - G0047']",[81],['malware']
 file,60478d3ac4e791306586ecabd39b4d3af354120653b8003d68b6c6a9378b8fb9,2022-04-21T07:41:38Z,2022-06-20T10:06:12Z,['Threat Actor:Gamaredon Group - G0047'],[81],['malware']
 file,60539634489764d9e590433ef632727aa465075befcb4f2d4f60405c0f8e600c,2022-02-16T10:44:21Z,2022-06-16T16:11:30Z,[],"[33, 66, 66]","['phishing', 'malware', 'ddos']"
@@ -1483,13 +1483,13 @@ file,62ecf284fd96e9307f7b6bfac3108a3b93cbe76cb15bd325c5b072ff05e9fcf7,2022-01-31
 file,63527667de37d0348a9a55b261c1f01a0413ce48fa186fead9d24930b601834c,2022-04-21T07:41:38Z,2022-06-20T10:06:12Z,['Threat Actor:Gamaredon Group - G0047'],[81],['malware']
 file,63f3112aca7c36772cafac6482e4faece639035818be8f236e5f3f7b84ac420c,2022-02-04T04:22:22Z,2022-06-04T11:56:04Z,"['Malware:Pteranodon - S0147', 'Threat Actor:Gamaredon Group - G0047']",[66],['malware']
 file,646f6d84d81d833e1162e56c81c3659f724e7b0801c04abe35492b5e50165663,2022-01-31T16:59:34Z,2022-06-23T13:18:50Z,"['Threat Actor:Gamaredon Group - G0047', 'Malware:August Stealer', 'Malware:WhisperGate', 'Malware:WildFire', 'Malware:Pteranodon - S0147']",[66],['malware']
-file,65237e705e842da0a891c222e57fe095,2022-03-29T16:11:31Z,2022-05-28T16:11:31Z,[],[81],['malware']
+file,65237e705e842da0a891c222e57fe095,2022-03-29T16:11:31Z,2022-06-27T16:11:31Z,[],[73],['malware']
 file,652d9bc90cc1833f667508c7f794237a0945c875c61370e54c73073ba27e7c85,2022-02-04T04:22:22Z,2022-06-04T11:56:04Z,"['Malware:Pteranodon - S0147', 'Threat Actor:Gamaredon Group - G0047']",[66],['malware']
 file,65365420a3bb5d943ecd6668dd5dbfef,2021-07-17T17:45:07Z,2022-06-23T13:18:50Z,"['Threat Actor:Gamaredon Group - G0047', 'Malware:August Stealer', 'Malware:WhisperGate', 'Malware:WildFire', 'Malware:Pteranodon - S0147']","[33, 55]","['phishing', 'malware']"
 file,6593ff4fe7cea48b838d7cad59a6c65bb1554957fda3d218ff6c073cc80ce9a4,2022-01-31T16:59:34Z,2022-06-23T13:18:50Z,"['Threat Actor:Gamaredon Group - G0047', 'Malware:August Stealer', 'Malware:WhisperGate', 'Malware:WildFire', 'Malware:Pteranodon - S0147']",[66],['malware']
 file,65b9958a72670e8fb8e3edb6d937b020db7e88b02b574704ec9ceae68c4a4e98,2022-01-31T16:59:34Z,2022-06-23T13:18:50Z,"['Threat Actor:Gamaredon Group - G0047', 'Malware:August Stealer', 'Malware:WhisperGate', 'Malware:WildFire', 'Malware:Pteranodon - S0147']",[66],['malware']
 file,6705f4b9ffabbf9f4a9b112286f194a05fe593e6076c5fcf9296624042823265,2022-02-04T04:22:22Z,2022-06-16T16:11:30Z,"['Malware:Pteranodon - S0147', 'Threat Actor:Gamaredon Group - G0047']","[33, 66]","['phishing', 'malware']"
-file,67274bdd5c9537affbd51567f4ba8d5f,2022-03-29T16:11:28Z,2022-05-28T16:11:28Z,[],[81],['malware']
+file,67274bdd5c9537affbd51567f4ba8d5f,2022-03-29T16:11:28Z,2022-06-27T16:11:28Z,[],[73],['malware']
 file,676dd5c0f2cf64b726c69d448fd585e72ac747b808fdfb0dd6a3a32d93607ab5,2022-01-31T16:59:34Z,2022-06-23T13:18:50Z,"['Threat Actor:Gamaredon Group - G0047', 'Malware:August Stealer', 'Malware:WhisperGate', 'Malware:WildFire', 'Malware:Pteranodon - S0147']",[66],['malware']
 file,677ac5ae842bc5c656f284824fa450e32b9a6e44a9f738e8804b3d9fb99f84df,2022-04-21T07:41:38Z,2022-06-20T10:06:12Z,['Threat Actor:Gamaredon Group - G0047'],[81],['malware']
 file,67fb923a0e2b3c514381e861a2b481a2e61aa492427ff63bf3122d4022e0f735,2022-04-21T07:41:38Z,2022-06-20T10:06:12Z,['Threat Actor:Gamaredon Group - G0047'],[81],['malware']
@@ -1528,7 +1528,7 @@ file,741232f1e25b0a0e4f3ebe0b8c22d1b4,2022-01-31T17:02:36Z,2022-06-26T07:41:03Z,
 file,74c1db419d7063315625edf039c0a026dec14ae36e512b6aef9771a9428ec459,2022-04-21T07:41:38Z,2022-06-20T10:06:12Z,['Threat Actor:Gamaredon Group - G0047'],[81],['malware']
 file,74cb6c1c644972298471bff286c310e48f6b35c88b5908dbddfa163c85debdee,2022-02-04T04:22:22Z,2022-06-04T11:56:04Z,"['Malware:Pteranodon - S0147', 'Threat Actor:Gamaredon Group - G0047']",[66],['malware']
 file,74f523da9806ab92d6ca31273a36eb1577703a2f98bc4b0370674b1763f38f36,2022-04-21T07:41:38Z,2022-06-20T10:06:12Z,['Threat Actor:Gamaredon Group - G0047'],[81],['malware']
-file,75e1ce42e0892ed04a43e3b68afdbc07,2022-03-29T16:11:32Z,2022-05-28T16:11:32Z,[],[81],['malware']
+file,75e1ce42e0892ed04a43e3b68afdbc07,2022-03-29T16:11:32Z,2022-06-27T16:11:32Z,[],[73],['malware']
 file,76bdfe083b9038ab35757ba8cfac9a97,2022-05-13T13:06:10Z,2022-06-12T13:06:10Z,[],[45],['malware']
 file,773a21c502dce922f3f153a836f4f0cce89d2a4b915f4320b5a4e25fb7e99575,2022-04-21T07:41:38Z,2022-06-20T10:06:12Z,['Threat Actor:Gamaredon Group - G0047'],[81],['malware']
 file,782a8cc34746ca1ffc7cd83a9cc4cd64c60de2e69622a06d2a01792df2e2573c,2022-02-16T10:44:21Z,2022-06-16T16:11:30Z,[],"[66, 66, 33]","['ddos', 'malware', 'phishing']"
@@ -1568,11 +1568,11 @@ file,85c14f4a7580623f967b9e9f7120a14bd3291f2177298e6bcb32e234af9bb2a8,2022-01-31
 file,8662d61e6a53184e6b179c23784a01fd5766539e67d6d9150a60902f2939df4c,2022-01-31T16:59:34Z,2022-06-23T13:18:50Z,"['Threat Actor:Gamaredon Group - G0047', 'Malware:August Stealer', 'Malware:WhisperGate', 'Malware:WildFire', 'Malware:Pteranodon - S0147']",[66],['malware']
 file,8666ba282ba19a815d9ec03eac0c5d3ef0c2bbb596982408df6357a56d218d19,2022-04-21T07:41:38Z,2022-06-20T10:06:12Z,['Threat Actor:Gamaredon Group - G0047'],[81],['malware']
 file,86926e56e4f6d854161066b5989a350e,2022-02-22T00:11:31Z,2022-06-23T08:26:36Z,"['Malware:Buhtrap', 'Threat Actor:BuhTrap']",[49],['malware']
-file,86f322fe52829b8b8094d053ed648a65,2022-03-29T16:11:33Z,2022-05-28T16:11:33Z,[],[81],['malware']
+file,86f322fe52829b8b8094d053ed648a65,2022-03-29T16:11:33Z,2022-06-27T16:11:33Z,[],[73],['malware']
 file,86f4ca8ea0fc981c804f1e87147aa2c55f73ddfbc2b0be602af240fad6b36b36,2022-01-31T16:59:34Z,2022-06-23T13:18:50Z,"['Threat Actor:Gamaredon Group - G0047', 'Malware:August Stealer', 'Malware:WhisperGate', 'Malware:WildFire', 'Malware:Pteranodon - S0147']",[66],['malware']
 file,8762522851f33de2707725cd7a89879c0b0afbd32bd34e2ac4443e4cbf285640,2022-02-04T04:22:22Z,2022-06-04T11:56:04Z,"['Malware:Pteranodon - S0147', 'Threat Actor:Gamaredon Group - G0047']",[66],['malware']
 file,877f834e8788d05b625ba639b9318512,2022-04-18T14:52:59Z,2022-06-17T14:52:59Z,"['Tool:Cobalt Strike - S0154', 'Malware:TrickBot - S0266']","[57, 89]","['phishing', 'malware']"
-file,878c30bdefb1b76ea10823a6d5a32f89,2022-03-29T16:11:23Z,2022-05-28T16:11:23Z,[],[81],['malware']
+file,878c30bdefb1b76ea10823a6d5a32f89,2022-03-29T16:11:23Z,2022-06-27T16:11:23Z,[],[73],['malware']
 file,8842acb150e1625ff20a84190073ece6,2021-12-07T10:55:45Z,2022-06-16T16:11:30Z,"['Malware:Pteranodon - S0147', 'Threat Actor:Gamaredon Group - G0047']","[59, 36]","['malware', 'phishing']"
 file,884c15502dbd6fe6dd4fca322904a38bce117ab6ed102ab2da84dfb4064c3e44,2022-02-04T04:22:22Z,2022-06-04T11:56:04Z,"['Malware:Pteranodon - S0147', 'Threat Actor:Gamaredon Group - G0047']",[66],['malware']
 file,88f9d4388d41e9893273824ac227656a954a69e43cb9ded469ec07153c61b3bc,2022-04-21T07:41:38Z,2022-06-20T10:06:12Z,['Threat Actor:Gamaredon Group - G0047'],[81],['malware']
@@ -1596,7 +1596,7 @@ file,903e1c01d5f47416fde069f0bb32de6081e200462124022baff44f35598149c6,2022-04-21
 file,912342f1c840a42f6b74132f8a7c4ffe7d40fb77,2022-02-23T22:46:26Z,2022-05-31T07:47:41Z,['Malware:HermeticWiper'],[73],['malware']
 file,91411cb1aaf5d5cac6a11278b6235882d27b74bfaed681b278460113ba8f2b89,2022-01-31T16:59:34Z,2022-06-23T13:18:50Z,"['Threat Actor:Gamaredon Group - G0047', 'Malware:August Stealer', 'Malware:WhisperGate', 'Malware:WildFire', 'Malware:Pteranodon - S0147']",[66],['malware']
 file,91c27abec8fda1410e2fae396f592e93,2021-12-24T15:32:31Z,2022-06-16T16:11:30Z,"['Malware:Pteranodon - S0147', 'Threat Actor:Gamaredon Group - G0047']","[64, 53]","['malware', 'phishing']"
-file,9297e47fe1b256a8bbcb2b7a20844b2c,2022-03-29T16:11:26Z,2022-05-28T16:11:26Z,[],[81],['malware']
+file,9297e47fe1b256a8bbcb2b7a20844b2c,2022-03-29T16:11:26Z,2022-06-27T16:11:26Z,[],[73],['malware']
 file,930f3f4ad55000c7c2ccb3691279fda593c9de0054c6e7acfe2a635c7347e889,2022-04-21T07:41:38Z,2022-06-20T10:06:12Z,['Threat Actor:Gamaredon Group - G0047'],[81],['malware']
 file,93d8940cde9e12c2a6ab7a13d5ff0973b907ebecf524b18742746a17209c8e3e,2022-01-31T16:59:34Z,2022-06-23T13:18:50Z,"['Threat Actor:Gamaredon Group - G0047', 'Malware:August Stealer', 'Malware:WhisperGate', 'Malware:WildFire', 'Malware:Pteranodon - S0147']",[66],['malware']
 file,93f3ff62452444c6c93f708ec9c110cfb0c630f462ea63db9abbe96a6053acb1,2022-02-04T04:22:22Z,2022-06-04T11:56:04Z,"['Malware:Pteranodon - S0147', 'Threat Actor:Gamaredon Group - G0047']",[66],['malware']
@@ -1616,7 +1616,7 @@ file,986ce06308ca327e5c75877e5e15d6b8,2022-04-15T13:04:43Z,2022-06-21T16:51:38Z,
 file,989362e61facd0a0d4d9edccb7e67e8fe23b639fb67a533f2518d799be150cbc,2022-01-31T16:59:34Z,2022-06-23T13:18:50Z,"['Threat Actor:Gamaredon Group - G0047', 'Malware:August Stealer', 'Malware:WhisperGate', 'Malware:WildFire', 'Malware:Pteranodon - S0147']",[66],['malware']
 file,989c5de8ce5ca07cc2903098031c7134,2022-03-22T12:15:42Z,2022-06-21T16:51:38Z,"['Malware:WhisperGate', 'Malware:Wiper - S0041']","[22, 84, 41]","['hack', 'malware', 'phishing']"
 file,98d57671c24e2a80a1beeaf19f43016acfe509190ef666c2f9eef586f90f39ca,2022-04-21T07:41:38Z,2022-06-20T10:06:12Z,['Threat Actor:Gamaredon Group - G0047'],[81],['malware']
-file,993415425b61183dd3f900d9b81ac57f,2022-03-29T16:11:27Z,2022-05-28T16:11:27Z,[],[81],['malware']
+file,993415425b61183dd3f900d9b81ac57f,2022-03-29T16:11:27Z,2022-06-27T16:11:27Z,[],[73],['malware']
 file,995d83a074ae7b3acc1405aad747ecb6a137de006c71a0732522afe8daf9c9bd,2022-04-21T07:41:38Z,2022-06-20T10:06:12Z,['Threat Actor:Gamaredon Group - G0047'],[81],['malware']
 file,99c9440a84cdc428ce140de901452eb334faec49f1f6258acdde1ddcbb34376e,2022-01-31T16:59:34Z,2022-06-23T13:18:50Z,"['Threat Actor:Gamaredon Group - G0047', 'Malware:August Stealer', 'Malware:WhisperGate', 'Malware:WildFire', 'Malware:Pteranodon - S0147']",[66],['malware']
 file,9a36272a7c6f621452b3f0bdaa4a5612bc736a5c45e336cde6eaf1d1b09fa194,2022-04-21T07:41:38Z,2022-06-20T10:06:12Z,['Threat Actor:Gamaredon Group - G0047'],[81],['malware']
@@ -1666,7 +1666,7 @@ file,ac4ea751ca1382550efb2d3f4df9242f4541836b0e82deb49847f763afdf20ca,2022-02-04
 file,ad1f796b3590fcee4aeecb321e45481cac5bc022500da2bdc79f768d08081a29,2022-01-31T16:59:34Z,2022-06-23T13:18:50Z,"['Threat Actor:Gamaredon Group - G0047', 'Malware:August Stealer', 'Malware:WhisperGate', 'Malware:WildFire', 'Malware:Pteranodon - S0147']",[66],['malware']
 file,ad5759e59dde3338a7c352417331a2faf1465c20205aa865fd474060f7bac8c7,2022-01-31T16:59:34Z,2022-06-23T13:18:50Z,"['Threat Actor:Gamaredon Group - G0047', 'Malware:August Stealer', 'Malware:WhisperGate', 'Malware:WildFire', 'Malware:Pteranodon - S0147']",[66],['malware']
 file,ad602039c6f0237d4a997d5640e92ce5e2b3bba3,2022-03-02T07:47:43Z,2022-05-29T10:30:28Z,"['Malware:First', 'Malware:RCS', 'Malware:Crisis', 'Malware:RemCom', 'Malware:CaddyWiper', 'Malware:HermeticWiper', 'Tool:Impacket - S0357', 'Malware:Wiper - S0041']",[90],['malware']
-file,adebdc32ef35209fb142d44050928083,2022-03-29T16:11:29Z,2022-05-28T16:11:29Z,[],[81],['malware']
+file,adebdc32ef35209fb142d44050928083,2022-03-29T16:11:29Z,2022-06-27T16:11:29Z,[],[73],['malware']
 file,ae05bb40000bc961ce901c082c3c2adb8bd9d8c4cf3f1addc4e75db6c498479a,2022-01-31T16:59:34Z,2022-06-23T13:18:50Z,"['Threat Actor:Gamaredon Group - G0047', 'Malware:August Stealer', 'Malware:WhisperGate', 'Malware:WildFire', 'Malware:Pteranodon - S0147']",[66],['malware']
 file,ae5c643816363e241384ee894aadda08e0a1f3f1a7b83f1bbc4c2ca11049ef49,2022-04-21T07:41:38Z,2022-06-20T10:06:12Z,['Threat Actor:Gamaredon Group - G0047'],[81],['malware']
 file,ae9e9634a1354f5ee89f838f4297f3d38378db17fac73bf2c59cbdd86ea7812c,2022-01-31T16:59:34Z,2022-06-23T13:18:50Z,"['Threat Actor:Gamaredon Group - G0047', 'Malware:August Stealer', 'Malware:WhisperGate', 'Malware:WildFire', 'Malware:Pteranodon - S0147']",[66],['malware']
@@ -1706,7 +1706,7 @@ file,b92dcbacbaaf0a05c805d31762cd4e45c912ba940c57b982939d79731cf97217,2022-02-04
 file,b9dd1e5ec018090b404dd7550d4423ff38ee1f016a5ab214f128544f5b399759,2022-02-04T04:22:22Z,2022-06-04T11:56:04Z,"['Malware:Pteranodon - S0147', 'Threat Actor:Gamaredon Group - G0047']",[66],['malware']
 file,ba96cfe58a5c8f4636b0a0668a9d9127eee3ed80c96db48d3a63ae9c6ce97b2d,2022-02-04T04:22:22Z,2022-06-04T11:56:04Z,"['Malware:Pteranodon - S0147', 'Threat Actor:Gamaredon Group - G0047']",[66],['malware']
 file,bae9895ad4e392990a09b1b8a01e424a7ad3769e538ac693919d1b99989f0cb3,2022-02-05T13:56:54Z,2022-06-23T13:18:50Z,"['Threat Actor:Gamaredon Group - G0047', 'Malware:August Stealer', 'Malware:WhisperGate', 'Malware:WildFire', 'Malware:Pteranodon - S0147']","[66, 33]","['malware', 'phishing']"
-file,baf502b4b823b6806cc91e2c1dd07613,2022-03-29T16:11:30Z,2022-05-28T16:11:30Z,[],[81],['malware']
+file,baf502b4b823b6806cc91e2c1dd07613,2022-03-29T16:11:30Z,2022-06-27T16:11:30Z,[],[73],['malware']
 file,bb1c8ad9f422a39ce6329e93dc060438,2022-02-03T14:54:06Z,2022-06-02T06:14:37Z,"['Malware:Pteranodon - S0147', 'Threat Actor:Gamaredon Group - G0047']","[63, 29, 41]","['malware', 'hack', 'phishing']"
 file,bb602d5f60d902d8202114c05551d2da02919ab94331e8ab5566624ff2501c85,2022-04-21T07:41:38Z,2022-06-20T10:06:12Z,['Threat Actor:Gamaredon Group - G0047'],[81],['malware']
 file,bbf7220635908afede0eebc7e83ba2eb836526490d16b15305cacb96f65d6e6d,2022-01-31T16:59:34Z,2022-06-23T13:18:50Z,"['Threat Actor:Gamaredon Group - G0047', 'Malware:August Stealer', 'Malware:WhisperGate', 'Malware:WildFire', 'Malware:Pteranodon - S0147']",[66],['malware']
@@ -1754,7 +1754,7 @@ file,cba2f5c10895e8bfdefed2b50cdac3e2c5c8eed7238f7af03a149687a2b1b623,2022-04-21
 file,cbe1dbd167bccbf61ee8608092a767ce3fbfb5fe5f6e959848d9a8d9091402fb,2022-02-04T04:22:22Z,2022-06-04T11:56:04Z,"['Malware:Pteranodon - S0147', 'Threat Actor:Gamaredon Group - G0047']",[66],['malware']
 file,ccd5f196de54ac8ba5d5c3612f8807091f6c23dd501fa64161a161849f65f2a2,2022-02-04T04:22:22Z,2022-06-04T11:56:04Z,"['Malware:Pteranodon - S0147', 'Threat Actor:Gamaredon Group - G0047']",[66],['malware']
 file,cd1812e376834efd129a8acc8d840eab498bc4f5955adbf2069620e3f084dce9,2022-01-31T16:59:34Z,2022-06-23T13:18:50Z,"['Threat Actor:Gamaredon Group - G0047', 'Malware:August Stealer', 'Malware:WhisperGate', 'Malware:WildFire', 'Malware:Pteranodon - S0147']",[66],['malware']
-file,cd1a425e1ac6bc029fb4418523e43e88,2022-03-29T16:11:29Z,2022-05-28T16:11:29Z,[],[81],['malware']
+file,cd1a425e1ac6bc029fb4418523e43e88,2022-03-29T16:11:29Z,2022-06-27T16:11:29Z,[],[73],['malware']
 file,cdd8844fd9a2680066c4c8730e72a243c3526711664d63414f006a051cd8562a,2022-01-31T16:59:34Z,2022-06-23T13:18:50Z,"['Threat Actor:Gamaredon Group - G0047', 'Malware:August Stealer', 'Malware:WhisperGate', 'Malware:WildFire', 'Malware:Pteranodon - S0147']",[66],['malware']
 file,ce02bba7857842bee8eb490ae2971926c9e0412dbd1efc5a2c173fc7f59bd1d2,2022-02-04T04:22:22Z,2022-06-04T11:56:04Z,"['Malware:Pteranodon - S0147', 'Threat Actor:Gamaredon Group - G0047']",[66],['malware']
 file,ce388d12590b8c6dbb8aebd5d524ff59405b894ad8380207fb3175d4f4d6fb42,2022-04-21T07:41:38Z,2022-06-20T10:06:12Z,['Threat Actor:Gamaredon Group - G0047'],[81],['malware']
@@ -1764,14 +1764,14 @@ file,cf5f1c09a6a3dc8645686d806618938f582feb8fc8fcdc748d926acf16531544,2022-04-21
 file,cf7d5172dc578138725bcc50bf30a82ad09db0ee7d78c6301de10bdfe8108bc8,2022-01-31T16:59:34Z,2022-06-23T13:18:50Z,"['Threat Actor:Gamaredon Group - G0047', 'Malware:August Stealer', 'Malware:WhisperGate', 'Malware:WildFire', 'Malware:Pteranodon - S0147']",[66],['malware']
 file,cfe679cb37b64f96cc5dcaaa660dccb6dd725989197c9de71c89ed541e6da1c8,2022-01-31T16:59:34Z,2022-06-23T13:18:50Z,"['Threat Actor:Gamaredon Group - G0047', 'Malware:August Stealer', 'Malware:WhisperGate', 'Malware:WildFire', 'Malware:Pteranodon - S0147']",[66],['malware']
 file,d04f7bd0648386c70e601ae3c24c7e90ca7fe2d9bb79532ce41cb65450ae02dc,2022-04-21T07:41:38Z,2022-06-20T10:06:12Z,['Threat Actor:Gamaredon Group - G0047'],[81],['malware']
-file,d0632ef34514bbb0f675c59e6ecca717,2022-03-29T16:11:26Z,2022-05-28T16:11:26Z,[],[81],['malware']
+file,d0632ef34514bbb0f675c59e6ecca717,2022-03-29T16:11:26Z,2022-06-27T16:11:26Z,[],[73],['malware']
 file,d15a7e69769f4727f7b522995a17a0206ac9450cfb0dfe1fc98fd32272ee5ba7,2022-01-31T16:59:34Z,2022-06-23T13:18:50Z,"['Threat Actor:Gamaredon Group - G0047', 'Malware:August Stealer', 'Malware:WhisperGate', 'Malware:WildFire', 'Malware:Pteranodon - S0147']",[66],['malware']
 file,d26b381e0eb69f5f96cc909103c30976aeba493c6b74e62454ce056c468d18b7,2022-01-31T16:59:34Z,2022-06-23T13:18:50Z,"['Threat Actor:Gamaredon Group - G0047', 'Malware:August Stealer', 'Malware:WhisperGate', 'Malware:WildFire', 'Malware:Pteranodon - S0147']",[66],['malware']
 file,d27d0b9bb57b2bab881e0efb97c740b7e81405df,2022-04-12T12:35:54Z,2022-06-24T00:20:00Z,"['Attack Pattern:Scheduled Task/Job - T1053', 'Malware:Industroyer - S0604', 'Threat Actor:Sandworm Team - G0034', 'Malware:Bad Rabbit - S0606', 'Malware:CaddyWiper', 'Malware:NotPetya - S0368', 'Malware:Wiper - S0041']",[81],['malware']
 file,d28efce81bb2bd547354861566aea5f02e23e68fbcb4629b3a7ffb763f934256,2022-01-31T16:59:34Z,2022-06-23T13:18:50Z,"['Threat Actor:Gamaredon Group - G0047', 'Malware:August Stealer', 'Malware:WhisperGate', 'Malware:WildFire', 'Malware:Pteranodon - S0147']",[66],['malware']
 file,d2a795af12e937eb8a89d470a96f15a5,2022-03-06T22:59:59Z,2022-06-07T16:09:48Z,"['Malware:MicroBackdoor', 'Threat Actor:Ghostwriter']","[63, 51, 92]","['hack', 'phishing', 'malware']"
 file,d2d3a5b67e275e7805f3216cb8d59cb8cfbd39798115ca504c5ad865a4fe52fb,2022-02-04T04:22:22Z,2022-06-04T11:56:04Z,"['Malware:Pteranodon - S0147', 'Threat Actor:Gamaredon Group - G0047']",[66],['malware']
-file,d34dbbd28775b2c3a0b55d86d418f293,2022-03-29T16:11:22Z,2022-05-28T16:11:22Z,[],[81],['malware']
+file,d34dbbd28775b2c3a0b55d86d418f293,2022-03-29T16:11:22Z,2022-06-27T16:11:22Z,[],[73],['malware']
 file,d38cc4879fe0bc66cb8e772b28fbfd15,2022-02-19T13:30:13Z,2022-06-25T16:31:06Z,"['Malware:Gafgyt', 'Malware:QakBot - S0650', 'Malware:Mirai', 'Malware:WhisperGate']","[36, 20, 66, 71]","['phishing', 'hack', 'scan', 'malware']"
 file,d52a67fd671cebf180ef20a5cc42ec07b119cb1bf0dd049d9e0c784a04ea4491,2022-04-21T07:41:38Z,2022-06-20T10:06:12Z,['Threat Actor:Gamaredon Group - G0047'],[81],['malware']
 file,d553ad91c963e0a8a6394f0ffb69f95ba82ded0025925ebf224fa5e46cf805d9,2022-04-21T07:41:38Z,2022-06-20T10:06:12Z,['Threat Actor:Gamaredon Group - G0047'],[81],['malware']
@@ -1806,9 +1806,9 @@ file,de85c2b7f4b773721f7ce87480a7d6fc2ce11c3ba15b6c7adfc29ca84cf1425b,2022-01-31
 file,de8ef0edce19f83c031f5a690d81d7976df17295f190d7249b9b48c30b574df8,2022-04-21T07:41:38Z,2022-06-20T10:06:12Z,['Threat Actor:Gamaredon Group - G0047'],[81],['malware']
 file,df165a241a1db2db67986aefdb5fed5bfc91d4f08042d2472c4b1eb8aa6d00f9,2022-04-21T07:41:38Z,2022-06-20T10:06:12Z,['Threat Actor:Gamaredon Group - G0047'],[81],['malware']
 file,df70346afd410d3ba26eeeb0194fc7e6d427bfafef9a34b9efd49936ca9e273b,2022-02-04T04:22:22Z,2022-06-04T11:56:04Z,"['Malware:Pteranodon - S0147', 'Threat Actor:Gamaredon Group - G0047']",[66],['malware']
-file,dfb5a03f56769e3d1195bdfe6bb62070,2022-03-29T16:11:25Z,2022-05-28T16:11:25Z,[],[81],['malware']
+file,dfb5a03f56769e3d1195bdfe6bb62070,2022-03-29T16:11:25Z,2022-06-27T16:11:25Z,[],[73],['malware']
 file,e0593e5b9dc4e82e2a50570cb67db38fa6fd3993e8da9976fb4afaf0ffcf750d,2022-04-21T07:41:38Z,2022-06-20T10:06:12Z,['Threat Actor:Gamaredon Group - G0047'],[81],['malware']
-file,e08d7c4daa45beca5079870251e50236,2022-03-29T16:11:30Z,2022-05-28T16:11:30Z,[],[81],['malware']
+file,e08d7c4daa45beca5079870251e50236,2022-03-29T16:11:30Z,2022-06-27T16:11:30Z,[],[73],['malware']
 file,e0e3993bf3f8230172918ca506e21fa92a6cdd3a311801b29d49cbbb04de1221,2022-04-21T07:41:38Z,2022-06-20T10:06:12Z,['Threat Actor:Gamaredon Group - G0047'],[81],['malware']
 file,e1671159e4dd5f2095960a042a20e1c7e188697ef88856063f97dfc8cf8739da,2022-01-31T16:59:34Z,2022-06-23T13:18:50Z,"['Threat Actor:Gamaredon Group - G0047', 'Malware:August Stealer', 'Malware:WhisperGate', 'Malware:WildFire', 'Malware:Pteranodon - S0147']",[66],['malware']
 file,e1f1241b4dbea40730ec6eb32370d12a647eff839dac352ed3d3b4a852811061,2022-04-21T07:41:38Z,2022-06-20T10:06:12Z,['Threat Actor:Gamaredon Group - G0047'],[81],['malware']
@@ -1843,12 +1843,12 @@ file,eb5d54ac8a551f6d5c325cf8b0466834bfa0a68e897ed7282b49663058f53daa,2022-01-31
 file,eb845b7a16ed82bd248e395d9852f467,2022-02-24T07:43:34Z,2022-06-26T22:09:52Z,"['Attack Pattern:Disk Structure Wipe - T1561.002', 'Attack Pattern:Data Destruction - T1485', 'Malware:HermeticWiper', 'Malware:CaddyWiper', 'Attack Pattern:Signed Binary Proxy Execution - T1218', 'Attack Pattern:Group Policy Modification - T1484.001', 'Attack Pattern:Inhibit System Recovery - T1490', 'Malware:Wiper - S0041']","[41, 90, 20]","['phishing', 'malware', 'hack']"
 file,ebe0d2bc31e6ab5a5be89bb08f902d3abfa73e4c05ccba7f3f527114f5b82003,2022-01-31T16:59:34Z,2022-06-23T13:18:50Z,"['Threat Actor:Gamaredon Group - G0047', 'Malware:August Stealer', 'Malware:WhisperGate', 'Malware:WildFire', 'Malware:Pteranodon - S0147']",[66],['malware']
 file,ecadbc36c2ccab444df9b0ff59bcf5592e61d50b87c07fe1d82342058b6aa261,2022-01-31T16:59:34Z,2022-06-23T13:18:50Z,"['Threat Actor:Gamaredon Group - G0047', 'Malware:August Stealer', 'Malware:WhisperGate', 'Malware:WildFire', 'Malware:Pteranodon - S0147']",[66],['malware']
-file,ecc7bb2e4672b958bd82fe9ec9cfab14,2022-03-29T16:11:28Z,2022-05-28T16:11:28Z,[],[81],['malware']
+file,ecc7bb2e4672b958bd82fe9ec9cfab14,2022-03-29T16:11:28Z,2022-06-27T16:11:28Z,[],[73],['malware']
 file,ecc9619c534fbaa2f6c630597a58d307badee1ea0a393c10c8c43aa11b65d01b,2022-01-31T16:59:34Z,2022-06-23T13:18:50Z,"['Threat Actor:Gamaredon Group - G0047', 'Malware:August Stealer', 'Malware:WhisperGate', 'Malware:WildFire', 'Malware:Pteranodon - S0147']",[66],['malware']
 file,ece5504be9ae6ba55ba24342e6d6a3a485b1de6231b082357206ad331ab14a85,2022-04-21T07:41:38Z,2022-06-20T10:06:12Z,['Threat Actor:Gamaredon Group - G0047'],[81],['malware']
 file,ecec9a36436d41a68a01b91066e5c4d4752fa0282a743628580d179d3bf2358d,2022-01-31T16:59:34Z,2022-06-23T13:18:50Z,"['Threat Actor:Gamaredon Group - G0047', 'Malware:August Stealer', 'Malware:WhisperGate', 'Malware:WildFire', 'Malware:Pteranodon - S0147']",[66],['malware']
 file,ed0b3ae937912373f3418f5fa1ba75fccfc86d2a4ee186c1d1723b6f21c799a9,2022-04-21T07:41:38Z,2022-06-20T10:06:12Z,['Threat Actor:Gamaredon Group - G0047'],[81],['malware']
-file,eda76ae28628c64d9e12a86adef6dc69,2022-03-27T06:46:19Z,2022-05-28T16:32:48Z,[],[57],['malware']
+file,eda76ae28628c64d9e12a86adef6dc69,2022-03-27T06:46:19Z,2022-06-27T16:32:48Z,[],[51],['malware']
 file,ee818a51cc890bf80e81523a051c82293d6c57acf47f8ddccd667d12fc88cb45,2022-02-04T04:22:22Z,2022-06-16T16:11:30Z,"['Malware:Pteranodon - S0147', 'Threat Actor:Gamaredon Group - G0047']","[33, 66]","['phishing', 'malware']"
 file,eef073bf432192d1cc0abb5afac8027f8a954b1fa1e8ca0c0b6cbeb31de54d35,2022-01-31T16:59:34Z,2022-06-23T13:18:50Z,"['Threat Actor:Gamaredon Group - G0047', 'Malware:August Stealer', 'Malware:WhisperGate', 'Malware:WildFire', 'Malware:Pteranodon - S0147']",[66],['malware']
 file,ef011bb5884547245f535526c24d80502e3855afd963299527c48e1af2598cb3,2022-04-21T07:41:38Z,2022-06-20T10:06:12Z,['Threat Actor:Gamaredon Group - G0047'],[81],['malware']
@@ -1856,7 +1856,7 @@ file,ef488db6f587d095c41ba61d40b2516f546d1f51c5574ace11b04720ff116857,2022-04-21
 file,ef6073f7372b4774849db8c64a1b33bd473d3ba10ecadbf4f08575b1d8f06c30,2022-01-31T16:59:34Z,2022-06-23T13:18:50Z,"['Threat Actor:Gamaredon Group - G0047', 'Malware:August Stealer', 'Malware:WhisperGate', 'Malware:WildFire', 'Malware:Pteranodon - S0147']",[66],['malware']
 file,ef7d39697c121c902378eb31f2ce2557befadd12685af0a0cf73082174a1d00d,2022-04-21T07:41:38Z,2022-06-20T10:06:12Z,['Threat Actor:Gamaredon Group - G0047'],[81],['malware']
 file,efb7824e2a80568ba3bd62b7a3e5e98e1c6bd5c0c63b352a32dbaa9807cc6290,2022-04-21T07:41:38Z,2022-06-20T10:06:12Z,['Threat Actor:Gamaredon Group - G0047'],[81],['malware']
-file,f0197bbb56465b5e2f1f17876c0da5ba,2022-03-29T16:11:33Z,2022-05-28T16:11:33Z,[],[81],['malware']
+file,f0197bbb56465b5e2f1f17876c0da5ba,2022-03-29T16:11:33Z,2022-06-27T16:11:33Z,[],[73],['malware']
 file,f08c54c4d8a470f96a0acf6aefeb95c49a8704a473d6105a921a18917e1747fa,2022-02-04T04:22:22Z,2022-06-04T11:56:04Z,"['Malware:Pteranodon - S0147', 'Threat Actor:Gamaredon Group - G0047']",[66],['malware']
 file,f10fea8314f0c904b00b2d10cee1d1320bab7afa36220fb9c9953e3382e62bc4,2022-01-31T16:59:34Z,2022-06-23T13:18:50Z,"['Threat Actor:Gamaredon Group - G0047', 'Malware:August Stealer', 'Malware:WhisperGate', 'Malware:WildFire', 'Malware:Pteranodon - S0147']",[66],['malware']
 file,f14ce6142a54878e5dccbfda83b27bc861b57e1be61d5a669a2875a048516e73,2022-01-31T16:59:34Z,2022-06-23T13:18:50Z,"['Threat Actor:Gamaredon Group - G0047', 'Malware:August Stealer', 'Malware:WhisperGate', 'Malware:WildFire', 'Malware:Pteranodon - S0147']",[66],['malware']
@@ -2595,7 +2595,7 @@ ip,177.244.224.147,2022-03-04T00:00:00Z,2022-03-11T00:00:00Z,[],[12],['hack']
 ip,177.4.98.67,2020-11-18T00:00:00Z,2020-12-04T00:00:00Z,[],[2],['hack']
 ip,177.93.181.112,2022-06-12T00:00:00Z,2022-06-19T00:00:00Z,[],[12],['hack']
 ip,177.99.72.240,2022-03-15T00:00:00Z,2022-03-31T00:00:00Z,[],[2],['hack']
-ip,178.140.28.42,2021-06-09T00:00:00Z,2022-06-17T02:27:06Z,[],"[2, 0]","['hack', 'scan']"
+ip,178.140.28.42,2021-06-09T00:00:00Z,2022-06-27T16:18:36Z,[],"[18, 0]","['hack', 'scan']"
 ip,178.141.98.230,2022-02-27T00:00:00Z,2022-03-07T23:57:45Z,[],[12],['hack']
 ip,178.142.234.157,2022-02-25T08:03:54Z,2022-03-17T23:01:16Z,[],"[2, 2, 0]","['hack', 'malware', 'phishing']"
 ip,178.169.151.144,2022-02-25T00:00:00Z,2022-05-22T16:30:57Z,[],"[18, 20, 20]","['hack', 'scan', 'malware']"
@@ -2889,7 +2889,7 @@ ip,188.247.194.81,2020-07-07T10:44:57Z,2022-05-04T00:00:00Z,['Malware:WannaCry -
 ip,188.247.195.217,2021-01-22T00:00:00Z,2021-02-07T00:00:00Z,[],[2],['hack']
 ip,188.32.6.34,2022-03-12T00:00:00Z,2022-03-19T00:00:00Z,[],[12],['hack']
 ip,188.6.42.146,2022-06-25T00:00:00Z,2022-06-25T00:00:00Z,[],[80],['hack']
-ip,188.72.82.107,2018-12-08T00:00:00Z,2022-06-26T16:00:24Z,[],[33],['hack']
+ip,188.72.82.107,2018-12-08T00:00:00Z,2022-06-27T16:00:24Z,[],[20],['hack']
 ip,188.72.87.69,2021-11-08T00:00:00Z,2021-11-24T00:00:00Z,[],[2],['hack']
 ip,188.93.210.54,2019-11-06T02:21:22Z,2022-03-11T16:11:30Z,"['Malware:Pteranodon - S0147', 'Threat Actor:Gamaredon Group - G0047']","[1, 1, 1, 1]","['hack', 'malware', 'phishing', 'scan']"
 ip,189.130.178.242,2022-06-12T00:00:00Z,2022-06-17T23:52:02Z,[],"[19, 0, 0]","['hack', 'phishing', 'malware']"
@@ -3072,7 +3072,7 @@ ip,20.119.217.242,2022-03-18T00:00:00Z,2022-03-25T00:00:00Z,[],[12],['hack']
 ip,20.124.134.110,2022-03-19T00:00:00Z,2022-03-29T08:06:44Z,[],"[20, 8, 11, 19]","['scan', 'phishing', 'hack', 'malware']"
 ip,20.127.48.179,2022-03-11T00:00:00Z,2022-05-02T19:56:26Z,[],"[10, 0, 3, 2, 18, 1]","['phishing', 'fraud', 'hack', 'scan', 'malware', 'ddos']"
 ip,20.187.83.212,2022-03-04T00:00:00Z,2022-03-11T00:00:00Z,[],[12],['hack']
-ip,20.187.96.30,2022-06-20T00:00:00Z,2022-06-27T11:11:34Z,[],"[30, 71, 43, 49]","['ddos', 'hack', 'malware', 'scan']"
+ip,20.187.96.30,2022-06-20T00:00:00Z,2022-06-27T14:30:46Z,[],"[30, 71, 43, 48]","['ddos', 'hack', 'malware', 'scan']"
 ip,20.211.121.231,2022-06-10T00:00:00Z,2022-06-17T00:00:00Z,[],[12],['hack']
 ip,20.225.57.253,2022-05-09T00:00:00Z,2022-06-09T12:11:53Z,[],"[20, 13, 20]","['malware', 'hack', 'scan']"
 ip,20.52.0.106,2022-01-04T06:32:44Z,2022-04-26T18:11:18Z,[],"[1, 6, 0, 1]","['hack', 'malware', 'phishing', 'scan']"
@@ -3094,7 +3094,7 @@ ip,201.187.84.86,2022-03-10T00:00:00Z,2022-06-23T06:14:19Z,[],"[1, 18, 1, 1]","[
 ip,201.208.205.143,2022-06-24T00:00:00Z,2022-06-27T12:00:00Z,[],[58],['hack']
 ip,201.219.103.184,2022-02-25T08:03:54Z,2022-03-04T17:57:44Z,[],[12],['hack']
 ip,201.243.125.194,2021-01-12T00:00:00Z,2021-01-28T00:00:00Z,[],[2],['hack']
-ip,202.55.135.33,2022-06-26T00:00:00Z,2022-06-26T18:59:21Z,[],"[84, 10, 24]","['hack', 'malware', 'scan']"
+ip,202.55.135.33,2022-06-26T00:00:00Z,2022-06-26T18:59:21Z,[],"[84, 8, 0, 24]","['hack', 'malware', 'phishing', 'scan']"
 ip,202.59.11.197,2022-06-17T00:00:00Z,2022-06-24T00:00:00Z,[],[12],['hack']
 ip,203.145.168.29,2021-05-03T00:00:00Z,2021-08-09T06:26:59Z,[],"[2, 0, 0]","['hack', 'malware', 'phishing']"
 ip,203.184.41.154,2022-06-10T00:00:00Z,2022-06-18T06:44:25Z,[],[19],['hack']
