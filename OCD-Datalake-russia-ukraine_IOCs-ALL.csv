@@ -672,7 +672,6 @@ domain,konoatari.ru,2022-01-15T03:52:39Z,2022-06-12T08:25:06Z,"['Threat Actor:Ga
 domain,konokini.ru,2021-11-26T03:55:28Z,2022-05-13T08:25:06Z,"['Malware:Pteranodon - S0147', 'Threat Actor:Gamaredon Group - G0047']","[20, 1, 8]","['malware', 'phishing', 'hack']"
 domain,kopolotr.ru,2022-01-06T15:51:30Z,2022-06-12T08:25:06Z,"['Malware:Pteranodon - S0147', 'Threat Actor:Gamaredon Group - G0047']","[1, 0, 1]","['hack', 'malware', 'phishing']"
 domain,koporta.ru,2022-01-04T14:23:43Z,2022-06-12T08:25:06Z,"['OCD - Threat pattern:Command and Control [C2]', 'Malware:Pteranodon - S0147', 'Threat Actor:Gamaredon Group - G0047']","[2, 1, 0]","['hack', 'malware', 'phishing']"
-domain,koprotas.ru,2021-12-27T08:23:18Z,2022-06-12T08:25:06Z,"['Threat Actor:Gamaredon Group - G0047', 'Malware:August Stealer', 'Malware:WhisperGate', 'Malware:WildFire', 'Malware:Pteranodon - S0147']","[1, 0, 1]","['hack', 'malware', 'phishing']"
 domain,koraseba.ru,2021-11-26T03:55:28Z,2022-05-13T08:25:06Z,"['Malware:Pteranodon - S0147', 'Threat Actor:Gamaredon Group - G0047']","[8, 1, 20]","['hack', 'phishing', 'malware']"
 domain,korgant.ru,2022-02-03T23:45:52Z,2022-05-19T08:25:06Z,"['OCD - Threat pattern:Command and Control [C2]', 'Malware:Pteranodon - S0147', 'Threat Actor:Gamaredon Group - G0047']","[1, 1, 1]","['hack', 'malware', 'phishing']"
 domain,koutora.ru,2022-02-12T15:54:20Z,2022-03-05T16:11:30Z,['Threat Actor:Gamaredon Group - G0047'],"[18, 19]","['phishing', 'malware']"
@@ -2508,7 +2507,7 @@ ip,168.100.10.129,2022-02-25T00:00:00Z,2022-03-08T23:57:43Z,[],[12],['hack']
 ip,168.100.8.42,2022-04-12T16:35:58Z,2022-06-02T12:07:18Z,['Attack Pattern:Phishing - T1566'],"[1, 1, 1, 1]","['hack', 'malware', 'phishing', 'scan']"
 ip,169.150.196.140,2022-05-12T00:00:00Z,2022-06-10T12:26:45Z,[],"[8, 12, 15, 13]","['phishing', 'hack', 'scan', 'malware']"
 ip,169.197.141.79,2022-02-28T00:00:00Z,2022-03-08T23:57:42Z,[],[13],['hack']
-ip,171.12.48.73,2019-01-10T00:00:00Z,2022-06-26T11:19:07Z,[],[32],['hack']
+ip,171.12.48.73,2019-01-10T00:00:00Z,2022-06-27T11:19:07Z,[],[20],['hack']
 ip,171.22.76.50,2021-08-21T19:16:37Z,2022-03-13T00:07:46Z,[],"[14, 17, 1, 14, 1]","['malware', 'scan', 'ddos', 'hack', 'spam']"
 ip,171.225.249.108,2019-09-29T00:00:00Z,2021-06-22T03:08:24Z,[],"[2, 1, 1]","['hack', 'malware', 'scan']"
 ip,171.236.131.137,2022-06-24T00:00:00Z,2022-06-27T00:00:00Z,[],[72],['hack']
@@ -3727,8 +3726,8 @@ ip,42.117.187.20,2022-06-25T00:00:00Z,2022-06-25T00:00:00Z,[],[80],['hack']
 ip,42.119.31.12,2018-11-10T00:00:00Z,2022-06-26T18:40:30Z,[],"[11, 12, 20]","['hack', 'scan', 'malware']"
 ip,42.192.155.228,2022-03-27T00:00:00Z,2022-04-20T06:12:14Z,[],"[16, 13, 5, 16]","['hack', 'scan', 'ddos', 'malware']"
 ip,42.200.153.143,2022-03-02T00:00:00Z,2022-06-15T12:18:03Z,[],"[20, 20, 17, 19]","['malware', 'scan', 'hack', 'spam']"
-ip,43.132.244.168,2022-06-24T00:00:00Z,2022-06-24T11:20:44Z,[],[63],['hack']
-ip,43.135.69.60,2022-06-24T00:00:00Z,2022-06-24T11:50:10Z,[],[60],['hack']
+ip,43.132.244.168,2022-06-24T00:00:00Z,2022-06-27T11:20:44Z,[],[59],['hack']
+ip,43.135.69.60,2022-06-24T00:00:00Z,2022-06-27T11:50:10Z,[],[59],['hack']
 ip,43.138.27.54,2022-06-02T00:00:00Z,2022-06-09T00:00:00Z,[],[12],['hack']
 ip,43.138.74.54,2022-05-11T00:00:00Z,2022-05-18T18:12:26Z,[],"[20, 11, 20]","['scan', 'hack', 'malware']"
 ip,43.228.158.70,2022-05-27T00:00:00Z,2022-06-03T00:00:00Z,[],[12],['hack']
