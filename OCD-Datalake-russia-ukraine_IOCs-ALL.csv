@@ -989,7 +989,7 @@ domain,reftist.ru,2022-01-04T14:23:51Z,2022-05-27T08:25:06Z,"['Threat Actor:Gama
 domain,regionem.online,2021-01-26T15:57:42Z,2022-02-25T16:11:30Z,['Threat Actor:Gamaredon Group - G0047'],"[17, 19]","['phishing', 'malware']"
 domain,reinvardtii.xyz,2020-08-29T19:48:28Z,2022-03-30T16:11:30Z,[],"[3, 2, 1]","['ddos', 'malware', 'phishing']"
 domain,rekishino.ru,2021-10-06T10:10:05Z,2022-05-13T08:25:06Z,"['Threat Actor:Gamaredon Group - G0047', 'Malware:Pteranodon - S0147']","[20, 1, 8]","['malware', 'phishing', 'hack']"
-domain,retarus.ru,2022-01-22T07:38:11Z,2022-06-26T18:59:24Z,['Threat Actor:Gamaredon Group - G0047'],"[15, 13]","['malware', 'phishing']"
+domain,retarus.ru,2022-01-22T07:38:11Z,2022-06-29T17:07:05Z,['Threat Actor:Gamaredon Group - G0047'],"[15, 13]","['malware', 'phishing']"
 domain,reteredelete.top,2021-09-14T03:42:42Z,2022-06-21T12:07:18Z,"['Location:Ukraine', 'Malware:IcedID - S0483', 'Attack Pattern:Phishing - T1566']","[1, 2]","['malware', 'phishing']"
 domain,reticulatus.xyz,2021-01-26T15:58:04Z,2022-02-25T16:11:30Z,[],"[19, 16]","['malware', 'phishing']"
 domain,rhinoderma.xyz,2021-01-24T16:38:52Z,2022-03-30T16:11:30Z,"['Location:Ukraine', 'Threat Actor:Gamaredon Group - G0047']","[3, 1, 1]","['hack', 'malware', 'phishing']"
@@ -2107,7 +2107,7 @@ ip,103.153.78.53,2022-05-17T04:57:32Z,2022-06-12T19:52:29Z,['Location:Ukraine'],
 ip,103.155.222.131,2021-06-09T00:00:00Z,2021-06-25T00:00:00Z,['Location:Ukraine'],[2],['hack']
 ip,103.155.222.75,2021-08-18T00:00:00Z,2021-09-10T09:44:44Z,['Location:Ukraine'],"[2, 1, 1]","['hack', 'malware', 'scan']"
 ip,103.162.63.30,2022-06-26T00:00:00Z,2022-06-29T12:00:00Z,['Location:Ukraine'],[58],['hack']
-ip,103.167.92.57,2021-11-21T15:33:06Z,2022-06-29T06:51:45Z,"['Attack Pattern:Command and Scripting Interpreter - T1059', 'Attack Pattern:Query Registry - T1012', 'Attack Pattern:Modify Registry - T1112', 'Attack Pattern:System Owner/User Discovery - T1033', 'Attack Pattern:Obfuscated Files or Information - T1027', 'Attack Pattern:Indicator Removal from Tools - T1027.005', 'Attack Pattern:Deobfuscate/Decode Files or Information - T1140', 'Attack Pattern:Shared Modules - T1129', 'Malware:Formbook', 'Malware:Xloader', 'Attack Pattern:Account Discovery - T1087', 'Attack Pattern:File and Directory Discovery - T1083', 'Attack Pattern:Application Window Discovery - T1010', 'Malware:MoqHao']","[0, 7, 2, 1]","['hack', 'malware', 'phishing', 'scan']"
+ip,103.167.92.57,2021-11-21T15:33:06Z,2022-06-29T20:26:48Z,"['Attack Pattern:Command and Scripting Interpreter - T1059', 'Attack Pattern:Query Registry - T1012', 'Attack Pattern:Modify Registry - T1112', 'Attack Pattern:System Owner/User Discovery - T1033', 'Attack Pattern:Obfuscated Files or Information - T1027', 'Attack Pattern:Indicator Removal from Tools - T1027.005', 'Attack Pattern:Deobfuscate/Decode Files or Information - T1140', 'Attack Pattern:Shared Modules - T1129', 'Malware:Formbook', 'Malware:Xloader', 'Attack Pattern:Account Discovery - T1087', 'Attack Pattern:File and Directory Discovery - T1083', 'Attack Pattern:Application Window Discovery - T1010', 'Malware:MoqHao']","[0, 11, 2, 1]","['hack', 'malware', 'phishing', 'scan']"
 ip,103.168.182.123,2022-06-19T00:00:00Z,2022-06-26T18:38:37Z,['Location:Ukraine'],"[20, 11, 20]","['scan', 'hack', 'malware']"
 ip,103.169.215.116,2022-06-25T00:00:00Z,2022-06-29T00:00:00Z,['Location:Ukraine'],[40],['hack']
 ip,103.17.198.111,2020-01-03T00:00:00Z,2020-01-19T00:00:00Z,['Location:Ukraine'],[2],['hack']
