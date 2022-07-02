@@ -968,7 +968,7 @@ domain,project2.top,2022-04-19T09:19:51Z,2022-05-06T09:19:51Z,[],[18],['malware'
 domain,project3.top,2018-01-30T22:03:27Z,2022-05-31T09:19:51Z,[],"[2, 0]","['malware', 'phishing']"
 domain,proteug.ru,2021-04-17T11:02:28Z,2022-03-30T16:11:30Z,"['Malware:Pteranodon - S0147', 'Threat Actor:Gamaredon Group - G0047']","[1, 1]","['malware', 'phishing']"
 domain,proteusa.ru,2021-04-08T14:20:02Z,2022-03-30T16:11:30Z,"['Malware:Pteranodon - S0147', 'Threat Actor:Gamaredon Group - G0047']","[1, 1]","['malware', 'phishing']"
-domain,protimas.ru,2021-12-27T15:49:45Z,2022-06-12T08:25:06Z,"['Malware:Pteranodon - S0147', 'Threat Actor:Gamaredon Group - G0047']","[1, 0, 1]","['hack', 'malware', 'phishing']"
+domain,protimas.ru,2021-12-27T15:49:45Z,2022-07-02T08:15:49Z,"['Malware:Pteranodon - S0147', 'Threat Actor:Gamaredon Group - G0047']","[0, 5, 13]","['hack', 'malware', 'phishing']"
 domain,pseudon.ru,2016-06-06T08:16:26Z,2022-03-30T16:11:30Z,"['Malware:Pteranodon - S0147', 'Threat Actor:Gamaredon Group - G0047']","[1, 1]","['malware', 'phishing']"
 domain,pugnax.xyz,2020-12-10T22:30:14Z,2022-03-30T16:11:30Z,[],"[3, 2, 1]","['ddos', 'malware', 'phishing']"
 domain,puppis.online,2019-07-16T13:25:04Z,2022-06-08T21:31:10Z,['Threat Actor:Gamaredon Group - G0047'],"[0, 0, 0, 0, 17, 0, 17, 0, 0]","['hack', 'spam', 'scan', 'ddos', 'malware', 'leak', 'phishing', 'fraud', 'scam']"
