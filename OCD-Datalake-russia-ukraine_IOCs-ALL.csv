@@ -2878,7 +2878,7 @@ ip,150.129.164.143,2021-05-13T00:00:00Z,2021-05-29T00:00:00Z,['Location:Ukraine'
 ip,150.129.167.220,2022-06-29T00:00:00Z,2022-07-04T00:00:00Z,['Location:Ukraine'],[24],['hack']
 ip,151.229.238.54,2022-02-25T08:03:54Z,2022-03-17T23:01:20Z,['Location:Ukraine'],"[2, 2, 0]","['hack', 'malware', 'phishing']"
 ip,151.233.18.126,2022-06-28T00:00:00Z,2022-07-03T00:00:00Z,['Location:Ukraine'],[24],['hack']
-ip,151.236.25.106,2022-04-17T00:00:00Z,2022-06-16T18:41:56Z,['Location:Ukraine'],"[2, 0, 0, 18]","['hack', 'phishing', 'malware', 'spam']"
+ip,151.236.25.106,2022-04-17T00:00:00Z,2022-07-04T04:08:14Z,"['Location:Ukraine', 'Malware:njRAT - S0385']","[2, 42, 0, 1]","['hack', 'malware', 'phishing', 'spam']"
 ip,151.248.114.88,2020-06-04T08:49:51Z,2022-03-11T16:11:30Z,"['Malware:Pteranodon - S0147', 'Threat Actor:Gamaredon Group - G0047']","[0, 1, 1, 1, 0]","['hack', 'malware', 'phishing', 'scan', 'spam']"
 ip,151.248.116.243,2021-10-28T07:12:58Z,2022-03-11T16:11:30Z,"['Malware:Pteranodon - S0147', 'Threat Actor:Gamaredon Group - G0047']","[1, 1, 1, 1]","['hack', 'malware', 'phishing', 'scan']"
 ip,151.248.117.250,2022-01-04T17:50:54Z,2022-03-11T16:11:30Z,"['Malware:Pteranodon - S0147', 'Threat Actor:Gamaredon Group - G0047']","[1, 1, 1, 1]","['hack', 'malware', 'phishing', 'scan']"
