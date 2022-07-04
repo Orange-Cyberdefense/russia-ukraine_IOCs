@@ -891,7 +891,7 @@ domain,obstetricans.xyz,2021-01-24T16:05:46Z,2022-03-30T16:11:30Z,"['Location:Uk
 domain,occidentale.xyz,2020-10-23T06:16:41Z,2022-03-30T16:11:30Z,"['Location:Ukraine', 'Threat Actor:Gamaredon Group - G0047']","[3, 1, 1]","['hack', 'malware', 'phishing']"
 domain,oceriesfornot.top,2021-11-25T00:00:00Z,2022-06-16T11:00:04Z,"['Attack Pattern:Phishing - T1566', 'Tool:PsExec - S0029', 'Location:Ukraine', 'Malware:IcedID - S0483', 'Tool:Cobalt Strike - S0154', 'Malware:Mount Locker', 'Malware:PsExec']","[0, 0, 18, 0, 8, 1, 0, 0, 0]","['ddos', 'fraud', 'hack', 'leak', 'malware', 'phishing', 'scam', 'scan', 'spam']"
 domain,oderas.ru,2021-05-01T05:52:04Z,2022-03-30T16:11:30Z,"['Threat Actor:Gamaredon Group - G0047', 'Malware:Pteranodon - S0147']","[1, 1]","['malware', 'phishing']"
-domain,office360-expert.online,2021-01-15T12:17:58Z,2022-07-03T14:44:12Z,"['Threat Actor:Gamaredon Group - G0047', 'Malware:Pteranodon - S0147']","[5, 5, 6, 5, 8, 3, 5, 5, 5]","['ddos', 'fraud', 'hack', 'leak', 'malware', 'phishing', 'scam', 'scan', 'spam']"
+domain,office360-expert.online,2021-01-15T12:17:58Z,2022-07-03T14:44:12Z,"['Threat Actor:Gamaredon Group - G0047', 'Malware:Pteranodon - S0147']","[6, 6, 7, 6, 8, 4, 6, 6, 6]","['ddos', 'fraud', 'hack', 'leak', 'malware', 'phishing', 'scam', 'scan', 'spam']"
 domain,oidium.ru,2017-02-15T09:33:11Z,2022-04-26T03:50:45Z,"['Threat Actor:Gamaredon Group - G0047', 'Malware:Pteranodon - S0147']","[1, 1]","['malware', 'phishing']"
 domain,ojosnegroshacienda.com,2021-09-16T00:00:00Z,2022-04-02T08:50:26Z,"['Malware:Formbook', 'Malware:Xloader', 'Attack Pattern:Phishing - T1566']","[0, 2, 1, 0, 1, 1, 13, 1, 0]","['spam', 'phishing', 'scan', 'scam', 'ddos', 'leak', 'malware', 'hack', 'fraud']"
 domain,oleifera.xyz,2017-06-02T21:44:23Z,2022-03-30T16:11:30Z,"['Location:Ukraine', 'Threat Actor:Gamaredon Group - G0047']","[0, 0, 3, 0, 1, 1, 0, 0, 0]","['ddos', 'fraud', 'hack', 'leak', 'malware', 'phishing', 'scam', 'scan', 'spam']"
@@ -5638,7 +5638,7 @@ ip,88.230.135.135,2020-09-03T00:00:00Z,2020-09-19T00:00:00Z,['Location:Ukraine']
 ip,88.230.60.176,2022-06-28T00:00:00Z,2022-07-03T00:00:00Z,['Location:Ukraine'],[24],['hack']
 ip,88.231.161.244,2020-03-06T00:00:00Z,2020-03-22T00:00:00Z,['Location:Ukraine'],[2],['hack']
 ip,88.234.222.150,2022-06-25T00:00:00Z,2022-07-02T00:00:00Z,['Location:Ukraine'],[12],['hack']
-ip,88.234.64.122,2022-06-28T00:00:00Z,2022-07-03T14:30:16Z,['Location:Ukraine'],[36],['hack']
+ip,88.234.64.122,2022-06-28T00:00:00Z,2022-07-04T14:30:16Z,['Location:Ukraine'],[22],['hack']
 ip,88.235.247.167,2022-06-25T00:00:00Z,2022-07-02T00:00:00Z,['Location:Ukraine'],[12],['hack']
 ip,88.236.161.176,2022-03-19T00:00:00Z,2022-03-26T00:00:00Z,['Location:Ukraine'],[12],['hack']
 ip,88.241.192.17,2022-06-27T00:00:00Z,2022-07-04T00:00:00Z,['Location:Ukraine'],[12],['hack']
