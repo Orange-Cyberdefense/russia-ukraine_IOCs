@@ -4255,7 +4255,7 @@ ip,194.180.174.46,2021-11-11T14:35:43Z,2022-03-18T13:18:50Z,"['Malware:PowerPunc
 ip,194.237.233.2,2022-06-03T00:00:00Z,2022-06-10T00:00:00Z,['Location:Ukraine'],[12],['hack']
 ip,194.28.102.45,2022-06-26T00:00:00Z,2022-07-03T00:00:00Z,['Location:Ukraine'],[12],['hack']
 ip,194.31.98.12,2022-02-26T19:33:06Z,2022-06-29T18:28:00Z,['Location:Ukraine'],"[15, 14, 18, 14]","['scan', 'spam', 'malware', 'hack']"
-ip,194.31.98.124,2022-01-05T00:00:00Z,2022-06-26T04:30:35Z,"['Location:Turkey', 'Threat Actor:SaintBear', 'Attack Pattern:Brute Force - T1110', 'OCD - Threat pattern:Command and Control [C2]', 'Location:Ukraine', 'Tool:Cobalt Strike - S0154', 'Attack Pattern:Phishing - T1566']","[1, 0, 5, 7, 0, 8, 1]","['ddos', 'fraud', 'hack', 'malware', 'phishing', 'scan', 'spam']"
+ip,194.31.98.124,2022-01-05T00:00:00Z,2022-07-12T16:26:59Z,"['Location:Turkey', 'Threat Actor:SaintBear', 'Attack Pattern:Brute Force - T1110', 'OCD - Threat pattern:Command and Control [C2]', 'Location:Ukraine', 'Tool:Cobalt Strike - S0154', 'Attack Pattern:Phishing - T1566']","[1, 0, 0, 7, 10, 0, 1]","['ddos', 'fraud', 'hack', 'malware', 'phishing', 'scan', 'spam']"
 ip,194.31.98.157,2022-05-01T00:00:00Z,2022-06-05T06:10:24Z,['Location:Ukraine'],"[2, 1, 0, 2]","['hack', 'malware', 'phishing', 'scan']"
 ip,194.31.98.163,2022-02-28T00:00:00Z,2022-03-08T23:57:42Z,['Location:Ukraine'],"[18, 20, 20, 13]","['spam', 'malware', 'scan', 'hack']"
 ip,194.33.40.81,2022-02-23T00:00:00Z,2022-03-07T20:34:28Z,['Location:Ukraine'],"[12, 9, 4]","['hack', 'malware', 'phishing']"
