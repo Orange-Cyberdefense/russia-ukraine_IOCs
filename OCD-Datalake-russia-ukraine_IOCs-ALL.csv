@@ -4572,7 +4572,7 @@ ip,20.119.56.238,2022-07-14T00:00:00Z,2022-07-18T06:15:06Z,['Location:Ukraine'],
 ip,20.124.134.110,2022-03-19T00:00:00Z,2022-03-29T08:06:44Z,['Location:Ukraine'],"[20, 8, 11, 19]","['scan', 'phishing', 'hack', 'malware']"
 ip,20.127.48.179,2022-03-11T00:00:00Z,2022-05-02T19:56:26Z,['Location:Ukraine'],"[10, 0, 3, 2, 18, 1]","['phishing', 'fraud', 'hack', 'scan', 'malware', 'ddos']"
 ip,20.127.97.209,2022-06-28T00:00:00Z,2022-07-05T00:00:00Z,['Location:Ukraine'],[12],['hack']
-ip,20.187.107.140,2022-06-29T18:16:14Z,2022-07-15T12:56:46Z,['Location:Ukraine'],"[38, 40, 40]","['hack', 'malware', 'scan']"
+ip,20.187.107.140,2022-06-29T18:16:14Z,2022-07-18T12:56:46Z,['Location:Ukraine'],"[34, 36, 36]","['hack', 'scan', 'malware']"
 ip,20.187.83.212,2022-03-04T00:00:00Z,2022-03-11T00:00:00Z,['Location:Ukraine'],[12],['hack']
 ip,20.187.96.30,2022-06-20T00:00:00Z,2022-07-13T06:09:56Z,['Location:Ukraine'],"[9, 14, 14, 16]","['ddos', 'hack', 'malware', 'scan']"
 ip,20.211.121.231,2022-06-10T00:00:00Z,2022-06-17T00:00:00Z,['Location:Ukraine'],[12],['hack']
@@ -6623,7 +6623,7 @@ ip,80.216.78.155,2022-02-26T00:00:00Z,2022-03-05T17:57:46Z,['Location:Ukraine'],
 ip,80.248.243.202,2019-08-22T00:00:00Z,2022-06-10T10:25:12Z,['Location:Ukraine'],"[0, 1, 1, 15, 3, 0]","['spam', 'phishing', 'scan', 'hack', 'malware', 'fraud']"
 ip,80.255.7.105,2020-03-13T05:48:02Z,2022-03-07T23:57:46Z,['Location:Ukraine'],[11],['hack']
 ip,80.66.79.105,2022-06-11T00:00:00Z,2022-06-18T00:00:00Z,['Location:Ukraine'],[12],['hack']
-ip,80.66.88.134,2021-12-06T00:00:00Z,2022-07-17T12:55:38Z,['Location:Ukraine'],"[15, 16, 36]","['hack', 'scan', 'malware']"
+ip,80.66.88.134,2021-12-06T00:00:00Z,2022-07-18T12:55:38Z,['Location:Ukraine'],"[16, 29, 15]","['scan', 'malware', 'hack']"
 ip,80.76.238.235,2022-03-31T00:00:00Z,2022-04-16T00:00:00Z,['Location:Ukraine'],[2],['hack']
 ip,80.78.240.210,2021-05-26T13:54:45Z,2022-02-20T04:11:30Z,"['Threat Actor:Gamaredon Group - G0047', 'Malware:Pteranodon - S0147']","[19, 18, 2, 3]","['malware', 'phishing', 'hack', 'scan']"
 ip,80.78.241.253,2021-11-19T11:52:56Z,2022-03-18T13:18:50Z,"['Threat Actor:Gamaredon Group - G0047', 'Attack Pattern:PowerShell - T1086', 'Malware:August Stealer', 'Malware:PowerPunch - S0685', 'Malware:Pteranodon - S0147', 'Malware:WhisperGate', 'Malware:WildFire', 'Malware:WhisperGate - S0689', 'Location:Ukraine', 'Malware:QuietSieve - S0686']","[1, 1, 1, 1]","['hack', 'malware', 'phishing', 'scan']"
