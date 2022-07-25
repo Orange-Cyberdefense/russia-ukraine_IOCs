@@ -452,7 +452,7 @@ domain,gavialis.xyz,2020-09-02T19:30:22Z,2022-03-30T16:11:30Z,['Threat Actor:Gam
 domain,gelsemium.xyz,2020-08-09T01:11:04Z,2022-03-30T16:11:30Z,['Threat Actor:Gamaredon Group - G0047'],"[2, 1]","['malware', 'phishing']"
 domain,genkai.ru,2022-02-03T23:45:50Z,2022-06-21T08:25:06Z,"['Threat Actor:Gamaredon Group - G0047', 'Malware:Pteranodon - S0147']","[0, 1, 1]","['hack', 'malware', 'phishing']"
 domain,geophagusi.xyz,2020-09-02T19:30:22Z,2022-03-30T16:11:30Z,['Threat Actor:Gamaredon Group - G0047'],"[2, 1]","['malware', 'phishing']"
-domain,gholam.ru,2021-07-14T00:00:00Z,2022-07-18T16:10:52Z,"['Threat Actor:Gamaredon Group - G0047', 'Malware:Pteranodon - S0147']","[0, 6, 0]","['hack', 'malware', 'phishing']"
+domain,gholam.ru,2021-07-14T00:00:00Z,2022-07-25T01:51:43Z,"['Threat Actor:Gamaredon Group - G0047', 'Malware:Pteranodon - S0147']","[0, 9, 13]","['hack', 'malware', 'phishing']"
 domain,gibarto.ru,2022-01-28T10:15:21Z,2022-06-21T08:25:06Z,"['Threat Actor:Gamaredon Group - G0047', 'Malware:Pteranodon - S0147']","[0, 0, 1]","['hack', 'malware', 'phishing']"
 domain,gibelio.xyz,2020-09-02T19:30:19Z,2022-03-30T16:11:30Z,['Threat Actor:Gamaredon Group - G0047'],"[2, 1]","['malware', 'phishing']"
 domain,giboltar.ru,2022-02-16T10:42:59Z,2022-04-04T15:50:09Z,['Threat Actor:Gamaredon Group - G0047'],"[3, 2, 0]","['ddos', 'malware', 'phishing']"
@@ -5137,7 +5137,7 @@ ip,211.141.183.157,2022-06-30T00:00:00Z,2022-07-07T00:00:00Z,['Location:Ukraine'
 ip,211.185.34.201,2021-10-09T00:00:00Z,2021-10-25T00:00:00Z,['Location:Ukraine'],[2],['hack']
 ip,211.193.158.41,2022-07-12T00:00:00Z,2022-07-19T00:00:00Z,['Location:Ukraine'],[12],['hack']
 ip,211.36.150.161,2018-07-26T00:00:00Z,2021-07-06T07:48:03Z,['Location:Ukraine'],[2],['hack']
-ip,211.93.143.245,2022-05-26T00:00:00Z,2022-07-22T13:27:49Z,['Location:Ukraine'],"[2, 30]","['hack', 'scan']"
+ip,211.93.143.245,2022-05-26T00:00:00Z,2022-07-25T13:27:49Z,['Location:Ukraine'],"[27, 2]","['scan', 'hack']"
 ip,212.0.144.78,2021-01-16T19:46:10Z,2021-11-29T16:54:21Z,['Location:Ukraine'],"[1, 1, 1, 1]","['ddos', 'hack', 'malware', 'scan']"
 ip,212.102.47.48,2021-02-13T02:01:36Z,2021-05-07T00:00:00Z,['Location:Ukraine'],"[2, 0, 0, 1]","['hack', 'malware', 'phishing', 'scan']"
 ip,212.188.11.146,2017-10-02T00:00:00Z,2022-06-26T03:15:41Z,['Location:Ukraine'],"[15, 0, 0, 15, 16, 13]","['ddos', 'phishing', 'spam', 'hack', 'malware', 'scan']"
