@@ -2465,7 +2465,7 @@ ip,109.201.38.9,2020-10-03T00:00:00Z,2022-03-15T00:10:30Z,['Location:Ukraine'],"
 ip,109.201.39.104,2020-12-03T00:00:00Z,2020-12-19T00:00:00Z,['Location:Ukraine'],[2],['hack']
 ip,109.201.39.168,2022-06-30T00:00:00Z,2022-07-07T00:00:00Z,['Location:Ukraine'],[12],['hack']
 ip,109.201.55.143,2020-03-15T00:00:00Z,2020-03-31T00:00:00Z,['Location:Ukraine'],[2],['hack']
-ip,109.206.241.160,2022-07-23T00:00:00Z,2022-08-13T18:15:00Z,['Location:Ukraine'],"[15, 16, 5]","['hack', 'scan', 'spam']"
+ip,109.206.241.160,2022-07-23T00:00:00Z,2022-08-13T18:45:00Z,['Location:Ukraine'],"[15, 16, 5]","['hack', 'scan', 'spam']"
 ip,109.207.117.14,2022-05-29T00:00:00Z,2022-06-05T00:00:00Z,['Location:Ukraine'],[12],['hack']
 ip,109.207.117.46,2022-06-25T00:00:00Z,2022-07-02T14:24:50Z,['Location:Ukraine'],[11],['hack']
 ip,109.207.120.18,2022-04-23T00:00:00Z,2022-04-30T00:00:00Z,['Location:Ukraine'],[12],['hack']
@@ -3932,7 +3932,7 @@ ip,161.35.60.104,2020-07-06T05:30:52Z,2022-03-05T23:57:46Z,['Location:Ukraine'],
 ip,162.210.148.51,2022-07-14T00:00:00Z,2022-07-21T00:00:00Z,['Location:Ukraine'],[12],['hack']
 ip,162.216.215.41,2021-02-24T00:00:00Z,2021-03-12T00:00:00Z,['Location:Ukraine'],[2],['hack']
 ip,162.244.218.72,2022-05-08T00:00:00Z,2022-05-24T00:00:00Z,['Location:Ukraine'],[2],['hack']
-ip,163.123.143.186,2022-07-20T00:00:00Z,2022-08-13T18:15:00Z,['Location:Ukraine'],"[63, 40, 61]","['hack', 'malware', 'scan']"
+ip,163.123.143.186,2022-07-20T00:00:00Z,2022-08-13T18:45:00Z,['Location:Ukraine'],"[63, 40, 61]","['hack', 'malware', 'scan']"
 ip,163.172.108.235,2022-03-01T00:00:00Z,2022-03-07T22:48:11Z,['Location:Ukraine'],[20],['hack']
 ip,163.172.115.108,2021-08-05T00:00:00Z,2022-05-10T05:01:33Z,['Location:Ukraine'],"[2, 14, 0]","['scan', 'hack', 'spam']"
 ip,163.172.117.103,2022-07-26T00:00:00Z,2022-08-07T00:13:48Z,['Location:Ukraine'],"[20, 14, 20]","['malware', 'hack', 'scan']"
@@ -3988,7 +3988,7 @@ ip,171.12.48.73,2019-01-10T00:00:00Z,2022-06-30T04:54:56Z,['Location:Ukraine'],"
 ip,171.12.49.101,2022-07-29T00:00:00Z,2022-08-05T00:00:00Z,['Location:Ukraine'],[12],['hack']
 ip,171.210.138.9,2022-07-04T00:00:00Z,2022-07-11T00:00:00Z,['Location:Ukraine'],[12],['hack']
 ip,171.216.85.54,2022-07-06T00:00:00Z,2022-07-13T00:00:00Z,['Location:Ukraine'],[12],['hack']
-ip,171.22.30.55,2022-07-27T00:00:00Z,2022-08-13T18:15:00Z,"['Location:Ukraine', 'Malware:vidar']","[19, 20, 1, 31, 4]","['hack', 'malware', 'phishing', 'scan', 'spam']"
+ip,171.22.30.55,2022-07-27T00:00:00Z,2022-08-13T19:00:00Z,"['Location:Ukraine', 'Malware:vidar']","[19, 20, 1, 31, 4]","['hack', 'malware', 'phishing', 'scan', 'spam']"
 ip,171.22.76.50,2021-08-21T19:16:37Z,2022-03-13T00:07:46Z,['Location:Ukraine'],"[14, 17, 1, 14, 1]","['malware', 'scan', 'ddos', 'hack', 'spam']"
 ip,171.223.81.53,2022-07-11T00:00:00Z,2022-07-18T00:00:00Z,['Location:Ukraine'],[12],['hack']
 ip,171.224.179.130,2019-07-30T00:00:00Z,2022-02-23T03:22:45Z,['Location:Ukraine'],"[2, 1, 1]","['hack', 'malware', 'scan']"
@@ -4234,7 +4234,7 @@ ip,178.189.147.174,2022-07-17T00:00:00Z,2022-07-28T09:12:01Z,['Location:Ukraine'
 ip,178.20.44.214,2021-09-29T07:33:50Z,2022-03-11T16:11:30Z,"['Malware:Pteranodon - S0147', 'Threat Actor:Gamaredon Group - G0047']","[1, 1, 1, 1]","['hack', 'malware', 'phishing', 'scan']"
 ip,178.21.11.23,2021-10-25T05:55:10Z,2022-02-23T16:11:30Z,"['Malware:Pteranodon - S0147', 'Threat Actor:Gamaredon Group - G0047']","[1, 14, 5, 1]","['hack', 'malware', 'phishing', 'scan']"
 ip,178.212.97.190,2020-03-11T00:00:00Z,2020-03-27T00:00:00Z,['Location:Ukraine'],[2],['hack']
-ip,178.213.105.174,2022-04-21T00:00:00Z,2022-08-12T02:18:59Z,['Location:Ukraine'],"[30, 15, 18, 23]","['ddos', 'hack', 'malware', 'scan']"
+ip,178.213.105.174,2022-04-21T00:00:00Z,2022-08-13T19:05:44Z,['Location:Ukraine'],"[15, 17, 23, 27]","['hack', 'malware', 'scan', 'ddos']"
 ip,178.213.105.50,2022-03-09T00:00:00Z,2022-03-16T00:00:00Z,['Location:Ukraine'],[12],['hack']
 ip,178.213.33.73,2018-07-22T00:00:00Z,2022-03-23T15:49:33Z,['Location:Ukraine'],"[19, 0]","['hack', 'spam']"
 ip,178.214.162.190,2019-03-30T00:00:00Z,2019-04-15T00:00:00Z,['Location:Ukraine'],[2],['hack']
@@ -4613,7 +4613,7 @@ ip,184.22.74.80,2020-02-17T00:00:00Z,2020-03-04T00:00:00Z,['Location:Ukraine'],[
 ip,184.72.112.129,2022-03-17T00:00:00Z,2022-03-24T00:00:00Z,['Location:Ukraine'],[12],['hack']
 ip,184.72.200.22,2022-03-09T00:00:00Z,2022-03-16T00:00:00Z,['Location:Ukraine'],[12],['hack']
 ip,184.73.111.100,2022-02-26T00:00:00Z,2022-03-07T23:57:45Z,['Location:Ukraine'],[12],['hack']
-ip,184.75.221.171,2016-05-06T17:48:59Z,2022-08-12T01:30:00Z,"['Location:United States of America', 'OCD - Threat pattern:Anonymization services', 'Tool:Remcos - S0332', 'Location:Germany', 'Location:Hungary', 'Location:France', 'Malware:Remcos', 'Location:Ukraine', 'Malware:NETWIRE - S0198', 'Location:Canada']","[1, 0, 18, 0, 12, 0, 0]","['ddos', 'fraud', 'hack', 'leak', 'malware', 'phishing', 'scan']"
+ip,184.75.221.171,2016-05-06T17:48:59Z,2022-08-13T18:30:00Z,"['Location:United States of America', 'OCD - Threat pattern:Anonymization services', 'Tool:Remcos - S0332', 'Location:Germany', 'Location:Hungary', 'Location:France', 'Malware:Remcos', 'Location:Ukraine', 'Malware:NETWIRE - S0198', 'Location:Canada']","[1, 0, 17, 0, 12, 0, 0]","['ddos', 'fraud', 'hack', 'leak', 'malware', 'phishing', 'scan']"
 ip,184.75.221.3,2018-11-30T00:00:00Z,2022-08-12T12:25:49Z,['Location:Ukraine'],"[0, 54, 0, 0, 2]","['fraud', 'hack', 'malware', 'phishing', 'scan']"
 ip,184.94.180.62,2022-07-20T00:00:00Z,2022-07-27T00:00:00Z,['Location:Ukraine'],[12],['hack']
 ip,185.102.217.160,2021-01-19T10:17:27Z,2022-08-12T02:18:26Z,"['Location:United States of America', 'Location:Denmark', 'Location:Russian Federation', 'Location:Republic of Korea', 'Location:Netherlands', 'Location:Kyrgyzstan', 'Location:France', 'Location:Ukraine', 'Location:Ireland', 'Location:United Kingdom of Great Britain and Northern Ireland', 'Location:Canada']","[1, 0, 36, 9, 53]","['ddos', 'fraud', 'hack', 'malware', 'scan']"
@@ -4692,7 +4692,7 @@ ip,185.217.68.135,2020-02-08T00:00:00Z,2022-03-17T23:57:44Z,['Location:Ukraine']
 ip,185.219.77.177,2020-01-25T00:00:00Z,2020-02-10T00:00:00Z,['Location:Ukraine'],[2],['hack']
 ip,185.221.132.222,2022-03-27T21:34:46Z,2022-08-11T02:37:30Z,['Location:Ukraine'],"[21, 19, 0, 20]","['hack', 'malware', 'phishing', 'scan']"
 ip,185.224.132.24,2020-01-25T00:00:00Z,2022-03-10T07:08:00Z,"['OCD - Threat pattern:Command and Control [C2]', 'Location:Ukraine']","[1, 0, 2, 1, 1, 0, 0, 1]","['ddos', 'fraud', 'hack', 'malware', 'phishing', 'scam', 'scan', 'spam']"
-ip,185.225.73.203,2022-07-18T00:00:00Z,2022-08-13T16:45:00Z,['Location:Ukraine'],"[1, 52, 38, 0, 48, 27]","['ddos', 'hack', 'malware', 'phishing', 'scan', 'spam']"
+ip,185.225.73.203,2022-07-18T00:00:00Z,2022-08-13T18:15:00Z,['Location:Ukraine'],"[1, 52, 38, 0, 48, 27]","['ddos', 'hack', 'malware', 'phishing', 'scan', 'spam']"
 ip,185.226.144.76,2022-04-23T00:00:00Z,2022-04-30T00:00:00Z,['Location:Ukraine'],[12],['hack']
 ip,185.232.52.57,2021-06-19T22:08:26Z,2022-03-04T17:57:44Z,['Location:Ukraine'],"[11, 1, 12, 11, 1]","['malware', 'scan', 'phishing', 'hack', 'ddos']"
 ip,185.232.52.58,2022-02-04T07:53:36Z,2022-03-04T17:57:44Z,['Location:Ukraine'],[13],['hack']
@@ -6146,7 +6146,7 @@ ip,31.135.176.38,2022-07-10T00:00:00Z,2022-07-17T00:00:00Z,['Location:Ukraine'],
 ip,31.135.98.122,2022-07-03T00:00:00Z,2022-07-10T00:00:00Z,['Location:Ukraine'],[12],['hack']
 ip,31.14.131.230,2022-07-27T00:00:00Z,2022-08-03T00:00:00Z,['Location:Ukraine'],[12],['hack']
 ip,31.14.75.17,2022-06-15T00:00:00Z,2022-07-06T02:00:47Z,['Location:Ukraine'],"[20, 20, 16]","['malware', 'scan', 'hack']"
-ip,31.148.137.194,2021-11-10T08:27:25Z,2022-08-13T14:01:28Z,['Location:Ukraine'],"[17, 22, 19, 20]","['hack', 'ddos', 'scan', 'malware']"
+ip,31.148.137.194,2021-11-10T08:27:25Z,2022-08-13T19:01:00Z,['Location:Ukraine'],"[17, 20, 19, 15]","['hack', 'malware', 'scan', 'ddos']"
 ip,31.148.149.254,2021-03-04T00:00:00Z,2022-04-18T01:55:03Z,['Location:Ukraine'],"[2, 1, 1]","['hack', 'malware', 'scan']"
 ip,31.15.212.212,2021-06-12T00:00:00Z,2021-10-26T04:13:58Z,['Location:Ukraine'],"[2, 1]","['hack', 'scan']"
 ip,31.155.183.140,2021-02-22T11:44:56Z,2022-07-10T00:00:00Z,['Location:Ukraine'],"[12, 1]","['hack', 'spam']"
@@ -6693,7 +6693,7 @@ ip,42.3.205.172,2022-07-25T00:00:00Z,2022-08-01T00:00:00Z,['Location:Ukraine'],[
 ip,42.77.110.109,2022-07-07T00:00:00Z,2022-07-14T00:00:00Z,['Location:Ukraine'],[12],['hack']
 ip,42.80.35.73,2022-07-19T00:00:00Z,2022-07-26T00:00:00Z,['Location:Ukraine'],[12],['hack']
 ip,42.86.166.45,2022-07-07T00:00:00Z,2022-07-14T00:00:00Z,['Location:Ukraine'],[12],['hack']
-ip,42.98.11.112,2022-07-09T00:00:00Z,2022-08-11T02:34:16Z,['Location:Ukraine'],"[30, 2, 30]","['ddos', 'hack', 'scan']"
+ip,42.98.11.112,2022-07-09T00:00:00Z,2022-08-13T19:00:22Z,['Location:Ukraine'],"[27, 2, 30]","['ddos', 'hack', 'scan']"
 ip,42.98.228.180,2022-07-30T00:00:00Z,2022-08-06T00:00:00Z,['Location:Ukraine'],[12],['hack']
 ip,42.98.79.42,2022-07-20T00:00:00Z,2022-07-27T00:00:00Z,['Location:Ukraine'],[12],['hack']
 ip,43.132.151.167,2022-07-20T00:00:00Z,2022-08-12T18:46:39Z,['Location:Ukraine'],"[1, 42, 9, 0, 10, 1]","['ddos', 'hack', 'malware', 'phishing', 'scan', 'spam']"
@@ -6953,7 +6953,7 @@ ip,46.217.27.215,2022-07-01T00:00:00Z,2022-07-08T00:00:00Z,['Location:Ukraine'],
 ip,46.239.222.62,2022-04-01T00:00:00Z,2022-04-17T00:00:00Z,['Location:Ukraine'],[2],['hack']
 ip,46.246.98.117,2022-06-24T00:00:00Z,2022-07-01T12:33:31Z,['Location:Ukraine'],[11],['hack']
 ip,46.248.65.15,2022-07-22T00:00:00Z,2022-07-29T00:00:00Z,['Location:Ukraine'],[12],['hack']
-ip,46.249.32.126,2022-07-11T00:00:00Z,2022-08-13T12:10:20Z,['Location:Ukraine'],"[14, 67, 2, 11]","['malware', 'hack', 'phishing', 'scan']"
+ip,46.249.32.126,2022-07-11T00:00:00Z,2022-08-13T18:55:43Z,['Location:Ukraine'],"[14, 54, 2, 11]","['malware', 'hack', 'phishing', 'scan']"
 ip,46.250.74.205,2017-11-01T00:00:00Z,2017-11-17T00:00:00Z,['Location:Ukraine'],[2],['hack']
 ip,46.250.75.160,2020-02-22T00:00:00Z,2020-03-09T00:00:00Z,['Location:Ukraine'],[2],['hack']
 ip,46.252.213.176,2022-06-27T00:00:00Z,2022-07-04T00:00:00Z,['Location:Ukraine'],[12],['hack']
