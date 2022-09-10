@@ -6955,7 +6955,7 @@ ip,46.217.27.215,2022-07-01T00:00:00Z,2022-07-08T00:00:00Z,['Location:Ukraine'],
 ip,46.239.222.62,2022-04-01T00:00:00Z,2022-04-17T00:00:00Z,['Location:Ukraine'],[2],['hack']
 ip,46.246.98.117,2022-06-24T00:00:00Z,2022-07-01T12:33:31Z,['Location:Ukraine'],[11],['hack']
 ip,46.248.65.15,2022-07-22T00:00:00Z,2022-07-29T00:00:00Z,['Location:Ukraine'],[12],['hack']
-ip,46.249.32.126,2020-07-19T20:29:41Z,2022-09-10T00:27:03Z,"['Location:Romania', 'Location:Finland', 'Location:Estonia', 'Location:Netherlands', 'Location:Ukraine', 'Location:Austria', 'Location:Russian Federation', 'Location:France', 'Location:Germany', 'Location:Australia', 'Location:Canada', 'Location:United States of America']","[58, 79, 66, 1, 1, 14]","['scan', 'hack', 'malware', 'ddos', 'spam', 'phishing']"
+ip,46.249.32.126,2020-07-19T20:29:41Z,2022-09-10T00:27:03Z,"['Location:Romania', 'Location:Finland', 'Location:Estonia', 'Location:Netherlands', 'Location:Ukraine', 'Location:Austria', 'Location:Russian Federation', 'Location:France', 'Location:Germany', 'Location:Australia', 'Location:Canada', 'Location:United States of America']","[79, 1, 66, 1, 14, 61]","['hack', 'spam', 'malware', 'ddos', 'phishing', 'scan']"
 ip,46.250.74.205,2017-11-01T00:00:00Z,2017-11-17T00:00:00Z,['Location:Ukraine'],[2],['hack']
 ip,46.250.75.160,2020-02-22T00:00:00Z,2020-03-09T00:00:00Z,['Location:Ukraine'],[2],['hack']
 ip,46.252.213.176,2022-06-27T00:00:00Z,2022-07-04T00:00:00Z,['Location:Ukraine'],[12],['hack']
@@ -8604,8 +8604,8 @@ url,http://a0671524.xsph.ru/bandage/precarious.xml,2022-05-12T18:12:47Z,2022-06-
 url,http://a0671524.xsph.ru/mo/faicon.ico,2022-05-12T18:12:36Z,2022-06-27T12:13:52Z,['Threat Actor:Gamaredon Group - G0047'],"[3, 2]","['malware', 'phishing']"
 url,http://a0695487.xsph.ru/banisters/guess.xml,2022-07-28T07:48:27Z,2022-08-28T00:05:19Z,['Threat Actor:Gamaredon Group - G0047'],"[30, 6]","['malware', 'phishing']"
 url,http://a0695487.xsph.ru/relationship/preservation.xml,2022-07-28T07:48:27Z,2022-08-28T00:05:19Z,['Threat Actor:Gamaredon Group - G0047'],"[6, 30]","['phishing', 'malware']"
-url,http://a0698262.xsph.ru/quickly/neville.xml,2022-07-20T15:12:01Z,2022-08-28T00:05:19Z,['Threat Actor:Gamaredon Group - G0047'],"[20, 2]","['malware', 'phishing']"
-url,http://a0698262.xsph.ru/see/guilty.xml,2022-07-22T18:28:21Z,2022-08-28T00:05:19Z,['Threat Actor:Gamaredon Group - G0047'],"[2, 20]","['phishing', 'malware']"
+url,http://a0698262.xsph.ru/quickly/neville.xml,2022-07-20T15:12:01Z,2022-08-28T00:05:19Z,['Threat Actor:Gamaredon Group - G0047'],"[2, 20]","['phishing', 'malware']"
+url,http://a0698262.xsph.ru/see/guilty.xml,2022-07-22T18:28:21Z,2022-08-28T00:05:19Z,['Threat Actor:Gamaredon Group - G0047'],"[20, 2]","['malware', 'phishing']"
 url,http://a0698649.xsph.ru/reliance/grudge.xml,2022-07-28T07:48:27Z,2022-08-28T00:05:19Z,['Threat Actor:Gamaredon Group - G0047'],"[6, 30]","['phishing', 'malware']"
 url,http://a0698649.xsph.ru/selection/headache.xml,2022-07-25T16:53:27Z,2022-08-28T00:05:19Z,['Threat Actor:Gamaredon Group - G0047'],"[11, 21, 11]","['phishing', 'malware', 'hack']"
 url,http://admis.club/pay2/api.php,2022-04-19T09:19:51Z,2022-05-23T07:50:09Z,[],"[14, 20]","['malware', 'phishing']"
