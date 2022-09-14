@@ -2304,7 +2304,7 @@ ip,103.43.79.23,2019-02-23T00:00:00Z,2020-03-27T05:22:03Z,['Location:Ukraine'],[
 ip,103.47.57.187,2022-06-29T00:00:00Z,2022-07-06T00:00:00Z,['Location:Ukraine'],[12],['hack']
 ip,103.51.57.133,2021-04-29T00:00:00Z,2021-05-15T00:00:00Z,['Location:Ukraine'],[2],['hack']
 ip,103.55.10.66,2021-03-26T00:00:00Z,2021-04-11T00:00:00Z,['Location:Ukraine'],[2],['hack']
-ip,103.57.232.95,2020-01-04T00:00:00Z,2022-09-14T19:38:02Z,['Location:Ukraine'],"[1, 28, 0, 23, 79]","['spam', 'malware', 'phishing', 'scan', 'hack']"
+ip,103.57.232.95,2020-01-04T00:00:00Z,2022-09-14T22:09:48Z,['Location:Ukraine'],"[1, 0, 23, 28, 74]","['spam', 'phishing', 'scan', 'malware', 'hack']"
 ip,103.66.82.240,2020-01-04T00:00:00Z,2021-02-09T11:50:42Z,['Location:Ukraine'],"[2, 1]","['hack', 'spam']"
 ip,103.7.37.209,2019-01-04T00:00:00Z,2021-11-20T12:56:22Z,['Location:Ukraine'],"[0, 0, 2, 0, 0, 0]","['ddos', 'fraud', 'hack', 'malware', 'phishing', 'scan']"
 ip,103.7.37.214,2019-01-15T00:00:00Z,2021-11-20T12:56:20Z,['Location:Ukraine'],"[2, 0, 0, 0]","['hack', 'malware', 'phishing', 'spam']"
@@ -5110,7 +5110,7 @@ ip,193.164.150.111,2021-06-15T08:12:53Z,2022-03-11T16:11:30Z,"['Threat Actor:Gam
 ip,193.164.150.121,2021-06-15T08:16:59Z,2022-03-11T16:11:30Z,"['Threat Actor:Gamaredon Group - G0047', 'Malware:Pteranodon - S0147']","[1, 1, 1, 1]","['hack', 'malware', 'phishing', 'scan']"
 ip,193.169.254.223,2021-04-12T00:00:00Z,2022-06-13T00:06:07Z,"['OCD - Threat pattern:Command and Control [C2]', 'Malware:Mirai', 'Location:Ukraine']","[0, 0, 19, 1, 15, 0, 0, 19]","['scam', 'fraud', 'scan', 'spam', 'hack', 'phishing', 'ddos', 'malware']"
 ip,193.169.255.14,2021-04-12T00:00:00Z,2022-09-12T00:15:00Z,"['OCD - Threat pattern:Command and Control [C2]', 'Tool:ftp - S0095', 'Attack Pattern:Brute Force - T1110', 'Malware:Mirai', 'Location:Ukraine']","[1, 0, 0, 1, 18, 0, 4, 0]","['malware', 'phishing', 'fraud', 'spam', 'scan', 'ddos', 'hack', 'scam']"
-ip,193.169.255.34,2021-04-13T09:58:34Z,2022-09-14T11:28:52Z,"['OCD - Threat pattern:Command and Control [C2]', 'Attack Pattern:Brute Force - T1110', 'Location:Ukraine']","[0, 0, 32, 5, 9, 0, 1, 0]","['ddos', 'phishing', 'hack', 'scan', 'malware', 'fraud', 'spam', 'scam']"
+ip,193.169.255.34,2021-04-13T09:58:34Z,2022-09-14T22:05:16Z,"['OCD - Threat pattern:Command and Control [C2]', 'Attack Pattern:Brute Force - T1110', 'Location:Ukraine']","[0, 0, 0, 32, 5, 0, 1, 10]","['ddos', 'phishing', 'scam', 'hack', 'scan', 'fraud', 'spam', 'malware']"
 ip,193.187.79.78,2022-05-30T00:00:00Z,2022-06-07T13:49:03Z,['Location:Ukraine'],[15],['hack']
 ip,193.187.91.18,2019-03-16T00:00:00Z,2022-09-02T18:54:31Z,['Location:Ukraine'],"[1, 0, 1, 14]","['malware', 'phishing', 'scan', 'hack']"
 ip,193.189.100.130,2021-02-22T00:49:55Z,2022-09-14T10:40:18Z,['Location:Ukraine'],"[22, 0, 1, 40, 7]","['malware', 'phishing', 'ddos', 'hack', 'scan']"
@@ -8257,7 +8257,7 @@ ip,91.225.140.238,2022-02-28T00:00:00Z,2022-03-08T23:57:42Z,['Location:Ukraine']
 ip,91.225.142.34,2022-02-25T00:00:00Z,2022-03-08T23:57:43Z,['Location:Ukraine'],[12],['hack']
 ip,91.225.50.6,2020-03-09T00:00:00Z,2020-03-25T00:00:00Z,['Location:Ukraine'],[2],['hack']
 ip,91.228.208.213,2022-06-09T00:00:00Z,2022-06-25T09:07:03Z,['Location:Ukraine'],"[11, 6, 8, 16]","['hack', 'scan', 'phishing', 'malware']"
-ip,91.231.84.41,2016-06-04T14:09:23Z,2022-09-14T12:15:58Z,"['Malware:Anubis (Android)', 'Location:Ukraine']","[0, 1, 0, 0, 0, 23, 0, 0]","['leak', 'malware', 'fraud', 'phishing', 'ddos', 'hack', 'scan', 'spam']"
+ip,91.231.84.41,2016-06-04T14:09:23Z,2022-09-14T21:45:54Z,"['Malware:Anubis (Android)', 'Location:Ukraine']","[0, 1, 0, 0, 0, 23, 0, 0]","['leak', 'malware', 'fraud', 'phishing', 'ddos', 'hack', 'scan', 'spam']"
 ip,91.232.158.101,2021-06-08T00:00:00Z,2022-03-08T09:57:16Z,['Location:Ukraine'],"[2, 0, 0]","['hack', 'malware', 'phishing']"
 ip,91.233.117.117,2022-04-13T00:00:00Z,2022-04-20T00:00:00Z,['Location:Ukraine'],[12],['hack']
 ip,91.233.172.107,2022-01-16T00:00:00Z,2022-07-05T06:08:07Z,['Location:Ukraine'],"[20, 16, 20]","['scan', 'hack', 'malware']"
