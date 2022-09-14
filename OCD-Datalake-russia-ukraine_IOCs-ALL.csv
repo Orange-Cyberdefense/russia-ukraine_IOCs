@@ -61,7 +61,7 @@ domain,alseid.ru,2022-02-03T23:45:51Z,2022-07-11T00:00:00Z,"['OCD - Threat patte
 domain,althaean.xyz,2020-09-02T19:30:18Z,2022-02-25T16:11:30Z,['Threat Actor:Gamaredon Group - G0047'],"[19, 19]","['phishing', 'malware']"
 domain,alvarados.ru,2021-12-27T22:15:40Z,2022-06-21T08:25:06Z,"['Malware:Pteranodon - S0147', 'Threat Actor:Gamaredon Group - G0047']","[0, 0, 1]","['hack', 'malware', 'phishing']"
 domain,alytes.xyz,2020-08-29T18:53:44Z,2022-02-25T16:11:30Z,['Threat Actor:Gamaredon Group - G0047'],"[18, 16]","['malware', 'phishing']"
-domain,amaniwa.ru,2021-10-01T14:05:16Z,2022-07-18T00:06:30Z,"['Malware:WildFire', 'Malware:PowerPunch - S0685', 'Location:Ukraine', 'Malware:WhisperGate - S0689', 'Malware:WhisperGate', 'Threat Actor:Gamaredon Group - G0047', 'Attack Pattern:PowerShell - T1086', 'Malware:August Stealer', 'Malware:Pteranodon - S0147', 'Malware:QuietSieve - S0686']","[0, 15, 12]","['hack', 'malware', 'phishing']"
+domain,amaniwa.ru,2021-10-01T14:05:16Z,2022-09-13T00:00:00Z,"['Malware:WildFire', 'Malware:PowerPunch - S0685', 'Location:Ukraine', 'Malware:WhisperGate - S0689', 'Malware:WhisperGate', 'Threat Actor:Gamaredon Group - G0047', 'Attack Pattern:PowerShell - T1086', 'Malware:August Stealer', 'Malware:Pteranodon - S0147', 'Malware:QuietSieve - S0686']","[0, 26, 50]","['phishing', 'malware', 'hack']"
 domain,amarus.xyz,2020-09-02T19:30:18Z,2022-03-30T16:11:30Z,['Threat Actor:Gamaredon Group - G0047'],"[2, 1]","['malware', 'phishing']"
 domain,ambystoma.xyz,2016-07-18T23:18:45Z,2022-03-30T16:11:30Z,"['Location:Ukraine', 'Threat Actor:Gamaredon Group - G0047']","[3, 1, 1]","['hack', 'malware', 'phishing']"
 domain,amieteku.ru,2022-01-15T03:52:39Z,2022-06-21T08:25:06Z,"['Malware:Pteranodon - S0147', 'Threat Actor:Gamaredon Group - G0047']","[0, 0, 1]","['hack', 'malware', 'phishing']"
@@ -294,7 +294,7 @@ domain,corintar.ru,2022-02-16T10:42:59Z,2022-04-04T15:50:09Z,['Threat Actor:Gama
 domain,corolain.ru,2021-10-18T14:52:36Z,2022-08-17T04:11:00Z,"['Malware:WildFire', 'Malware:PowerPunch - S0685', 'Location:Ukraine', 'Malware:WhisperGate - S0689', 'Malware:WhisperGate', 'Threat Actor:Gamaredon Group - G0047', 'Attack Pattern:PowerShell - T1086', 'Malware:August Stealer', 'Malware:Pteranodon - S0147', 'Malware:QuietSieve - S0686']","[20, 0]","['malware', 'phishing']"
 domain,corvusi.online,2020-09-10T10:52:38Z,2022-08-09T16:09:04Z,['Threat Actor:Gamaredon Group - G0047'],"[3, 1, 17]","['ddos', 'phishing', 'malware']"
 domain,cotular.xyz,2020-09-02T19:30:21Z,2022-03-30T16:11:30Z,['Threat Actor:Gamaredon Group - G0047'],"[2, 1]","['malware', 'phishing']"
-domain,creditals-email.space,2022-01-04T00:00:00Z,2022-09-14T14:17:40Z,"['Threat Actor:Ghostwriter', 'Location:Ukraine']","[10, 1, 0, 0, 0, 0, 2, 0, 0]","['malware', 'phishing', 'leak', 'spam', 'ddos', 'scan', 'hack', 'scam', 'fraud']"
+domain,creditals-email.space,2022-01-04T00:00:00Z,2022-09-14T14:17:40Z,"['Location:Ukraine', 'Threat Actor:Ghostwriter']","[2, 0, 0, 9, 1, 0, 0, 0, 0]","['hack', 'scam', 'fraud', 'malware', 'phishing', 'leak', 'spam', 'ddos', 'scan']"
 domain,cristatus.xyz,2020-09-02T19:30:20Z,2022-03-30T16:11:30Z,['Threat Actor:Gamaredon Group - G0047'],"[2, 1]","['malware', 'phishing']"
 domain,crocodilus.xyz,2020-09-02T19:30:21Z,2022-03-30T16:11:30Z,['Threat Actor:Gamaredon Group - G0047'],"[2, 1]","['malware', 'phishing']"
 domain,crossobamon.xyz,2020-09-02T19:30:20Z,2022-03-30T16:11:30Z,['Threat Actor:Gamaredon Group - G0047'],"[2, 1]","['malware', 'phishing']"
@@ -783,7 +783,7 @@ domain,midiatr.ru,2022-01-04T14:23:39Z,2022-09-06T00:00:00Z,"['Malware:WildFire'
 domain,miharashi.ru,2022-01-15T03:52:39Z,2022-08-15T00:00:00Z,"['OCD - Threat pattern:Command and Control [C2]', 'Malware:Pteranodon - S0147', 'Threat Actor:Gamaredon Group - G0047']","[15, 1, 15]","['malware', 'phishing', 'hack']"
 domain,mihardo.ru,2022-02-03T23:45:49Z,2022-06-22T00:00:00Z,"['OCD - Threat pattern:Command and Control [C2]', 'Malware:Pteranodon - S0147', 'Threat Actor:Gamaredon Group - G0047']","[3, 1, 0]","['hack', 'malware', 'phishing']"
 domain,mil-gov.site,2021-02-18T00:00:00Z,2022-03-30T16:11:30Z,['Threat Actor:Gamaredon Group - G0047'],"[0, 0, 0, 0, 1, 1, 0, 0, 0]","['ddos', 'fraud', 'hack', 'leak', 'malware', 'phishing', 'scam', 'scan', 'spam']"
-domain,mil-gov.space,2021-12-21T00:00:00Z,2022-09-14T14:17:40Z,"['Threat Actor:Ghostwriter', 'Location:Ukraine']","[0, 0, 0, 0, 0, 20, 1, 0, 1]","['scan', 'ddos', 'spam', 'leak', 'fraud', 'malware', 'phishing', 'scam', 'hack']"
+domain,mil-gov.space,2021-12-21T00:00:00Z,2022-09-14T14:17:40Z,"['Threat Actor:Ghostwriter', 'Location:Ukraine']","[0, 1, 0, 0, 0, 18, 1, 0, 0]","['scan', 'hack', 'ddos', 'spam', 'fraud', 'malware', 'phishing', 'scam', 'leak']"
 domain,millefolium.xyz,2021-01-24T15:40:03Z,2022-03-30T16:11:30Z,"['Location:Ukraine', 'Threat Actor:Gamaredon Group - G0047']","[3, 1, 1]","['hack', 'malware', 'phishing']"
 domain,milopoda.ru,2022-02-03T23:45:49Z,2022-07-16T04:15:31Z,"['Malware:WildFire', 'Malware:PowerPunch - S0685', 'Location:Ukraine', 'Malware:WhisperGate - S0689', 'Malware:WhisperGate', 'Threat Actor:Gamaredon Group - G0047', 'Attack Pattern:PowerShell - T1086', 'Malware:August Stealer', 'Malware:Pteranodon - S0147', 'Malware:QuietSieve - S0686']","[0, 7, 0]","['hack', 'malware', 'phishing']"
 domain,milotor.ru,2022-02-10T11:44:49Z,2022-07-16T04:15:56Z,['Threat Actor:Gamaredon Group - G0047'],"[15, 1]","['malware', 'phishing']"
@@ -1153,7 +1153,7 @@ domain,uzumoreru.ru,2021-11-05T03:52:35Z,2022-06-21T08:25:06Z,"['Malware:WildFir
 domain,vadilops.ru,2021-08-30T23:50:37Z,2022-07-30T04:03:51Z,"['Malware:WildFire', 'Malware:PowerPunch - S0685', 'Location:Ukraine', 'Malware:WhisperGate - S0689', 'Malware:WhisperGate', 'Threat Actor:Gamaredon Group - G0047', 'Attack Pattern:PowerShell - T1086', 'Malware:August Stealer', 'Malware:Pteranodon - S0147', 'Malware:QuietSieve - S0686']","[1, 2, 1]","['hack', 'malware', 'phishing']"
 domain,variare.online,2020-12-01T09:44:11Z,2022-08-09T16:09:05Z,['Threat Actor:Gamaredon Group - G0047'],"[1, 3, 17]","['phishing', 'ddos', 'malware']"
 domain,vartogal.ru,2022-02-11T09:05:36Z,2022-04-01T18:58:39Z,['Threat Actor:Gamaredon Group - G0047'],"[1, 1]","['malware', 'phishing']"
-domain,verify-email.space,2022-02-06T00:59:02Z,2022-09-14T14:17:40Z,"['Threat Actor:Ghostwriter', 'Location:Ukraine']","[1, 25, 1]","['hack', 'malware', 'phishing']"
+domain,verify-email.space,2022-02-06T00:59:02Z,2022-09-14T14:17:40Z,"['Location:Ukraine', 'Threat Actor:Ghostwriter']","[1, 24, 1]","['hack', 'malware', 'phishing']"
 domain,vernalisa.xyz,2020-08-15T12:00:02Z,2022-03-30T16:11:30Z,"['Location:Ukraine', 'Threat Actor:Gamaredon Group - G0047']","[0, 0, 3, 0, 1, 1, 0, 0, 0]","['ddos', 'fraud', 'hack', 'leak', 'malware', 'phishing', 'scam', 'scan', 'spam']"
 domain,verofes.com,2022-03-21T00:00:00Z,2022-09-11T00:00:00Z,"['OCD - Threat pattern:Command and Control [C2]', 'Malware:TrickBot - S0266', 'Tool:Cobalt Strike - S0154']","[14, 35, 1, 0, 0, 0, 0, 0, 0]","['malware', 'hack', 'phishing', 'fraud', 'scan', 'leak', 'scam', 'spam', 'ddos']"
 domain,verusa.ru,2018-03-04T10:45:51Z,2022-06-21T08:25:06Z,"['Malware:Pteranodon - S0147', 'Threat Actor:Gamaredon Group - G0047']","[0, 1, 1]","['hack', 'malware', 'phishing']"
@@ -1905,7 +1905,7 @@ fqdn,aligatou.ru,2022-02-04T10:42:45Z,2022-03-09T10:42:45Z,['Threat Actor:Gamare
 fqdn,alseid.ru,2022-02-04T10:42:35Z,2022-03-09T10:42:35Z,['Threat Actor:Gamaredon Group - G0047'],[15],['malware']
 fqdn,anits.ru,2022-02-04T10:42:41Z,2022-03-09T10:42:41Z,['Threat Actor:Gamaredon Group - G0047'],[15],['malware']
 fqdn,ao3.hmgo.pw,2022-03-23T07:59:24Z,2022-05-14T12:12:08Z,['Tool:Cobalt Strike - S0154'],"[1, 1]","['malware', 'phishing']"
-fqdn,aplikacje.ron-mil.space,2022-02-24T21:54:37Z,2022-09-14T14:17:40Z,['Threat Actor:Ghostwriter'],"[25, 3]","['malware', 'phishing']"
+fqdn,aplikacje.ron-mil.space,2022-02-24T21:54:37Z,2022-09-14T14:17:40Z,['Threat Actor:Ghostwriter'],"[3, 22]","['phishing', 'malware']"
 fqdn,bartion.ru,2022-02-04T10:42:42Z,2022-03-09T10:42:42Z,['Threat Actor:Gamaredon Group - G0047'],[15],['malware']
 fqdn,berezini.ru,2022-02-04T10:42:34Z,2022-03-09T10:42:34Z,['Threat Actor:Gamaredon Group - G0047'],[15],['malware']
 fqdn,bibikaro.ru,2022-02-04T10:42:35Z,2022-03-09T10:42:35Z,['Threat Actor:Gamaredon Group - G0047'],[15],['malware']
@@ -1951,7 +1951,7 @@ fqdn,holposta.ru,2022-02-04T10:43:11Z,2022-03-09T10:43:11Z,['Threat Actor:Gamare
 fqdn,hostarama.ru,2022-02-04T10:43:10Z,2022-03-09T10:43:10Z,['Threat Actor:Gamaredon Group - G0047'],[15],['malware']
 fqdn,hotornas.ru,2022-02-04T10:43:03Z,2022-03-09T10:43:03Z,['Threat Actor:Gamaredon Group - G0047'],[15],['malware']
 fqdn,hustorta.ru,2022-02-04T10:43:02Z,2022-03-09T10:43:02Z,['Threat Actor:Gamaredon Group - G0047'],[15],['malware']
-fqdn,i.ua-passport.space,2022-02-25T13:58:32Z,2022-09-14T14:17:40Z,"['Attack Pattern:Group Policy Modification - T1484.001', 'Attack Pattern:Inhibit System Recovery - T1490', 'Threat Actor:Ghostwriter', 'Attack Pattern:Disk Structure Wipe - T1561.002', 'Attack Pattern:Data Destruction - T1485', 'Malware:HermeticWiper - S0697']","[3, 17]","['phishing', 'malware']"
+fqdn,i.ua-passport.space,2022-02-25T13:58:32Z,2022-09-14T14:17:40Z,"['Attack Pattern:Group Policy Modification - T1484.001', 'Attack Pattern:Inhibit System Recovery - T1490', 'Threat Actor:Ghostwriter', 'Attack Pattern:Disk Structure Wipe - T1561.002', 'Attack Pattern:Data Destruction - T1485', 'Malware:HermeticWiper - S0697']","[3, 15]","['phishing', 'malware']"
 fqdn,ibigao.ru,2022-02-04T10:43:12Z,2022-03-09T10:43:12Z,['Threat Actor:Gamaredon Group - G0047'],[15],['malware']
 fqdn,idaite.ru,2022-02-04T10:43:15Z,2022-03-09T10:43:15Z,['Threat Actor:Gamaredon Group - G0047'],[15],['malware']
 fqdn,ienaike.ru,2022-02-04T10:43:15Z,2022-03-09T10:43:15Z,['Threat Actor:Gamaredon Group - G0047'],[15],['malware']
@@ -2304,7 +2304,7 @@ ip,103.43.79.23,2019-02-23T00:00:00Z,2020-03-27T05:22:03Z,['Location:Ukraine'],[
 ip,103.47.57.187,2022-06-29T00:00:00Z,2022-07-06T00:00:00Z,['Location:Ukraine'],[12],['hack']
 ip,103.51.57.133,2021-04-29T00:00:00Z,2021-05-15T00:00:00Z,['Location:Ukraine'],[2],['hack']
 ip,103.55.10.66,2021-03-26T00:00:00Z,2021-04-11T00:00:00Z,['Location:Ukraine'],[2],['hack']
-ip,103.57.232.95,2020-01-04T00:00:00Z,2022-09-14T01:10:01Z,['Location:Ukraine'],"[15, 28, 1, 0, 73]","['scan', 'malware', 'spam', 'phishing', 'hack']"
+ip,103.57.232.95,2020-01-04T00:00:00Z,2022-09-14T15:10:17Z,['Location:Ukraine'],"[28, 1, 0, 73, 15]","['malware', 'spam', 'phishing', 'hack', 'scan']"
 ip,103.66.82.240,2020-01-04T00:00:00Z,2021-02-09T11:50:42Z,['Location:Ukraine'],"[2, 1]","['hack', 'spam']"
 ip,103.7.37.209,2019-01-04T00:00:00Z,2021-11-20T12:56:22Z,['Location:Ukraine'],"[0, 0, 2, 0, 0, 0]","['ddos', 'fraud', 'hack', 'malware', 'phishing', 'scan']"
 ip,103.7.37.214,2019-01-15T00:00:00Z,2021-11-20T12:56:20Z,['Location:Ukraine'],"[2, 0, 0, 0]","['hack', 'malware', 'phishing', 'spam']"
@@ -4615,7 +4615,7 @@ ip,184.22.74.80,2020-02-17T00:00:00Z,2020-03-04T00:00:00Z,['Location:Ukraine'],[
 ip,184.72.112.129,2022-03-17T00:00:00Z,2022-03-24T00:00:00Z,['Location:Ukraine'],[12],['hack']
 ip,184.72.200.22,2022-03-09T00:00:00Z,2022-03-16T00:00:00Z,['Location:Ukraine'],[12],['hack']
 ip,184.73.111.100,2022-02-26T00:00:00Z,2022-03-07T23:57:45Z,['Location:Ukraine'],[12],['hack']
-ip,184.75.221.171,2016-05-06T17:48:59Z,2022-09-14T07:45:00Z,"['Location:Finland', 'Location:Hungary', 'Location:Ukraine', 'Location:Germany', 'Location:Canada', 'Location:France', 'Location:United States of America', 'Location:Russian Federation', 'Location:Netherlands', 'Tool:Remcos - S0332', 'Malware:Remcos', 'Malware:NETWIRE - S0198', 'Location:United Kingdom of Great Britain and Northern Ireland', 'OCD - Threat pattern:Anonymization services']","[0, 1, 0, 3, 25, 0, 14]","['leak', 'ddos', 'fraud', 'malware', 'hack', 'phishing', 'scan']"
+ip,184.75.221.171,2016-05-06T17:48:59Z,2022-09-14T14:08:25Z,"['Location:Finland', 'Location:Hungary', 'Location:Ukraine', 'Malware:NETWIRE - S0198', 'Location:Germany', 'Location:France', 'Location:United States of America', 'Location:Russian Federation', 'OCD - Threat pattern:Anonymization services', 'Location:Netherlands', 'Tool:Remcos - S0332', 'Malware:Remcos', 'Location:Canada', 'Location:United Kingdom of Great Britain and Northern Ireland']","[0, 1, 29, 0, 3, 0, 14]","['leak', 'ddos', 'hack', 'fraud', 'malware', 'phishing', 'scan']"
 ip,184.75.221.3,2016-04-26T11:07:02Z,2022-09-14T10:42:37Z,['Location:Ukraine'],"[39, 0, 0, 0, 0]","['hack', 'scan', 'phishing', 'fraud', 'malware']"
 ip,184.94.180.62,2022-07-20T00:00:00Z,2022-07-27T00:00:00Z,['Location:Ukraine'],[12],['hack']
 ip,185.102.217.160,2021-01-19T10:17:27Z,2022-08-27T02:15:00Z,"['Location:Ireland', 'Location:Ukraine', 'Location:France', 'Location:Kyrgyzstan', 'Location:Republic of Korea', 'Location:Netherlands', 'Location:United States of America', 'Location:Russian Federation', 'Location:Denmark', 'Location:Canada', 'Location:United Kingdom of Great Britain and Northern Ireland']","[3, 13, 0, 17, 1, 0]","['malware', 'scan', 'fraud', 'hack', 'ddos', 'phishing']"
@@ -5115,7 +5115,7 @@ ip,193.187.79.78,2022-05-30T00:00:00Z,2022-06-07T13:49:03Z,['Location:Ukraine'],
 ip,193.187.91.18,2019-03-16T00:00:00Z,2022-09-02T18:54:31Z,['Location:Ukraine'],"[1, 0, 1, 14]","['malware', 'phishing', 'scan', 'hack']"
 ip,193.189.100.130,2021-02-22T00:49:55Z,2022-09-14T10:40:18Z,['Location:Ukraine'],"[22, 0, 1, 40, 7]","['malware', 'phishing', 'ddos', 'hack', 'scan']"
 ip,193.19.204.73,2022-05-13T00:00:00Z,2022-06-29T00:17:31Z,['Location:Ukraine'],"[9, 5, 12]","['scan', 'fraud', 'hack']"
-ip,193.192.37.190,2021-09-23T00:00:00Z,2021-12-08T12:56:14Z,['Location:Ukraine'],"[1, 2, 1, 1]","['ddos', 'hack', 'malware', 'scan']"
+ip,193.192.37.190,2021-09-23T00:00:00Z,2022-09-14T15:13:33Z,['Location:Ukraine'],"[1, 2, 1, 27]","['ddos', 'hack', 'malware', 'scan']"
 ip,193.192.37.4,2022-03-03T00:00:00Z,2022-03-31T00:12:03Z,['Location:Ukraine'],"[2, 1, 1]","['hack', 'malware', 'scan']"
 ip,193.194.107.70,2019-03-27T00:00:00Z,2022-03-13T05:38:36Z,['Location:Ukraine'],"[19, 0]","['hack', 'scan']"
 ip,193.203.202.74,2022-06-17T00:00:00Z,2022-06-22T08:01:09Z,['Location:Ukraine'],[18],['hack']
