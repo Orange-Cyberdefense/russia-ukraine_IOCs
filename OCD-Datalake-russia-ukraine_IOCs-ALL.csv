@@ -8068,7 +8068,7 @@ ip,87.249.132.228,2022-07-21T00:00:00Z,2022-07-28T00:00:00Z,['Location:Ukraine']
 ip,87.249.132.245,2022-06-22T00:00:00Z,2022-08-15T18:58:04Z,['Location:Ukraine'],"[6, 15, 6]","['scan', 'hack', 'malware']"
 ip,87.249.132.246,2022-06-23T00:00:00Z,2022-07-03T09:15:50Z,['Location:Ukraine'],"[12, 8, 8]","['hack', 'malware', 'phishing']"
 ip,87.249.49.103,2022-02-04T04:22:22Z,2022-03-10T01:00:12Z,"['Malware:Pteranodon - S0147', 'Threat Actor:Gamaredon Group - G0047']","[17, 16, 1, 1]","['phishing', 'malware', 'hack', 'scan']"
-ip,87.251.166.70,2016-01-13T08:35:25Z,2022-09-15T10:30:04Z,"['OCD - Threat pattern:Command and Control [C2]', 'Location:Ukraine']","[0, 0, 0, 0, 29, 0, 0, 0]","['ddos', 'malware', 'phishing', 'scan', 'hack', 'scam', 'spam', 'fraud']"
+ip,87.251.166.70,2016-01-13T08:35:25Z,2022-09-15T22:30:04Z,"['OCD - Threat pattern:Command and Control [C2]', 'Location:Ukraine']","[23, 0, 0, 0, 0, 0, 0, 0]","['hack', 'scam', 'spam', 'fraud', 'ddos', 'malware', 'phishing', 'scan']"
 ip,87.251.67.35,2020-12-20T08:20:44Z,2021-06-18T07:19:11Z,"['Attack Pattern:Brute Force - T1110', 'Location:Ukraine']","[2, 1, 0, 0]","['hack', 'malware', 'phishing', 'scan']"
 ip,87.4.139.36,2022-06-24T00:00:00Z,2022-07-01T00:00:00Z,['Location:Ukraine'],[12],['hack']
 ip,87.4.190.228,2022-07-26T00:00:00Z,2022-08-02T00:00:00Z,['Location:Ukraine'],[12],['hack']
