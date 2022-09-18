@@ -5149,8 +5149,8 @@ ip,194.31.98.163,2022-02-28T00:00:00Z,2022-03-08T23:57:42Z,['Location:Ukraine'],
 ip,194.33.40.81,2022-02-23T00:00:00Z,2022-03-07T20:34:28Z,['Location:Ukraine'],"[12, 9, 4]","['hack', 'malware', 'phishing']"
 ip,194.36.25.46,2022-07-04T00:00:00Z,2022-07-11T00:00:00Z,['Location:Ukraine'],[12],['hack']
 ip,194.38.20.82,2021-01-03T18:37:18Z,2022-06-14T03:04:18Z,"['Malware:NanoCore - S0336', 'OCD - Threat pattern:Command and Control [C2]', 'Location:Ukraine']","[0, 1, 2, 1, 2]","['scan', 'malware', 'phishing', 'hack', 'spam']"
-ip,194.40.243.240,2022-06-07T06:42:47Z,2022-09-17T00:00:00Z,"['Attack Pattern:Exfiltration Over C2 Channel - T1041', 'Location:Ukraine', 'Malware:njRAT - S0385', 'OCD - Threat pattern:Command and Control [C2]']","[0, 48, 2, 1]","['phishing', 'malware', 'hack', 'spam']"
-ip,194.40.243.241,2022-06-29T15:51:54Z,2022-09-17T00:00:00Z,"['Location:Ukraine', 'Malware:njRAT - S0385', 'OCD - Threat pattern:Command and Control [C2]']","[0, 2, 7]","['phishing', 'hack', 'malware']"
+ip,194.40.243.240,2022-06-07T06:42:47Z,2022-09-17T00:00:00Z,"['Attack Pattern:Exfiltration Over C2 Channel - T1041', 'Location:Ukraine', 'Malware:njRAT - S0385', 'OCD - Threat pattern:Command and Control [C2]']","[2, 48, 0, 1]","['hack', 'malware', 'phishing', 'spam']"
+ip,194.40.243.241,2022-06-29T15:51:54Z,2022-09-17T00:00:00Z,"['Location:Ukraine', 'Malware:njRAT - S0385', 'OCD - Threat pattern:Command and Control [C2]']","[2, 7, 0]","['hack', 'malware', 'phishing']"
 ip,194.44.103.255,2022-07-24T00:00:00Z,2022-07-31T00:00:00Z,['Location:Ukraine'],[12],['hack']
 ip,194.44.136.238,2022-05-24T00:00:00Z,2022-06-09T00:00:00Z,['Location:Ukraine'],[2],['hack']
 ip,194.44.40.185,2022-07-31T00:00:00Z,2022-08-07T00:00:00Z,['Location:Ukraine'],[12],['hack']
