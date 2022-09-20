@@ -3476,7 +3476,7 @@ ip,136.185.205.230,2022-07-27T00:00:00Z,2022-08-03T00:00:00Z,['Location:Ukraine'
 ip,136.34.8.242,2021-10-05T07:21:16Z,2022-09-20T01:57:38Z,['Location:Ukraine'],"[0, 0, 16, 1, 5, 79]","['fraud', 'phishing', 'scan', 'spam', 'malware', 'hack']"
 ip,137.135.105.46,2022-07-22T00:00:00Z,2022-07-29T00:00:00Z,['Location:Ukraine'],[12],['hack']
 ip,137.135.243.80,2022-07-16T00:00:00Z,2022-07-23T00:00:00Z,['Location:Ukraine'],[12],['hack']
-ip,137.184.152.246,2022-07-29T00:00:00Z,2022-09-20T00:39:34Z,['Location:Ukraine'],"[5, 55]","['scan', 'hack']"
+ip,137.184.152.246,2022-07-29T00:00:00Z,2022-09-20T03:50:45Z,['Location:Ukraine'],"[55, 5]","['hack', 'scan']"
 ip,137.184.169.74,2022-03-26T00:00:00Z,2022-04-02T00:00:00Z,['Location:Ukraine'],[12],['hack']
 ip,137.184.61.63,2022-05-28T00:00:00Z,2022-09-06T23:16:16Z,['Location:Ukraine'],"[1, 20, 19]","['malware', 'scan', 'hack']"
 ip,137.74.151.28,2022-06-30T00:00:00Z,2022-07-07T00:00:00Z,['Location:Ukraine'],[12],['hack']
@@ -8643,7 +8643,7 @@ url,https://cdn.discordapp.com/attachments/947916997713358890/949948174636830761
 url,https://cdn.discordapp.com/attachments/947916997713358890/949948174838165524/dropper.exe,2022-03-11T13:31:50Z,2022-08-09T12:32:08Z,"['Threat Actor:Ghostwriter', 'Threat Actor:SaintBear', 'Location:Ukraine']","[16, 1]","['malware', 'phishing']"
 url,https://cdn.discordapp.com/attachments/947916997713358890/949978571680673802/cesdf.exe,2022-03-12T11:54:59Z,2022-08-09T12:32:08Z,"['Threat Actor:Ghostwriter', 'Threat Actor:SaintBear', 'Location:Ukraine']","[1, 16]","['phishing', 'malware']"
 url,https://cdn.jsdelivr.net/gh/sukaut/beta@main/junit.js,2022-04-14T11:45:10Z,2022-05-18T13:18:40Z,[],"[15, 3]","['malware', 'phishing']"
-url,https://dezword.com/apiv8/getStatus,2022-03-22T19:24:28Z,2022-09-17T04:20:31Z,"['Malware:TrickBot - S0266', 'Tool:Cobalt Strike - S0154']","[73, 25]","['phishing', 'malware']"
+url,https://dezword.com/apiv8/getStatus,2022-03-22T19:24:28Z,2022-09-20T04:20:31Z,"['Malware:TrickBot - S0266', 'Tool:Cobalt Strike - S0154']","[23, 66]","['malware', 'phishing']"
 url,https://dezword.com/apiv8/updateConfig,2022-04-18T17:25:39Z,2022-05-20T07:30:54Z,"['Malware:TrickBot - S0266', 'Tool:Cobalt Strike - S0154']","[12, 19]","['phishing', 'malware']"
 url,https://domthr.xyz/gF5kQn,2022-04-19T09:19:51Z,2022-05-22T09:19:51Z,[],[15],['malware']
 url,https://eo9p1d2bfmioiot.m.pipedream.net?usr=,2022-03-29T16:13:44Z,2022-05-01T16:13:44Z,[],[15],['malware']
