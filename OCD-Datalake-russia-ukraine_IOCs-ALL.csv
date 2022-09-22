@@ -980,7 +980,7 @@ domain,reftist.ru,2022-01-04T14:23:51Z,2022-08-06T00:00:00Z,"['Threat Actor:Gama
 domain,regionem.online,2021-01-26T15:57:42Z,2022-03-30T16:11:30Z,['Threat Actor:Gamaredon Group - G0047'],"[2, 1]","['malware', 'phishing']"
 domain,reinvardtii.xyz,2020-08-29T19:48:28Z,2022-08-09T16:09:05Z,['Threat Actor:Gamaredon Group - G0047'],"[1, 17, 3]","['phishing', 'malware', 'ddos']"
 domain,rekishino.ru,2021-10-06T10:10:05Z,2022-06-21T08:25:06Z,"['Threat Actor:Gamaredon Group - G0047', 'Malware:Pteranodon - S0147']","[0, 1, 1]","['hack', 'malware', 'phishing']"
-domain,retarus.ru,2022-01-22T07:38:11Z,2022-09-19T04:11:03Z,['Threat Actor:Gamaredon Group - G0047'],"[22, 0]","['malware', 'phishing']"
+domain,retarus.ru,2022-01-22T07:38:11Z,2022-09-22T04:11:03Z,['Threat Actor:Gamaredon Group - G0047'],"[20, 0]","['malware', 'phishing']"
 domain,reteredelete.top,2021-09-14T03:42:42Z,2022-06-21T12:07:18Z,"['Malware:IcedID - S0483', 'Location:Ukraine', 'Attack Pattern:Phishing - T1566']","[1, 2]","['malware', 'phishing']"
 domain,reticulatus.xyz,2021-01-26T15:58:04Z,2022-08-09T16:09:05Z,['Threat Actor:Gamaredon Group - G0047'],"[1, 17]","['phishing', 'malware']"
 domain,rhinoderma.xyz,2021-01-24T16:38:52Z,2022-03-30T16:11:30Z,"['Location:Ukraine', 'Threat Actor:Gamaredon Group - G0047']","[3, 1, 1]","['hack', 'malware', 'phishing']"
@@ -4615,7 +4615,7 @@ ip,184.22.74.80,2020-02-17T00:00:00Z,2020-03-04T00:00:00Z,['Location:Ukraine'],[
 ip,184.72.112.129,2022-03-17T00:00:00Z,2022-03-24T00:00:00Z,['Location:Ukraine'],[12],['hack']
 ip,184.72.200.22,2022-03-09T00:00:00Z,2022-03-16T00:00:00Z,['Location:Ukraine'],[12],['hack']
 ip,184.73.111.100,2022-02-26T00:00:00Z,2022-03-07T23:57:45Z,['Location:Ukraine'],[12],['hack']
-ip,184.75.221.171,2016-05-06T17:48:59Z,2022-09-22T00:12:28Z,"['Location:Russian Federation', 'Location:Singapore', 'Malware:Remcos', 'Location:Finland', 'Location:France', 'Location:Canada', 'Location:Netherlands', 'Location:United Kingdom of Great Britain and Northern Ireland', 'OCD - Threat pattern:Anonymization services', 'Tool:Remcos - S0332', 'Location:Lithuania', 'Location:United States of America', 'Location:Germany', 'Malware:NETWIRE - S0198', 'Location:Ukraine', 'Location:Hungary']","[0, 1, 0, 40, 0, 11, 39]","['leak', 'ddos', 'phishing', 'scan', 'fraud', 'malware', 'hack']"
+ip,184.75.221.171,2016-05-06T17:48:59Z,2022-09-22T04:00:00Z,"['Location:Russian Federation', 'Location:Singapore', 'Malware:Remcos', 'Location:Finland', 'Location:France', 'Location:Canada', 'Location:Netherlands', 'Location:United Kingdom of Great Britain and Northern Ireland', 'OCD - Threat pattern:Anonymization services', 'Tool:Remcos - S0332', 'Location:Lithuania', 'Location:United States of America', 'Location:Germany', 'Malware:NETWIRE - S0198', 'Location:Ukraine', 'Location:Hungary']","[38, 0, 1, 0, 11, 0, 39]","['hack', 'leak', 'ddos', 'fraud', 'malware', 'phishing', 'scan']"
 ip,184.75.221.3,2016-04-26T11:07:02Z,2022-09-20T18:21:42Z,['Location:Ukraine'],"[36, 0, 0, 0, 0]","['hack', 'fraud', 'malware', 'phishing', 'scan']"
 ip,184.94.180.62,2022-07-20T00:00:00Z,2022-07-27T00:00:00Z,['Location:Ukraine'],[12],['hack']
 ip,185.102.217.160,2021-01-19T10:17:27Z,2022-08-27T02:15:00Z,"['Location:Republic of Korea', 'Location:Russian Federation', 'Location:Ireland', 'Location:Kyrgyzstan', 'Location:Canada', 'Location:Netherlands', 'Location:United Kingdom of Great Britain and Northern Ireland', 'Location:Denmark', 'Location:United States of America', 'Location:France', 'Location:Ukraine']","[3, 13, 0, 17, 1, 0]","['malware', 'scan', 'fraud', 'hack', 'ddos', 'phishing']"
@@ -8643,7 +8643,7 @@ url,https://cdn.discordapp.com/attachments/947916997713358890/949948174636830761
 url,https://cdn.discordapp.com/attachments/947916997713358890/949948174838165524/dropper.exe,2022-03-11T13:31:50Z,2022-08-09T12:32:08Z,"['Threat Actor:SaintBear', 'Location:Ukraine', 'Threat Actor:Ghostwriter']","[16, 1]","['malware', 'phishing']"
 url,https://cdn.discordapp.com/attachments/947916997713358890/949978571680673802/cesdf.exe,2022-03-12T11:54:59Z,2022-08-09T12:32:08Z,"['Threat Actor:SaintBear', 'Location:Ukraine', 'Threat Actor:Ghostwriter']","[1, 16]","['phishing', 'malware']"
 url,https://cdn.jsdelivr.net/gh/sukaut/beta@main/junit.js,2022-04-14T11:45:10Z,2022-05-18T13:18:40Z,[],"[15, 3]","['malware', 'phishing']"
-url,https://dezword.com/apiv8/getStatus,2022-03-22T19:24:28Z,2022-09-20T04:20:31Z,"['Tool:Cobalt Strike - S0154', 'Malware:TrickBot - S0266']","[23, 66]","['malware', 'phishing']"
+url,https://dezword.com/apiv8/getStatus,2022-03-22T19:24:28Z,2022-09-22T04:20:31Z,"['Tool:Cobalt Strike - S0154', 'Malware:TrickBot - S0266']","[18, 53]","['malware', 'phishing']"
 url,https://dezword.com/apiv8/updateConfig,2022-04-18T17:25:39Z,2022-05-20T07:30:54Z,"['Tool:Cobalt Strike - S0154', 'Malware:TrickBot - S0266']","[12, 19]","['phishing', 'malware']"
 url,https://domthr.xyz/gF5kQn,2022-04-19T09:19:51Z,2022-05-22T09:19:51Z,[],[15],['malware']
 url,https://eo9p1d2bfmioiot.m.pipedream.net?usr=,2022-03-29T16:13:44Z,2022-05-01T16:13:44Z,[],[15],['malware']
