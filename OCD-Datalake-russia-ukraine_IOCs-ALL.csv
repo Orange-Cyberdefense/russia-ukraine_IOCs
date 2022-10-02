@@ -2430,7 +2430,7 @@ ip,106.67.154.210,2022-06-28T00:00:00Z,2022-07-05T00:00:00Z,['Location:Ukraine']
 ip,106.76.71.158,2021-04-20T00:00:00Z,2021-05-06T00:00:00Z,['Location:Ukraine'],[2],['hack']
 ip,106.77.42.77,2019-10-23T00:00:00Z,2021-05-25T10:47:52Z,['Location:Ukraine'],"[2, 1]","['hack', 'spam']"
 ip,106.79.203.84,2020-04-07T00:00:00Z,2020-04-23T00:00:00Z,['Location:Ukraine'],[2],['hack']
-ip,107.150.126.215,2022-02-14T00:00:00Z,2022-10-02T10:21:42Z,['Location:Ukraine'],"[29, 13, 51, 1, 0]","['malware', 'scan', 'hack', 'ddos', 'phishing']"
+ip,107.150.126.215,2022-02-14T00:00:00Z,2022-10-02T12:13:03Z,['Location:Ukraine'],"[1, 0, 29, 13, 51]","['ddos', 'phishing', 'malware', 'scan', 'hack']"
 ip,107.150.22.230,2022-06-07T00:00:00Z,2022-06-14T00:00:00Z,['Location:Ukraine'],[12],['hack']
 ip,107.181.178.88,2020-11-16T00:00:00Z,2022-06-12T06:42:34Z,['Location:Ukraine'],"[2, 1]","['hack', 'spam']"
 ip,107.185.143.71,2022-07-31T00:00:00Z,2022-08-07T00:00:00Z,['Location:Ukraine'],[12],['hack']
@@ -3475,7 +3475,7 @@ ip,136.158.48.20,2022-07-20T00:00:00Z,2022-09-06T06:56:22Z,['Location:Ukraine'],
 ip,136.169.18.55,2022-05-06T00:00:00Z,2022-05-22T00:00:00Z,['Location:Ukraine'],[2],['hack']
 ip,136.185.123.232,2022-07-18T00:00:00Z,2022-07-25T00:00:00Z,['Location:Ukraine'],[12],['hack']
 ip,136.185.205.230,2022-07-27T00:00:00Z,2022-08-03T00:00:00Z,['Location:Ukraine'],[12],['hack']
-ip,136.34.8.242,2021-10-05T07:21:16Z,2022-10-02T10:10:08Z,['Location:Ukraine'],"[1, 0, 0, 15, 1, 79]","['malware', 'fraud', 'phishing', 'scan', 'spam', 'hack']"
+ip,136.34.8.242,2021-10-05T07:21:16Z,2022-10-02T11:31:18Z,['Location:Ukraine'],"[79, 1, 0, 0, 15, 1]","['hack', 'malware', 'fraud', 'phishing', 'scan', 'spam']"
 ip,137.135.105.46,2022-07-22T00:00:00Z,2022-07-29T00:00:00Z,['Location:Ukraine'],[12],['hack']
 ip,137.135.243.80,2022-07-16T00:00:00Z,2022-07-23T00:00:00Z,['Location:Ukraine'],[12],['hack']
 ip,137.184.152.246,2022-07-29T00:00:00Z,2022-10-01T00:23:01Z,['Location:Ukraine'],"[16, 29, 49]","['scan', 'malware', 'hack']"
@@ -7190,7 +7190,7 @@ ip,5.58.37.207,2022-06-06T00:00:00Z,2022-06-13T00:00:00Z,['Location:Ukraine'],[1
 ip,5.59.48.15,2021-01-08T00:00:00Z,2021-09-01T10:42:31Z,['Location:Ukraine'],"[1, 2, 1, 1, 1]","['ddos', 'hack', 'malware', 'scan', 'spam']"
 ip,5.62.18.39,2020-03-12T13:01:04Z,2022-03-17T23:01:16Z,['Location:Ukraine'],"[2, 1, 0, 1, 0]","['hack', 'malware', 'phishing', 'scan', 'spam']"
 ip,5.62.18.69,2019-09-18T18:58:49Z,2022-03-02T17:57:44Z,['Location:Ukraine'],"[19, 12, 13, 1, 1]","['hack', 'malware', 'phishing', 'scan', 'spam']"
-ip,5.62.20.19,2019-06-07T00:00:00Z,2022-09-29T13:30:00Z,"['Location:Germany', 'Location:France', 'Location:United States of America', 'Location:Denmark', 'Location:Ukraine', 'Location:India', 'Location:Russian Federation', 'Location:United Kingdom of Great Britain and Northern Ireland', 'Location:Ireland']","[1, 40, 10, 66]","['malware', 'hack', 'fraud', 'scan']"
+ip,5.62.20.19,2019-06-07T00:00:00Z,2022-10-02T13:30:00Z,"['Location:Germany', 'Location:France', 'Location:United States of America', 'Location:Ukraine', 'Location:Denmark', 'Location:Russian Federation', 'Location:India', 'Location:United Kingdom of Great Britain and Northern Ireland', 'Location:Ireland']","[10, 35, 1, 59]","['fraud', 'hack', 'malware', 'scan']"
 ip,5.62.20.23,2019-07-22T00:00:00Z,2022-10-02T12:00:00Z,"['Location:Netherlands', 'Location:Germany', 'Location:France', 'Location:United States of America', 'Location:Ukraine', 'Location:Denmark', 'Location:India', 'Location:Russian Federation', 'Location:United Kingdom of Great Britain and Northern Ireland']","[15, 1, 0, 0, 1, 0, 18]","['hack', 'phishing', 'spam', 'fraud', 'malware', 'ddos', 'scan']"
 ip,5.63.154.128,2018-11-17T00:30:06Z,2022-10-01T02:01:22Z,"['Threat Actor:Gamaredon Group - G0047', 'Malware:Pteranodon - S0147']","[20, 11, 20, 1]","['hack', 'malware', 'scan', 'phishing']"
 ip,5.63.154.19,2021-10-30T10:24:39Z,2022-10-01T02:01:22Z,"['Threat Actor:Gamaredon Group - G0047', 'Malware:Pteranodon - S0147']","[21, 1, 20, 17]","['malware', 'phishing', 'scan', 'hack']"
