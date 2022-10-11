@@ -3025,7 +3025,7 @@ ip,117.223.147.241,2022-07-21T00:00:00Z,2022-07-28T00:00:00Z,['Location:Ukraine'
 ip,117.223.203.20,2022-07-04T00:00:00Z,2022-07-11T00:00:00Z,['Location:Ukraine'],[12],['hack']
 ip,117.236.133.42,2022-06-27T00:00:00Z,2022-07-04T00:00:00Z,['Location:Ukraine'],[12],['hack']
 ip,117.237.214.193,2022-06-26T00:00:00Z,2022-07-03T00:00:00Z,['Location:Ukraine'],[12],['hack']
-ip,117.241.171.126,2022-07-05T00:00:00Z,2022-10-10T21:15:00Z,"['Location:Denmark', 'Location:Ukraine']","[28, 40]","['hack', 'scan']"
+ip,117.241.171.126,2022-07-05T00:00:00Z,2022-10-11T21:15:00Z,"['Location:Denmark', 'Location:Ukraine']","[17, 24]","['hack', 'scan']"
 ip,117.241.220.229,2022-07-02T00:00:00Z,2022-07-09T00:00:00Z,['Location:Ukraine'],[12],['hack']
 ip,117.242.102.19,2022-05-13T00:00:00Z,2022-05-29T00:00:00Z,['Location:Ukraine'],[2],['hack']
 ip,117.242.102.32,2018-12-19T00:00:00Z,2019-01-04T00:00:00Z,['Location:Ukraine'],[2],['hack']
@@ -3991,7 +3991,7 @@ ip,171.12.48.73,2019-01-10T00:00:00Z,2022-06-30T04:54:56Z,['Location:Ukraine'],"
 ip,171.12.49.101,2022-07-29T00:00:00Z,2022-08-05T00:00:00Z,['Location:Ukraine'],[12],['hack']
 ip,171.210.138.9,2022-07-04T00:00:00Z,2022-07-11T00:00:00Z,['Location:Ukraine'],[12],['hack']
 ip,171.216.85.54,2022-07-06T00:00:00Z,2022-07-13T00:00:00Z,['Location:Ukraine'],[12],['hack']
-ip,171.22.30.55,2022-07-27T00:00:00Z,2022-10-11T20:00:00Z,"['Location:France', 'Malware:vidar', 'Location:Ukraine']","[1, 19, 1, 1, 2]","['spam', 'phishing', 'scan', 'hack', 'malware']"
+ip,171.22.30.55,2022-07-27T00:00:00Z,2022-10-11T21:00:00Z,"['Location:France', 'Malware:vidar', 'Location:Ukraine']","[1, 19, 1, 1, 2]","['spam', 'phishing', 'scan', 'hack', 'malware']"
 ip,171.22.76.50,2021-08-21T19:16:37Z,2022-03-13T00:07:46Z,['Location:Ukraine'],"[14, 17, 1, 14, 1]","['malware', 'scan', 'ddos', 'hack', 'spam']"
 ip,171.223.81.53,2022-07-11T00:00:00Z,2022-07-18T00:00:00Z,['Location:Ukraine'],[12],['hack']
 ip,171.224.179.130,2019-07-30T00:00:00Z,2022-02-23T03:22:45Z,['Location:Ukraine'],"[2, 1, 1]","['hack', 'malware', 'scan']"
@@ -5105,7 +5105,7 @@ ip,193.106.59.46,2019-06-10T09:38:54Z,2021-07-01T00:00:00Z,['Location:Ukraine'],
 ip,193.107.170.83,2022-02-27T00:00:00Z,2022-03-08T23:57:43Z,['Location:Ukraine'],[12],['hack']
 ip,193.138.218.212,2021-04-15T00:00:00Z,2022-08-21T06:17:35Z,['Location:Ukraine'],"[18, 16, 17]","['malware', 'scan', 'hack']"
 ip,193.138.218.218,2021-03-29T00:00:00Z,2022-06-23T10:04:53Z,['Location:Ukraine'],"[2, 0, 0]","['hack', 'malware', 'phishing']"
-ip,193.138.218.250,2021-12-18T04:35:11Z,2022-10-11T19:00:00Z,"['Location:Netherlands', 'Location:Singapore', 'Location:Germany', 'Location:Denmark', 'OCD - Threat pattern:Anonymization services', 'Location:India', 'Location:Ukraine', 'Location:Ireland', 'Location:Finland', 'Location:Russian Federation', 'Location:Republic of Korea', 'Location:United Kingdom of Great Britain and Northern Ireland', 'Location:United States of America', 'Location:France']","[0, 58, 63, 0, 39, 1, 0]","['fraud', 'hack', 'scan', 'phishing', 'malware', 'ddos', 'leak']"
+ip,193.138.218.250,2021-12-18T04:35:11Z,2022-10-11T21:00:00Z,"['Location:Netherlands', 'Location:Singapore', 'Location:Germany', 'OCD - Threat pattern:Anonymization services', 'Location:Denmark', 'Location:India', 'Location:Ukraine', 'Location:Ireland', 'Location:Finland', 'Location:Russian Federation', 'Location:Republic of Korea', 'Location:United Kingdom of Great Britain and Northern Ireland', 'Location:United States of America', 'Location:France']","[1, 58, 63, 0, 39, 0, 0]","['ddos', 'hack', 'scan', 'fraud', 'malware', 'leak', 'phishing']"
 ip,193.142.246.101,2022-06-09T00:00:00Z,2022-06-16T00:00:00Z,['Location:Ukraine'],[12],['hack']
 ip,193.164.150.111,2021-06-15T08:12:53Z,2022-10-01T02:20:39Z,"['Malware:Pteranodon - S0147', 'Threat Actor:Gamaredon Group - G0047']","[20, 7, 20, 1]","['hack', 'malware', 'scan', 'phishing']"
 ip,193.164.150.121,2021-06-15T08:16:59Z,2022-10-01T02:20:39Z,"['Malware:Pteranodon - S0147', 'Threat Actor:Gamaredon Group - G0047']","[20, 9, 1, 20]","['hack', 'malware', 'phishing', 'scan']"
