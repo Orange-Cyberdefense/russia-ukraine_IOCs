@@ -4767,7 +4767,7 @@ ip,185.66.253.5,2019-08-04T00:00:00Z,2019-08-20T00:00:00Z,['Location:Ukraine'],[
 ip,185.70.184.86,2019-06-10T09:45:06Z,2022-04-17T00:00:00Z,"['Malware:metasploit', 'Location:Ukraine', 'OCD - Threat pattern:Command and Control [C2]']","[14, 2, 0]","['hack', 'malware', 'scan']"
 ip,185.72.199.112,2019-03-16T00:00:00Z,2019-04-01T00:00:00Z,['Location:Ukraine'],[2],['hack']
 ip,185.73.137.102,2022-01-15T00:00:00Z,2022-01-31T00:00:00Z,['Location:Ukraine'],[2],['hack']
-ip,185.77.217.78,2017-07-24T22:49:36Z,2022-11-01T08:00:00Z,"['Location:Slovenia', 'Location:Germany', 'Location:Canada', 'Location:Denmark', 'Location:Belgium', 'Location:United States of America', 'Location:Ukraine', 'Location:India', 'Location:France', 'Location:United Kingdom of Great Britain and Northern Ireland', 'Location:Russian Federation']","[60, 0, 37, 0, 1]","['scan', 'fraud', 'hack', 'phishing', 'malware']"
+ip,185.77.217.78,2017-07-24T22:49:36Z,2022-11-01T18:45:00Z,"['Location:Slovenia', 'Location:Germany', 'Location:Canada', 'Location:Denmark', 'Location:Belgium', 'Location:United States of America', 'Location:India', 'Location:Ukraine', 'Location:France', 'Location:United Kingdom of Great Britain and Northern Ireland', 'Location:Russian Federation']","[60, 1, 0, 37, 0]","['scan', 'malware', 'phishing', 'hack', 'fraud']"
 ip,185.82.219.10,2019-06-10T10:55:46Z,2022-05-26T00:00:00Z,['Location:Ukraine'],"[0, 11, 1]","['scan', 'hack', 'spam']"
 ip,185.85.160.65,2022-04-26T00:00:00Z,2022-05-03T00:00:00Z,['Location:Ukraine'],[12],['hack']
 ip,185.85.160.66,2022-04-17T00:00:00Z,2022-04-22T04:45:52Z,['Location:Ukraine'],[15],['hack']
