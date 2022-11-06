@@ -710,7 +710,7 @@ domain,lorianar.ru,2021-07-26T04:02:58Z,2022-06-30T00:00:00Z,"['OCD - Threat pat
 domain,lortova.ru,2022-01-04T14:23:42Z,2022-08-27T00:00:00Z,"['OCD - Threat pattern:Command and Control [C2]', 'Malware:Pteranodon - S0147', 'Threat Actor:Gamaredon Group - G0047']","[21, 13, 1]","['malware', 'hack', 'phishing']"
 domain,lotari.xyz,2021-01-24T15:28:24Z,2022-03-30T16:11:30Z,"['Location:Ukraine', 'Threat Actor:Gamaredon Group - G0047']","[3, 1, 1]","['hack', 'malware', 'phishing']"
 domain,lotorda.ru,2022-01-04T14:23:50Z,2022-09-30T04:11:54Z,"['Threat Actor:Gamaredon Group - G0047', 'Malware:Pteranodon - S0147', 'Attack Pattern:PowerShell - T1086', 'Malware:PowerPunch - S0685', 'Malware:August Stealer', 'OCD - Threat pattern:Command and Control [C2]', 'Malware:WhisperGate', 'Location:Ukraine', 'Malware:QuietSieve - S0686', 'Malware:WhisperGate - S0689', 'Malware:WildFire']","[3, 0, 18]","['hack', 'phishing', 'malware']"
-domain,lotorgas.ru,2022-01-22T18:57:31Z,2022-10-29T00:00:00Z,"['Threat Actor:Gamaredon Group - G0047', 'Attack Pattern:PowerShell - T1086', 'Malware:Pteranodon - S0147', 'Malware:PowerPunch - S0685', 'Malware:August Stealer', 'OCD - Threat pattern:Command and Control [C2]', 'Malware:QuietSieve - S0686', 'Location:Ukraine', 'Malware:WhisperGate', 'Malware:WhisperGate - S0689', 'Malware:WildFire']","[0, 1, 1]","['phishing', 'malware', 'hack']"
+domain,lotorgas.ru,2022-01-22T18:57:31Z,2022-10-29T00:00:00Z,"['Threat Actor:Gamaredon Group - G0047', 'Attack Pattern:PowerShell - T1086', 'Malware:Pteranodon - S0147', 'Malware:PowerPunch - S0685', 'Malware:August Stealer', 'OCD - Threat pattern:Command and Control [C2]', 'Malware:QuietSieve - S0686', 'Location:Ukraine', 'Malware:WhisperGate', 'Malware:WhisperGate - S0689', 'Malware:WildFire']","[1, 0, 1]","['hack', 'phishing', 'malware']"
 domain,lotorsas.ru,2021-11-24T07:09:36Z,2022-07-25T13:07:49Z,[],"[3, 9, 13]","['ddos', 'malware', 'phishing']"
 domain,lovarinda.site,2020-12-12T00:00:00Z,2022-03-30T16:11:30Z,['Threat Actor:Gamaredon Group - G0047'],"[0, 0, 0, 0, 2, 1, 0, 0, 0]","['ddos', 'fraud', 'hack', 'leak', 'malware', 'phishing', 'scam', 'scan', 'spam']"
 domain,lovelat.ru,2021-07-26T21:50:28Z,2022-06-21T08:25:06Z,"['Malware:Pteranodon - S0147', 'Threat Actor:Gamaredon Group - G0047']","[0, 1, 0]","['hack', 'malware', 'phishing']"
@@ -3347,7 +3347,7 @@ ip,124.123.190.236,2021-06-12T00:00:00Z,2021-06-28T00:00:00Z,['Location:Ukraine'
 ip,124.128.11.151,2022-07-20T00:00:00Z,2022-07-27T00:00:00Z,['Location:Ukraine'],[12],['hack']
 ip,124.15.125.1,2022-02-03T23:45:42Z,2022-09-20T02:22:18Z,"['Malware:Pteranodon - S0147', 'Threat Actor:Gamaredon Group - G0047']","[20, 18, 1, 20]","['hack', 'malware', 'phishing', 'scan']"
 ip,124.221.160.43,2022-03-22T00:00:00Z,2022-07-25T14:11:52Z,['Location:Ukraine'],"[17, 17, 19]","['malware', 'scan', 'hack']"
-ip,124.222.168.82,2022-07-22T00:00:00Z,2022-11-05T00:25:51Z,['Location:Ukraine'],"[36, 1, 51, 51]","['hack', 'ddos', 'malware', 'scan']"
+ip,124.222.168.82,2022-07-22T00:00:00Z,2022-11-06T18:15:49Z,['Location:Ukraine'],"[1, 51, 51, 36]","['ddos', 'malware', 'scan', 'hack']"
 ip,124.234.144.109,2022-07-21T00:00:00Z,2022-07-28T00:00:00Z,['Location:Ukraine'],[12],['hack']
 ip,124.235.135.223,2022-06-11T00:00:00Z,2022-06-20T09:05:28Z,['Location:Ukraine'],"[12, 8, 8]","['hack', 'malware', 'phishing']"
 ip,124.235.75.3,2022-07-18T00:00:00Z,2022-07-25T00:00:00Z,['Location:Ukraine'],[12],['hack']
