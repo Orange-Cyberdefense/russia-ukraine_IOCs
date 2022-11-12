@@ -112,7 +112,7 @@ domain,asdorta.ru,2022-01-16T20:17:40Z,2022-06-21T08:25:06Z,"['Malware:QuietSiev
 domain,asilidae.online,2021-01-22T00:00:00Z,2022-03-30T16:11:30Z,"['Threat Actor:Gamaredon Group - G0047', 'Malware:Pteranodon - S0147']","[0, 0, 2, 0, 1, 0, 1, 0, 0]","['ddos', 'fraud', 'hack', 'leak', 'malware', 'phishing', 'scam', 'scan', 'spam']"
 domain,asilidae.ru,2021-01-21T15:11:47Z,2022-03-30T16:11:30Z,"['Threat Actor:Gamaredon Group - G0047', 'Malware:Pteranodon - S0147']","[1, 1, 1, 1]","['hack', 'malware', 'phishing', 'scam']"
 domain,aspidium.xyz,2020-09-02T19:30:19Z,2022-03-30T16:11:30Z,['Threat Actor:Gamaredon Group - G0047'],"[2, 1]","['malware', 'phishing']"
-domain,aspx.io,2017-07-14T18:48:29Z,2022-11-10T04:36:07Z,"['Malware:RomCom RAT', 'Location:Ukraine', 'Identity:Government', 'Threat Actor:Tropical Scorpius']","[27, 15]","['malware', 'phishing']"
+domain,aspx.io,2017-07-14T18:48:29Z,2022-11-12T04:36:07Z,"['Malware:RomCom RAT', 'Location:Ukraine', 'Identity:Government', 'Threat Actor:Tropical Scorpius']","[21, 15]","['malware', 'phishing']"
 domain,assasysa.online,2020-12-02T00:00:00Z,2022-03-30T16:11:30Z,"['Threat Actor:Gamaredon Group - G0047', 'Location:Ukraine']","[0, 0, 3, 0, 1, 1, 0, 0, 0]","['ddos', 'fraud', 'hack', 'leak', 'malware', 'phishing', 'scam', 'scan', 'spam']"
 domain,astrologyplatform.com,2021-09-16T00:00:00Z,2022-04-27T08:50:26Z,"['Malware:Formbook', 'Malware:Xloader', 'Attack Pattern:Phishing - T1566']","[0, 0, 0, 0, 1, 1, 0, 0, 0]","['ddos', 'fraud', 'hack', 'leak', 'malware', 'phishing', 'scam', 'scan', 'spam']"
 domain,asymmetria.online,2020-09-21T19:28:53Z,2022-03-30T16:11:30Z,['Threat Actor:Gamaredon Group - G0047'],"[2, 1]","['malware', 'phishing']"
@@ -2083,7 +2083,7 @@ fqdn,vidarri.ru,2022-02-04T10:44:25Z,2022-03-09T10:44:25Z,['Threat Actor:Gamared
 fqdn,vodagi.ru,2022-02-04T10:44:31Z,2022-03-09T10:44:31Z,['Threat Actor:Gamaredon Group - G0047'],[15],['malware']
 fqdn,vostilo.ru,2022-02-04T10:44:21Z,2022-03-09T10:44:21Z,['Threat Actor:Gamaredon Group - G0047'],[15],['malware']
 fqdn,wakatteru.ru,2022-02-04T10:44:15Z,2022-03-09T10:44:15Z,['Threat Actor:Gamaredon Group - G0047'],[15],['malware']
-fqdn,www.get.adobe.com.aspx.io,2022-10-23T21:14:05Z,2022-11-10T04:36:07Z,"['Malware:RomCom RAT', 'Location:Ukraine', 'Identity:Government', 'Threat Actor:Tropical Scorpius']","[33, 33]","['phishing', 'malware']"
+fqdn,www.get.adobe.com.aspx.io,2022-10-23T21:14:05Z,2022-11-12T04:36:07Z,"['Malware:RomCom RAT', 'Location:Ukraine', 'Identity:Government', 'Threat Actor:Tropical Scorpius']","[26, 26]","['phishing', 'malware']"
 fqdn,xantoma.ru,2022-02-04T10:44:22Z,2022-03-09T10:44:22Z,['Threat Actor:Gamaredon Group - G0047'],[15],['malware']
 fqdn,zeinar.ru,2022-02-04T10:44:14Z,2022-03-09T10:44:14Z,['Threat Actor:Gamaredon Group - G0047'],[15],['malware']
 fqdn,zerotask.ru,2022-02-04T10:44:33Z,2022-03-09T10:44:33Z,['Threat Actor:Gamaredon Group - G0047'],[15],['malware']
@@ -3509,7 +3509,7 @@ ip,136.158.48.20,2022-07-20T00:00:00Z,2022-09-06T06:56:22Z,['Location:Ukraine'],
 ip,136.169.18.55,2022-05-06T00:00:00Z,2022-05-22T00:00:00Z,['Location:Ukraine'],[2],['hack']
 ip,136.185.123.232,2022-07-18T00:00:00Z,2022-07-25T00:00:00Z,['Location:Ukraine'],[12],['hack']
 ip,136.185.205.230,2022-07-27T00:00:00Z,2022-08-03T00:00:00Z,['Location:Ukraine'],[12],['hack']
-ip,136.34.8.242,2021-10-05T07:21:16Z,2022-11-12T02:05:54Z,['Location:Ukraine'],"[1, 0, 0, 14, 1, 79]","['malware', 'fraud', 'phishing', 'scan', 'spam', 'hack']"
+ip,136.34.8.242,2021-10-05T07:21:16Z,2022-11-12T03:56:11Z,['Location:Ukraine'],"[79, 1, 0, 0, 14, 1]","['hack', 'malware', 'fraud', 'phishing', 'scan', 'spam']"
 ip,137.135.105.46,2022-07-22T00:00:00Z,2022-07-29T00:00:00Z,['Location:Ukraine'],[12],['hack']
 ip,137.135.243.80,2022-07-16T00:00:00Z,2022-07-23T00:00:00Z,['Location:Ukraine'],[12],['hack']
 ip,137.184.152.246,2022-07-29T00:00:00Z,2022-10-05T20:39:55Z,['Location:Ukraine'],"[15, 20, 16]","['hack', 'malware', 'scan']"
@@ -7631,7 +7631,7 @@ ip,62.133.47.12,2021-06-17T04:56:36Z,2022-10-03T18:42:41Z,['Location:Ukraine'],"
 ip,62.148.157.42,2017-11-29T00:00:00Z,2022-04-14T06:42:21Z,['Location:Ukraine'],"[1, 2, 1, 1, 1]","['ddos', 'hack', 'malware', 'scan', 'spam']"
 ip,62.149.10.8,2022-07-08T00:00:00Z,2022-07-15T00:00:00Z,['Location:Ukraine'],[12],['hack']
 ip,62.149.14.187,2022-03-19T00:00:00Z,2022-03-24T23:09:45Z,['Location:Ukraine'],[18],['hack']
-ip,62.149.24.50,2017-02-25T15:43:48Z,2022-11-11T13:45:00Z,"['Location:France', 'Location:Belgium', 'Location:Switzerland', 'Location:United States of America', 'Location:United Kingdom of Great Britain and Northern Ireland', 'Location:Netherlands', 'Location:Finland', 'Location:Russian Federation', 'Location:Poland', 'Location:Ukraine', 'Location:Germany']","[0, 45, 80, 0]","['malware', 'hack', 'scan', 'phishing']"
+ip,62.149.24.50,2017-02-25T15:43:48Z,2022-11-12T04:00:00Z,"['Location:France', 'Location:Belgium', 'Location:Switzerland', 'Location:United States of America', 'Location:United Kingdom of Great Britain and Northern Ireland', 'Location:Netherlands', 'Location:Finland', 'Location:Russian Federation', 'Location:Poland', 'Location:Ukraine', 'Location:Germany']","[0, 80, 0, 45]","['malware', 'scan', 'phishing', 'hack']"
 ip,62.149.28.30,2022-03-03T00:00:00Z,2022-03-19T00:00:00Z,['Location:Ukraine'],[2],['hack']
 ip,62.149.5.58,2022-05-09T00:00:00Z,2022-08-28T02:07:33Z,['Location:Ukraine'],"[15, 15, 19]","['hack', 'malware', 'scan']"
 ip,62.168.183.24,2021-02-12T08:45:19Z,2021-06-20T02:01:48Z,['Location:Ukraine'],"[1, 2, 1, 1]","['ddos', 'hack', 'malware', 'scan']"
@@ -8693,7 +8693,7 @@ url,http://texlidia.com,2017-02-19T22:16:50Z,2017-04-02T22:16:50Z,['Malware:Brow
 url,http://ua.aspx.io,2022-10-23T23:06:58Z,2022-11-09T23:06:58Z,"['Malware:RomCom RAT', 'Location:Ukraine', 'Identity:Government', 'Threat Actor:Tropical Scorpius']","[11, 21]","['phishing', 'malware']"
 url,http://winchconstruction.com,2022-05-01T15:36:26Z,2022-05-25T10:08:36Z,['Malware:BrownFlood'],"[3, 19, 2]","['ddos', 'malware', 'phishing']"
 url,http://www.get.adobe.com.aspx.io,2022-10-23T23:06:58Z,2022-11-09T23:06:58Z,"['Malware:RomCom RAT', 'Location:Ukraine', 'Identity:Government', 'Threat Actor:Tropical Scorpius']","[11, 21]","['phishing', 'malware']"
-url,http://www.get.adobe.com.aspx.io/reader/download.php,2022-10-23T21:14:05Z,2022-11-10T04:36:07Z,"['Malware:RomCom RAT', 'Location:Ukraine', 'Identity:Government', 'Threat Actor:Tropical Scorpius']","[65, 65]","['malware', 'phishing']"
+url,http://www.get.adobe.com.aspx.io/reader/download.php,2022-10-23T21:14:05Z,2022-11-12T04:36:07Z,"['Malware:RomCom RAT', 'Location:Ukraine', 'Identity:Government', 'Threat Actor:Tropical Scorpius']","[52, 52]","['malware', 'phishing']"
 url,https://aspe.ro,2014-01-31T01:01:34Z,2022-06-16T15:16:39Z,['Malware:BrownFlood'],"[1, 1]","['malware', 'phishing']"
 url,https://cdn.discordapp.com/attachments/947916997713358890/949948174636830761/one.exe,2022-03-11T13:30:15Z,2022-08-09T12:32:08Z,"['Threat Actor:SaintBear', 'Location:Ukraine', 'Threat Actor:Ghostwriter']","[17, 1]","['malware', 'phishing']"
 url,https://cdn.discordapp.com/attachments/947916997713358890/949948174838165524/dropper.exe,2022-03-11T13:31:50Z,2022-08-09T12:32:08Z,"['Threat Actor:SaintBear', 'Location:Ukraine', 'Threat Actor:Ghostwriter']","[16, 1]","['malware', 'phishing']"
