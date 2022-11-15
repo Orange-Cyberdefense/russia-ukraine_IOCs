@@ -5531,7 +5531,7 @@ ip,209.126.87.68,2021-07-03T00:00:00Z,2021-10-14T11:12:49Z,['Location:Ukraine'],
 ip,209.137.248.110,2022-01-22T00:00:00Z,2022-02-07T00:00:00Z,['Location:Ukraine'],[2],['hack']
 ip,209.209.42.101,2022-06-12T00:00:00Z,2022-06-18T18:03:08Z,['Location:Ukraine'],[19],['hack']
 ip,209.58.188.174,2019-12-27T00:00:00Z,2022-08-21T12:05:22Z,['Location:Ukraine'],"[20, 16, 19, 20]","['malware', 'hack', 'spam', 'scan']"
-ip,209.97.141.219,2022-07-16T00:00:00Z,2022-11-14T18:11:37Z,['Location:Ukraine'],"[28, 31, 36]","['hack', 'scan', 'malware']"
+ip,209.97.141.219,2022-07-16T00:00:00Z,2022-11-15T06:11:37Z,['Location:Ukraine'],"[19, 22, 36]","['hack', 'scan', 'malware']"
 ip,210.1.104.155,2022-07-01T00:00:00Z,2022-07-08T00:00:00Z,['Location:Ukraine'],[12],['hack']
 ip,210.1.104.65,2022-06-29T00:00:00Z,2022-07-06T00:00:00Z,['Location:Ukraine'],[12],['hack']
 ip,210.1.114.164,2022-06-30T00:00:00Z,2022-07-07T00:00:00Z,['Location:Ukraine'],[12],['hack']
@@ -7593,7 +7593,7 @@ ip,61.0.53.9,2022-07-19T00:00:00Z,2022-07-26T00:00:00Z,['Location:Ukraine'],[12]
 ip,61.1.49.106,2022-06-28T00:00:00Z,2022-07-05T00:00:00Z,['Location:Ukraine'],[12],['hack']
 ip,61.1.55.248,2022-03-02T00:00:00Z,2022-03-18T00:00:00Z,['Location:Ukraine'],[2],['hack']
 ip,61.142.103.121,2021-06-03T00:00:00Z,2022-04-05T02:18:22Z,"['Attack Pattern:Brute Force - T1110', 'Location:Ukraine']","[1, 1, 1, 1]","['ddos', 'hack', 'malware', 'scan']"
-ip,61.144.21.67,2020-09-19T00:00:00Z,2022-11-14T19:01:51Z,"['Attack Pattern:Brute Force - T1110', 'Location:Ukraine']","[0, 15, 22, 37, 40]","['phishing', 'ddos', 'hack', 'malware', 'scan']"
+ip,61.144.21.67,2020-09-19T00:00:00Z,2022-11-15T06:27:35Z,"['Attack Pattern:Brute Force - T1110', 'Location:Ukraine']","[15, 0, 17, 37, 40]","['ddos', 'phishing', 'hack', 'malware', 'scan']"
 ip,61.150.12.254,2022-07-28T00:00:00Z,2022-08-04T00:00:00Z,['Location:Ukraine'],[12],['hack']
 ip,61.193.197.244,2022-07-04T00:00:00Z,2022-07-11T00:00:00Z,['Location:Ukraine'],[12],['hack']
 ip,61.195.188.133,2021-12-22T00:00:00Z,2022-01-07T00:00:00Z,['Location:Ukraine'],[2],['hack']
