@@ -3458,7 +3458,7 @@ ip,125.235.234.203,2021-01-14T00:00:00Z,2021-02-19T11:46:21Z,['Location:Ukraine'
 ip,125.235.236.90,2021-02-02T11:51:27Z,2021-04-05T00:00:00Z,['Location:Ukraine'],"[2, 1]","['hack', 'spam']"
 ip,125.235.237.225,2020-12-21T13:56:02Z,2022-02-01T12:23:47Z,['Location:Ukraine'],"[2, 1, 1]","['hack', 'scan', 'spam']"
 ip,125.235.238.223,2021-05-29T00:00:00Z,2021-06-14T00:00:00Z,['Location:Ukraine'],[2],['hack']
-ip,125.235.239.197,2021-02-26T11:52:37Z,2022-11-10T13:15:00Z,"['Location:India', 'Location:Canada', 'Location:United Kingdom of Great Britain and Northern Ireland', 'Location:Switzerland', 'Location:United States of America', 'Location:Poland', 'Location:Ukraine', 'Location:Italy', 'Location:Norway', 'Location:Denmark', 'Location:Netherlands', 'Location:France', 'Location:Australia', 'Location:Germany', 'Location:Sweden', 'Location:Cyprus']","[1, 7, 10, 1]","['malware', 'hack', 'scan', 'spam']"
+ip,125.235.239.197,2021-02-26T11:52:37Z,2022-11-10T13:15:00Z,"['Location:India', 'Location:Canada', 'Location:United Kingdom of Great Britain and Northern Ireland', 'Location:Ukraine', 'Location:Switzerland', 'Location:Poland', 'Location:United States of America', 'Location:Italy', 'Location:Norway', 'Location:Denmark', 'Location:Netherlands', 'Location:France', 'Location:Australia', 'Location:Germany', 'Location:Sweden', 'Location:Cyprus']","[1, 7, 10, 1]","['malware', 'hack', 'scan', 'spam']"
 ip,125.24.189.13,2019-12-09T00:00:00Z,2019-12-25T00:00:00Z,['Location:Ukraine'],[2],['hack']
 ip,125.24.20.62,2022-06-30T00:00:00Z,2022-07-07T00:00:00Z,['Location:Ukraine'],[12],['hack']
 ip,125.24.238.143,2021-03-10T00:00:00Z,2021-03-26T00:00:00Z,['Location:Ukraine'],[2],['hack']
@@ -8792,7 +8792,7 @@ url,http://vinergil.com,2022-07-13T06:25:54Z,2022-11-16T16:50:20Z,"['Location:Uk
 url,http://vuxuancuong.com,2017-07-13T04:36:22Z,2022-11-16T16:50:10Z,"['Location:Ukraine', 'Malware:vidar']","[1, 1]","['malware', 'phishing']"
 url,http://winchconstruction.com,2022-05-01T15:36:26Z,2022-05-25T10:08:36Z,['Malware:BrownFlood'],"[3, 19, 2]","['ddos', 'malware', 'phishing']"
 url,http://www.get.adobe.com.aspx.io,2022-10-23T23:06:58Z,2022-11-09T23:06:58Z,"['Location:Ukraine', 'Identity:Government', 'Malware:RomCom RAT', 'Threat Actor:Tropical Scorpius']","[11, 21]","['phishing', 'malware']"
-url,http://www.get.adobe.com.aspx.io/reader/download.php,2022-10-23T21:14:05Z,2022-11-16T04:36:07Z,"['Location:Ukraine', 'Identity:Government', 'Malware:RomCom RAT', 'Threat Actor:Tropical Scorpius']","[36, 36]","['malware', 'phishing']"
+url,http://www.get.adobe.com.aspx.io/reader/download.php,2022-10-23T21:14:05Z,2022-11-17T04:36:07Z,"['Location:Ukraine', 'Identity:Government', 'Malware:RomCom RAT', 'Threat Actor:Tropical Scorpius']","[36, 22]","['malware', 'phishing']"
 url,https://45.32.171.4,2022-11-12T02:04:53Z,2022-11-17T02:04:53Z,"['Location:Ukraine', 'Threat Actor:Gamaredon Group - G0047']","[31, 31]","['malware', 'phishing']"
 url,https://advanced-ip-scanner.click/en,2022-11-11T15:07:45Z,2022-11-16T16:50:07Z,"['Location:Ukraine', 'Malware:vidar']","[43, 43]","['malware', 'phishing']"
 url,https://advanced-ip-scanner.site/en,2022-11-11T15:07:46Z,2022-11-16T16:50:07Z,"['Location:Ukraine', 'Malware:vidar']","[38, 38]","['phishing', 'malware']"
