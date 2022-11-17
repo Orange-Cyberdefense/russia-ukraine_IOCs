@@ -5084,7 +5084,7 @@ ip,190.198.83.84,2019-09-25T01:30:54Z,2022-07-05T00:00:00Z,['Location:Ukraine'],
 ip,190.199.121.231,2019-08-27T00:00:00Z,2019-09-12T00:00:00Z,['Location:Ukraine'],[2],['hack']
 ip,190.199.126.113,2019-03-06T00:00:00Z,2019-03-22T00:00:00Z,['Location:Ukraine'],[2],['hack']
 ip,190.199.176.210,2021-12-17T00:00:00Z,2022-01-02T00:00:00Z,['Location:Ukraine'],[2],['hack']
-ip,190.199.183.131,2021-11-18T00:00:00Z,2022-11-16T18:09:42Z,['Location:Ukraine'],"[36, 36, 28]","['scan', 'malware', 'hack']"
+ip,190.199.183.131,2021-11-18T00:00:00Z,2022-11-17T06:09:42Z,['Location:Ukraine'],"[36, 29, 22]","['malware', 'scan', 'hack']"
 ip,190.199.237.88,2020-11-13T00:00:00Z,2020-11-29T00:00:00Z,['Location:Ukraine'],[2],['hack']
 ip,190.2.132.207,2020-10-22T17:46:02Z,2022-10-14T12:05:15Z,['Location:Ukraine'],"[0, 18, 1, 1, 1]","['phishing', 'hack', 'ddos', 'malware', 'scan']"
 ip,190.2.138.16,2020-11-12T04:30:01Z,2022-09-15T05:15:28Z,"['Location:Ukraine', 'Attack Pattern:Brute Force - T1110']","[1, 1, 0, 0, 0, 0]","['ddos', 'hack', 'malware', 'spam', 'phishing', 'scan']"
@@ -5412,7 +5412,7 @@ ip,2.44.34.154,2019-12-24T00:00:00Z,2020-01-09T00:00:00Z,['Location:Ukraine'],[2
 ip,2.50.26.219,2019-07-03T00:00:00Z,2019-07-19T00:00:00Z,['Location:Ukraine'],[2],['hack']
 ip,2.56.137.236,2022-06-22T00:00:00Z,2022-06-29T00:00:00Z,['Location:Ukraine'],[12],['hack']
 ip,2.56.57.232,2021-10-11T13:49:00Z,2022-06-09T19:53:06Z,"['Malware:Mirai', 'Attack Pattern:Brute Force - T1110', 'Location:Ukraine']","[17, 0, 12, 12, 1, 20]","['spam', 'phishing', 'hack', 'scan', 'ddos', 'malware']"
-ip,2.56.58.72,2022-06-14T00:32:49Z,2022-11-17T04:57:43Z,['Location:Ukraine'],"[32, 28, 17, 19]","['malware', 'scan', 'hack', 'spam']"
+ip,2.56.58.72,2022-06-14T00:32:49Z,2022-11-17T06:13:47Z,['Location:Ukraine'],"[22, 19, 32, 17]","['scan', 'spam', 'malware', 'hack']"
 ip,2.57.121.66,2022-04-04T00:00:00Z,2022-05-09T18:15:32Z,['Location:Ukraine'],"[14, 16, 20]","['hack', 'scan', 'malware']"
 ip,2.57.171.12,2022-07-10T00:00:00Z,2022-07-17T00:00:00Z,['Location:Ukraine'],[12],['hack']
 ip,2.59.79.219,2022-07-20T00:00:00Z,2022-07-27T00:00:00Z,['Location:Ukraine'],[12],['hack']
