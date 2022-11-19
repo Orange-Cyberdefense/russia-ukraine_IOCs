@@ -1460,7 +1460,7 @@ file,58075401e25cfe4a3abf6864860fc846ec313dc1add20d686990f0d626f2a597,2022-01-31
 file,583741d4b693d5af79cda7fc534ce2d404074a10e1efe0010c62339da4a26afd,2022-01-31T16:59:34Z,2022-09-21T13:18:50Z,"['Malware:WildFire', 'Malware:Pteranodon - S0147', 'Location:Ukraine', 'Malware:WhisperGate', 'Malware:QuietSieve - S0686', 'Attack Pattern:PowerShell - T1086', 'Malware:August Stealer', 'Malware:PowerPunch - S0685', 'Malware:WhisperGate - S0689', 'Threat Actor:Gamaredon Group - G0047']",[48],['malware']
 file,58bc1b6163c9656a11327bea38b62a99b198c40fd17dc691e1ea0ec0d4bf4cab,2022-04-21T07:41:38Z,2022-11-17T10:06:12Z,"['Malware:Pteranodon - S0147', 'Threat Actor:Gamaredon Group - G0047']",[48],['malware']
 file,58c40d0ad81f25bcd68a5523d867eb34,2022-08-19T09:06:03Z,2022-11-16T16:49:57Z,"['Threat Actor:From Russia with Love', 'Location:Ukraine', 'Malware:vidar', 'Malware:Somnia']",[76],['malware']
-file,58d71fff346017cf8311120c69c9946a,2022-03-09T16:26:16Z,2022-10-06T12:07:46Z,"['Malware:CaddyWiper - S0693', 'Malware:HermeticWiper - S0697', 'Malware:HermeticWizard - S0698']","[19, 100, 23]","['phishing', 'malware', 'hack']"
+file,58d71fff346017cf8311120c69c9946a,2022-03-09T16:26:16Z,2022-10-06T12:07:46Z,"['Malware:CaddyWiper - S0693', 'Malware:HermeticWiper - S0697', 'Malware:HermeticWizard - S0698']","[100, 19, 22]","['malware', 'phishing', 'hack']"
 file,59cb88a1da4d458204ede1e1c156d778d28ad8cf6edf7a93158066ad58b6b680,2022-04-21T07:41:38Z,2022-11-17T10:06:12Z,"['Malware:Pteranodon - S0147', 'Threat Actor:Gamaredon Group - G0047']",[48],['malware']
 file,59f0c3b7890f11217ad37764f225cd1c9d27747495d80dadde40b78edfbfa21e,2022-11-03T16:21:13Z,2022-11-03T16:41:38Z,"['Malware:RomCom RAT', 'Identity:Government', 'Location:Ukraine', 'Threat Actor:Tropical Scorpius']",[100],['malware']
 file,5a2c58b9ad136ecaea903e47ca7d0727,2022-03-09T16:01:32Z,2022-10-12T08:50:26Z,"['Malware:MoqHao', 'Malware:Xloader', 'Attack Pattern:Phishing - T1566', 'Malware:Formbook']",[45],['malware']
@@ -2509,7 +2509,7 @@ ip,106.67.154.210,2022-06-28T00:00:00Z,2022-07-05T00:00:00Z,['Location:Ukraine']
 ip,106.76.71.158,2021-04-20T00:00:00Z,2021-05-06T00:00:00Z,['Location:Ukraine'],[2],['hack']
 ip,106.77.42.77,2019-10-23T00:00:00Z,2021-05-25T10:47:52Z,['Location:Ukraine'],"[2, 1]","['hack', 'spam']"
 ip,106.79.203.84,2020-04-07T00:00:00Z,2020-04-23T00:00:00Z,['Location:Ukraine'],[2],['hack']
-ip,107.150.126.215,2022-02-14T00:00:00Z,2022-11-19T14:13:54Z,['Location:Ukraine'],"[13, 0, 52, 19, 0, 0, 5]","['scan', 'fraud', 'hack', 'spam', 'ddos', 'phishing', 'malware']"
+ip,107.150.126.215,2022-02-14T00:00:00Z,2022-11-19T16:59:39Z,['Location:Ukraine'],"[5, 19, 0, 0, 13, 0, 52]","['malware', 'spam', 'ddos', 'phishing', 'scan', 'fraud', 'hack']"
 ip,107.150.22.230,2022-06-07T00:00:00Z,2022-06-14T00:00:00Z,['Location:Ukraine'],[12],['hack']
 ip,107.181.178.88,2020-11-16T00:00:00Z,2022-06-12T06:42:34Z,['Location:Ukraine'],"[2, 1]","['hack', 'spam']"
 ip,107.185.143.71,2022-07-31T00:00:00Z,2022-08-07T00:00:00Z,['Location:Ukraine'],[12],['hack']
@@ -4016,7 +4016,7 @@ ip,160.202.39.235,2020-09-17T10:49:36Z,2022-07-06T00:00:00Z,['Location:Ukraine']
 ip,160.238.38.26,2022-01-14T00:00:00Z,2022-06-08T09:21:46Z,['Location:Ukraine'],[16],['hack']
 ip,160.238.74.54,2019-08-13T00:00:00Z,2019-12-27T23:02:52Z,['Location:Ukraine'],"[2, 0, 0]","['hack', 'scan', 'spam']"
 ip,161.35.213.161,2021-03-12T22:51:03Z,2022-09-11T00:17:11Z,"['Attack Pattern:Brute Force - T1110', 'Location:Ukraine']","[17, 1, 19, 1, 0, 19]","['hack', 'ddos', 'malware', 'spam', 'phishing', 'scan']"
-ip,161.35.213.88,2021-03-06T10:17:33Z,2022-11-19T14:05:33Z,['Location:Ukraine'],"[0, 0, 5, 1, 0, 3, 52]","['fraud', 'ddos', 'malware', 'spam', 'phishing', 'scan', 'hack']"
+ip,161.35.213.88,2021-03-06T10:17:33Z,2022-11-19T15:19:06Z,['Location:Ukraine'],"[0, 5, 0, 0, 3, 52, 1]","['ddos', 'malware', 'fraud', 'phishing', 'scan', 'hack', 'spam']"
 ip,161.35.60.104,2020-07-06T05:30:52Z,2022-03-25T15:18:07Z,['Location:Ukraine'],"[0, 0, 1, 1, 2]","['malware', 'phishing', 'scan', 'ddos', 'hack']"
 ip,162.210.148.51,2022-07-14T00:00:00Z,2022-07-21T00:00:00Z,['Location:Ukraine'],[12],['hack']
 ip,162.216.215.41,2021-02-24T00:00:00Z,2021-03-12T00:00:00Z,['Location:Ukraine'],[2],['hack']
@@ -5194,7 +5194,7 @@ ip,193.106.59.46,2019-06-10T09:38:54Z,2021-07-01T00:00:00Z,['Location:Ukraine'],
 ip,193.107.170.83,2022-02-27T00:00:00Z,2022-03-08T23:57:43Z,['Location:Ukraine'],[12],['hack']
 ip,193.138.218.212,2021-04-15T00:00:00Z,2022-11-18T14:29:32Z,['Location:Ukraine'],"[1, 1, 19, 1]","['hack', 'scan', 'spam', 'malware']"
 ip,193.138.218.218,2021-03-29T00:00:00Z,2022-06-23T10:04:53Z,['Location:Ukraine'],"[2, 0, 0]","['hack', 'malware', 'phishing']"
-ip,193.138.218.250,2021-12-18T04:35:11Z,2022-11-19T13:43:22Z,"['Location:India', 'Location:Denmark', 'Location:Republic of Korea', 'Location:Netherlands', 'Location:Ukraine', 'OCD - Threat pattern:Anonymization services', 'Location:Russian Federation', 'Location:Canada', 'Location:Singapore', 'Location:United Kingdom of Great Britain and Northern Ireland', 'Location:France', 'Location:Ireland', 'Location:Germany', 'Location:United States of America', 'Location:Finland']","[0, 1, 37, 46, 19, 0, 0]","['phishing', 'ddos', 'hack', 'scan', 'malware', 'leak', 'fraud']"
+ip,193.138.218.250,2021-12-18T04:35:11Z,2022-11-19T16:15:31Z,"['Location:India', 'Location:France', 'Location:Republic of Korea', 'Location:Netherlands', 'Location:Ukraine', 'OCD - Threat pattern:Anonymization services', 'Location:Russian Federation', 'Location:Canada', 'Location:Singapore', 'Location:United Kingdom of Great Britain and Northern Ireland', 'Location:Denmark', 'Location:Ireland', 'Location:Germany', 'Location:United States of America', 'Location:Finland']","[0, 19, 0, 1, 37, 47, 0]","['fraud', 'malware', 'leak', 'ddos', 'hack', 'scan', 'phishing']"
 ip,193.142.246.101,2022-06-09T00:00:00Z,2022-06-16T00:00:00Z,['Location:Ukraine'],[12],['hack']
 ip,193.164.150.111,2021-06-15T08:12:53Z,2022-10-01T02:20:39Z,"['Malware:Pteranodon - S0147', 'Threat Actor:Gamaredon Group - G0047']","[20, 7, 20, 1]","['hack', 'malware', 'scan', 'phishing']"
 ip,193.164.150.121,2021-06-15T08:16:59Z,2022-10-01T02:20:39Z,"['Malware:Pteranodon - S0147', 'Threat Actor:Gamaredon Group - G0047']","[20, 9, 1, 20]","['hack', 'malware', 'phishing', 'scan']"
@@ -7945,7 +7945,7 @@ ip,79.135.195.0,2022-06-27T00:00:00Z,2022-07-04T00:00:00Z,['Location:Ukraine'],[
 ip,79.139.163.234,2022-07-09T00:00:00Z,2022-07-16T00:00:00Z,['Location:Ukraine'],[12],['hack']
 ip,79.139.209.207,2022-06-25T00:00:00Z,2022-07-02T00:00:00Z,['Location:Ukraine'],[12],['hack']
 ip,79.141.219.74,2021-03-22T00:00:00Z,2022-07-29T12:18:50Z,['Location:Ukraine'],"[19, 17]","['hack', 'scan']"
-ip,79.142.69.160,2020-12-26T17:27:02Z,2022-11-19T11:59:45Z,"['Location:Ukraine', 'Malware:Mirai']","[0, 1, 0, 26, 2, 0]","['scan', 'ddos', 'fraud', 'hack', 'malware', 'phishing']"
+ip,79.142.69.160,2020-12-26T17:27:02Z,2022-11-19T15:22:55Z,"['Location:Ukraine', 'Malware:Mirai']","[1, 0, 25, 2, 0, 0]","['ddos', 'fraud', 'hack', 'malware', 'phishing', 'scan']"
 ip,79.146.189.175,2022-04-02T00:00:00Z,2022-04-07T22:23:44Z,['Location:Ukraine'],[20],['hack']
 ip,79.165.151.139,2022-03-13T00:00:00Z,2022-03-29T00:00:00Z,['Location:Ukraine'],[2],['hack']
 ip,79.168.8.78,2022-06-28T00:00:00Z,2022-07-05T00:00:00Z,['Location:Ukraine'],[12],['hack']
@@ -8355,7 +8355,7 @@ ip,91.225.140.238,2022-02-28T00:00:00Z,2022-03-08T23:57:42Z,['Location:Ukraine']
 ip,91.225.142.34,2022-02-25T00:00:00Z,2022-03-08T23:57:43Z,['Location:Ukraine'],[12],['hack']
 ip,91.225.50.6,2020-03-09T00:00:00Z,2020-03-25T00:00:00Z,['Location:Ukraine'],[2],['hack']
 ip,91.228.208.213,2022-06-09T00:00:00Z,2022-06-25T09:07:03Z,['Location:Ukraine'],"[11, 6, 8, 16]","['hack', 'scan', 'phishing', 'malware']"
-ip,91.231.84.41,2016-06-04T14:09:23Z,2022-11-19T10:22:09Z,"['Location:Italy', 'OCD - Threat pattern:Command and Control [C2]', 'Location:Ukraine', 'Location:France', 'Location:Germany', 'Attack Pattern:Exfiltration Over C2 Channel - T1041', 'Location:Czechia', 'Location:United Kingdom of Great Britain and Northern Ireland', 'Location:Netherlands', 'Malware:Rakhni', 'Location:Viet Nam', 'Location:United States of America', 'Tool:Remcos - S0332', 'Location:Canada', 'Malware:Remcos', 'Location:Poland', 'Location:Singapore', 'Location:Denmark', 'Malware:Anubis (Android)', 'Location:Australia']","[0, 36, 38, 0, 6, 0, 0, 0]","['ddos', 'hack', 'scan', 'leak', 'malware', 'spam', 'fraud', 'phishing']"
+ip,91.231.84.41,2016-06-04T14:09:23Z,2022-11-19T15:30:00Z,"['Location:Italy', 'OCD - Threat pattern:Command and Control [C2]', 'Location:Ukraine', 'Location:France', 'Attack Pattern:Exfiltration Over C2 Channel - T1041', 'Location:Germany', 'Location:Czechia', 'Location:United Kingdom of Great Britain and Northern Ireland', 'Location:Netherlands', 'Malware:Rakhni', 'Location:United States of America', 'Malware:Anubis (Android)', 'Tool:Remcos - S0332', 'Location:Canada', 'Location:Poland', 'Location:Singapore', 'Malware:Remcos', 'Location:Denmark', 'Location:Viet Nam', 'Location:Australia']","[6, 38, 0, 37, 0, 0, 0, 0]","['malware', 'scan', 'ddos', 'hack', 'spam', 'fraud', 'phishing', 'leak']"
 ip,91.232.158.101,2021-06-08T00:00:00Z,2022-11-19T09:43:06Z,['Location:Ukraine'],"[0, 0, 19]","['phishing', 'malware', 'hack']"
 ip,91.233.117.117,2022-04-13T00:00:00Z,2022-04-20T00:00:00Z,['Location:Ukraine'],[12],['hack']
 ip,91.233.172.107,2022-01-16T00:00:00Z,2022-07-05T06:08:07Z,['Location:Ukraine'],"[20, 16, 20]","['scan', 'hack', 'malware']"
@@ -8605,7 +8605,7 @@ url,http://139.180.180.120/credit/cranny.au,2022-04-20T11:44:55Z,2022-05-24T10:0
 url,http://139.60.161.165,2019-03-19T14:55:09Z,2022-11-16T16:50:21Z,"['Threat Actor:From Russia with Love', 'Malware:vidar', 'Malware:Somnia', 'Location:Ukraine']","[2, 2]","['phishing', 'malware']"
 url,http://139.60.161.167,2018-12-10T10:29:45Z,2022-08-24T16:21:34Z,"['Threat Actor:From Russia with Love', 'Malware:vidar', 'Malware:Somnia', 'Location:Ukraine']","[2, 2]","['malware', 'phishing']"
 url,http://139.60.161.213,2020-06-15T21:41:10Z,2022-11-16T16:50:22Z,"['Threat Actor:From Russia with Love', 'Malware:vidar', 'Malware:Somnia', 'Location:Ukraine']","[17, 2]","['malware', 'phishing']"
-url,http://139.60.161.47,2019-01-18T23:23:15Z,2022-11-03T16:36:27Z,"['Threat Actor:From Russia with Love', 'Malware:vidar', 'Malware:Somnia', 'Location:Ukraine']","[25, 2]","['malware', 'phishing']"
+url,http://139.60.161.47,2019-01-18T23:23:15Z,2022-11-19T16:36:27Z,"['Threat Actor:From Russia with Love', 'Malware:vidar', 'Malware:Somnia', 'Location:Ukraine']","[12, 2]","['malware', 'phishing']"
 url,http://139.60.161.52,2021-02-25T17:57:25Z,2022-11-16T16:50:12Z,"['Threat Actor:From Russia with Love', 'Malware:vidar', 'Malware:Somnia', 'Location:Ukraine']","[1, 19, 1]","['hack', 'malware', 'phishing']"
 url,http://139.60.161.63,2017-05-25T17:02:32Z,2022-11-16T16:50:24Z,"['Threat Actor:From Russia with Love', 'Malware:vidar', 'Malware:Somnia', 'Location:Ukraine']","[2, 1, 2]","['phishing', 'hack', 'malware']"
 url,http://144.202.91.27/baseball.dbc,2022-04-20T11:45:05Z,2022-06-02T10:06:12Z,"['Malware:Pteranodon - S0147', 'Threat Actor:Gamaredon Group - G0047']","[2, 2]","['malware', 'phishing']"
@@ -8614,7 +8614,7 @@ url,http://151.248.112.232/custom/crept.nds,2022-04-20T11:45:05Z,2022-05-24T10:0
 url,http://151.248.116.181/deserter.mdl?id=4266,2022-04-20T11:44:55Z,2022-05-24T10:06:12Z,"['Malware:Pteranodon - S0147', 'Threat Actor:Gamaredon Group - G0047']","[19, 13]","['phishing', 'malware']"
 url,http://151.248.125.115/correction/crude.mdm,2022-04-20T11:44:56Z,2022-05-24T10:06:12Z,"['Malware:Pteranodon - S0147', 'Threat Actor:Gamaredon Group - G0047']","[13, 10]","['malware', 'phishing']"
 url,http://151.248.125.115/custom/crept.nds,2022-04-20T11:45:06Z,2022-06-02T10:06:12Z,"['Malware:Pteranodon - S0147', 'Threat Actor:Gamaredon Group - G0047']","[2, 2]","['malware', 'phishing']"
-url,http://154.111.181.171,2022-11-16T16:08:52Z,2022-11-16T16:08:52Z,"['Location:Ukraine', 'Threat Actor:Gamaredon Group - G0047']",[100],['malware']
+url,http://154.111.181.171,2022-11-16T16:08:52Z,2022-11-19T16:08:52Z,"['Location:Ukraine', 'Threat Actor:Gamaredon Group - G0047']",[90],['malware']
 url,http://159.223.218.10/index.php,2022-07-26T14:52:12Z,2022-09-09T15:33:34Z,"['Threat Actor:Gamaredon Group - G0047', 'Attack Pattern:Phishing - T1566']","[15, 1]","['malware', 'phishing']"
 url,http://167.179.93.98/jolly.n64,2022-04-20T11:45:05Z,2022-05-24T10:06:12Z,"['Malware:Pteranodon - S0147', 'Threat Actor:Gamaredon Group - G0047']","[16, 11]","['phishing', 'malware']"
 url,http://168.100.8.42/micro.exe,2022-04-13T14:37:51Z,2022-07-08T07:47:39Z,['Location:Ukraine'],"[11, 13]","['malware', 'phishing']"
@@ -8622,7 +8622,7 @@ url,http://168.100.8.42/spisok.exe,2022-04-14T11:18:33Z,2022-07-13T07:47:39Z,[],
 url,http://173.199.90.103,2022-11-16T16:08:53Z,2022-11-17T12:22:48Z,"['Location:Ukraine', 'Threat Actor:Gamaredon Group - G0047']",[100],['malware']
 url,http://176.99.11.252/crab/crevice.elg,2022-04-20T11:44:57Z,2022-05-24T10:06:12Z,"['Malware:Pteranodon - S0147', 'Threat Actor:Gamaredon Group - G0047']","[12, 9]","['malware', 'phishing']"
 url,http://176.99.11.62/frustration.3gpp2,2022-04-20T11:45:05Z,2022-05-24T10:06:12Z,"['Malware:Pteranodon - S0147', 'Threat Actor:Gamaredon Group - G0047']","[11, 13]","['phishing', 'malware']"
-url,http://185.170.144.217,2022-11-16T16:50:24Z,2022-11-16T16:50:24Z,"['Threat Actor:From Russia with Love', 'Malware:vidar', 'Location:Ukraine', 'Malware:Somnia']",[100],['hack']
+url,http://185.170.144.217,2022-11-16T16:50:24Z,2022-11-19T16:50:24Z,"['Threat Actor:From Russia with Love', 'Malware:vidar', 'Location:Ukraine', 'Malware:Somnia']",[90],['hack']
 url,http://185.189.69.162/jersey.icb,2022-04-20T11:45:05Z,2022-05-24T10:06:12Z,"['Malware:Pteranodon - S0147', 'Threat Actor:Gamaredon Group - G0047']","[11, 13]","['phishing', 'malware']"
 url,http://185.189.69.173/baseball.dbc,2022-04-20T11:45:06Z,2022-05-24T10:06:12Z,"['Malware:Pteranodon - S0147', 'Threat Actor:Gamaredon Group - G0047']","[13, 10]","['malware', 'phishing']"
 url,http://185.189.69.174/absorb.flv,2022-04-20T11:45:05Z,2022-05-24T10:06:12Z,"['Malware:Pteranodon - S0147', 'Threat Actor:Gamaredon Group - G0047']","[11, 16]","['malware', 'phishing']"
@@ -8633,7 +8633,7 @@ url,http://185.20.227.235/frustration.3gpp2,2022-04-20T11:45:05Z,2022-05-24T10:0
 url,http://185.46.10.25/credit/cranny.au,2022-04-20T11:44:55Z,2022-05-24T10:06:12Z,"['Malware:Pteranodon - S0147', 'Threat Actor:Gamaredon Group - G0047']","[20, 13]","['phishing', 'malware']"
 url,http://185.46.10.69/correction/crude.mdm,2022-04-20T11:45:06Z,2022-05-24T10:06:12Z,"['Malware:Pteranodon - S0147', 'Threat Actor:Gamaredon Group - G0047']","[13, 11]","['malware', 'phishing']"
 url,http://185.96.163.102,2022-11-11T14:59:50Z,2022-11-18T14:59:50Z,"['Threat Actor:From Russia with Love', 'Malware:vidar', 'Malware:Somnia', 'Location:Ukraine']","[31, 22]","['malware', 'phishing']"
-url,http://185.96.163.102:80,2022-11-16T16:50:09Z,2022-11-16T16:50:09Z,"['Threat Actor:From Russia with Love', 'Malware:vidar', 'Location:Ukraine', 'Malware:Somnia']",[100],['hack']
+url,http://185.96.163.102:80,2022-11-16T16:50:09Z,2022-11-19T16:50:09Z,"['Threat Actor:From Russia with Love', 'Malware:vidar', 'Malware:Somnia', 'Location:Ukraine']",[90],['hack']
 url,http://193.124.206.208/crawford/crept.db,2022-04-20T11:44:56Z,2022-05-24T10:06:12Z,"['Malware:Pteranodon - S0147', 'Threat Actor:Gamaredon Group - G0047']","[13, 19]","['malware', 'phishing']"
 url,http://193.124.206.208/deserter.mdl?id=4266,2022-04-20T11:44:57Z,2022-05-24T10:06:12Z,"['Malware:Pteranodon - S0147', 'Threat Actor:Gamaredon Group - G0047']","[13, 9]","['malware', 'phishing']"
 url,http://193.43.146.39,2022-11-11T14:59:57Z,2022-11-18T14:59:57Z,"['Threat Actor:From Russia with Love', 'Malware:vidar', 'Malware:Somnia', 'Location:Ukraine']","[22, 31]","['phishing', 'malware']"
@@ -8659,7 +8659,7 @@ url,http://194.67.105.103/credit/cranny.au,2022-04-20T11:44:56Z,2022-05-24T10:06
 url,http://194.67.108.228/put.php,2022-04-20T11:45:05Z,2022-05-24T10:06:12Z,"['Malware:Pteranodon - S0147', 'Threat Actor:Gamaredon Group - G0047']","[13, 9]","['malware', 'phishing']"
 url,http://194.67.109.18/correct/copyright/court.tmp,2022-04-20T11:44:55Z,2022-05-24T10:06:12Z,"['Malware:Pteranodon - S0147', 'Threat Actor:Gamaredon Group - G0047']","[13, 11]","['malware', 'phishing']"
 url,http://194.67.92.215/correction/crude.mdm,2022-04-20T11:45:06Z,2022-05-24T10:06:12Z,"['Malware:Pteranodon - S0147', 'Threat Actor:Gamaredon Group - G0047']","[9, 12]","['phishing', 'malware']"
-url,http://209.222.101.65,2022-11-16T16:50:11Z,2022-11-16T16:50:11Z,"['Threat Actor:From Russia with Love', 'Malware:vidar', 'Location:Ukraine', 'Malware:Somnia']",[100],['hack']
+url,http://209.222.101.65,2022-11-16T16:50:11Z,2022-11-19T16:50:11Z,"['Threat Actor:From Russia with Love', 'Malware:vidar', 'Location:Ukraine', 'Malware:Somnia']",[90],['hack']
 url,http://31.31.203.61/crept/crumb.arc,2022-04-20T11:44:55Z,2022-05-24T10:06:12Z,"['Malware:Pteranodon - S0147', 'Threat Actor:Gamaredon Group - G0047']","[13, 11]","['malware', 'phishing']"
 url,http://31.31.203.61/deserter.mdl?id=4266,2022-04-20T11:45:05Z,2022-06-02T10:06:12Z,"['Malware:Pteranodon - S0147', 'Threat Actor:Gamaredon Group - G0047']","[2, 2]","['malware', 'phishing']"
 url,http://37.140.197.165/custom/crept.nds,2022-04-20T11:44:56Z,2022-06-02T10:06:12Z,"['Malware:Pteranodon - S0147', 'Threat Actor:Gamaredon Group - G0047']","[2, 2]","['malware', 'phishing']"
@@ -8717,7 +8717,7 @@ url,http://94.158.244.100/jersey.icb,2022-04-20T11:45:05Z,2022-05-24T10:06:12Z,"
 url,http://94.158.244.64/barren.cbt09.12.2021%209:50:19,2022-04-20T11:45:06Z,2022-05-24T10:06:12Z,"['Malware:Pteranodon - S0147', 'Threat Actor:Gamaredon Group - G0047']","[12, 11]","['phishing', 'malware']"
 url,http://94.158.245.165/fruitless.ive15.12.2021%2017:23:29,2022-04-20T11:45:06Z,2022-06-02T10:06:12Z,"['Malware:Pteranodon - S0147', 'Threat Actor:Gamaredon Group - G0047']","[2, 2]","['malware', 'phishing']"
 url,http://94.232.41.105,2022-11-16T16:50:27Z,2022-11-17T12:25:03Z,"['Threat Actor:From Russia with Love', 'Malware:vidar', 'Location:Ukraine', 'Malware:Somnia']",[100],['hack']
-url,http://95.217.244.2,2022-11-16T16:50:28Z,2022-11-16T16:50:28Z,"['Threat Actor:From Russia with Love', 'Malware:vidar', 'Location:Ukraine', 'Malware:Somnia']",[100],['hack']
+url,http://95.217.244.2,2022-11-16T16:50:28Z,2022-11-19T16:50:28Z,"['Threat Actor:From Russia with Love', 'Malware:vidar', 'Location:Ukraine', 'Malware:Somnia']",[90],['hack']
 url,http://a0667987.xsph.ru/preparations/rejection.xml,2022-05-10T18:07:57Z,2022-06-15T13:06:10Z,['Threat Actor:Gamaredon Group - G0047'],"[13, 2]","['malware', 'phishing']"
 url,http://a0667987.xsph.ru/zsu/faicon.ico,2022-05-12T09:55:56Z,2022-06-27T12:13:53Z,['Threat Actor:Gamaredon Group - G0047'],"[3, 2]","['malware', 'phishing']"
 url,http://a0671524.xsph.ru/bandage/precarious.xml,2022-05-12T18:12:47Z,2022-11-14T17:30:10Z,['Threat Actor:Gamaredon Group - G0047'],"[19, 28, 14]","['phishing', 'malware', 'hack']"
@@ -8731,20 +8731,20 @@ url,http://a0698649.xsph.ru/selection/headache.xml,2022-07-25T16:53:27Z,2022-09-
 url,http://admis.club/pay2/api.php,2022-04-19T09:19:51Z,2022-05-23T07:50:09Z,[],"[14, 20]","['malware', 'phishing']"
 url,http://advanced-ip-scaner.com.vuxuancuong.com,2022-08-04T23:22:51Z,2022-11-16T16:50:10Z,"['Threat Actor:From Russia with Love', 'Malware:vidar', 'Malware:Somnia', 'Location:Ukraine']","[2, 2]","['malware', 'phishing']"
 url,http://advanced-ip-scaner.com/download,2022-11-03T16:21:30Z,2022-11-12T16:21:30Z,"['Malware:RomCom RAT', 'Identity:Government', 'Location:Ukraine', 'Threat Actor:Tropical Scorpius']",[50],['malware']
-url,http://advanced-ip-scanner.click,2022-11-16T16:50:13Z,2022-11-16T16:50:13Z,"['Threat Actor:From Russia with Love', 'Malware:vidar', 'Location:Ukraine', 'Malware:Somnia']",[100],['hack']
-url,http://advanced-ip-scanner.site,2022-11-16T16:50:14Z,2022-11-16T16:50:14Z,"['Threat Actor:From Russia with Love', 'Malware:vidar', 'Location:Ukraine', 'Malware:Somnia']",[100],['hack']
+url,http://advanced-ip-scanner.click,2022-11-16T16:50:13Z,2022-11-19T16:50:13Z,"['Threat Actor:From Russia with Love', 'Malware:vidar', 'Location:Ukraine', 'Malware:Somnia']",[90],['hack']
+url,http://advanced-ip-scanner.site,2022-11-16T16:50:14Z,2022-11-19T16:50:14Z,"['Threat Actor:From Russia with Love', 'Malware:vidar', 'Location:Ukraine', 'Malware:Somnia']",[90],['hack']
 url,http://advanced-ip-scanners.com/advancedipscanner.msi,2022-07-30T15:44:22Z,2022-11-03T16:41:52Z,"['Malware:RomCom RAT', 'Identity:Government', 'Location:Ukraine', 'Threat Actor:Tropical Scorpius']","[2, 2]","['phishing', 'malware']"
 url,http://aluaadin.com,2022-07-16T08:24:43Z,2022-11-16T16:50:15Z,"['Threat Actor:From Russia with Love', 'Malware:vidar', 'Malware:Somnia', 'Location:Ukraine']","[11, 11]","['malware', 'phishing']"
 url,http://anniversarygiftsforcouples.com,2022-05-02T10:08:32Z,2022-05-16T10:08:32Z,['Malware:BrownFlood'],[15],['ddos']
 url,http://ao3.hmgo.pw/tags/Akihabara@TODEEP/works,2022-03-24T10:10:32Z,2022-04-26T10:35:20Z,['Tool:Cobalt Strike - S0154'],[15],['malware']
 url,http://ao3.hmgo.pw/tags/Akihabara@TODEEP/works/update,2022-03-24T10:10:33Z,2022-04-26T10:35:20Z,['Tool:Cobalt Strike - S0154'],[15],['malware']
-url,http://arhiv.ua-cip.org,2022-11-16T16:09:02Z,2022-11-16T16:09:02Z,"['Location:Ukraine', 'Threat Actor:Gamaredon Group - G0047']",[100],['malware']
-url,http://arhiv.ua-cip.org/08.11.2022.arhiv,2022-11-16T16:08:45Z,2022-11-16T16:08:45Z,"['Location:Ukraine', 'Threat Actor:Gamaredon Group - G0047']",[100],['malware']
+url,http://arhiv.ua-cip.org,2022-11-16T16:09:02Z,2022-11-19T16:09:02Z,"['Location:Ukraine', 'Threat Actor:Gamaredon Group - G0047']",[90],['malware']
+url,http://arhiv.ua-cip.org/08.11.2022.arhiv,2022-11-16T16:08:45Z,2022-11-19T16:08:45Z,"['Location:Ukraine', 'Threat Actor:Gamaredon Group - G0047']",[90],['malware']
 url,http://aspx.io,2017-07-14T18:48:29Z,2022-11-03T16:41:59Z,"['Malware:RomCom RAT', 'Identity:Government', 'Location:Ukraine', 'Threat Actor:Tropical Scorpius']","[2, 2]","['malware', 'phishing']"
 url,http://benokij.com,2022-03-09T17:35:11Z,2022-11-16T16:50:17Z,"['Threat Actor:From Russia with Love', 'Malware:vidar', 'Malware:Somnia', 'Location:Ukraine']","[20, 20, 20]","['malware', 'hack', 'phishing']"
 url,http://bike27.mirtopa.ru/lenovog570/prickly25/ambition/perceive.cfg,2022-03-18T07:51:36Z,2022-07-19T11:58:04Z,"['Location:Ukraine', 'Threat Actor:Gamaredon Group - G0047']","[15, 15]","['phishing', 'malware']"
 url,http://blog.gocon.in,2022-05-02T10:08:36Z,2022-05-16T10:08:36Z,['Malware:BrownFlood'],[15],['ddos']
-url,http://civh.ru/08.11/band.rtf,2022-11-16T16:08:47Z,2022-11-16T16:08:47Z,"['Location:Ukraine', 'Threat Actor:Gamaredon Group - G0047']",[100],['malware']
+url,http://civh.ru/08.11/band.rtf,2022-11-16T16:08:47Z,2022-11-19T16:08:47Z,"['Location:Ukraine', 'Threat Actor:Gamaredon Group - G0047']",[90],['malware']
 url,http://combinedresidency.org,2016-02-17T21:51:09Z,2022-11-03T16:42:01Z,"['Malware:RomCom RAT', 'Identity:Government', 'Location:Ukraine', 'Threat Actor:Tropical Scorpius']","[2, 2]","['malware', 'phishing']"
 url,http://combinedresidency.org:4444,2022-08-25T18:28:41Z,2022-11-13T20:22:26Z,"['Malware:RomCom RAT', 'Identity:Government', 'Location:Ukraine', 'Threat Actor:Tropical Scorpius']","[11, 2]","['malware', 'phishing']"
 url,http://economiquity.org,2022-05-02T10:08:36Z,2022-05-16T10:08:36Z,['Malware:BrownFlood'],[15],['ddos']
@@ -8755,15 +8755,15 @@ url,http://gov.mil.ua.aspx.io,2022-10-22T18:42:15Z,2022-11-09T23:06:58Z,"['Malwa
 url,http://granitecsinks.ca,2022-05-02T10:08:29Z,2022-05-16T10:08:29Z,['Malware:BrownFlood'],[15],['ddos']
 url,http://hamnavard.sharif.ir/wp-content/plugins/visitors-traffic-real-time-statistics/js/front.js?ver=5.6.8,2022-04-28T14:27:59Z,2022-05-15T14:27:59Z,['Malware:BrownFlood'],"[13, 13]","['malware', 'phishing']"
 url,http://hilr.ru,2022-10-28T18:38:19Z,2022-11-16T16:08:56Z,"['Location:Ukraine', 'Threat Actor:Gamaredon Group - G0047']","[15, 15]","['phishing', 'malware']"
-url,http://hilr.ru/07.11/growth.rtf,2022-11-16T16:08:48Z,2022-11-16T16:08:48Z,"['Location:Ukraine', 'Threat Actor:Gamaredon Group - G0047']",[100],['malware']
-url,http://hilr.ru/07.11/sent.rtf,2022-11-16T16:08:49Z,2022-11-16T16:08:49Z,"['Location:Ukraine', 'Threat Actor:Gamaredon Group - G0047']",[100],['malware']
+url,http://hilr.ru/07.11/growth.rtf,2022-11-16T16:08:48Z,2022-11-19T16:08:48Z,"['Location:Ukraine', 'Threat Actor:Gamaredon Group - G0047']",[90],['malware']
+url,http://hilr.ru/07.11/sent.rtf,2022-11-16T16:08:49Z,2022-11-19T16:08:49Z,"['Location:Ukraine', 'Threat Actor:Gamaredon Group - G0047']",[90],['malware']
 url,http://inter-webservices.com,2022-05-02T10:08:31Z,2022-05-16T10:08:31Z,['Malware:BrownFlood'],[15],['ddos']
 url,http://karunadana.org,2022-05-02T10:08:35Z,2022-05-16T10:08:35Z,['Malware:BrownFlood'],[15],['ddos']
 url,http://kesp.cl,2022-05-02T10:08:32Z,2022-05-16T10:08:32Z,['Malware:BrownFlood'],[15],['ddos']
 url,http://lonelyatthetop.com,2016-02-06T18:19:20Z,2016-03-19T18:19:20Z,['Malware:BrownFlood'],"[1, 1]","['phishing', 'malware']"
 url,http://ludepa.ec,2016-01-19T18:02:18Z,2022-05-16T10:08:30Z,['Malware:BrownFlood'],"[1, 1, 15]","['malware', 'phishing', 'ddos']"
-url,http://mail.gov.ua,2022-11-16T16:08:51Z,2022-11-16T16:08:51Z,"['Location:Ukraine', 'Threat Actor:Gamaredon Group - G0047']",[100],['malware']
-url,http://mastodon.social/@ffolegg,2022-11-16T16:49:59Z,2022-11-16T16:49:59Z,"['Threat Actor:From Russia with Love', 'Malware:vidar', 'Location:Ukraine', 'Malware:Somnia']",[100],['hack']
+url,http://mail.gov.ua,2022-11-16T16:08:51Z,2022-11-19T16:08:51Z,"['Location:Ukraine', 'Threat Actor:Gamaredon Group - G0047']",[90],['malware']
+url,http://mastodon.social/@ffolegg,2022-11-16T16:49:59Z,2022-11-19T16:49:59Z,"['Threat Actor:From Russia with Love', 'Malware:vidar', 'Malware:Somnia', 'Location:Ukraine']",[90],['hack']
 url,http://mil.ua.aspx.io,2022-11-03T16:21:36Z,2022-11-12T16:21:36Z,"['Malware:RomCom RAT', 'Identity:Government', 'Location:Ukraine', 'Threat Actor:Tropical Scorpius']",[50],['malware']
 url,http://mill.co.ua,2022-11-03T16:21:38Z,2022-11-12T16:21:38Z,"['Malware:RomCom RAT', 'Identity:Government', 'Location:Ukraine', 'Threat Actor:Tropical Scorpius']",[50],['malware']
 url,http://mitraseo.hol.es,2022-05-02T10:08:34Z,2022-05-16T10:08:34Z,['Malware:BrownFlood'],[15],['ddos']
@@ -8781,10 +8781,10 @@ url,http://sinergil.com,2022-07-13T06:26:05Z,2022-11-16T16:50:17Z,"['Threat Acto
 url,http://staystrongjewels.com,2022-05-02T10:08:31Z,2022-05-16T10:08:31Z,['Malware:BrownFlood'],[15],['ddos']
 url,http://stun.site/pet1.exe,2021-12-08T10:55:11Z,2022-08-19T12:00:15Z,[],"[2, 7, 3]","['hack', 'malware', 'phishing']"
 url,http://survefuz.com,2022-05-28T02:20:11Z,2022-11-16T16:50:19Z,"['Threat Actor:From Russia with Love', 'Malware:vidar', 'Malware:Somnia', 'Location:Ukraine']","[2, 2]","['phishing', 'malware']"
-url,http://t.me/cheaptrai,2022-11-16T16:49:58Z,2022-11-16T16:49:58Z,"['Threat Actor:From Russia with Love', 'Malware:vidar', 'Location:Ukraine', 'Malware:Somnia']",[100],['hack']
+url,http://t.me/cheaptrai,2022-11-16T16:49:58Z,2022-11-19T16:49:58Z,"['Threat Actor:From Russia with Love', 'Malware:vidar', 'Malware:Somnia', 'Location:Ukraine']",[90],['hack']
 url,http://t.me/s/vozmoz2,2022-11-13T09:16:09Z,2022-11-18T09:16:09Z,"['Location:Ukraine', 'Threat Actor:Gamaredon Group - G0047']","[45, 45]","['phishing', 'malware']"
 url,http://texlidia.com,2017-02-19T22:16:50Z,2017-04-02T22:16:50Z,['Malware:BrownFlood'],"[1, 1]","['malware', 'phishing']"
-url,http://tzi.info-cip.org/07_11_2022.xhtml,2022-11-16T16:08:46Z,2022-11-16T16:08:46Z,"['Location:Ukraine', 'Threat Actor:Gamaredon Group - G0047']",[100],['malware']
+url,http://tzi.info-cip.org/07_11_2022.xhtml,2022-11-16T16:08:46Z,2022-11-19T16:08:46Z,"['Location:Ukraine', 'Threat Actor:Gamaredon Group - G0047']",[90],['malware']
 url,http://ua-cip.org,2022-11-09T00:16:01Z,2022-11-19T00:16:01Z,"['Location:Ukraine', 'Threat Actor:Gamaredon Group - G0047']","[22, 36]","['phishing', 'malware']"
 url,http://ua.aspx.io,2022-10-23T23:06:58Z,2022-11-09T23:06:58Z,"['Malware:RomCom RAT', 'Identity:Government', 'Location:Ukraine', 'Threat Actor:Tropical Scorpius']","[11, 21]","['phishing', 'malware']"
 url,http://vinergil.com,2022-07-13T06:25:54Z,2022-11-16T16:50:20Z,"['Threat Actor:From Russia with Love', 'Malware:vidar', 'Malware:Somnia', 'Location:Ukraine']","[11, 11]","['malware', 'phishing']"
@@ -8795,7 +8795,7 @@ url,http://www.get.adobe.com.aspx.io/reader/download.php,2022-10-23T21:14:05Z,20
 url,https://45.32.171.4,2022-11-12T02:04:53Z,2022-11-19T02:04:53Z,"['Location:Ukraine', 'Threat Actor:Gamaredon Group - G0047']","[31, 22]","['malware', 'phishing']"
 url,https://advanced-ip-scanner.click/en,2022-11-11T15:07:45Z,2022-11-18T15:07:45Z,"['Threat Actor:From Russia with Love', 'Malware:vidar', 'Malware:Somnia', 'Location:Ukraine']","[43, 30]","['malware', 'phishing']"
 url,https://advanced-ip-scanner.site/en,2022-11-11T15:07:46Z,2022-11-18T15:07:46Z,"['Threat Actor:From Russia with Love', 'Malware:vidar', 'Malware:Somnia', 'Location:Ukraine']","[38, 27]","['malware', 'phishing']"
-url,https://advanced-ip-scanner.website/en,2022-11-11T15:07:24Z,2022-11-17T16:37:40Z,"['Threat Actor:From Russia with Love', 'Malware:vidar', 'Malware:Somnia', 'Location:Ukraine']","[45, 45]","['malware', 'phishing']"
+url,https://advanced-ip-scanner.website/en,2022-11-11T15:07:24Z,2022-11-19T16:37:40Z,"['Threat Actor:From Russia with Love', 'Malware:vidar', 'Malware:Somnia', 'Location:Ukraine']","[36, 36]","['malware', 'phishing']"
 url,https://agrikoz.com,2022-07-16T09:22:40Z,2022-11-16T16:50:15Z,"['Threat Actor:From Russia with Love', 'Malware:vidar', 'Malware:Somnia', 'Location:Ukraine']","[11, 2]","['malware', 'phishing']"
 url,https://ardeas.ru,2022-10-11T13:14:01Z,2022-11-13T17:40:12Z,"['Location:Ukraine', 'Threat Actor:Gamaredon Group - G0047']","[2, 1, 10]","['phishing', 'hack', 'malware']"
 url,https://arminext.com,2022-05-23T20:20:11Z,2022-11-16T16:50:16Z,"['Threat Actor:From Russia with Love', 'Malware:vidar', 'Malware:Somnia', 'Location:Ukraine']","[2, 2]","['malware', 'phishing']"
