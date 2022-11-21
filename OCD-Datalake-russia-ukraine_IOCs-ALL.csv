@@ -2325,7 +2325,7 @@ ip,103.161.56.185,2021-03-28T00:00:00Z,2021-04-13T00:00:00Z,['Location:Ukraine']
 ip,103.161.99.216,2022-07-22T00:00:00Z,2022-07-29T00:00:00Z,['Location:Ukraine'],[12],['hack']
 ip,103.162.63.30,2022-06-26T00:00:00Z,2022-07-03T00:00:00Z,['Location:Ukraine'],[12],['hack']
 ip,103.163.182.25,2022-01-25T00:00:00Z,2022-02-10T00:00:00Z,['Location:Ukraine'],[2],['hack']
-ip,103.164.114.139,2022-07-13T00:00:00Z,2022-11-19T19:03:47Z,['Location:Ukraine'],"[0, 2, 0, 15, 0]","['scan', 'hack', 'malware', 'ddos', 'phishing']"
+ip,103.164.114.139,2022-07-13T00:00:00Z,2022-11-21T02:11:25Z,['Location:Ukraine'],"[19, 0, 20, 18, 9]","['hack', 'phishing', 'scan', 'malware', 'ddos']"
 ip,103.165.20.136,2021-05-29T00:00:00Z,2021-07-18T05:00:44Z,['Location:Ukraine'],"[2, 1, 1]","['hack', 'malware', 'scan']"
 ip,103.167.92.57,2021-11-21T15:33:06Z,2022-11-03T05:39:11Z,"['Attack Pattern:Deobfuscate/Decode Files or Information - T1140', 'Malware:MoqHao', 'Attack Pattern:Obfuscated Files or Information - T1027', 'Attack Pattern:System Owner/User Discovery - T1033', 'Malware:Formbook', 'Attack Pattern:Modify Registry - T1112', 'Attack Pattern:Command and Scripting Interpreter - T1059', 'Attack Pattern:Query Registry - T1012', 'Attack Pattern:Indicator Removal from Tools - T1027.005', 'Attack Pattern:Shared Modules - T1129', 'Attack Pattern:Application Window Discovery - T1010', 'Attack Pattern:File and Directory Discovery - T1083', 'Malware:Xloader', 'Attack Pattern:Account Discovery - T1087']","[4, 0, 1, 0]","['malware', 'hack', 'scan', 'phishing']"
 ip,103.168.182.123,2022-06-19T00:00:00Z,2022-08-09T18:17:02Z,['Location:Ukraine'],"[19, 20, 20]","['hack', 'malware', 'scan']"
@@ -4085,7 +4085,7 @@ ip,171.224.180.189,2019-10-09T00:00:00Z,2020-11-14T11:19:53Z,['Location:Ukraine'
 ip,171.224.181.189,2019-08-05T00:00:00Z,2021-01-10T00:32:42Z,['Location:Ukraine'],"[2, 1, 0]","['hack', 'scan', 'spam']"
 ip,171.224.241.111,2019-06-10T00:00:00Z,2019-06-26T00:00:00Z,['Location:Ukraine'],[2],['hack']
 ip,171.225.116.117,2022-07-05T00:00:00Z,2022-07-12T00:00:00Z,['Location:Ukraine'],[12],['hack']
-ip,171.225.184.228,2022-03-06T00:00:00Z,2022-11-21T00:44:07Z,['Location:Ukraine'],[19],['hack']
+ip,171.225.184.228,2022-03-06T00:00:00Z,2022-11-21T00:44:16Z,['Location:Ukraine'],"[66, 19, 10]","['malware', 'hack', 'scan']"
 ip,171.225.249.108,2019-09-29T00:00:00Z,2021-06-22T03:08:24Z,['Location:Ukraine'],"[2, 1, 1]","['hack', 'malware', 'scan']"
 ip,171.225.250.217,2019-10-11T00:00:00Z,2021-05-10T07:07:08Z,['Location:Ukraine'],"[2, 0, 0, 1]","['hack', 'malware', 'scan', 'spam']"
 ip,171.231.139.142,2022-07-29T00:00:00Z,2022-08-05T00:00:00Z,['Location:Ukraine'],[12],['hack']
@@ -4493,7 +4493,7 @@ ip,180.194.28.74,2022-06-25T00:00:00Z,2022-07-02T00:00:00Z,['Location:Ukraine'],
 ip,180.195.119.249,2022-07-27T00:00:00Z,2022-08-03T00:00:00Z,['Location:Ukraine'],[12],['hack']
 ip,180.212.209.93,2021-12-24T00:00:00Z,2022-09-09T02:13:17Z,['Location:Ukraine'],"[1, 8, 17, 1, 7]","['ddos', 'hack', 'malware', 'phishing', 'scan']"
 ip,180.212.210.111,2022-04-25T00:00:00Z,2022-05-02T00:00:00Z,['Location:Ukraine'],[12],['hack']
-ip,180.214.232.17,2017-11-07T00:00:00Z,2022-11-20T18:13:36Z,['Location:Ukraine'],"[0, 40, 39, 40]","['spam', 'malware', 'hack', 'scan']"
+ip,180.214.232.17,2017-11-07T00:00:00Z,2022-11-21T02:21:43Z,['Location:Ukraine'],"[44, 48, 0, 48]","['hack', 'scan', 'spam', 'malware']"
 ip,180.217.135.197,2022-06-27T00:00:00Z,2022-07-04T00:00:00Z,['Location:Ukraine'],[12],['hack']
 ip,180.218.128.244,2021-05-25T00:00:00Z,2021-06-10T00:00:00Z,['Location:Ukraine'],[2],['hack']
 ip,180.241.101.238,2021-01-20T00:00:00Z,2021-02-05T00:00:00Z,['Location:Ukraine'],[2],['hack']
@@ -8791,7 +8791,7 @@ url,http://vuxuancuong.com,2017-07-13T04:36:22Z,2022-11-16T16:50:10Z,"['Threat A
 url,http://winchconstruction.com,2022-05-01T15:36:26Z,2022-05-25T10:08:36Z,['Malware:BrownFlood'],"[3, 19, 2]","['ddos', 'malware', 'phishing']"
 url,http://www.get.adobe.com.aspx.io,2022-10-23T23:06:58Z,2022-11-09T23:06:58Z,"['Malware:RomCom RAT', 'Threat Actor:Tropical Scorpius', 'Location:Ukraine', 'Identity:Government']","[11, 21]","['phishing', 'malware']"
 url,http://www.get.adobe.com.aspx.io/reader/download.php,2022-10-23T21:14:05Z,2022-11-17T04:36:07Z,"['Malware:RomCom RAT', 'Threat Actor:Tropical Scorpius', 'Location:Ukraine', 'Identity:Government']","[36, 22]","['malware', 'phishing']"
-url,https://45.32.171.4,2022-11-12T02:04:53Z,2022-11-19T02:04:53Z,"['Location:Ukraine', 'Threat Actor:Gamaredon Group - G0047']","[31, 22]","['malware', 'phishing']"
+url,https://45.32.171.4,2022-11-12T02:04:53Z,2022-11-21T02:04:53Z,"['Location:Ukraine', 'Threat Actor:Gamaredon Group - G0047']","[22, 22]","['phishing', 'malware']"
 url,https://advanced-ip-scanner.click/en,2022-11-11T15:07:45Z,2022-11-20T15:07:45Z,"['Threat Actor:From Russia with Love', 'Location:Ukraine', 'Malware:vidar', 'Malware:Somnia']","[30, 30]","['phishing', 'malware']"
 url,https://advanced-ip-scanner.site/en,2022-11-11T15:07:46Z,2022-11-20T15:07:46Z,"['Threat Actor:From Russia with Love', 'Location:Ukraine', 'Malware:vidar', 'Malware:Somnia']","[27, 27]","['phishing', 'malware']"
 url,https://advanced-ip-scanner.website/en,2022-11-11T15:07:24Z,2022-11-19T16:37:40Z,"['Threat Actor:From Russia with Love', 'Location:Ukraine', 'Malware:vidar', 'Malware:Somnia']","[36, 36]","['malware', 'phishing']"
