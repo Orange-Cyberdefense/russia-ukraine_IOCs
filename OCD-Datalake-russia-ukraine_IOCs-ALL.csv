@@ -5212,7 +5212,7 @@ ip,193.27.14.185,2021-06-08T00:00:00Z,2021-06-24T00:00:00Z,['Location:Ukraine'],
 ip,193.36.118.237,2021-09-06T00:00:00Z,2022-03-26T16:05:49Z,['Location:Ukraine'],"[2, 3, 1]","['hack', 'malware', 'scan']"
 ip,193.37.156.99,2021-05-01T16:59:25Z,2022-05-13T12:11:44Z,['Location:Ukraine'],[18],['hack']
 ip,193.43.146.39,2022-11-11T14:59:57Z,2022-11-17T02:37:49Z,"['Malware:vidar', 'Location:Ukraine', 'Threat Actor:From Russia with Love', 'Malware:Somnia']","[20, 20, 8, 19]","['scan', 'hack', 'phishing', 'malware']"
-ip,193.43.146.42,2022-07-29T06:39:12Z,2022-11-24T07:08:05Z,"['Location:Ukraine', 'Threat Actor:From Russia with Love', 'Malware:Somnia', 'Malware:vidar']","[33, 10, 10, 0]","['malware', 'hack', 'scan', 'phishing']"
+ip,193.43.146.42,2022-07-29T06:39:12Z,2022-11-24T07:08:05Z,"['Location:Ukraine', 'Threat Actor:From Russia with Love', 'Malware:Somnia', 'Malware:vidar']","[0, 34, 10, 10]","['phishing', 'malware', 'hack', 'scan']"
 ip,193.56.28.227,2019-04-29T00:00:00Z,2022-03-17T04:17:32Z,['Location:Ukraine'],"[13, 0, 1, 0, 0, 0, 0, 0]","['hack', 'scam', 'malware', 'scan', 'phishing', 'ddos', 'fraud', 'spam']"
 ip,193.9.112.245,2021-12-20T00:00:00Z,2022-01-05T00:00:00Z,['Location:Ukraine'],[2],['hack']
 ip,193.92.246.20,2022-07-10T00:00:00Z,2022-07-17T00:00:00Z,['Location:Ukraine'],[12],['hack']
