@@ -3545,7 +3545,7 @@ ip,136.158.48.20,2022-07-20T00:00:00Z,2022-09-06T06:56:22Z,['Location:Ukraine'],
 ip,136.169.18.55,2022-05-06T00:00:00Z,2022-05-22T00:00:00Z,['Location:Ukraine'],[2],['hack']
 ip,136.185.123.232,2022-07-18T00:00:00Z,2022-07-25T00:00:00Z,['Location:Ukraine'],[12],['hack']
 ip,136.185.205.230,2022-07-27T00:00:00Z,2022-08-03T00:00:00Z,['Location:Ukraine'],[12],['hack']
-ip,136.34.8.242,2021-10-05T07:21:16Z,2022-11-26T09:35:13Z,['Location:Ukraine'],"[78, 5, 1, 0, 0, 14, 12]","['hack', 'ddos', 'malware', 'fraud', 'phishing', 'scan', 'spam']"
+ip,136.34.8.242,2021-10-05T07:21:16Z,2022-11-27T08:00:11Z,['Location:Ukraine'],"[5, 1, 0, 0, 15, 8, 78]","['ddos', 'malware', 'fraud', 'phishing', 'scan', 'spam', 'hack']"
 ip,137.135.105.46,2022-07-22T00:00:00Z,2022-07-29T00:00:00Z,['Location:Ukraine'],[12],['hack']
 ip,137.135.243.80,2022-07-16T00:00:00Z,2022-07-23T00:00:00Z,['Location:Ukraine'],[12],['hack']
 ip,137.184.152.246,2022-07-29T00:00:00Z,2022-10-05T20:39:55Z,['Location:Ukraine'],"[15, 20, 16]","['hack', 'malware', 'scan']"
@@ -7937,7 +7937,7 @@ ip,79.135.195.0,2022-06-27T00:00:00Z,2022-07-04T00:00:00Z,['Location:Ukraine'],[
 ip,79.139.163.234,2022-07-09T00:00:00Z,2022-07-16T00:00:00Z,['Location:Ukraine'],[12],['hack']
 ip,79.139.209.207,2022-06-25T00:00:00Z,2022-07-02T00:00:00Z,['Location:Ukraine'],[12],['hack']
 ip,79.141.219.74,2021-03-22T00:00:00Z,2022-07-29T12:18:50Z,['Location:Ukraine'],"[19, 17]","['hack', 'scan']"
-ip,79.142.69.160,2020-12-26T17:27:02Z,2022-11-26T06:45:00Z,"['Location:Australia', 'Location:United States of America', 'Location:Viet Nam', 'Location:Singapore', 'Location:Ukraine', 'Location:Canada', 'Location:France', 'Location:Poland', 'Location:Germany', 'Location:Netherlands', 'Location:United Kingdom of Great Britain and Northern Ireland', 'Malware:Mirai']","[34, 0, 1, 28, 0, 0]","['hack', 'phishing', 'ddos', 'scan', 'malware', 'fraud']"
+ip,79.142.69.160,2020-12-26T17:27:02Z,2022-11-27T07:52:35Z,"['Location:Australia', 'Location:United States of America', 'Location:Viet Nam', 'Location:Singapore', 'Location:Ukraine', 'Location:Canada', 'Location:France', 'Location:Poland', 'Location:Germany', 'Location:Netherlands', 'Location:United Kingdom of Great Britain and Northern Ireland', 'Malware:Mirai']","[0, 35, 1, 0, 29, 0]","['fraud', 'hack', 'ddos', 'malware', 'scan', 'phishing']"
 ip,79.146.189.175,2022-04-02T00:00:00Z,2022-04-07T22:23:44Z,['Location:Ukraine'],[20],['hack']
 ip,79.165.151.139,2022-03-13T00:00:00Z,2022-03-29T00:00:00Z,['Location:Ukraine'],[2],['hack']
 ip,79.168.8.78,2022-06-28T00:00:00Z,2022-07-05T00:00:00Z,['Location:Ukraine'],[12],['hack']
@@ -8796,7 +8796,7 @@ url,https://cdn.discordapp.com/attachments/947916997713358890/949948174636830761
 url,https://cdn.discordapp.com/attachments/947916997713358890/949948174838165524/dropper.exe,2022-03-11T13:31:50Z,2022-08-09T12:32:08Z,"['Threat Actor:SaintBear', 'Threat Actor:Ghostwriter', 'Location:Ukraine']","[16, 1]","['malware', 'phishing']"
 url,https://cdn.discordapp.com/attachments/947916997713358890/949978571680673802/cesdf.exe,2022-03-12T11:54:59Z,2022-08-09T12:32:08Z,"['Threat Actor:SaintBear', 'Threat Actor:Ghostwriter', 'Location:Ukraine']","[1, 16]","['phishing', 'malware']"
 url,https://cdn.jsdelivr.net/gh/sukaut/beta@main/junit.js,2022-04-14T11:45:10Z,2022-05-18T13:18:40Z,[],"[15, 3]","['malware', 'phishing']"
-url,https://civh.ru,2022-10-25T09:00:27Z,2022-11-16T16:08:57Z,"['Threat Actor:Gamaredon Group - G0047', 'Location:Ukraine']","[22, 11]","['malware', 'phishing']"
+url,https://civh.ru,2022-10-25T09:00:27Z,2022-11-27T09:00:27Z,"['Threat Actor:Gamaredon Group - G0047', 'Location:Ukraine']","[11, 11]","['malware', 'phishing']"
 url,https://dezword.com/apiv8/getStatus,2022-03-22T19:24:28Z,2022-10-29T04:20:31Z,"['Tool:Cobalt Strike - S0154', 'Malware:TrickBot - S0266']","[2, 1]","['phishing', 'malware']"
 url,https://dezword.com/apiv8/updateConfig,2022-04-18T17:25:39Z,2022-06-14T07:30:54Z,"['Tool:Cobalt Strike - S0154', 'Malware:TrickBot - S0266']","[2, 2]","['malware', 'phishing']"
 url,https://domthr.xyz/gF5kQn,2022-04-19T09:19:51Z,2022-05-22T09:19:51Z,[],[15],['malware']
