@@ -4276,7 +4276,7 @@ ip,177.250.252.93,2022-07-18T00:00:00Z,2022-07-25T00:00:00Z,['Location:Ukraine']
 ip,177.4.98.67,2020-11-18T00:00:00Z,2020-12-04T00:00:00Z,['Location:Ukraine'],[2],['hack']
 ip,177.41.25.218,2022-06-30T00:00:00Z,2022-07-07T00:00:00Z,['Location:Ukraine'],"[12, 15]","['hack', 'scan']"
 ip,177.41.38.23,2022-07-18T00:00:00Z,2022-07-25T00:00:00Z,['Location:Ukraine'],[12],['hack']
-ip,177.67.80.187,2020-08-25T00:30:40Z,2022-10-12T02:24:52Z,['Location:Ukraine'],"[20, 14, 15, 0]","['malware', 'scan', 'hack', 'ddos']"
+ip,177.67.80.187,2020-08-25T00:30:40Z,2022-12-02T08:00:00Z,"['Location:Ukraine', 'Location:France']","[1, 0, 0, 0]","['malware', 'hack', 'ddos', 'scan']"
 ip,177.73.244.61,2021-04-29T00:00:00Z,2022-06-16T11:23:34Z,['Location:Ukraine'],"[2, 1, 1]","['hack', 'malware', 'scan']"
 ip,177.74.188.197,2022-02-11T00:00:00Z,2022-02-27T00:00:00Z,['Location:Ukraine'],[2],['hack']
 ip,177.75.1.117,2021-02-11T00:00:00Z,2021-02-27T00:00:00Z,['Location:Ukraine'],[2],['hack']
@@ -5555,7 +5555,7 @@ ip,203.217.120.41,2018-12-27T00:00:00Z,2019-01-12T00:00:00Z,['Location:Ukraine']
 ip,203.218.140.5,2020-05-17T00:00:00Z,2020-06-02T00:00:00Z,['Location:Ukraine'],[2],['hack']
 ip,203.218.28.35,2022-06-25T00:00:00Z,2022-07-02T00:00:00Z,['Location:Ukraine'],[12],['hack']
 ip,203.218.7.121,2022-06-20T00:00:00Z,2022-06-27T00:00:00Z,['Location:Ukraine'],[12],['hack']
-ip,203.231.31.23,2022-07-28T00:00:00Z,2022-11-30T19:15:00Z,"['Location:Ukraine', 'Location:Ireland', 'Location:France']","[15, 12]","['hack', 'scan']"
+ip,203.231.31.23,2022-07-28T00:00:00Z,2022-11-30T19:15:00Z,"['Location:Ukraine', 'Location:Ireland', 'Location:France']","[12, 8]","['scan', 'hack']"
 ip,205.185.121.155,2020-03-18T00:00:00Z,2022-06-11T01:43:31Z,"['Location:Ukraine', 'Attack Pattern:Brute Force - T1110']","[0, 0, 15, 0, 2, 0, 0, 2, 1]","['ddos', 'fraud', 'hack', 'leak', 'malware', 'phishing', 'scam', 'scan', 'spam']"
 ip,205.254.171.156,2021-09-20T00:00:00Z,2021-10-06T00:00:00Z,['Location:Ukraine'],[2],['hack']
 ip,206.189.138.177,2022-03-28T01:01:25Z,2022-09-15T00:07:33Z,['Location:Ukraine'],"[18, 19, 16, 0]","['malware', 'scan', 'hack', 'phishing']"
