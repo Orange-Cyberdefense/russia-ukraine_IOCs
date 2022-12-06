@@ -7183,7 +7183,7 @@ ip,49.49.54.3,2022-07-07T00:00:00Z,2022-07-14T00:00:00Z,['Location:Ukraine'],[12
 ip,49.65.109.176,2022-07-25T00:00:00Z,2022-08-01T00:00:00Z,['Location:Ukraine'],[12],['hack']
 ip,5.101.196.163,2022-06-23T00:00:00Z,2022-06-30T00:00:00Z,['Location:Ukraine'],[12],['hack']
 ip,5.101.77.16,2022-04-19T00:00:00Z,2022-04-24T17:06:49Z,['Location:Ukraine'],[16],['hack']
-ip,5.104.216.7,2022-05-15T00:00:00Z,2022-12-06T11:07:34Z,['Location:Ukraine'],"[58, 40, 60]","['scan', 'malware', 'hack']"
+ip,5.104.216.7,2022-05-15T00:00:00Z,2022-12-06T15:00:58Z,['Location:Ukraine'],"[40, 60, 58]","['malware', 'hack', 'scan']"
 ip,5.104.45.22,2022-06-20T00:00:00Z,2022-06-27T00:00:00Z,['Location:Ukraine'],[12],['hack']
 ip,5.104.53.138,2022-06-17T00:00:00Z,2022-06-22T09:15:52Z,['Location:Ukraine'],[18],['hack']
 ip,5.112.31.66,2018-10-01T00:00:00Z,2018-10-17T00:00:00Z,['Location:Ukraine'],[2],['hack']
@@ -8643,7 +8643,7 @@ url,http://31.31.203.61/crept/crumb.arc,2022-04-20T11:44:55Z,2022-05-24T10:06:12
 url,http://31.31.203.61/deserter.mdl?id=4266,2022-04-20T11:45:05Z,2022-06-02T10:06:12Z,"['Malware:Pteranodon - S0147', 'Threat Actor:Gamaredon Group - G0047']","[2, 2]","['malware', 'phishing']"
 url,http://37.140.197.165/custom/crept.nds,2022-04-20T11:44:56Z,2022-06-02T10:06:12Z,"['Malware:Pteranodon - S0147', 'Threat Actor:Gamaredon Group - G0047']","[2, 2]","['malware', 'phishing']"
 url,http://37.140.197.251/custom/crept.nds,2022-04-20T11:45:04Z,2022-05-24T10:06:12Z,"['Malware:Pteranodon - S0147', 'Threat Actor:Gamaredon Group - G0047']","[13, 11]","['malware', 'phishing']"
-url,http://45.158.38.74,2022-11-03T16:21:32Z,2022-11-20T16:21:32Z,"['Malware:RomCom RAT', 'Threat Actor:Tropical Scorpius', 'Identity:Government', 'Location:Ukraine']",[30],['malware']
+url,http://45.158.38.74,2022-11-03T16:21:32Z,2022-12-06T16:21:32Z,"['Malware:RomCom RAT', 'Threat Actor:Tropical Scorpius', 'Identity:Government', 'Location:Ukraine']",[15],['malware']
 url,http://45.76.169.62/jersey.icb,2022-04-20T11:45:05Z,2022-05-24T10:06:12Z,"['Malware:Pteranodon - S0147', 'Threat Actor:Gamaredon Group - G0047']","[13, 11]","['malware', 'phishing']"
 url,http://45.84.0.116:443/i,2022-03-11T08:01:00Z,2022-03-28T08:01:00Z,[],"[15, 15]","['malware', 'phishing']"
 url,http://45.84.0.116:443/m,2022-03-12T11:54:59Z,2022-08-09T12:32:08Z,"['Threat Actor:SaintBear', 'Threat Actor:Ghostwriter', 'Location:Ukraine']","[18, 1]","['malware', 'phishing']"
@@ -8651,7 +8651,7 @@ url,http://45.84.0.116:443/p,2022-03-12T11:54:59Z,2022-08-09T12:32:08Z,"['Threat
 url,http://45.87.155.99,2022-10-22T08:28:29Z,2022-11-03T16:41:55Z,"['Malware:RomCom RAT', 'Threat Actor:Tropical Scorpius', 'Identity:Government', 'Location:Ukraine']","[20, 20]","['malware', 'phishing']"
 url,http://45.95.11.34:3000/test,2022-03-18T16:44:24Z,2022-04-04T16:44:24Z,[],"[16, 16]","['malware', 'phishing']"
 url,http://45.95.11.34:88,2022-03-29T16:13:46Z,2022-05-01T16:13:46Z,[],[15],['malware']
-url,http://4qzm.com:4444,2022-10-24T05:04:30Z,2022-11-20T16:21:31Z,"['Malware:RomCom RAT', 'Threat Actor:Tropical Scorpius', 'Identity:Government', 'Location:Ukraine']","[11, 30]","['phishing', 'malware']"
+url,http://4qzm.com:4444,2022-10-24T05:04:30Z,2022-12-06T16:21:31Z,"['Malware:RomCom RAT', 'Threat Actor:Tropical Scorpius', 'Identity:Government', 'Location:Ukraine']","[15, 11]","['malware', 'phishing']"
 url,http://5.182.211.5/rip.sh,2022-02-21T07:19:35Z,2022-04-12T20:29:39Z,"['Malware:WhisperGate - S0689', 'Malware:WhisperGate', 'Malware:Cyclops Blink - S0687']","[1, 1]","['malware', 'phishing']"
 url,http://5.252.178.115/absorb.flv,2022-04-20T11:45:06Z,2022-05-24T10:06:12Z,"['Malware:Pteranodon - S0147', 'Threat Actor:Gamaredon Group - G0047']","[8, 11]","['phishing', 'malware']"
 url,http://5.252.178.120/barren.cbt10.12.2021%2010:13:35,2022-04-20T11:44:56Z,2022-05-24T10:06:12Z,"['Malware:Pteranodon - S0147', 'Threat Actor:Gamaredon Group - G0047']","[11, 16]","['malware', 'phishing']"
@@ -8659,7 +8659,7 @@ url,http://5.252.178.145/bark.act14.12.2021%2010:58:34,2022-04-20T11:45:04Z,2022
 url,http://5.252.22.96,2022-11-16T16:50:26Z,2022-12-01T12:09:47Z,"['Malware:Somnia', 'Threat Actor:From Russia with Love', 'Malware:vidar', 'Location:Ukraine']",[15],['hack']
 url,http://5.63.157.11/get.php,2022-04-20T11:45:05Z,2022-06-02T10:06:12Z,"['Malware:Pteranodon - S0147', 'Threat Actor:Gamaredon Group - G0047']","[2, 2]","['malware', 'phishing']"
 url,http://5.63.157.11/put.php,2022-04-20T11:45:05Z,2022-06-02T10:06:12Z,"['Malware:Pteranodon - S0147', 'Threat Actor:Gamaredon Group - G0047']","[3, 2]","['malware', 'phishing']"
-url,http://69.49.231.103,2022-11-03T16:21:34Z,2022-11-20T16:21:34Z,"['Malware:RomCom RAT', 'Threat Actor:Tropical Scorpius', 'Identity:Government', 'Location:Ukraine']",[30],['malware']
+url,http://69.49.231.103,2022-11-03T16:21:34Z,2022-12-06T16:21:34Z,"['Malware:RomCom RAT', 'Threat Actor:Tropical Scorpius', 'Identity:Government', 'Location:Ukraine']",[15],['malware']
 url,http://80.78.241.15/correct/copyright/court.tmp,2022-04-20T11:44:55Z,2022-05-24T10:06:12Z,"['Malware:Pteranodon - S0147', 'Threat Actor:Gamaredon Group - G0047']","[11, 16]","['malware', 'phishing']"
 url,http://80.78.241.15/credit/cranny.au,2022-04-20T11:45:04Z,2022-05-24T10:06:12Z,"['Malware:Pteranodon - S0147', 'Threat Actor:Gamaredon Group - G0047']","[16, 11]","['phishing', 'malware']"
 url,http://80.78.245.226/deserter.mdl?id=4266,2022-04-20T11:45:05Z,2022-06-02T10:06:12Z,"['Malware:Pteranodon - S0147', 'Threat Actor:Gamaredon Group - G0047']","[2, 2]","['malware', 'phishing']"
@@ -8709,7 +8709,7 @@ url,http://a0698649.xsph.ru/reliance/grudge.xml,2022-07-28T07:48:27Z,2022-09-13T
 url,http://a0698649.xsph.ru/selection/headache.xml,2022-07-25T16:53:27Z,2022-09-13T00:05:19Z,['Threat Actor:Gamaredon Group - G0047'],"[11, 10, 11]","['phishing', 'malware', 'hack']"
 url,http://admis.club/pay2/api.php,2022-04-19T09:19:51Z,2022-05-23T07:50:09Z,[],"[14, 20]","['malware', 'phishing']"
 url,http://advanced-ip-scaner.com.vuxuancuong.com,2022-08-04T23:22:51Z,2022-11-16T16:50:10Z,"['Threat Actor:From Russia with Love', 'Malware:Somnia', 'Malware:vidar', 'Location:Ukraine']","[2, 2]","['malware', 'phishing']"
-url,http://advanced-ip-scaner.com/download,2022-11-03T16:21:30Z,2022-11-20T16:21:30Z,"['Malware:RomCom RAT', 'Threat Actor:Tropical Scorpius', 'Identity:Government', 'Location:Ukraine']",[30],['malware']
+url,http://advanced-ip-scaner.com/download,2022-11-03T16:21:30Z,2022-12-06T16:21:30Z,"['Malware:RomCom RAT', 'Threat Actor:Tropical Scorpius', 'Identity:Government', 'Location:Ukraine']",[15],['malware']
 url,http://advanced-ip-scanner.click,2022-11-16T16:50:13Z,2022-11-30T16:50:13Z,"['Malware:vidar', 'Malware:Somnia', 'Threat Actor:From Russia with Love', 'Location:Ukraine']",[15],['hack']
 url,http://advanced-ip-scanner.site,2022-11-16T16:50:14Z,2022-11-30T16:50:14Z,"['Location:Ukraine', 'Malware:Somnia', 'Malware:vidar', 'Threat Actor:From Russia with Love']",[15],['hack']
 url,http://advanced-ip-scanners.com/advancedipscanner.msi,2022-07-30T15:44:22Z,2022-11-03T16:41:52Z,"['Malware:RomCom RAT', 'Threat Actor:Tropical Scorpius', 'Identity:Government', 'Location:Ukraine']","[2, 2]","['phishing', 'malware']"
@@ -8743,13 +8743,13 @@ url,http://lonelyatthetop.com,2016-02-06T18:19:20Z,2016-03-19T18:19:20Z,['Malwar
 url,http://ludepa.ec,2016-01-19T18:02:18Z,2022-05-16T10:08:30Z,['Malware:BrownFlood'],"[1, 1, 15]","['malware', 'phishing', 'ddos']"
 url,http://mail.gov.ua,2022-11-16T16:08:51Z,2022-12-03T16:08:51Z,"['Location:Ukraine', 'Threat Actor:Gamaredon Group - G0047']",[30],['malware']
 url,http://mastodon.social/@ffolegg,2022-11-16T16:49:59Z,2022-11-30T16:49:59Z,"['Location:Ukraine', 'Malware:Somnia', 'Malware:vidar', 'Threat Actor:From Russia with Love']",[15],['hack']
-url,http://mil.ua.aspx.io,2022-11-03T16:21:36Z,2022-11-20T16:21:36Z,"['Malware:RomCom RAT', 'Threat Actor:Tropical Scorpius', 'Identity:Government', 'Location:Ukraine']",[30],['malware']
-url,http://mill.co.ua,2022-11-03T16:21:38Z,2022-11-20T16:21:38Z,"['Malware:RomCom RAT', 'Threat Actor:Tropical Scorpius', 'Identity:Government', 'Location:Ukraine']",[30],['malware']
+url,http://mil.ua.aspx.io,2022-11-03T16:21:36Z,2022-12-06T16:21:36Z,"['Malware:RomCom RAT', 'Threat Actor:Tropical Scorpius', 'Identity:Government', 'Location:Ukraine']",[15],['malware']
+url,http://mill.co.ua,2022-11-03T16:21:38Z,2022-12-06T16:21:38Z,"['Malware:RomCom RAT', 'Threat Actor:Tropical Scorpius', 'Identity:Government', 'Location:Ukraine']",[15],['malware']
 url,http://mitraseo.hol.es,2022-05-02T10:08:34Z,2022-05-16T10:08:34Z,['Malware:BrownFlood'],[15],['ddos']
 url,http://moskeet.com,2022-05-02T10:08:35Z,2022-05-16T10:08:35Z,['Malware:BrownFlood'],[15],['ddos']
 url,http://nejsemlama.cz,2018-01-21T10:51:00Z,2022-05-16T10:08:29Z,['Malware:BrownFlood'],"[1, 15, 1]","['malware', 'ddos', 'phishing']"
-url,http://notfiled.com,2022-10-23T23:06:58Z,2022-11-20T16:21:39Z,"['Malware:RomCom RAT', 'Threat Actor:Tropical Scorpius', 'Identity:Government', 'Location:Ukraine']","[30, 11]","['malware', 'phishing']"
-url,http://notfiled.com:4444,2022-11-03T16:21:27Z,2022-11-20T16:21:27Z,"['Malware:RomCom RAT', 'Threat Actor:Tropical Scorpius', 'Identity:Government', 'Location:Ukraine']",[30],['malware']
+url,http://notfiled.com,2022-10-23T23:06:58Z,2022-12-06T16:21:39Z,"['Malware:RomCom RAT', 'Threat Actor:Tropical Scorpius', 'Identity:Government', 'Location:Ukraine']","[15, 11]","['malware', 'phishing']"
+url,http://notfiled.com:4444,2022-11-03T16:21:27Z,2022-12-06T16:21:27Z,"['Malware:RomCom RAT', 'Threat Actor:Tropical Scorpius', 'Identity:Government', 'Location:Ukraine']",[15],['malware']
 url,http://panelunregistertle-348.frge.io,2022-03-09T12:56:06Z,2022-04-20T17:00:05Z,[],"[2, 2]","['phishing', 'malware']"
 url,http://pius-studio.at,2014-07-01T08:55:03Z,2014-08-12T08:55:03Z,['Malware:BrownFlood'],"[1, 1]","['malware', 'phishing']"
 url,http://programasparapc.net,2022-05-02T10:08:31Z,2022-05-16T10:08:31Z,['Malware:BrownFlood'],[15],['ddos']
