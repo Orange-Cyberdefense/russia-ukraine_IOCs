@@ -2488,7 +2488,7 @@ ip,106.67.154.210,2022-06-28T00:00:00Z,2022-07-05T00:00:00Z,['Location:Ukraine']
 ip,106.76.71.158,2021-04-20T00:00:00Z,2021-05-06T00:00:00Z,['Location:Ukraine'],[2],['hack']
 ip,106.77.42.77,2019-10-23T00:00:00Z,2021-05-25T10:47:52Z,['Location:Ukraine'],"[2, 1]","['hack', 'spam']"
 ip,106.79.203.84,2020-04-07T00:00:00Z,2020-04-23T00:00:00Z,['Location:Ukraine'],[2],['hack']
-ip,107.150.126.215,2022-02-14T00:00:00Z,2022-12-08T09:39:22Z,['Location:Ukraine'],"[17, 50, 0, 0, 16, 0, 1]","['scan', 'hack', 'ddos', 'phishing', 'malware', 'fraud', 'spam']"
+ip,107.150.126.215,2022-02-14T00:00:00Z,2022-12-08T21:39:22Z,['Location:Ukraine'],"[40, 17, 16, 1, 0, 0, 0]","['hack', 'scan', 'malware', 'spam', 'fraud', 'ddos', 'phishing']"
 ip,107.150.22.230,2022-06-07T00:00:00Z,2022-06-14T00:00:00Z,['Location:Ukraine'],[12],['hack']
 ip,107.181.178.88,2020-11-16T00:00:00Z,2022-06-12T06:42:34Z,['Location:Ukraine'],"[2, 1]","['hack', 'spam']"
 ip,107.185.143.71,2022-07-31T00:00:00Z,2022-08-07T00:00:00Z,['Location:Ukraine'],[12],['hack']
@@ -5652,7 +5652,7 @@ ip,213.87.121.128,2019-11-16T17:28:05Z,2021-06-25T00:00:00Z,['Location:Ukraine']
 ip,213.94.53.232,2022-07-17T00:00:00Z,2022-07-24T00:00:00Z,['Location:Ukraine'],[12],['hack']
 ip,216.128.131.233,2022-05-11T14:49:46Z,2022-08-09T16:29:39Z,['Threat Actor:Gamaredon Group - G0047'],"[0, 15]","['phishing', 'malware']"
 ip,216.131.109.56,2022-04-06T00:00:00Z,2022-04-22T00:00:00Z,['Location:Ukraine'],[2],['hack']
-ip,216.131.114.181,2021-07-13T08:00:00Z,2022-12-08T19:30:00Z,"['Location:Denmark', 'Location:Ukraine', 'Location:Russian Federation', 'Location:Singapore', 'Location:Canada', 'Location:Germany', 'Location:United States of America', 'Location:United Kingdom of Great Britain and Northern Ireland', 'Location:France', 'Location:Poland', 'Location:Netherlands']","[1, 45, 29, 0, 0, 0]","['ddos', 'scan', 'hack', 'phishing', 'spam', 'malware']"
+ip,216.131.114.181,2021-07-13T08:00:00Z,2022-12-08T19:45:00Z,"['Location:Denmark', 'Location:Ukraine', 'Location:Russian Federation', 'Location:Canada', 'Location:Germany', 'Location:United States of America', 'Location:France', 'Location:United Kingdom of Great Britain and Northern Ireland', 'Location:Netherlands', 'Location:Poland', 'Location:Singapore']","[45, 0, 29, 0, 1, 0]","['scan', 'spam', 'hack', 'phishing', 'ddos', 'malware']"
 ip,216.158.109.194,2022-07-07T00:00:00Z,2022-07-14T00:00:00Z,['Location:Ukraine'],[12],['hack']
 ip,216.238.69.137,2021-10-08T09:31:35Z,2022-10-01T02:24:45Z,"['Malware:Pteranodon - S0147', 'Threat Actor:Gamaredon Group - G0047']","[11, 1, 20, 20]","['malware', 'phishing', 'scan', 'hack']"
 ip,216.57.161.4,2020-12-16T00:00:00Z,2021-01-01T00:00:00Z,['Location:Ukraine'],[2],['hack']
